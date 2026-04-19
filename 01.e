@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv generator-info-name="EPG_Optimizer_CustomNames">
+<tv generator-info-name="EPG_Optimizer_V2">
   <channel id="20Mediaset.it">
     <display-name lang="it">20Mediaset.it</display-name>
   </channel>
@@ -102,6 +102,43 @@
   <channel id="Tv8.it">
     <display-name lang="it">Tv8.it</display-name>
   </channel>
+  <programme start="20260419083300 +0200" stop="20260419093000 +0200" channel="20Mediaset.it">
+    <title lang="it">Walker - A difesa del Ranch</title>
+    <desc lang="it">Clint, con la complicita' di Trevor, prende in ostaggio tutta la famiglia Walker, compreso Hoyt; Liam tenta di reagire e viene colpito. - KKK</desc>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <episode-num system="xmltv_ns">0 . 12 . </episode-num>
+  </programme>
+  <programme start="20260419093000 +0200" stop="20260419102100 +0200" channel="20Mediaset.it">
+    <title lang="it">Legacies - La storia della mia vita</title>
+    <desc lang="it">Il collegio Salvatore perde studenti ogni giorno che passa, in parte per quella che sembra una maledizione che affligge il nuovo arrivato, Ben, che sembra attirare mostri come una calamita. Intanto Lizzie si trova alle prese con la sua transizione e diventa a tutti gli effetti un Eretico. - KKK</desc>
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <episode-num system="xmltv_ns">3 . 9 . </episode-num>
+  </programme>
+  <programme start="20260419102100 +0200" stop="20260419111600 +0200" channel="20Mediaset.it">
+    <title lang="it">Legacies - Segui il suono della mia voce</title>
+    <desc lang="it">Hope cerca di far imparare a Lizzie a controllare i suoi poteri, e le due si ritrovano in un luna park dall'aria sinistra. Intanto alla Scuola Salvatore, qualcuno usa l'erba della verità per costringere gli studenti a rivelare i loro segreti, ma il suo proposito potrebbe essere molto più pericoloso del previsto. - KKK</desc>
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <episode-num system="xmltv_ns">3 . 10 . </episode-num>
+  </programme>
+  <programme start="20260419111600 +0200" stop="20260419121300 +0200" channel="20Mediaset.it">
+    <title lang="it">Attacco al potere: Paris Has Fallen - S1 Ep7</title>
+    <desc lang="it">Vincent e Zara individuano il legame tra Simone e Pearce e riescono a scoprire l'ubicazione della micidiale bomba all'uranio impoverito. - KKK</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <episode-num system="xmltv_ns">0 . 6 . </episode-num>
+  </programme>
+  <programme start="20260419121300 +0200" stop="20260419131200 +0200" channel="20Mediaset.it">
+    <title lang="it">Attacco al potere: Paris Has Fallen - S1 Ep8</title>
+    <desc lang="it">Vincent mette in atto un piano per riuscire a eludere la scorta e portare via la Presidente. Jacob attende che le venga consegnata Juliette. - KKK</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <episode-num system="xmltv_ns">0 . 7 . </episode-num>
+  </programme>
+  <programme start="20260419131200 +0200" stop="20260419140100 +0200" channel="20Mediaset.it">
+    <title lang="it">The Last Ship - All'ultimo istante</title>
+    <desc lang="it">La dottoressa Rachel, con l'aiuto di Quincy, riesce a mettere a punto un prototipo di vaccino. Ma a bordo scoppia un incendio che causa la mancanza di energia elettrica. - KKK</desc>
+    <category lang="it">azione</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <episode-num system="xmltv_ns">0 . 3 . </episode-num>
+  </programme>
   <programme start="20260419140100 +0200" stop="20260419145500 +0200" channel="20Mediaset.it">
     <title lang="it">The Last Ship - El Toro</title>
     <desc lang="it">Una squadra, guidata da Chandler, si inoltra nella giungla a caccia di scimmie per la dottoressa Scott. Ma cadono in un'imboscata e finiscono nelle mani di "El Toro". - KKK</desc>
@@ -900,6 +937,36 @@
     <category lang="it">supereroi</category>
     <category lang="it">avventura</category>
   </programme>
+  <programme start="20260419083600 +0200" stop="20260419092900 +0200" channel="27Mediaset.it">
+    <title lang="it">La signora del West - Stella di latta</title>
+    <desc lang="it">Quando in citta' iniziano a moltiplicarsi gli episodi violenti, i furti e le rapine, Matthew decide di proporsi come sceriffo. Anche Hank vorrebbe la stellina. - KKK</desc>
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <episode-num system="xmltv_ns">3 . 13 . </episode-num>
+  </programme>
+  <programme start="20260419092900 +0200" stop="20260419102700 +0200" channel="27Mediaset.it">
+    <title lang="it">La signora del West - Quando si ama</title>
+    <desc lang="it">Matthew continua a vedere Emma, con la quale ama chiacchierare e passare del tempo. Anche la ragazza si diverte con Matt. - KKK</desc>
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <episode-num system="xmltv_ns">3 . 14 . </episode-num>
+  </programme>
+  <programme start="20260419102700 +0200" stop="20260419112500 +0200" channel="27Mediaset.it">
+    <title lang="it">La signora del West - Cattive intenzioni</title>
+    <desc lang="it">In citta' arrivano un geometra di colore, Curtis Roper, e uno studente della scuola dove ha studiato Preston, Randolph Cummings. - KKK</desc>
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <episode-num system="xmltv_ns">3 . 15 . </episode-num>
+  </programme>
+  <programme start="20260419112500 +0200" stop="20260419122000 +0200" channel="27Mediaset.it">
+    <title lang="it">La casa nella prateria</title>
+    <desc lang="it">Albert accetta di lavorare per Singerman, un artigiano ebreo. Cio' lo portera' ad essere picchiato da alcuni conoscenti che non approvano la sua amicizia con l'"ebreo". - KKK</desc>
+  </programme>
+  <programme start="20260419122000 +0200" stop="20260419131900 +0200" channel="27Mediaset.it">
+    <title lang="it">La casa nella prateria</title>
+    <desc lang="it">Il giovane Jordan Herzog resta sconvolto dalla notizia dell'imminente divorzio dei genitori. - KKK</desc>
+  </programme>
+  <programme start="20260419131900 +0200" stop="20260419141100 +0200" channel="27Mediaset.it">
+    <title lang="it">La casa nella prateria</title>
+    <desc lang="it">Toby Noe, un vagabondo, incallito bevitore, arriva a Walnut Grove con l'intenzione di stabilirvisi. - KKK</desc>
+  </programme>
   <programme start="20260419141100 +0200" stop="20260419150800 +0200" channel="27Mediaset.it">
     <title lang="it">La signora del West - Vivo o morto - I parte</title>
     <desc lang="it">La citta' freme per l'arrivo del politico Esra Leonard. Durante il comizio il figlio Caleb si allontana per giocare e viene rapito, - KKK</desc>
@@ -1525,6 +1592,36 @@
     <title lang="it">Arma letale</title>
     <desc lang="it">[Azione] - Martin, un poliziotto reduce dal Vietnam e soprannominato Arma letale, viene messo in coppia con Roger, un maturo poliziotto di colore. Regia di R. Donner; USA 1987 - KKK</desc>
   </programme>
+  <programme start="20260419090000 +0200" stop="20260419100000 +0200" channel="AlmaTV.it">
+    <title lang="it">Viaggi straordinari</title>
+  </programme>
+  <programme start="20260419100000 +0200" stop="20260419103000 +0200" channel="AlmaTV.it">
+    <title lang="it">Italia Avventura</title>
+  </programme>
+  <programme start="20260419103000 +0200" stop="20260419110000 +0200" channel="AlmaTV.it">
+    <title lang="it">K Around The World</title>
+  </programme>
+  <programme start="20260419110000 +0200" stop="20260419113000 +0200" channel="AlmaTV.it">
+    <title lang="it">L'Argonauta</title>
+  </programme>
+  <programme start="20260419113000 +0200" stop="20260419120000 +0200" channel="AlmaTV.it">
+    <title lang="it">Gulliver</title>
+  </programme>
+  <programme start="20260419120000 +0200" stop="20260419123000 +0200" channel="AlmaTV.it">
+    <title lang="it">Nuova Casa Alice</title>
+  </programme>
+  <programme start="20260419123000 +0200" stop="20260419130000 +0200" channel="AlmaTV.it">
+    <title lang="it">Pillole di sapori</title>
+  </programme>
+  <programme start="20260419130000 +0200" stop="20260419133000 +0200" channel="AlmaTV.it">
+    <title lang="it">El Beker - Beker on Tour</title>
+  </programme>
+  <programme start="20260419133000 +0200" stop="20260419140000 +0200" channel="AlmaTV.it">
+    <title lang="it">Il piatto forte</title>
+  </programme>
+  <programme start="20260419140000 +0200" stop="20260419143000 +0200" channel="AlmaTV.it">
+    <title lang="it">Due x uno</title>
+  </programme>
   <programme start="20260419143000 +0200" stop="20260419150000 +0200" channel="AlmaTV.it">
     <title lang="it">Il Massimo In Cucina</title>
   </programme>
@@ -2085,6 +2182,200 @@
   </programme>
   <programme start="20260424060000 +0200" stop="20260424070000 +0200" channel="AlmaTV.it">
     <title lang="it">Il piatto forte</title>
+  </programme>
+  <programme start="20260419085500 +0200" stop="20260419090500 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Il Predatore di Barbe</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <category lang="it">azione</category>
+    <category lang="it">animazione</category>
+    <episode-num system="onscreen">S8 E18</episode-num>
+    <episode-num system="xmltv_ns">7 . 17 . </episode-num>
+  </programme>
+  <programme start="20260419090500 +0200" stop="20260419092000 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Un'amicizia estrema</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <category lang="it">azione</category>
+    <category lang="it">animazione</category>
+    <episode-num system="onscreen">S8 E21</episode-num>
+    <episode-num system="xmltv_ns">7 . 20 . </episode-num>
+  </programme>
+  <programme start="20260419092000 +0200" stop="20260419092500 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Il Grand Canyon</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <category lang="it">azione</category>
+    <category lang="it">animazione</category>
+    <episode-num system="onscreen">S5 E10</episode-num>
+    <episode-num system="xmltv_ns">4 . 9 . </episode-num>
+  </programme>
+  <programme start="20260419092500 +0200" stop="20260419094000 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Sentimenti negativi</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <category lang="it">azione</category>
+    <category lang="it">animazione</category>
+    <episode-num system="onscreen">S8 E20</episode-num>
+    <episode-num system="xmltv_ns">7 . 19 . </episode-num>
+  </programme>
+  <programme start="20260419094000 +0200" stop="20260419095000 +0200" channel="Boing.it">
+    <title lang="it">Lo strano e meraviglioso mondo di Gumball - L'app</title>
+    <desc lang="it">Che stia combattendo contro un impero del fast food o affrontando un'intelligenza artificiale senziente, Gumball Watterson finisce sempre per trascinare con sé suo fratello Darwin, sua sorella Anais e il resto della città di Elmore. - KKK</desc>
+    <category lang="it">avventura</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <episode-num system="xmltv_ns">0 . 10 . </episode-num>
+  </programme>
+  <programme start="20260419095000 +0200" stop="20260419100500 +0200" channel="Boing.it">
+    <title lang="it">Lo strano e meraviglioso mondo di Gumball - Il profumo</title>
+    <desc lang="it">Per convincere gli amici ad andare alla festa di Tobias, Gumball e Darwin regalano a tutti un profumo che pero' fa impazzire l'intera citta'. - KKK</desc>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <episode-num system="xmltv_ns">0 . 11 . </episode-num>
+  </programme>
+  <programme start="20260419100500 +0200" stop="20260419101500 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Elasti - bot</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <category lang="it">azione</category>
+    <category lang="it">animazione</category>
+    <episode-num system="onscreen">S8 E19</episode-num>
+    <episode-num system="xmltv_ns">7 . 18 . </episode-num>
+  </programme>
+  <programme start="20260419101500 +0200" stop="20260419103000 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Pasqua e' annullata</title>
+    <desc lang="it">Quando il localizzatore di uova creato da Cyborg smette di funzionare, i Teen Titans vanno sul loro satellite per capire cos'e' successo. - KKK</desc>
+    <episode-num system="onscreen">S8 E10</episode-num>
+    <episode-num system="xmltv_ns">7 . 9 . </episode-num>
+  </programme>
+  <programme start="20260419103000 +0200" stop="20260419104000 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Doppi amici</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <category lang="it">azione</category>
+    <category lang="it">animazione</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+  </programme>
+  <programme start="20260419104000 +0200" stop="20260419105000 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Scherzi da fantasmi</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <category lang="it">azione</category>
+    <category lang="it">animazione</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <episode-num system="xmltv_ns">0 . 4 . </episode-num>
+  </programme>
+  <programme start="20260419105000 +0200" stop="20260419110500 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - A colpi di cibo</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <category lang="it">azione</category>
+    <category lang="it">animazione</category>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <episode-num system="xmltv_ns">0 . 11 . </episode-num>
+  </programme>
+  <programme start="20260419110500 +0200" stop="20260419111500 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Domenica pigra</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <category lang="it">azione</category>
+    <category lang="it">animazione</category>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <episode-num system="xmltv_ns">0 . 13 . </episode-num>
+  </programme>
+  <programme start="20260419111500 +0200" stop="20260419112500 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Supermosse</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <category lang="it">azione</category>
+    <category lang="it">animazione</category>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <episode-num system="xmltv_ns">0 . 15 . </episode-num>
+  </programme>
+  <programme start="20260419112500 +0200" stop="20260419113500 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Essere responsabili</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <category lang="it">azione</category>
+    <category lang="it">animazione</category>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <episode-num system="xmltv_ns">0 . 15 . </episode-num>
+  </programme>
+  <programme start="20260419113500 +0200" stop="20260419115500 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Cibo per il cervello</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <category lang="it">azione</category>
+    <category lang="it">animazione</category>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <episode-num system="xmltv_ns">0 . 21 . </episode-num>
+  </programme>
+  <programme start="20260419115500 +0200" stop="20260419120500 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Il richiamo della foresta</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <episode-num system="xmltv_ns">1 . 2 . </episode-num>
+  </programme>
+  <programme start="20260419120500 +0200" stop="20260419122000 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Maschi Vs Femmine</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <episode-num system="xmltv_ns">1 . 10 . </episode-num>
+  </programme>
+  <programme start="20260419122000 +0200" stop="20260419123000 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Un cane viziato</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <category lang="it">azione</category>
+    <category lang="it">animazione</category>
+    <episode-num system="onscreen">S8 E14</episode-num>
+    <episode-num system="xmltv_ns">7 . 13 . </episode-num>
+  </programme>
+  <programme start="20260419123000 +0200" stop="20260419124500 +0200" channel="Boing.it">
+    <title lang="it">Teen Titans Go! - Buchi nella trama</title>
+    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - KKK</desc>
+    <category lang="it">azione</category>
+    <category lang="it">animazione</category>
+    <episode-num system="onscreen">S8 E15</episode-num>
+    <episode-num system="xmltv_ns">7 . 14 . </episode-num>
+  </programme>
+  <programme start="20260419124500 +0200" stop="20260419125500 +0200" channel="Boing.it">
+    <title lang="it">Clarence - Nuove amicizie</title>
+    <desc lang="it">Clarence fa la conoscenza di Amy sua vicina di casa e insieme partono alla ricerca di un masso erratico. - KKK</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <episode-num system="xmltv_ns">0 . 0 . </episode-num>
+  </programme>
+  <programme start="20260419125500 +0200" stop="20260419131000 +0200" channel="Boing.it">
+    <title lang="it">Clarence - Il dollaro dello stregone</title>
+    <desc lang="it">Clarence va con i suoi amici al regno dei videogiochi, ma si accorge di aver lasciato i soldi a casa. Dovranno accontentarsi di un gettone ciascuno. - KKK</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <episode-num system="xmltv_ns">0 . 1 . </episode-num>
+  </programme>
+  <programme start="20260419131000 +0200" stop="20260419132000 +0200" channel="Boing.it">
+    <title lang="it">Clarence - I gusti sono gusti</title>
+    <desc lang="it">Mary porta il figlio Clarence con i suoi amichetti in un fast food. Jeff mangia solo patatine. Clarence gli fa uno scherzo, gliele ruba e se le nasconde in tasca. - KKK</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+  </programme>
+  <programme start="20260419132000 +0200" stop="20260419133500 +0200" channel="Boing.it">
+    <title lang="it">Clarence - Cena tra amici</title>
+    <desc lang="it">Mary, Chad e Clarence sono stati invitati a cena da amici un po' snob. La serata sembra piuttosto noiosa, ma Clarence e i suoi amici cercano di movimentarla. - KKK</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <episode-num system="xmltv_ns">0 . 3 . </episode-num>
+  </programme>
+  <programme start="20260419133500 +0200" stop="20260419134500 +0200" channel="Boing.it">
+    <title lang="it">Clarence - Una fidanzata per clarence</title>
+    <desc lang="it">Clarence, al suo primo appuntamento con una ragazza, non sa come comportarsi. Jeff e' invidoso ma alla fine Clarence e Ashley decidono di capitolare e di rimanere amici. - KKK</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <episode-num system="xmltv_ns">0 . 4 . </episode-num>
+  </programme>
+  <programme start="20260419134500 +0200" stop="20260419140000 +0200" channel="Boing.it">
+    <title lang="it">Clarence - Pigiama Party da Belson</title>
+    <desc lang="it">La serie ruota intorno a Clarence Wendell, un bambino di 9 anni spensierato, entusiasta in maniera esagerata, comico, con qualche problema nel capire le cose, che prova a vedere il meglio in tutto ciò che lo circonda nonostante combini guai e risulti insopportabile quasi sempre. - KKK</desc>
+    <category lang="it">commedia</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <episode-num system="xmltv_ns">0 . 5 . </episode-num>
+  </programme>
+  <programme start="20260419140000 +0200" stop="20260419141000 +0200" channel="Boing.it">
+    <title lang="it">Clarence - Grasse Risate</title>
+    <desc lang="it">La serie ruota intorno a Clarence Wendell, un bambino di 9 anni spensierato, entusiasta in maniera esagerata, comico, con qualche problema nel capire le cose, che prova a vedere il meglio in tutto ciò che lo circonda nonostante combini guai e risulti insopportabile quasi sempre. - KKK</desc>
+    <category lang="it">commedia</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <episode-num system="xmltv_ns">0 . 6 . </episode-num>
+  </programme>
+  <programme start="20260419141000 +0200" stop="20260419142500 +0200" channel="Boing.it">
+    <title lang="it">Clarence - Caccia ai buoni sconto</title>
+    <desc lang="it">La serie ruota intorno a Clarence Wendell, un bambino di 9 anni spensierato, entusiasta in maniera esagerata, comico, con qualche problema nel capire le cose, che prova a vedere il meglio in tutto ciò che lo circonda nonostante combini guai e risulti insopportabile quasi sempre. - KKK</desc>
+    <category lang="it">commedia</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <episode-num system="xmltv_ns">0 . 7 . </episode-num>
   </programme>
   <programme start="20260419142500 +0200" stop="20260419143500 +0200" channel="Boing.it">
     <title lang="it">Clarence - Viaggio verso casa</title>
@@ -5638,6 +5929,45 @@
     <episode-num system="onscreen">S6 E17</episode-num>
     <episode-num system="xmltv_ns">5 . 16 . </episode-num>
   </programme>
+  <programme start="20260419084900 +0200" stop="20260419093700 +0200" channel="Canale5.it">
+    <title lang="it">Tg5 Speciale</title>
+    <desc lang="it">Le esercitazioni della Cold Response 2026, la principale esercitazione artica della NATO, che coinvolge oltre 32.000 militari di 14 paesi. - KKK</desc>
+  </programme>
+  <programme start="20260419093700 +0200" stop="20260419100000 +0200" channel="Canale5.it">
+    <title lang="it">Magnifica Italia - Toscana - dal Mugello alla Valdichiana</title>
+    <desc lang="it">Un viaggio nella penisola alla scoperta del patrimonio naturale, artistico, culturale ed enogastronomico d'Italia. - KKK</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <episode-num system="xmltv_ns">0 . 5 . </episode-num>
+  </programme>
+  <programme start="20260419100000 +0200" stop="20260419105700 +0200" channel="Canale5.it">
+    <title lang="it">Santa Messa</title>
+    <desc lang="it">Celebrazione della Santa Messa. - KKK</desc>
+  </programme>
+  <programme start="20260419105700 +0200" stop="20260419112600 +0200" channel="Canale5.it">
+    <title lang="it">Melaverde - Le storie</title>
+    <desc lang="it">Approfondimenti e curiosità su luoghi, ricette, antichi e nuovi mestieri di ogni regione italiana in compagnia di Ellen Hidding. - KKK</desc>
+    <category lang="it">cucina</category>
+  </programme>
+  <programme start="20260419112600 +0200" stop="20260419115100 +0200" channel="Canale5.it">
+    <title lang="it">Melaverde - Le storie</title>
+    <desc lang="it">Approfondimenti e curiosità su luoghi, ricette, antichi e nuovi mestieri di ogni regione italiana in compagnia di Ellen Hidding. - KKK</desc>
+    <category lang="it">cucina</category>
+  </programme>
+  <programme start="20260419115100 +0200" stop="20260419125800 +0200" channel="Canale5.it">
+    <title lang="it">Melaverde</title>
+    <desc lang="it">Approfondimenti e curiosita' su luoghi, ricette, antichi e nuovi mestieri di ogni regione italiana in compagnia di Ellen Hidding. - KKK</desc>
+    <category lang="it">cucina</category>
+  </programme>
+  <programme start="20260419125800 +0200" stop="20260419134100 +0200" channel="Canale5.it">
+    <title lang="it">Tg5</title>
+    <desc lang="it">Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5. - KKK</desc>
+    <category lang="it">telegiornale</category>
+  </programme>
+  <programme start="20260419134100 +0200" stop="20260419140300 +0200" channel="Canale5.it">
+    <title lang="it">L'arca di Noe'</title>
+    <desc lang="it">Servizi, notizie curiose, consigli degli esperti e testimonianze sul mondo dei nostri amici a quattro zampe. - KKK</desc>
+    <category lang="it">lifestyle</category>
+  </programme>
   <programme start="20260419140300 +0200" stop="20260419143300 +0200" channel="Canale5.it">
     <title lang="it">Beautiful - S35 Ep43</title>
     <desc lang="it">Brooke affronta Hope, aiutandola a capire che il suo desiderio di tornare con Thomas non è altro che la fuga dai sentimenti per Finn e dalla paura di ripetere gli errori di sua madre. - KKK</desc>
@@ -6416,6 +6746,163 @@
     <title lang="it">X - Style</title>
     <desc lang="it">Il rotocalco dedicato alla moda, bellezza, lifestyle e tendenze. - KKK</desc>
     <category lang="it">lifestyle</category>
+  </programme>
+  <programme start="20260419090000 +0200" stop="20260419090500 +0200" channel="Cartoonito.it">
+    <title lang="it">Hey Duggee - Il distintivo della faccia buffa</title>
+    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - KKK</desc>
+    <category lang="it">per i bimbi piccoli</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <episode-num system="xmltv_ns">0 . 9 . </episode-num>
+  </programme>
+  <programme start="20260419090500 +0200" stop="20260419091500 +0200" channel="Cartoonito.it">
+    <title lang="it">Hey Duggee - Il distintivo del salto</title>
+    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - KKK</desc>
+    <category lang="it">per i bimbi piccoli</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <episode-num system="xmltv_ns">0 . 10 . </episode-num>
+  </programme>
+  <programme start="20260419091500 +0200" stop="20260419092500 +0200" channel="Cartoonito.it">
+    <title lang="it">Hey Duggee - Il distintivo della foglia</title>
+    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - KKK</desc>
+    <category lang="it">per i bimbi piccoli</category>
+    <episode-num system="onscreen">S1 E12</episode-num>
+    <episode-num system="xmltv_ns">0 . 11 . </episode-num>
+  </programme>
+  <programme start="20260419092500 +0200" stop="20260419093000 +0200" channel="Cartoonito.it">
+    <title lang="it">Hey Duggee - Il distintivo della frittata</title>
+    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - KKK</desc>
+    <category lang="it">per i bimbi piccoli</category>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <episode-num system="xmltv_ns">0 . 12 . </episode-num>
+  </programme>
+  <programme start="20260419093000 +0200" stop="20260419093500 +0200" channel="Cartoonito.it">
+    <title lang="it">Hey Duggee - Il distintivo dell'orto</title>
+    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - KKK</desc>
+    <category lang="it">per i bimbi piccoli</category>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <episode-num system="xmltv_ns">0 . 13 . </episode-num>
+  </programme>
+  <programme start="20260419093500 +0200" stop="20260419094500 +0200" channel="Cartoonito.it">
+    <title lang="it">Hey Duggee - Il distintivo della piscina gonfiabile</title>
+    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - KKK</desc>
+    <category lang="it">per i bimbi piccoli</category>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <episode-num system="xmltv_ns">0 . 14 . </episode-num>
+  </programme>
+  <programme start="20260419094500 +0200" stop="20260419095500 +0200" channel="Cartoonito.it">
+    <title lang="it">Hey Duggee - Il distintivo della barca di carta</title>
+    <desc lang="it">St.1 - I Lupetti imparano a fare le barchette con la carta di giornale giusto in tempo per aiutare un gruppo di formichine a raggiungere l’altra sponda del fiume. - KKK</desc>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <episode-num system="xmltv_ns">0 . 15 . </episode-num>
+  </programme>
+  <programme start="20260419095500 +0200" stop="20260419100000 +0200" channel="Cartoonito.it">
+    <title lang="it">Hey Duggee - Il distintivo del castello</title>
+    <desc lang="it">St.1 - Mentre i Lupetti disegnano all’aperto cala la nebbia e si sente una voce chiedere aiuto: e' Lord Fingal che e' stato rinchiuso sulla torre del suo castello da alcuni Topini Dispettosi! - KKK</desc>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <episode-num system="xmltv_ns">0 . 16 . </episode-num>
+  </programme>
+  <programme start="20260419100000 +0200" stop="20260419101000 +0200" channel="Cartoonito.it">
+    <title lang="it">Hey Duggee - Il distintivo del cavallo a dondolo</title>
+    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - KKK</desc>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <episode-num system="xmltv_ns">0 . 18 . </episode-num>
+  </programme>
+  <programme start="20260419101000 +0200" stop="20260419102000 +0200" channel="Cartoonito.it">
+    <title lang="it">Hey Duggee - Il distintivo del guarisci presto</title>
+    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - KKK</desc>
+    <category lang="it">per i bimbi piccoli</category>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <episode-num system="xmltv_ns">0 . 19 . </episode-num>
+  </programme>
+  <programme start="20260419102000 +0200" stop="20260419102500 +0200" channel="Cartoonito.it">
+    <title lang="it">Hey Duggee - Il distintivo del singhiozzo</title>
+    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - KKK</desc>
+    <category lang="it">per i bimbi piccoli</category>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <episode-num system="xmltv_ns">0 . 20 . </episode-num>
+  </programme>
+  <programme start="20260419102500 +0200" stop="20260419104000 +0200" channel="Cartoonito.it">
+    <title lang="it">Hey Duggee - Il distintivo del labirinto</title>
+    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - KKK</desc>
+    <category lang="it">per i bimbi piccoli</category>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <episode-num system="xmltv_ns">0 . 21 . </episode-num>
+  </programme>
+  <programme start="20260419104000 +0200" stop="20260419110000 +0200" channel="Cartoonito.it">
+    <title lang="it">Rubble &amp; Crew - La squadra costriusce una fontana luminosa. / La squadra costruisce una giostra.</title>
+    <desc lang="it">Rubble vive avventure a quattro zampe con un nuovo gruppo di cuccioli, che utilizzano fantastici veicoli da costruzione per edificare e riparare nella città di Builder Cove. - KKK</desc>
+    <category lang="it">per i bimbi piccoli</category>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <episode-num system="xmltv_ns">0 . 22 . </episode-num>
+  </programme>
+  <programme start="20260419110000 +0200" stop="20260419111500 +0200" channel="Cartoonito.it">
+    <title lang="it">Rubble &amp; Crew - La squadra realizza lo spettacolo di Natale/La squadra costruisce una rampa per slittini</title>
+    <desc lang="it">I cuccioli preparano uno spettacolo natalizio sulla neve, ma per farlo devono costruire una pista di pattinaggio sul ghiaccio./ I cuccioli regalano degli slittini a Lily e Lucas e costruiscono una rampa innevata dentro il Cantier Generale. - KKK</desc>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <episode-num system="xmltv_ns">0 . 23 . </episode-num>
+  </programme>
+  <programme start="20260419111500 +0200" stop="20260419114500 +0200" channel="Cartoonito.it">
+    <title lang="it">Rubble &amp; Crew - La squadra costruisce un parcheggio. / La squadra costruiscce un campeggio.</title>
+    <desc lang="it">Rubble vive avventure a quattro zampe con un nuovo gruppo di cuccioli, che utilizzano fantastici veicoli da costruzione per edificare e riparare nella città di Builder Cove. - KKK</desc>
+    <category lang="it">per i bimbi piccoli</category>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <episode-num system="xmltv_ns">0 . 24 . </episode-num>
+  </programme>
+  <programme start="20260419114500 +0200" stop="20260419121000 +0200" channel="Cartoonito.it">
+    <title lang="it">Blaze e le megamacchine - Il baby robot alieno</title>
+    <desc lang="it">AJ è un tecnico di otto anni che guida il monster truck Blaze, ed è il miglior pilota di Axle City. I due vivono avventure che li pongono di fronte a problemi che riguardano le scienze e la matematica. - KKK</desc>
+    <episode-num system="onscreen">S7 E10</episode-num>
+    <episode-num system="xmltv_ns">6 . 9 . </episode-num>
+  </programme>
+  <programme start="20260419121000 +0200" stop="20260419123500 +0200" channel="Cartoonito.it">
+    <title lang="it">Blaze e le megamacchine - La Paperaccia</title>
+    <desc lang="it">AJ è un tecnico di otto anni che guida il monster truck Blaze, ed è il miglior pilota di Axle City. I due vivono avventure che li pongono di fronte a problemi che riguardano le scienze e la matematica. - KKK</desc>
+    <episode-num system="onscreen">S7 E11</episode-num>
+    <episode-num system="xmltv_ns">6 . 10 . </episode-num>
+  </programme>
+  <programme start="20260419123500 +0200" stop="20260419130000 +0200" channel="Cartoonito.it">
+    <title lang="it">Blaze e le megamacchine - Il corsaro dei cuscini</title>
+    <desc lang="it">AJ è un tecnico di otto anni che guida il monster truck Blaze, ed è il miglior pilota di Axle City. I due vivono avventure che li pongono di fronte a problemi che riguardano le scienze e la matematica. - KKK</desc>
+    <episode-num system="onscreen">S7 E12</episode-num>
+    <episode-num system="xmltv_ns">6 . 11 . </episode-num>
+  </programme>
+  <programme start="20260419130000 +0200" stop="20260419131000 +0200" channel="Cartoonito.it">
+    <title lang="it">Bugs Bunny Costruzioni - Una casa da brividi</title>
+    <desc lang="it">Bugs Bunny e' il protagonista di questa spassosissima serie animata. In ogni episodio intervengono anche altri personaggi, come Speedy Gonzales, gatto Silvestro e Titty. - KKK</desc>
+    <category lang="it">per i bimbi piccoli</category>
+    <episode-num system="onscreen">S2 E30</episode-num>
+    <episode-num system="xmltv_ns">1 . 29 . </episode-num>
+  </programme>
+  <programme start="20260419131000 +0200" stop="20260419132500 +0200" channel="Cartoonito.it">
+    <title lang="it">Bugs Bunny Costruzioni - Il cinema all'aperto</title>
+    <desc lang="it">Bugs Bunny e' il protagonista di questa spassosissima serie animata. In ogni episodio intervengono anche altri personaggi, come Speedy Gonzales, gatto Silvestro e Titty. - KKK</desc>
+    <category lang="it">per i bimbi piccoli</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <episode-num system="xmltv_ns">1 . 6 . </episode-num>
+  </programme>
+  <programme start="20260419132500 +0200" stop="20260419134000 +0200" channel="Cartoonito.it">
+    <title lang="it">Bugs Bunny Costruzioni - La pizzeria</title>
+    <desc lang="it">I Looney vanno in Italia per aiutare la loro nuova cliente, Giovanna, a rinnovare la sua pizzeria. La mamma di Giovanna non sembra apprezzare molto i cambiamenti. - KKK</desc>
+    <episode-num system="onscreen">S2 E37</episode-num>
+    <episode-num system="xmltv_ns">1 . 36 . </episode-num>
+  </programme>
+  <programme start="20260419134000 +0200" stop="20260419135000 +0200" channel="Cartoonito.it">
+    <title lang="it">Bugs Bunny Costruzioni - La spasso - casa</title>
+    <desc lang="it">I Looney devono costruire una "Spasso - casa", una casa dei divertimenti, per Yoyo Dodo. Yoyo interrompe di continuo i lavori con i suoi scherzi. - KKK</desc>
+    <episode-num system="onscreen">S2 E33</episode-num>
+    <episode-num system="xmltv_ns">1 . 32 . </episode-num>
+  </programme>
+  <programme start="20260419135000 +0200" stop="20260419140500 +0200" channel="Cartoonito.it">
+    <title lang="it">Bugs Bunny Costruzioni - Il temporale</title>
+    <desc lang="it">I Costruttori Looney hanno preparato tutto l'occorrente per un picnic, ma un temporale improvviso li costringe a passare la giornata al chiuso. - KKK</desc>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <episode-num system="xmltv_ns">1 . 7 . </episode-num>
+  </programme>
+  <programme start="20260419140500 +0200" stop="20260419142000 +0200" channel="Cartoonito.it">
+    <title lang="it">Chi ha sfidato Ninna e Matti? - Episodio 5</title>
+    <desc lang="it">Gli amatissimi Ninna e Matti sono tornati per affrontare coi loro amici tutte le divertenti sfide lanciate loro dal pubblico di Cartoonito! - KKK</desc>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <episode-num system="xmltv_ns">1 . 4 . </episode-num>
   </programme>
   <programme start="20260419142000 +0200" stop="20260419143500 +0200" channel="Cartoonito.it">
     <title lang="it">Chi ha sfidato Ninna e Matti? - Episodio 6</title>
@@ -10183,6 +10670,51 @@
     <episode-num system="onscreen">S16 E12</episode-num>
     <episode-num system="xmltv_ns">15 . 11 . </episode-num>
   </programme>
+  <programme start="20260419085000 +0200" stop="20260419092000 +0200" channel="Cielo.it">
+    <title lang="it">Ep.28</title>
+    <desc lang="it">Avventure, sfide, storie, imprese e tante curiosita' dal mondo degli sport all'aperto: dopo 15 anni alla ricerca del limite, Icarus si spinge oltre per trasformarsi in Icarus Ultra - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2025 E28</episode-num>
+    <episode-num system="xmltv_ns">2024 . 27 . </episode-num>
+  </programme>
+  <programme start="20260419092000 +0200" stop="20260419102000 +0200" channel="Cielo.it">
+    <title lang="it">Top 20 Countdown</title>
+    <desc lang="it">Backwoods Boneheads 3 - Le nuove classifiche delle clip piu' straordinarie mai viste in televisione. Incidenti, salvataggi, esplosioni, situazioni incredibili e tanta adrenalina. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <episode-num system="xmltv_ns">3 . 11 . </episode-num>
+  </programme>
+  <programme start="20260419102000 +0200" stop="20260419102500 +0200" channel="Cielo.it">
+    <title lang="it">Sky TG24 in pillole</title>
+    <desc lang="it">Il telegiornale con le notizie piu' importanti del giorno. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419102500 +0200" stop="20260419111500 +0200" channel="Cielo.it">
+    <title lang="it">Top 20 Countdown</title>
+    <desc lang="it">Practical Jokers Gone Wild 5 - Le nuove classifiche delle clip piu' straordinarie mai viste in televisione. Incidenti, salvataggi, esplosioni, situazioni incredibili e tanta adrenalina. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <episode-num system="xmltv_ns">3 . 12 . </episode-num>
+  </programme>
+  <programme start="20260419111500 +0200" stop="20260419121500 +0200" channel="Cielo.it">
+    <title lang="it">Top 20 Funniest - Stag. 2 Ep. 0 - Top 20 Funniest S.2 - Ep.07</title>
+    <desc lang="it">Top 20 Funniest S.2 - Ep.07 - Top 20 Funniest - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419121500 +0200" stop="20260419130500 +0200" channel="Cielo.it">
+    <title lang="it">Steve Austin - Sfida implacabile</title>
+    <desc lang="it">Un gruppo di diversi concorrenti, formato da uomini e donne, si cimenta in difficili sfide fisiche. Presenta Steve Austin. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <episode-num system="xmltv_ns">3 . 8 . </episode-num>
+  </programme>
+  <programme start="20260419130500 +0200" stop="20260419140000 +0200" channel="Cielo.it">
+    <title lang="it">Steve Austin - Sfida implacabile</title>
+    <desc lang="it">Quarta stagione per il programma condotto da Steve Austin, uno dei piu' famosi wrestler della WWE, nel quale un gruppo di impavidi concorrenti di entrambi i sessi si cimentera' in difficili sfide fisiche. I partecipanti che combatteranno fra loro sono stati selezionati in base alle loro abilita' in varie discipline sportive, dalla lotta greco romana al CrossFit, dalle arti marziali al wrestling. Chi sara' il vincitore? - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <episode-num system="xmltv_ns">3 . 9 . </episode-num>
+  </programme>
   <programme start="20260419140000 +0200" stop="20260419155500 +0200" channel="Cielo.it">
     <title lang="it">I mercenari - The Expendables</title>
     <desc lang="it">Action esplosivo di e con Sylvester Stallone. Un manipolo di mercenari deve rovesciare una dittatura in Centro America. Nel cast Mickey Rourke, Jason Statham, Dolph Lundgren e Bruce Willis. - KKK</desc>
@@ -10916,6 +11448,16 @@
     <desc lang="it">Pierce Brosnan e Olga Kurylenko in un teso spy - action. Un ex agente della CIA torna in azione per salvare la vita di una donna coinvolta in una congiura, sfidando il suo ex allievo. - KKK</desc>
     <category lang="it" />
   </programme>
+  <programme start="20260419084800 +0200" stop="20260419104300 +0200" channel="Cine34.it">
+    <title lang="it">La dottoressa del distretto militare</title>
+    <desc lang="it">Sexy commedia con Edwige Fenech e Alvaro Vitali. Una procace e sensualissima dottoressa, deve sostituire un collega al distretto militare e stabilire chi sia abile alla leva. Nonostante la sua presenza provochi grandi scombussolamenti nei giovani soldati, la donna è ferma nello smascherare gli uomini che si fingono malati. - KKK</desc>
+    <category lang="it">commedia</category>
+    <category lang="it">commedia erotica</category>
+  </programme>
+  <programme start="20260419104300 +0200" stop="20260419124500 +0200" channel="Cine34.it">
+    <title lang="it">La cena perfetta</title>
+    <desc lang="it">[Azione] - Alle seconde possibilita'. Carmine gestisce un ristorante che ricicla i soldi della mafia ma con la chef Consuelo e' in cerca di riscatto. Regia di D. Minnella; ITA 2022 - KKK</desc>
+  </programme>
   <programme start="20260419124500 +0200" stop="20260419144100 +0200" channel="Cine34.it">
     <title lang="it">Terapia di coppia per amanti</title>
     <desc lang="it">[Commedia] - Dal romanzo di Diego De Silva. Il rapporto tra due amanti e' tormentato; decidono cosi' di sottoporsi ad una terapia di coppia. Con Ambra Angiolini, Pietro Sermonti. Regia di A. Federici; ITA 2017 - KKK</desc>
@@ -11310,6 +11852,43 @@
   <programme start="20260423210000 +0200" stop="20260424004700 +0200" channel="Cine34.it">
     <title lang="it">Ultimo - L'infiltrato</title>
     <desc lang="it">Stagione III. Il capitano "Ultimo" e' impegnato in Guatemala e ha lasciato la sua squadra, ma si trova suo malgrado costretto a tornare in azione. - KKK</desc>
+  </programme>
+  <programme start="20260419084800 +0200" stop="20260419093700 +0200" channel="Focus.it">
+    <title lang="it">Bermuda: I misteri degli abissi - S2 Ep2</title>
+    <desc lang="it">Alla ricerca di un aereo d'attacco A3 Skywarrior, disperso in un sospetto disastro al largo della portaerei USS Saratoga nel 1960. - KKK</desc>
+    <category lang="it">scienza e tecnologia</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <episode-num system="xmltv_ns">1 . 1 . </episode-num>
+  </programme>
+  <programme start="20260419093700 +0200" stop="20260419105500 +0200" channel="Focus.it">
+    <title lang="it">Viaggio in Italia - Tra storia, scienza e natura - Centro Italia</title>
+    <desc lang="it">L'Italia della grande storia, quella archeologica, quella della scienza e della tecnica, ma anche l'Italia delle infinite bellezze naturali. - KKK</desc>
+    <category lang="it">scienza e tecnologia</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+  </programme>
+  <programme start="20260419105500 +0200" stop="20260419115900 +0200" channel="Focus.it">
+    <title lang="it">New kids in the wild - S2 Ep1</title>
+    <desc lang="it">Brasile: baby muriquis a rischio di estinzione, imparano a procurarsi il cibo e ad arrampicarsi per la prima volta; giovani lontre di fiume nelle zone umide del Pantanal imparano a nuotare prima del loro primo rito di passaggio: la caccia al pesce con i genitori. - KKK</desc>
+    <category lang="it">meraviglie della natura</category>
+    <category lang="it">animali</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <episode-num system="xmltv_ns">1 . 0 . </episode-num>
+  </programme>
+  <programme start="20260419115900 +0200" stop="20260419125700 +0200" channel="Focus.it">
+    <title lang="it">Superconnessi - le reti sociali degli animali - Chi trova un amico...</title>
+    <desc lang="it">L'amicizia è un legame speciale ed un legame universale. Comprendiamo meglio i rapporti sociali negli animali. - KKK</desc>
+    <category lang="it">il regno animale</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <episode-num system="xmltv_ns">0 . 0 . </episode-num>
+  </programme>
+  <programme start="20260419125700 +0200" stop="20260419135900 +0200" channel="Focus.it">
+    <title lang="it">Scozia: Natura selvaggia per quattro stagioni - Primavera</title>
+    <desc lang="it">In Scozia, l'arrivo della primavera, coincide con l'aumento delle temperature e il periodo degli accoppiamenti per diverse specie di animali, tra cui il gallo forcello, la lepre bianca e la falena imperatore. - KKK</desc>
+    <category lang="it">il regno animale</category>
+    <category lang="it">natura</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <episode-num system="xmltv_ns">0 . 0 . </episode-num>
   </programme>
   <programme start="20260419135900 +0200" stop="20260419145500 +0200" channel="Focus.it">
     <title lang="it">Cose che ti aspettano al buio - S1 Ep1</title>
@@ -12107,6 +12686,17 @@ Ma prima di poter assistere alla grande corsa, Venuto attraversa le savane inosp
     <episode-num system="onscreen">S1 E1</episode-num>
     <episode-num system="xmltv_ns">0 . 0 . </episode-num>
   </programme>
+  <programme start="20260419080700 +0200" stop="20260419101100 +0200" channel="Iris.it">
+    <title lang="it">I Cesaroni - Giulio e i suoi fratelli</title>
+    <desc lang="it">Di fronte ai Cesaroni arriva una nuova famiglia: Sofia con i tre figli Nina, Irene ed Ivan. La donna è una vecchia conoscenza perchè abitava alla Garbatella venti anni prima e tra lei e Giulio c'è un segreto che rischia di scombussolare la vita dei Cesaroni. - KKK</desc>
+    <category lang="it">commedia</category>
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <episode-num system="xmltv_ns">5 . 0 . </episode-num>
+  </programme>
+  <programme start="20260419101100 +0200" stop="20260419124000 +0200" channel="Iris.it">
+    <title lang="it">Il buio nell'anima</title>
+    <desc lang="it">Il regista premio Oscar Neil Jordan dirige Jodie Foster in un avvincente thriller incentrato sulla vendetta, nelle strade buie di New York. - KKK</desc>
+  </programme>
   <programme start="20260419124000 +0200" stop="20260419150200 +0200" channel="Iris.it">
     <title lang="it">Full Metal Jacket</title>
     <desc lang="it">[Guerra] - Per il ciclo: I GRANDI CLASSICI DI IRIS.
@@ -12508,6 +13098,70 @@ Un maestro di arti marziali s'infiltra in uno strano torneo su un'isola fortific
     <title lang="it">I 3 dell'operazione drago</title>
     <desc lang="it">[Avventura] - Per il ciclo: ACTION.
 Un maestro di arti marziali s'infiltra in uno strano torneo su un'isola fortificata, allo scopo di raccogliere informazioni su un traffico di droga. Regia di R. Clouse, con B. Lee, J. Saxon; USA 1973 - KKK</desc>
+  </programme>
+  <programme start="20260419090300 +0200" stop="20260419092600 +0200" channel="Italia1.it">
+    <title lang="it">Young Sheldon - Un altro genio e i consigli piu' hot per labbra imbronciate</title>
+    <desc lang="it">La Hagemeyer chiede a Sheldon di convincere Paige a iscriversi alla East Texas Tech per incrementare il punteggio dell'ateneo. - KKK</desc>
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <episode-num system="xmltv_ns">3 . 15 . </episode-num>
+  </programme>
+  <programme start="20260419092600 +0200" stop="20260419095500 +0200" channel="Italia1.it">
+    <title lang="it">Young Sheldon - Un buco nero</title>
+    <desc lang="it">Il dottor Sturgis viene licenziato dopo aver sostenuto, in un'intervista, che l'acceleratore di particelle dove e' impiegato potrebbe distruggere l'intero pianeta. - KKK</desc>
+    <episode-num system="onscreen">S4 E17</episode-num>
+    <episode-num system="xmltv_ns">3 . 16 . </episode-num>
+  </programme>
+  <programme start="20260419095500 +0200" stop="20260419101900 +0200" channel="Italia1.it">
+    <title lang="it">THE BIG BANG THEORY - La risonanza di Spock</title>
+    <desc lang="it">Sheldon rivela ai suoi amici di aver comprato un anello per poter chiedere a Amy di sposarlo, ma quando va da lei per tentare una rappacificazione la trova tra le braccia di un altro... - KKK</desc>
+    <category lang="it">commedia</category>
+    <category lang="it">commedia brillante</category>
+    <category lang="it">sit-com</category>
+    <episode-num system="onscreen">S9 E7</episode-num>
+    <episode-num system="xmltv_ns">8 . 6 . </episode-num>
+  </programme>
+  <programme start="20260419101900 +0200" stop="20260419104800 +0200" channel="Italia1.it">
+    <title lang="it">THE BIG BANG THEORY - L'osservazione dell'appuntamento misterioso</title>
+    <desc lang="it">Dopo aver sorpreso Amy baciare un altro ragazzo, Sheldon chiede a Wolowitz e Koothrappali di postare un annuncio online per trovargli una fidanzata. - KKK</desc>
+    <category lang="it">commedia</category>
+    <category lang="it">commedia brillante</category>
+    <category lang="it">sit-com</category>
+    <episode-num system="onscreen">S9 E8</episode-num>
+    <episode-num system="xmltv_ns">8 . 7 . </episode-num>
+  </programme>
+  <programme start="20260419104800 +0200" stop="20260419112000 +0200" channel="Italia1.it">
+    <title lang="it">Due uomini e 1/2 - Il paese dei balocchi</title>
+    <desc lang="it">Alan comincia a pensare che Charlie stia esagerando con i suoi atteggiamenti effeminati, il quale si reca da uno strizzacervelli. - KKK</desc>
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <episode-num system="xmltv_ns">4 . 14 . </episode-num>
+  </programme>
+  <programme start="20260419112000 +0200" stop="20260419114600 +0200" channel="Italia1.it">
+    <title lang="it">Due uomini e 1/2 - Mille farfalle congelate</title>
+    <desc lang="it">Alan organizza il matrimonio di Evelyn e Teddy, mentre Charlie pensa a come entrare piu' in confidenza con la sua nuova sorellastra, Courtney. - KKK</desc>
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <episode-num system="xmltv_ns">4 . 15 . </episode-num>
+  </programme>
+  <programme start="20260419114600 +0200" stop="20260419122500 +0200" channel="Italia1.it">
+    <title lang="it">Drive Up</title>
+    <desc lang="it">Magazine di motori che ci guida tra supercar e auto da sogno, approfondimenti sui modelli più recenti e anticipazioni sulle novità più interessanti - KKK</desc>
+    <category lang="it">magazine</category>
+  </programme>
+  <programme start="20260419122500 +0200" stop="20260419130500 +0200" channel="Italia1.it">
+    <title lang="it">Studio Aperto</title>
+    <desc lang="it">Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto. - KKK</desc>
+    <category lang="it">telegiornale</category>
+  </programme>
+  <programme start="20260419130500 +0200" stop="20260419140100 +0200" channel="Italia1.it">
+    <title lang="it">Sport Mediaset XXL</title>
+    <desc lang="it">Approfondimento in diretta sul campionato di calcio di serie A a cura della redazione giornalistica di Sport Mediaset. In studio Benedetta Radaelli. - KKK</desc>
+    <category lang="it">calcio</category>
+  </programme>
+  <programme start="20260419140100 +0200" stop="20260419143000 +0200" channel="Italia1.it">
+    <title lang="it">E - Planet - S1 Ep16</title>
+    <desc lang="it">Appuntamento con il Magazine Green all'insegna della sostenibilità. - KKK</desc>
+    <category lang="it">magazine</category>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <episode-num system="xmltv_ns">0 . 15 . </episode-num>
   </programme>
   <programme start="20260419143000 +0200" stop="20260419152800 +0200" channel="Italia1.it">
     <title lang="it">Dr. House - Medical division - Beata ignoranza</title>
@@ -13378,6 +14032,94 @@ Un maestro di arti marziali s'infiltra in uno strano torneo su un'isola fortific
   <programme start="20260423211500 +0200" stop="20260424011700 +0200" channel="Italia1.it">
     <title lang="it">Le Iene</title>
     <desc lang="it">Veronica Gentili conduce con Max Angioni il programma cult di attualita' con nuove interviste dissacranti ed inchieste di cronaca degli inviati. - KKK</desc>
+  </programme>
+  <programme start="20260419084700 +0200" stop="20260419091700 +0200" channel="Italia2.it">
+    <title lang="it">One Piece - Luffy e Sabo - Due fratelli di nuovo insieme</title>
+    <desc lang="it">Leggendo della morte di Ace durante la battaglia di Marineford, Sabo ebbe uno shock e recuperò la memoria persa dopo l'incidente che ebbe da bambino; due anni dopo si reca a Dressrosa con l'intenzione di prendere il frutto Foco Foco in possesso di Do Flamingo. Terminato il racconto, Sabo ritorna dai suoi compagni dell'armata rivoluzionaria. Intanto, Fujitora decide di non attaccare per il momento Luffy e gli altri in seguito al risultato del dado che ha lanciato. - KKK</desc>
+    <category lang="it">anime</category>
+    <episode-num system="onscreen">S16 E20</episode-num>
+    <episode-num system="xmltv_ns">15 . 19 . </episode-num>
+  </programme>
+  <programme start="20260419091700 +0200" stop="20260419094600 +0200" channel="Italia2.it">
+    <title lang="it">One Piece - Il piu' forte - Kaido delle cento bestie</title>
+    <desc lang="it">A Zo, Sanji e il resto della ciurma sono alle prese con le stranezze della nuova isola e vengono attaccati da alcuni pirati. Brook e Sanji sconfiggono facilmente quello che sembra il loro capo e gli altri fuggono dall'isola. Nel frattempo, qualcuno si getta dall'isola nel cielo dove Urouge sta riposando e precipita sull'isola dove si trovano Kidd, Hawkins e Apoo. Dal cratere formato, emerge indenne Kaido in persona che grida vendetta e annuncia l'inizio della guerra più grande mai vista. - KKK</desc>
+    <category lang="it">anime</category>
+    <episode-num system="onscreen">S16 E21</episode-num>
+    <episode-num system="xmltv_ns">15 . 20 . </episode-num>
+  </programme>
+  <programme start="20260419094600 +0200" stop="20260419101500 +0200" channel="Italia2.it">
+    <title lang="it">One Piece - La mossa di Fujitora - Cappello di paglia in pericolo</title>
+    <desc lang="it">Tre giorni dopo la sconfitta di Do Flamingo Tsuru e Sengoku giungono a Dressrosa per scortare il convoglio che porterà via Do Flamingo stesso; nel frattempo, la popolazione ha iniziato la ricostruzione della città, anche grazie al potere curativo di Manshelly. Intanto, Kyros fa spargere la voce secondo cui Rebecca è figlia di Scarlet e di un principe in modo da non pregiudicarne il futuro scrivendole una lettera per spiegare le sue motivazioni. Dopo avere lanciato il suo dado, Fujitora dà ordine di arrestare Rufy, Law e tutti gli altri fuorilegge presenti su Dressrosa. - KKK</desc>
+    <category lang="it">anime</category>
+    <episode-num system="onscreen">S16 E22</episode-num>
+    <episode-num system="xmltv_ns">15 . 21 . </episode-num>
+  </programme>
+  <programme start="20260419101500 +0200" stop="20260419104500 +0200" channel="Italia2.it">
+    <title lang="it">One Piece - Alta tensione - Il rapimento di Rebecca!</title>
+    <desc lang="it">Raggiunti dagli uomini di Fujitora, Rufy e gli altri lasciano la casa di Kyros per dirigersi al porto est di Dressrosa, scortati da Bartolomeo e aiutati dagli altri combattenti del Colosseo, per raggiungere una nave; Rufy, tuttavia, abbandona il resto del gruppo e si dirige al palazzo reale per parlare con Rebecca chiedendole se è davvero d'accordo con la storia messa in circolazione da suo padre: alla risposta negativa Rufy se la carica sulle spalle e fugge con lei. - KKK</desc>
+    <category lang="it">anime</category>
+    <episode-num system="onscreen">S16 E23</episode-num>
+    <episode-num system="xmltv_ns">15 . 22 . </episode-num>
+  </programme>
+  <programme start="20260419104500 +0200" stop="20260419111500 +0200" channel="Italia2.it">
+    <title lang="it">One Piece - Un padre, una figlia - Kyros e Rebecca!</title>
+    <desc lang="it">Rufy, con Rebecca in spalla, supera cittadini e marine e la lascia infine fuori casa di Kyros dove i due si ricongiungono e, in lacrime, si promettono di vivere insieme come una famiglia. Al porto orientale Zoro e gli altri, ancora in attesa di Rufy, vengono raggiunti da Fujitora mentre Law si ferma a parlare con Sengoku di Rosinante. - KKK</desc>
+    <category lang="it">anime</category>
+    <episode-num system="onscreen">S16 E24</episode-num>
+    <episode-num system="xmltv_ns">15 . 23 . </episode-num>
+  </programme>
+  <programme start="20260419111500 +0200" stop="20260419114100 +0200" channel="Italia2.it">
+    <title lang="it">Captain Tsubasa - Spicca il volo!</title>
+    <desc lang="it">Tsubasa Ozora, un vivace ragazzino con una grande passione per il calcio, si trasferisce insieme alla madre in una nuova citta'. Anziche' dare una mano con il trasloco, appena arrivato, Tsubasa decide di fare una passeggiata e guardarsi intorno. Il ragazzo si ritrova per caso ad assistere a una sfida tra Genzo Wakabayashi, portiere della scuola elementare Shutetsu, e un gruppo di atleti della scuola elementare Nankatsu: le due scuole, infatti, si stanno contendendo il diritto ad allenarsi nel campo da calcio della Nankatsu. Impressionato dall'incredibile performance del portiere, Tsubasa decide di lanciargli una sfida. - KKK</desc>
+    <category lang="it">anime</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <episode-num system="xmltv_ns">0 . 0 . </episode-num>
+  </programme>
+  <programme start="20260419114100 +0200" stop="20260419121200 +0200" channel="Italia2.it">
+    <title lang="it">Captain Tsubasa - Sta volando!</title>
+    <desc lang="it">Tsubasa lancia una sfida a Wakabayashi, il quale decide di accettare, ma a una sola condizione: che Tsubasa, prima, si scontri con tutti i componenti della squadra della Shutetsu. Se vincera' contro di loro, allora, sara' meritevole di sfidare anche il capitano. Tsubasa accetta di buon grado, e, senza alcun problema, scarta uno ad uno tutti gli undici compagni di squadra di Wakabayashi. 
+Una volta arrivato davanti alla porta, e' pronto a tirare, ma sbaglia: colpisce la traversa.
+A quel punto, un uomo misterioso che assiste in silenzio alla sfida, interviene: entra in campo, effettua un cross perfetto a Tsubasa e gli permette cosi' di segnare un gol, vincendo la sfida. Wakabayashi, sconfitto, chiede a Tsubasa la rivincita, e i due si danno appuntamento alla partita del torneo interscolastico. Intanto, viene svelata l'identita' dell'uomo sconosciuto: si tratta di Roberto Hongo, ex calciatore brasiliano, che si offre di diventare l'allenatore della squadra di Tsubasa. - KKK</desc>
+    <category lang="it">anime</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <episode-num system="xmltv_ns">0 . 1 . </episode-num>
+  </programme>
+  <programme start="20260419121200 +0200" stop="20260419123500 +0200" channel="Italia2.it">
+    <title lang="it">Captain Tsubasa - Un nuovo inizio per la Nankatsu</title>
+    <desc lang="it">Tsubasa riceve una lettera del padre, in cui questi gli spiega che Roberto vivra' per un po' a casa loro. Poco dopo, Tsubasa si reca al campo della Nankatsu per l'allenamento, insieme a Ishizaki e ai compagni. Con sorpresa generale, si presenta li' anche la squadra di calcio della Nishigaoka: infatti Roberto, a insaputa dei ragazzi, ha organizzato una partita amichevole, per valutare le capacita' dei suoi giocatori. Nonostante la Nishigaoka sia sempre stata nettamente piu' forte della Nankatsu, Tsubasa e i compagni riescono a segnare quattro gol e a vincere la partita. In disparte, Wakabayashi assiste alla vittoria di Tsubasa, e non vede l'ora di poterlo affrontare nel campionato interscolastico. - KKK</desc>
+    <category lang="it">anime</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+  </programme>
+  <programme start="20260419123500 +0200" stop="20260419130100 +0200" channel="Italia2.it">
+    <title lang="it">Captain Tsubasa - Tsubasa e Roberto</title>
+    <desc lang="it">Ricominciano le lezioni dopo le vacanze di primavera, e per Tsubasa e' il primo giorno alla scuola elementare Nankatsu. 
+In classe, Ishizaki parla ai compagni del grande talento di Tsubasa; il gruppo di tifosi, capitanato da Sanae, un po' scettico, decide di andare al campo di calcio dopo la scuola, per vederlo in azione e assistere agli allenamenti della squadra. Al campo, Roberto decide che i ragazzi devono iniziare l'allenamento con un gioco: "tutti contro Tsubasa". Il giovane campione vince senza alcun problema, ma Roberto e' comunque soddisfatto del lavoro di tutti i giocatori, e li invita a non separarsi mai dalla propria palla, che deve diventare la loro migliore amica. - KKK</desc>
+    <category lang="it">anime</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <episode-num system="xmltv_ns">0 . 3 . </episode-num>
+  </programme>
+  <programme start="20260419130100 +0200" stop="20260419133000 +0200" channel="Italia2.it">
+    <title lang="it">Captain Tsubasa - Verso il torneo interscolastico</title>
+    <desc lang="it">Tsubasa e i compagni di squadra scoprono per caso che la Shutetsu giochera' un'amichevole con una scuola vicina, la Mizukoshi. Cosi' decidono di andare ad assistere alla partita, ma scoprono con grande sorpresa che Wakabayashi non gioca: a quanto pare, il portiere sta facendo degli allenamenti intensivi in vista del torneo interscolastico ed e' impegnato a tal punto da saltare persino la scuola.
+Anche la squadra della Nankatsu lavora senza sosta: tutti gli atleti si uniscono a Tsubasa negli allenamenti mattutini. Roberto fa fare a Tsubasa un esercizio molto particolare: lo mette in porta e gli chiede di parare tutti i suoi tiri. Tsubasa non riesce a fermare nemmeno una palla, ma comprende perfettamente il senso di quell'esercizio: il mister vuole che capisca quali sono i tiri piu' facili da parare e quali meno. - KKK</desc>
+    <category lang="it">anime</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <episode-num system="xmltv_ns">0 . 4 . </episode-num>
+  </programme>
+  <programme start="20260419133000 +0200" stop="20260419135300 +0200" channel="Italia2.it">
+    <title lang="it">Bob Hearts Abishola - Tra il bonus e il male</title>
+    <desc lang="it">Quando il nuovo e carismatico pastore raggiunge la congregazione, Abishola trova un nuovo interesse per la chiesa. Bob intanto deve adoperarsi per non perdere il suo miglior dipendente dopo che Dottie ha elargito dei bonus a tutto il management tranne che a Goodwin. - KKK</desc>
+    <episode-num system="onscreen">S3 E22</episode-num>
+    <episode-num system="xmltv_ns">2 . 21 . </episode-num>
+  </programme>
+  <programme start="20260419135300 +0200" stop="20260419141700 +0200" channel="Italia2.it">
+    <title lang="it">Bob Hearts Abishola - Toccata da una mano santa</title>
+    <desc lang="it">Abishola e Kemi escogitano un piano per evitare che il flirt tra Ebun e il nuovo pastore cresca. Inoltre, Bob è sconvolto quando Goodwin lascia MaxDot per un lavoro migliore presso la compagnia di Christina, - KKK</desc>
+    <category lang="it">commedia</category>
+    <category lang="it">sit-com</category>
+    <episode-num system="onscreen">S4 E1</episode-num>
+    <episode-num system="xmltv_ns">3 . 0 . </episode-num>
   </programme>
   <programme start="20260419141700 +0200" stop="20260419143900 +0200" channel="Italia2.it">
     <title lang="it">Due uomini e 1/2 - Il dolce profumo della liberta'</title>
@@ -15065,6 +15807,23 @@ Si scopre che il collezionista è una dolce ed affascinante ragazza. - KKK</desc
     <category lang="it">avventura</category>
     <category lang="it">thriller</category>
   </programme>
+  <programme start="20260419075800 +0200" stop="20260419095300 +0200" channel="LA5.it">
+    <title lang="it">Dalla parte degli animali</title>
+    <desc lang="it">Tante storie con protagonisti i nostri amici a quattro zampe. Conduce Vittoria Brambilla. - KKK</desc>
+    <category lang="it">lifestyle</category>
+  </programme>
+  <programme start="20260419095300 +0200" stop="20260419111600 +0200" channel="LA5.it">
+    <title lang="it">La promessa - S4 Ep114</title>
+    <desc lang="it">Il sergente Burdina rivela a Manuel che Toño lo ha ingannato, e si propone di arrestarlo, ma Manuel lo ferma. Lope dice a Curro che lo smeraldo del braccialetto e' falso. - KKK</desc>
+    <episode-num system="onscreen">S4 E114</episode-num>
+    <episode-num system="xmltv_ns">3 . 113 . </episode-num>
+  </programme>
+  <programme start="20260419111600 +0200" stop="20260419123700 +0200" channel="LA5.it">
+    <title lang="it">La promessa - S4 Ep115</title>
+    <desc lang="it">Samuel dice a Maria di non essere stato scomunicato. Pia e Ricardo sono contenti per la bella serata che hanno passato con Romulo ed Emilia. - KKK</desc>
+    <episode-num system="onscreen">S4 E115</episode-num>
+    <episode-num system="xmltv_ns">3 . 114 . </episode-num>
+  </programme>
   <programme start="20260419123700 +0200" stop="20260419150700 +0200" channel="LA5.it">
     <title lang="it">Verissimo</title>
     <desc lang="it">Gli ospiti del salotto di Silvia Toffanin sono: Natasha Stefanenko, Laura Pirovano, Matteo Branciamore e Marta Filippi, Cate Lumina, Chiara Balistreri e Laura Freddi. - KKK</desc>
@@ -15826,6 +16585,57 @@ Intanto Elena e Giuliano sono più innamorati che mai. Valerio, risolti i proble
     <title lang="it">Grande Fratello Vip</title>
     <desc lang="it">L'acclamato reality con elementi nuovi ma la stessa popolare identita'! Alla conduzione Ilary Blasi, con Cesara Buonamici e Selvaggia Lucarelli come opinioniste. - KKK</desc>
     <category lang="it">reality show</category>
+  </programme>
+  <programme start="20260419080000 +0200" stop="20260419094000 +0200" channel="La7.it">
+    <title lang="it">Omnibus La7</title>
+    <desc lang="it">Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa e dibattito sui principali temi dell'attualita' politica. Conduce Gerardo Greco. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S26 E219</episode-num>
+    <episode-num system="xmltv_ns">25 . 218 . </episode-num>
+  </programme>
+  <programme start="20260419094000 +0200" stop="20260419101000 +0200" channel="La7.it">
+    <title lang="it">Camera con vista</title>
+    <desc lang="it">La sintesi senza filtri della settimana, con le piu' importanti novita' dal mondo della politica. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E16</episode-num>
+    <episode-num system="xmltv_ns">6 . 15 . </episode-num>
+  </programme>
+  <programme start="20260419101000 +0200" stop="20260419110000 +0200" channel="La7.it">
+    <title lang="it">Amarsi un po'</title>
+    <desc lang="it">La danzatrice Samanta Togni e il campione di nuoto Massimiliano Rosolino ci accompagnano in un viaggio alla ricerca del benessere fisico e mentale, per riscoprire come si fa a volersi bene. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <episode-num system="xmltv_ns">3 . 8 . </episode-num>
+  </programme>
+  <programme start="20260419110000 +0200" stop="20260419114000 +0200" channel="La7.it">
+    <title lang="it">E' quella giusta, la casa che cercavi</title>
+    <desc lang="it">Anastasia Leshchenko, specializzata nel premium real estate, accompagna il cliente nella visita dell'immobile che desidera acquistare. L'obiettivo e' esplorare, stanza per stanza, le potenzialita' della casa e valutare come ristrutturarla al meglio. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <episode-num system="xmltv_ns">0 . 1 . </episode-num>
+  </programme>
+  <programme start="20260419114000 +0200" stop="20260419121500 +0200" channel="La7.it">
+    <title lang="it">LIKE - Tutto cio' che piace</title>
+    <desc lang="it">Un viaggio nell'attualita', alla scoperta delle tendenza contemporanee della nostra societa'. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S0 E1</episode-num>
+    <episode-num system="xmltv_ns"> . 0 . </episode-num>
+  </programme>
+  <programme start="20260419121500 +0200" stop="20260419124000 +0200" channel="La7.it">
+    <title lang="it">Ciclo La7 Doc: Frammenti di storia</title>
+    <desc lang="it">S1 Tito e Stalin: dall'unione all'odio - Una docu - serie che ripercorre la storia dei meccanismi democratici che hanno plasmato i paesi del Mediterraneo nel XX secolo, attraverso le gesta di personaggi emblematici. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">0 .  . </episode-num>
+  </programme>
+  <programme start="20260419124000 +0200" stop="20260419133000 +0200" channel="La7.it">
+    <title lang="it">Ciclo La7 Doc: I Segreti dei...</title>
+    <desc lang="it">...Dittatori - Monte Soratte: Il rifugio di Mussolini - Il rifugio di Mussolini - Nell'aprile del '45 Mussolini e Claretta Petacci cercano di sfuggire agli Alleati, ma il destino e' segnato. Il rifugio del Monte Soratte avrebbe potuto 'salvare' il Duce? - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419133000 +0200" stop="20260419140000 +0200" channel="La7.it">
+    <title lang="it">TG La7 ore 13.30</title>
+    <desc lang="it">S2025 - Notizie di attualita', cronaca e societa' selezionate dalla redazione di La7. - KKK</desc>
+    <category lang="it" />
   </programme>
   <programme start="20260419140000 +0200" stop="20260419161500 +0200" channel="La7.it">
     <title lang="it">La giusta distanza</title>
@@ -17058,6 +17868,11 @@ Intanto Elena e Giuliano sono più innamorati che mai. Valerio, risolti i proble
     <episode-num system="onscreen">S9 E27</episode-num>
     <episode-num system="xmltv_ns">8 . 26 . </episode-num>
   </programme>
+  <programme start="20260419090000 +0200" stop="20260419123000 +0200" channel="MediasetExtra.it">
+    <title lang="it">Grande fratello vip (live) - mediaset extra</title>
+    <desc lang="it">L'occhio delle telecamere non abbandona mai gli inquilini della Casa del Grande Fratello Vip. Seguiamo tutto minuto per minuto! - KKK</desc>
+    <category lang="it">reality show</category>
+  </programme>
   <programme start="20260419123000 +0200" stop="20260419144500 +0200" channel="MediasetExtra.it">
     <title lang="it">Grande fratello vip (live) - mediaset extra</title>
     <desc lang="it">L'occhio delle telecamere non abbandona mai gli inquilini della Casa del Grande Fratello Vip. Seguiamo tutto minuto per minuto! - KKK</desc>
@@ -17276,6 +18091,66 @@ Intanto Elena e Giuliano sono più innamorati che mai. Valerio, risolti i proble
   <programme start="20260423211900 +0200" stop="20260424001400 +0200" channel="MediasetExtra.it">
     <title lang="it">Grande fratello vip (live) - mediaset extra</title>
     <desc lang="it">L'occhio delle telecamere non abbandona mai gli inquilini della Casa del Grande Fratello Vip. Seguiamo tutto minuto per minuto! - KKK</desc>
+  </programme>
+  <programme start="20260419090000 +0200" stop="20260419090400 +0200" channel="Rai1.it">
+    <title lang="it">TG 1</title>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419090400 +0200" stop="20260419092500 +0200" channel="Rai1.it">
+    <title lang="it">UnoMattina in famiglia - Puntata del 19/04/2026</title>
+    <desc lang="it">Cronaca, approfondimenti, spettacolo, gioco per un intrattenimento leggero e coinvolgente. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2024 .  . </episode-num>
+  </programme>
+  <programme start="20260419092500 +0200" stop="20260419093000 +0200" channel="Rai1.it">
+    <title lang="it">TG 1 L.I.S.</title>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419093000 +0200" stop="20260419101500 +0200" channel="Rai1.it">
+    <title lang="it">Check Up - Puntata del 19/04/2026</title>
+    <desc lang="it">Il programma dedicato alla medicina e al benessere, racconta l'eccellenza medica del nostro Paese attraverso la presenza in studio dei più autorevoli medici italiani, una grafica altamente evocativa e spettacolare, i servizi filmati volti a far conoscere le tecnologie più all'avanguardia, gli aggiornamenti sulle più importanti scoperte mediche. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2024 .  . </episode-num>
+  </programme>
+  <programme start="20260419101500 +0200" stop="20260419105500 +0200" channel="Rai1.it">
+    <title lang="it">A Sua immagine - Puntata del 19/04/2026</title>
+    <desc lang="it">Lorena Bianchetti racconta il terzo viaggio internazionale di Papa Leone XIV in Africa, il più lungo del Pontificato: undici giorni, dal 13 al 23 aprile, attraverso Algeria, Camerun, Angola e Guinea Equatoriale. Sui passi di Sant'Agostino, nel ricordo dei martiri cristiani e nel segno della pace, si tratta di una visita particolarmente significativa, soprattutto nel delicato contesto storico in cui si svolge. A illustrarne il significato, le peculiarità e le possibili ricadute internazionali sono ospiti Alessandro Gisotti, vicedirettore editoriale dei Media Vaticani, e padre Giulio Albanese, direttore degli Uffici per le comunicazioni sociali e per la cooperazione missionaria tra le Chiese della Diocesi di Roma. Attraverso contributi filmati, vengono ripercorsi i momenti più intensi del viaggio, che attraversa città, culture e popoli diversi per riaffermare il valore della fratellanza, della riconciliazione e del dialogo. A partire dalla prima tappa, l'Algeria: Leone XIV, che si è definito figlio di Sant'Agostino, è infatti il primo Pontefice a recarsi nella terra che diede i natali al Santo di Ippona. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2024 .  . </episode-num>
+  </programme>
+  <programme start="20260419105500 +0200" stop="20260419115000 +0200" channel="Rai1.it">
+    <title lang="it">Santa Messa da Luanda, Angola - Puntata del 19/04/2026</title>
+    <desc lang="it">Da Luanda, Angola, Santa Messa presieduta da Papa Leone XIV e recita del Regina Caeli. A cura del Tg1 e Rai Vaticano, in collegamento con Vatican Media Telecronaca di Ignazio Ingrao Regia di Antonella Rossi - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2024 .  . </episode-num>
+  </programme>
+  <programme start="20260419115000 +0200" stop="20260419120000 +0200" channel="Rai1.it">
+    <title lang="it">A Sua immagine - Puntata del 19/04/2026</title>
+    <desc lang="it">Lorena Bianchetti racconta il terzo viaggio internazionale di Papa Leone XIV in Africa, il più lungo del Pontificato: undici giorni, dal 13 al 23 aprile, attraverso Algeria, Camerun, Angola e Guinea Equatoriale. Sui passi di Sant'Agostino, nel ricordo dei martiri cristiani e nel segno della pace, si tratta di una visita particolarmente significativa, soprattutto nel delicato contesto storico in cui si svolge. A illustrarne il significato, le peculiarità e le possibili ricadute internazionali sono ospiti Alessandro Gisotti, vicedirettore editoriale dei Media Vaticani, e padre Giulio Albanese, direttore degli Uffici per le comunicazioni sociali e per la cooperazione missionaria tra le Chiese della Diocesi di Roma. Attraverso contributi filmati, vengono ripercorsi i momenti più intensi del viaggio, che attraversa città, culture e popoli diversi per riaffermare il valore della fratellanza, della riconciliazione e del dialogo. A partire dalla prima tappa, l'Algeria: Leone XIV, che si è definito figlio di Sant'Agostino, è infatti il primo Pontefice a recarsi nella terra che diede i natali al Santo di Ippona. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2024 .  . </episode-num>
+  </programme>
+  <programme start="20260419120000 +0200" stop="20260419121000 +0200" channel="Rai1.it">
+    <title lang="it">Regina Coeli da Luanda, Angola - 19/04/2026</title>
+    <desc lang="it">Da Luanda, Angola, la preghiera mariana del "Regina Coeli" recitata da Papa Leone XIV. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2024 .  . </episode-num>
+  </programme>
+  <programme start="20260419121000 +0200" stop="20260419122000 +0200" channel="Rai1.it">
+    <title lang="it">A Sua immagine - Puntata del 19/04/2026</title>
+    <desc lang="it">Lorena Bianchetti racconta il terzo viaggio internazionale di Papa Leone XIV in Africa, il più lungo del Pontificato: undici giorni, dal 13 al 23 aprile, attraverso Algeria, Camerun, Angola e Guinea Equatoriale. Sui passi di Sant'Agostino, nel ricordo dei martiri cristiani e nel segno della pace, si tratta di una visita particolarmente significativa, soprattutto nel delicato contesto storico in cui si svolge. A illustrarne il significato, le peculiarità e le possibili ricadute internazionali sono ospiti Alessandro Gisotti, vicedirettore editoriale dei Media Vaticani, e padre Giulio Albanese, direttore degli Uffici per le comunicazioni sociali e per la cooperazione missionaria tra le Chiese della Diocesi di Roma. Attraverso contributi filmati, vengono ripercorsi i momenti più intensi del viaggio, che attraversa città, culture e popoli diversi per riaffermare il valore della fratellanza, della riconciliazione e del dialogo. A partire dalla prima tappa, l'Algeria: Leone XIV, che si è definito figlio di Sant'Agostino, è infatti il primo Pontefice a recarsi nella terra che diede i natali al Santo di Ippona. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2024 .  . </episode-num>
+  </programme>
+  <programme start="20260419122000 +0200" stop="20260419133000 +0200" channel="Rai1.it">
+    <title lang="it">Linea Verde - Friuli orientale: terra di confine e di sapori che uniscono - 19/04/2026</title>
+    <desc lang="it">Peppone Calabrese, Fabio Gallo e Margherita Granbassi vanno alla scoperta del Friuli orientale, una terra di confine nel nord - est d'Italia dove tradizioni, lingue e culture si sono incontrate nel corso dei secoli, dando vita a un patrimonio ricco e variegato che, ancora oggi, si riflette nelle usanze, nei sapori e nell'identità del territorio. Il loro viaggio parte da Gorizia, dove i tre conduttori incontrano Paolo Vidoz, ex pugile italiano, medaglia di bronzo alle Olimpiadi di Sydney e oggi appassionato cuoco di piatti friulani. Peppone prosegue il suo viaggio alla scoperta di alcune eccellenze gastronomiche locali, tra le quali il prosciutto cotto in crosta di pane e il formaggio Latteria, ingrediente principale per la preparazione del frico. Fabio, invece, esplora i Colli Orientali del Friuli, dove nascono vini pregiati e un miele di alta qualità, e le suggestive Valli del Natisone per assistere alla preparazione della gubana, un dolce tradizionale ricco di storia. Il suo cammino prosegue poi fino a Gorizia per raccontare la storia di Borgo Castello, il cuore più antico della città. Nel frattempo, Margherita, dopo aver partecipato alla raccolta di alcune varietà di erbe spontanee in un bosco di San Pier d'Isonzo, raggiunge la chef Antonia Klugmann per realizzare una ricetta originale a base di erbe selvatiche. Peppone, Fabio e Margherita si ritrovano poi per il gran finale da Paolo Vidoz per condividere un tipico pranzo della domenica friulano e celebrare l'incontro tra storie, sapori e tradizioni del territorio. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2024 .  . </episode-num>
+  </programme>
+  <programme start="20260419133000 +0200" stop="20260419140000 +0200" channel="Rai1.it">
+    <title lang="it">TELEGIORNALE</title>
+    <category lang="it" />
   </programme>
   <programme start="20260419140000 +0200" stop="20260419171500 +0200" channel="Rai1.it">
     <title lang="it">Domenica In - Puntata del 19/04/2026</title>
@@ -18228,6 +19103,49 @@ Intanto Elena e Giuliano sono più innamorati che mai. Valerio, risolti i proble
     <category lang="it" />
     <episode-num system="onscreen">S2026 E3</episode-num>
     <episode-num system="xmltv_ns">2025 . 2 . </episode-num>
+  </programme>
+  <programme start="20260419083000 +0200" stop="20260419092500 +0200" channel="Rai2.it">
+    <title lang="it">Il meglio di Playlist del 19/04/2026</title>
+    <desc lang="it">Con la conduzione di Federica Gentile, Gabriele Vagnato e della new entry Nina Zilli, artisti emergenti e grandi nomi si raccontano attraverso la musica, offrendo momenti dinamici e leggeri alternati ad altri più intimi ed emotivi. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2024 .  . </episode-num>
+  </programme>
+  <programme start="20260419092500 +0200" stop="20260419101000 +0200" channel="Rai2.it">
+    <title lang="it">Heartland S14E6 - Una nuova normalità</title>
+    <desc lang="it">Spinta dal desiderio di sistemare dei cavalli selvaggi cacciati dal branco, Amy accetta di fare una dimostrazione per dei clienti. E riesce a trovare un acquirente, un giovane imprenditore che vuole aprire un centro di recupero per ragazzi difficili. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S14 E6</episode-num>
+    <episode-num system="xmltv_ns">13 . 5 . </episode-num>
+  </programme>
+  <programme start="20260419101000 +0200" stop="20260419110000 +0200" channel="Rai2.it">
+    <title lang="it">La dolce attesa - Puntata del 19/04/2026</title>
+    <desc lang="it">In questa puntata, il racconto della genitorialità si concentra sui cambiamenti e sulle emozioni legate all'attesa. Protagonisti Eleonora e Alan, alle prese con un percorso di procreazione medicalmente assistita, accompagnato da un'esperienza personale che ha profondamente influenzato il loro cammino. Tra ricordi, dubbi e speranze, si preparano alla nascita della piccola Sofia, simbolo di un nuovo inizio. Accanto a loro, Cristina e Riccardo, genitori di due figli, raccontano la quotidianità della vita familiare: equilibri di coppia, complicità e sfide quotidiane, in uno spaccato realistico della famiglia contemporanea. Guidate da Carolina Rey, le famiglie condividono momenti intimi e di confronto, dal racconto della quotidianità al MAM Talk, spazio leggero ma autentico in cui mamme e nonne si confrontano sull'esperienza della maternità. Con il contributo di esperti, il racconto offre chiavi di lettura sui cambiamenti sociali legati alla nascita e alla crescita di una famiglia. Una puntata che racconta cosa significa oggi diventare genitori, tra trasformazioni e nuove consapevolezze. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2025 .  . </episode-num>
+  </programme>
+  <programme start="20260419110000 +0200" stop="20260419111000 +0200" channel="Rai2.it">
+    <title lang="it">TG Sport Giorno</title>
+    <desc lang="it">TG Sport Giorno - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419111000 +0200" stop="20260419130000 +0200" channel="Rai2.it">
+    <title lang="it">Citofonare Rai2 - Puntata del 19/04/2026</title>
+    <desc lang="it">Il sabato e la domenica mattina, Paola Perego apre le porte di Rai2 a un allegro viavai di ospiti, gli amici del weekend, con cui alterna storie di vita quotidiana a rubriche originali e momenti musicali. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2024 .  . </episode-num>
+  </programme>
+  <programme start="20260419130000 +0200" stop="20260419133000 +0200" channel="Rai2.it">
+    <title lang="it">TG2 GIORNO</title>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419133000 +0200" stop="20260419135800 +0200" channel="Rai2.it">
+    <title lang="it">TG2 Motori</title>
+    <desc lang="it">Direttore Antonio Preziosi Responsabile Rocco Tolfa A cura di Maria Leitner - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419135800 +0200" stop="20260419140000 +0200" channel="Rai2.it">
+    <title lang="it">Meteo 2</title>
+    <category lang="it" />
   </programme>
   <programme start="20260419140000 +0200" stop="20260419152000 +0200" channel="Rai2.it">
     <title lang="it">Green Lovers - st2 - Episodio 8</title>
@@ -19225,6 +20143,63 @@ Intanto Elena e Giuliano sono più innamorati che mai. Valerio, risolti i proble
     <episode-num system="onscreen">S1 E7</episode-num>
     <episode-num system="xmltv_ns">0 . 6 . </episode-num>
   </programme>
+  <programme start="20260419080500 +0200" stop="20260419101500 +0200" channel="Rai3.it">
+    <title lang="it">Mi manda Raitre - Puntata del 19/04/2026</title>
+    <desc lang="it">Nuovi indagati per la strage di Crans Montana: a distanza alcuni mesi, a che punto è l'inchiesta per il rogo di Capodanno nel quale hanno perso la vita 41 persone? Storie di spreco di denaro pubblico: dalla Liquichimica di Montebello Jonico, protagonista di una delle casse integrazioni più lunghe della storia italiana, fino agli sprechi legati alla famosa struttura dell'isola della Maddalena. Non si tratta di casi isolati, l'Italia è piena di progetti iniziati e mai finiti, nonostante i finanziamenti. Turisti presi d'assalto da ogni tipo di raggiro, dal gioco delle tre campanelle alle finte guide turistiche che promettono di far saltare la fila, fino ai prodotti venduti come artigianali, ma in realtà realizzati con materiale di bassa qualità: girare per città d'arte e musei può diventare una vera giungla. Tra gli ospiti di Federico Ruffo: Alfonso Sabella, magistrato; Reto Ceschi, responsabile informazione RSI; Umberto Marcucci, testimonianza (padre di Manfredi, rimasto ferito a Crans Montana); Francesco Rutelli; Flavio Tosi, europarlamentare Forza Italia; Gian Antonio Stella, Corriere della Sera; Carlo Stagnaro, Istituto Bruno Leoni. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2024 .  . </episode-num>
+  </programme>
+  <programme start="20260419101500 +0200" stop="20260419110500 +0200" channel="Rai3.it">
+    <title lang="it">O anche no - Puntata del 19/04/2026</title>
+    <desc lang="it">Paola Severini Melograni conduce il talk di infotainment dedicato all'inclusione e alla solidarietà che racconta attraverso i protagonisti le loro storie, attese, difficoltà e conquiste. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2024 .  . </episode-num>
+  </programme>
+  <programme start="20260419110500 +0200" stop="20260419113000 +0200" channel="Rai3.it">
+    <title lang="it">TGR Estovest</title>
+    <desc lang="it">Direttore Roberto Pacchetti. Vicedirettrice Ines Maggiolini. A cura della TGR Friuli - Venezia Giulia e Puglia - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419113000 +0200" stop="20260419120000 +0200" channel="Rai3.it">
+    <title lang="it">TGR Mediterraneo</title>
+    <desc lang="it">Direttore Roberto Pacchetti. Vicedirettore Roberto Gueli. A cura della TGR Sicilia - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419120000 +0200" stop="20260419121700 +0200" channel="Rai3.it">
+    <title lang="it">TG3</title>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419121700 +0200" stop="20260419122500 +0200" channel="Rai3.it">
+    <title lang="it">TG3 Fuori Linea</title>
+    <desc lang="it">A cura della redazione Cultura - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419122500 +0200" stop="20260419125500 +0200" channel="Rai3.it">
+    <title lang="it">TGR Alta Quota</title>
+    <desc lang="it">Direttore Roberto Pacchetti. Vicedirettrice Roberta Serdoz. A cura della TGR Lazio, Piemonte, Trentino - Alto Adige e Valle d'Aosta - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419125500 +0200" stop="20260419130000 +0200" channel="Rai3.it">
+    <title lang="it">TG3 LIS</title>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419130000 +0200" stop="20260419140000 +0200" channel="Rai3.it">
+    <title lang="it">Laura Biagiotti. La regina del cashmere</title>
+    <desc lang="it">La vita di Laura Biagiotti, l'enfant prodige che a soli 23 anni rivoluzionò la moda con la sua prima collezione. Il racconto ripercorre una carriera straordinaria fatta di innovazione, della passione per il bianco e del profondo legame con l'arte e la cultura, che l'hanno resa una delle stiliste italiane più influenti e amate nel mondo. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419140000 +0200" stop="20260419141000 +0200" channel="Rai3.it">
+    <title lang="it">TG Regione</title>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419141000 +0200" stop="20260419141500 +0200" channel="Rai3.it">
+    <title lang="it">TG Regione Meteo</title>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419141500 +0200" stop="20260419143000 +0200" channel="Rai3.it">
+    <title lang="it">TG3</title>
+    <category lang="it" />
+  </programme>
   <programme start="20260419143000 +0200" stop="20260419164500 +0200" channel="Rai3.it">
     <title lang="it">In mezz'ora - Puntata del 19/04/2026</title>
     <desc lang="it">Monica Maggioni analizza i temi chiave della settimana a livello nazionale ed internazionale attraverso le voci dei protagonisti e degli esperti e il supporto di reportage che raccontano il mondo in cui viviamo. - KKK</desc>
@@ -20186,6 +21161,54 @@ Intanto Elena e Giuliano sono più innamorati che mai. Valerio, risolti i proble
     <category lang="it" />
     <episode-num system="onscreen">S1 E20</episode-num>
     <episode-num system="xmltv_ns">0 . 19 . </episode-num>
+  </programme>
+  <programme start="20260419083000 +0200" stop="20260419093200 +0200" channel="Rai4.it">
+    <title lang="it">Delitti in Paradiso S7E4 Il Guaritore</title>
+    <desc lang="it">La squadra è alle prese con un finto guaritore, tornato sull'isola dopo diversi anni. Purtroppo il suo ritorno coincide con la morte di una donna durante un rituale. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <episode-num system="xmltv_ns">6 . 3 . </episode-num>
+  </programme>
+  <programme start="20260419093200 +0200" stop="20260419100500 +0200" channel="Rai4.it">
+    <title lang="it">Wonderland - Puntata del 14/04/2026</title>
+    <desc lang="it">Yeon Sang - ho, regista di uno dei più apprezzati zombie - movie contemporanei, "Train to Busan", e l'attore Gong Yoo sono i protagonisti della nuova puntata di "Wonderland" che li ha incontrati all'ultima edizione del "Florence Korea Film Festival". Dal trionfo globale di "Parasite" fino al successo planetario di "Squid Game", la cosiddetta "hallyu" ha ridefinito l'immaginario contemporaneo, imponendo la cultura sudcoreana come una delle più vitali e influenti. Un percorso iniziato anche grazie a film capaci di unire spettacolo e sguardo politico, come "Train to Busan", lo zombie movie che nel 2016 ha conquistato pubblico e critica rilanciando il genere in chiave contemporanea. A firmarlo è Yeon Sang - ho, autore eclettico capace di muoversi tra animazione, cinema e serialità, esplorando costantemente il confine tra realismo e distopia. In occasione del festival, il regista ha presentato il suo ultimo lavoro, "The Ugly", thriller tratto da un suo graphic novel, offrendo lo spunto per una riflessione sul presente attraverso le forme del genere. Accanto a lui, "Wonderland" incontra anche l'attore Gong Yoo, volto simbolo della nuova onda coreana, protagonista proprio di "Train to Busan" e noto al grande pubblico per il ruolo del Reclutatore in "Squid Game". Un percorso che lo ha portato a imporsi a livello internazionale, anche grazie a collaborazioni prestigiose come quella con Song Kang - ho ne "L'impero delle ombre", confermandolo come uno degli interpreti più rappresentativi del cinema coreano contemporaneo. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2024 .  . </episode-num>
+  </programme>
+  <programme start="20260419100500 +0200" stop="20260419104500 +0200" channel="Rai4.it">
+    <title lang="it">Criminal Minds IV ep.11</title>
+    <desc lang="it">L'Unità di Analisi Comportamentale deve affrontare un gruppo terroristico che sta seminando il panico a New York, ma non è l'unica minaccia: ai terroristi si aggiungono killer psicopatici, ex - poliziotti ora assassini, piromani e il terribile serial killer noto come Il Mietitore - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <episode-num system="xmltv_ns">3 . 10 . </episode-num>
+  </programme>
+  <programme start="20260419104500 +0200" stop="20260419112800 +0200" channel="Rai4.it">
+    <title lang="it">Criminal Minds IV ep.12</title>
+    <desc lang="it">L'Unità di Analisi Comportamentale deve affrontare un gruppo terroristico che sta seminando il panico a New York, ma non è l'unica minaccia: ai terroristi si aggiungono killer psicopatici, ex - poliziotti ora assassini, piromani e il terribile serial killer Il Mietitore - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <episode-num system="xmltv_ns">3 . 11 . </episode-num>
+  </programme>
+  <programme start="20260419112800 +0200" stop="20260419121500 +0200" channel="Rai4.it">
+    <title lang="it">Criminal Minds IV ep.13</title>
+    <desc lang="it">L'Unità di Analisi Comportamentale deve affrontare un gruppo terroristico che sta seminando il panico a New York, ma non è l'unica minaccia: ai terroristi si aggiungono killer psicopatici, ex - poliziotti ora assassini, piromani e il terribile serial killer noto come Il Mietitore - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <episode-num system="xmltv_ns">3 . 12 . </episode-num>
+  </programme>
+  <programme start="20260419121500 +0200" stop="20260419130000 +0200" channel="Rai4.it">
+    <title lang="it">Criminal Minds IV ep.14</title>
+    <desc lang="it">L'Unità di Analisi Comportamentale deve affrontare un gruppo terroristico che sta seminando il panico a New York, ma non è l'unica minaccia: ai terroristi si aggiungono killer psicopatici, ex - poliziotti ora assassini, piromani e il terribile serial killer noto come Il Mietitore. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <episode-num system="xmltv_ns">3 . 13 . </episode-num>
+  </programme>
+  <programme start="20260419130000 +0200" stop="20260419134600 +0200" channel="Rai4.it">
+    <title lang="it">Criminal Minds IV ep.15</title>
+    <desc lang="it">L'Unità di Analisi Comportamentale deve affrontare un gruppo terroristico che sta seminando il panico a New York, ma non è l'unica minaccia: ai terroristi si aggiungono killer psicopatici e il terribile serial killer noto come Il Mietitore. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <episode-num system="xmltv_ns">3 . 14 . </episode-num>
   </programme>
   <programme start="20260419134600 +0200" stop="20260419155700 +0200" channel="Rai4.it">
     <title lang="it">Rebellion - Un atto di guerra</title>
@@ -21293,6 +22316,58 @@ Intanto Elena e Giuliano sono più innamorati che mai. Valerio, risolti i proble
     <desc lang="it">Il leggendario ladro d'auto "Memphis" Randall Raines pensava di essersi ritirato dal giro, ma suo fratello, ladruncolo senza talento è finito nei guai dopo un colpo fallito. Se vuole salvarlo dalle grinfie del boss Calitri, dovrà rubare 50 auto in pochi giorni. - KKK</desc>
     <category lang="it" />
   </programme>
+  <programme start="20260419080800 +0200" stop="20260419093700 +0200" channel="Rai5.it">
+    <title lang="it">Harding e Levit con Brahms e Elgar</title>
+    <desc lang="it">Dall'Auditorium Parco della Musica, l'Orchestra dell'Accademia Nazionale di Santa Cecilia diretta da Daniel Harding presenta il Concerto n. 1 per pianoforte di Brahms con Igor Levit, interprete d'eccellenza di questo repertorio. In chiusura, le Enigma Variations di Elgar, ritratto poetico e ironico dell'animo inglese. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419093700 +0200" stop="20260419100200 +0200" channel="Rai5.it">
+    <title lang="it">Una terra di confine - Geo 15/03/2023</title>
+    <desc lang="it">(Lazio Rieti) Leonessa e' una cittadina molto legata al suo passato. La sua festa più sentita e' "Il Palio del Velluto" dove i paesani sfilano per le vie vestiti con bellissimi abiti medioevali. Leonessa, geograficamente e' un territorio di confine, appartiene al Lazio ma e' a pochi chilometri dall'Abruzzo, dall'Umbria e dalle Marche... - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2021 .  . </episode-num>
+  </programme>
+  <programme start="20260419100200 +0200" stop="20260419100500 +0200" channel="Rai5.it">
+    <title lang="it">ANICA APPUNTAMENTO AL CINEMA</title>
+    <desc lang="it">Rubrica per la promozione della cultura cinematografica in Italia.. - 2026 ITA - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419100500 +0200" stop="20260419104500 +0200" channel="Rai5.it">
+    <title lang="it">Casa Sapiens. Ecce homo ep.18</title>
+    <desc lang="it">Il silicio è stato protagonista di numerose invenzioni, dal fuoco ai moderni smartphone ai microchip che alimentano i computer e l'Intelligenza Artificiale. Nella puntata le tappe salienti dell'evoluzione tecnologica dei Sapiens e il suo impatto sull'intelligenza degli uomini. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2024 E18</episode-num>
+    <episode-num system="xmltv_ns">2023 . 17 . </episode-num>
+  </programme>
+  <programme start="20260419104500 +0200" stop="20260419115500 +0200" channel="Rai5.it">
+    <title lang="it">Impatto dei Sapiens - Sapiens, un solo pianeta - Puntata del 23/11/2024</title>
+    <desc lang="it">Le risorse del pianeta sono al limite e i Sapiens sono gli unici esseri viventi a intaccare perfino la crosta terrestre: saranno in grado di rimediare ai danni inflitti nei secoli? Il viaggio di Mario Tozzi inizia dalla città di Taranto, da antico simbolo di progresso culturale e sociale si è trasformata in vittima dell'impatto ambientale dell'industria siderurgica, ed ha lo scopo di comprendere quali siano gli effetti delle scelte umane nella rincorsa a uno sviluppo insostenibile e cosa si possa ancora fare per invertire la rotta sui loro devastanti effetti. Dalla natura incontaminata delle Isole Cheradi, alle viscere della città in cui i colonizzatori greci hanno lasciato segni indelebili di un'antica civiltà, Taranto aiuta a capire come lo sfruttamento del suolo e del sottosuolo siano la chiave per comprendere tutta l'evoluzione della storia dei Sapiens. Secondo gli specialisti del clima, se si vuole limitare l'incremento delle temperature atmosferiche generate dall'impatto delle attività umane, si dovrebbero lasciare sottoterra più del 90% delle riserve di carbone e oltre il 70% di gas e petrolio. Riciclare, innovare le forme di produzione, rigenerare i contesti naturali, arrestare l'occupazione di suolo non sono più, a questo punto della storia dei Sapiens, obiettivi rimandabili. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2023 .  . </episode-num>
+  </programme>
+  <programme start="20260419115500 +0200" stop="20260419122600 +0200" channel="Rai5.it">
+    <title lang="it">Save the Date - Puntata del 17/04/2026</title>
+    <desc lang="it">'Le allegre comari di Windsor' con Francesco Paolantoni; il film 'Benvenuti in campagna' con Lastrico; l'arte di 'Metafisica/Metafisiche' a Milano; Vanessa Scalera ne 'La sorella migliore'; la mostra interattiva '0 - 99 Design per Gioco'; il tango di 'Historia' con Samuel Peron e Vera Kinnunen; il libro di Chiara Francini 'Le querce non fanno limoni' ed. Rizzoli. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2025 E23</episode-num>
+    <episode-num system="xmltv_ns">2024 . 22 . </episode-num>
+  </programme>
+  <programme start="20260419122600 +0200" stop="20260419125700 +0200" channel="Rai5.it">
+    <title lang="it">Passepartout: Jannis Kounellis</title>
+    <desc lang="it">L'ultima puntata di Passpartout è dedicata a un grande artista contemporaneo, Jannis Kounellis; l'artista, di origine greca ma attivo da sempre in Italia, si racconta a Philippe Daverio nella sua casa roma - na. Un programma di e con Philippe Daverio, regia di Mauro Raponi. - 2011 ITA - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419125700 +0200" stop="20260419132800 +0200" channel="Rai5.it">
+    <title lang="it">Passepartout: Magna Grecia</title>
+    <desc lang="it">Questa puntata di Passepartout è dedicata alla Magna Grecia e alle sue eredità storiche - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419132800 +0200" stop="20260419140300 +0200" channel="Rai5.it">
+    <title lang="it">Movie Mag - Puntata del 15/04/2026</title>
+    <desc lang="it">L'attore Fabio Troiano è l'ospite di Melissa Greta nel nuovo appuntamento con "Movie Mag". Capace di attraversare con naturalezza commedia, teatro d'autore, fiction, cinema e televisione, Troiano si racconta ripercorrendo le fasi della sua carriera ricchissima: dagli esordi televisivi con "La Melevisione" alle grandi fiction Rai, fino al successo sul piccolo e grande schermo. Si parla poi di "Tutta vita", il documentario di Valentina Cenni su Stefano Bollani, un ritratto che diventa spunto per parlare di creatività, musica e convivenza artistica. Federico Pontiggia anticipa il Festival di Cannes 2026, mentre un servizio speciale racconta la 16ª edizione di Rendez - Vous - Festival del Nuovo Cinema Francese, tra film attesi e ospiti prestigiosi, da Isabelle Huppert a Louis Garrel. La rubrica "Il film del cuore" da questa settimana accompagna il pubblico verso l'80ª edizione del Premio Strega. Protagonisti della puntata: Christian Raimo e Mauro Covacich. In chiusura, una pagina dedicata all'arte dell'attore e al valore dei cosiddetti ruoli minori e, come sempre, i consigli di lettura della redazione. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2024 .  . </episode-num>
+  </programme>
   <programme start="20260419140300 +0200" stop="20260419145900 +0200" channel="Rai5.it">
     <title lang="it">Di là dal fiume e tra gli alberi - S8E6 - Serre Calabresi, la scelta di restare</title>
     <desc lang="it">Le Serre Calabresi, piccolo scrigno tra Aspromonte e Sila, custodiscono eccellenze naturali, culturali e spirituali. Lucrezia Lo Bianco ci accompagna alla scoperta delle voci di chi ha scelto la "restanza": di chi è restato, di chi è tornato e di chi ha scelto di abitare questi luoghi con uno sguardo nuovo e diverso. - KKK</desc>
@@ -22254,6 +23329,146 @@ Intanto Elena e Giuliano sono più innamorati che mai. Valerio, risolti i proble
     <category lang="it" />
     <episode-num system="onscreen">S1 E8</episode-num>
     <episode-num system="xmltv_ns">0 . 7 . </episode-num>
+  </programme>
+  <programme start="20260419084000 +0200" stop="20260419090500 +0200" channel="RaiGulp.it">
+    <title lang="it">Winx Club - The Magic is Back - S1E10 - L'appuntamento di Stella</title>
+    <desc lang="it">Bloom apprende da Faragonda di possedere la Fiamma del Drago e ne teme le conseguenze. Intanto, Stella è entusiasta per un appuntamento al buio con un misterioso Principe e suscita la preoccupazione di Bloom e la gelosia di Brandon, che la seguono e scoprono che era una trappola - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <episode-num system="xmltv_ns">0 . 9 . </episode-num>
+  </programme>
+  <programme start="20260419090500 +0200" stop="20260419093000 +0200" channel="RaiGulp.it">
+    <title lang="it">Winx Club - The Magic is Back - S1E11 - Un nemico inatteso</title>
+    <desc lang="it">Vexius lancia un attacco devastante a Fonterossa, costringendo Winx e Specialisti a unire le forze per difendere la scuola. Nel caos, Bloom scopre un legame scioccante tra Vexius e la sua Fiamma del Drago, affrontando le crescenti implicazioni dei suoi poteri e i segreti del suo passato - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E11</episode-num>
+    <episode-num system="xmltv_ns">0 . 10 . </episode-num>
+  </programme>
+  <programme start="20260419093000 +0200" stop="20260419094500 +0200" channel="RaiGulp.it">
+    <title lang="it">Ma davvero? - S1E1 - La città di Metalla</title>
+    <desc lang="it">AAA cercasi giovani con spirito d'avventura! La geologa Caterina Zei vola in Sardegna alla ricerca di una leggendaria città chiamata Metalla, esplora la miniera di Buggerru e scopre come una galleria abbandonata possa diventare laboratorio scientifico! Scienza, storia, mistero e non solo… andiamo a caccia di fake news scientifiche con il detective social Marco "Il Giallino" Martinelli e per essere "davvero green" ripassiamo come riciclare la plastica in modo corretto! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <episode-num system="xmltv_ns">0 . 0 . </episode-num>
+  </programme>
+  <programme start="20260419094500 +0200" stop="20260419100000 +0200" channel="RaiGulp.it">
+    <title lang="it">Ma davvero? - S1E2 - Funghi di pietra</title>
+    <desc lang="it">Avete mai visto dei funghi di pietra? La geologa Caterina Zei ci porta in Piemonte nel Parco dei Ciciu del Villar, in Val Maira, per conoscere le incredibili sculture naturali di rocce a forma di fungo e svelare i segreti delle loro origini. Il tiktoker Marco "Il Giallino" ci aiuta a riconoscere la differenza tra curiosità e bufale scientifiche mentre nella pillola in animazione 2D si suggeriscono spunti e azioni concrete per essere davvero, ma davvero Green! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <episode-num system="xmltv_ns">0 . 1 . </episode-num>
+  </programme>
+  <programme start="20260419100000 +0200" stop="20260419101000 +0200" channel="RaiGulp.it">
+    <title lang="it">Super Happy Magic Forest - S1E48 - La leggenda di Grangrugno</title>
+    <desc lang="it">I fiori di ciliegio sono scomparsi e gli eroi partono per una missione nel cuore della foresta, dove la leggenda narra che si nasconda una magica creatura. Twinkle ride: non crede alle leggende! Ma quando un aiuto inaspettato arriva mentre cercano di fermare il ladro di fiori, sarà costretta a ricredersi. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E48</episode-num>
+    <episode-num system="xmltv_ns">0 . 47 . </episode-num>
+  </programme>
+  <programme start="20260419101000 +0200" stop="20260419102000 +0200" channel="RaiGulp.it">
+    <title lang="it">Super Happy Magic Forest - S1E49 - Grande - piccolo Zorgoth</title>
+    <desc lang="it">Gli eroi tirano un sospiro di sollievo davanti a una lumaca apparentemente innocua, ma dura poco: Zorgoth li rimpicciolisce fino alla taglia di formiche! Ora devono attraversare il loro picnic – schivando panini giganti e ciotole di hummus – per avvertire il Comitato prima che Zorgoth miniaturizzi la foresta! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E49</episode-num>
+    <episode-num system="xmltv_ns">0 . 48 . </episode-num>
+  </programme>
+  <programme start="20260419102000 +0200" stop="20260419104000 +0200" channel="RaiGulp.it">
+    <title lang="it">Super Happy Magic Forest - S1E50 - Herbert lo stravagante</title>
+    <desc lang="it">Quando gli eroi partono per fermare Balthazar dal trasformare gli abitanti della foresta in oggetti casalinghi, Herbert scopre di poter contrastare l'incantesimo usando i suoi trucchi di magia. Ma quando viene trasformato in una lampada da tavolo, ecco che tocca a Blossom correre in suo aiuto! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E50</episode-num>
+    <episode-num system="xmltv_ns">0 . 49 . </episode-num>
+  </programme>
+  <programme start="20260419104000 +0200" stop="20260419110000 +0200" channel="RaiGulp.it">
+    <title lang="it">Mystery Lane - S1E3 - Gabbia vuota allo stadio</title>
+    <desc lang="it">Flash, campione delle corse dei levrieri e idolo di Bro, scompare la sera prima di una gara importante. McFlare chiede come al solito la collaborazione di Clever e Bro, che è felicissimo di prendere parte all'indagine perché spera di avere così l'autografo del suo idolo. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+  </programme>
+  <programme start="20260419110000 +0200" stop="20260419112500 +0200" channel="RaiGulp.it">
+    <title lang="it">Mystery Lane - S1E4 - Il tesoro delle catacombe</title>
+    <desc lang="it">Il professor Bones viene narcotizzato e rapito da una specie di Robot che ha bisogno di lui per arrivare al tesoro delle catacombe. Il pappagallo di Bones si rivolge a Clever e Bro, che saranno di nuovo di aiuto al detective MacFlare per risolvere l'intricata vicenda... - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <episode-num system="xmltv_ns">0 . 3 . </episode-num>
+  </programme>
+  <programme start="20260419112500 +0200" stop="20260419113500 +0200" channel="RaiGulp.it">
+    <title lang="it">Robin Hood - S3E29 - C'è sempre un trucco</title>
+    <desc lang="it">Nel cortile del castello il mago Landrin tiene uno spettacolo di magia che fa divertire tutti. Tuttavia, il ragazzo utilizza le sue doti per derubare i cittadini e viene scoperto da Robin e Marian. Finisce quindi in prigione, ma riesce a scappare giurando vendetta a Robin. Infatti, scocca una freccia in direzione di Robin, che sta per essere colpito. A questo punto, Marian, per aiutarlo, lancia un incantesimo che fa fermare il tempo per tutti i presenti al castello, tranne che per lei e Derke. Anche Landrin, caduto nel mentre nel fossato, non è stato colpito dalla magia e comincia a inseguire Marian per chiedere spiegazioni. Il ragazzo si rende conto che la principessa sa fare incantesimi veri e cerca in tutti i modi di rubarle la bacchetta e il libro. In seguito a uno scontro, Marian cade dalla torre e Robin si sveglia dall'incantesimo per salvarla. I due mettono Landrin in prigione dicendogli che la vera magia non esiste e quello di Marian era solo un trucco. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E29</episode-num>
+    <episode-num system="xmltv_ns">2 . 28 . </episode-num>
+  </programme>
+  <programme start="20260419113500 +0200" stop="20260419115000 +0200" channel="RaiGulp.it">
+    <title lang="it">Robin Hood - S3E30 - Scambio di carattere</title>
+    <desc lang="it">Al castello, il principe Giovanni si comporta male con tutti e Scarlett vorrebbe dargli una bella lezione. Per questo motivo, chiede a Marian di lanciargli un incantesimo che lo renda più gentile, ma la principessa rifiuta perché non ha abbastanza esperienza. Quindi le due decidono di fare pratica su una patata con la faccia del principe, ma l'incantesimo si ritorce sulla principessa, che acquisisce il carattere del cugino. Marian inizia a comportarsi come il principe Giovanni e, quindi, inizia a dare la caccia a Robin. Mentre usa la magia su Robin e i suoi compagni, Derke capisce che, per risolvere la situazione, bisogna lanciare un "Fermus totalis" sull'obiettivo iniziale dell'incantesimo, cioè sul "principe patata". Così Scarlett va in cerca della patata che, nel frattempo, è stata trovata da Isabelle, la figlia dello sceriffo. Per riprendersela, la ragazza le propone di scambiarla con il criceto Derke e la bambina accetta, felice. A questo punto, Robin provoca Scarlett al punto di farle lanciare il suddetto incantesimo, che si scaglia sulla patata, facendo tornare tutto alla normalità. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E30</episode-num>
+    <episode-num system="xmltv_ns">2 . 29 . </episode-num>
+  </programme>
+  <programme start="20260419115000 +0200" stop="20260419120000 +0200" channel="RaiGulp.it">
+    <title lang="it">Robin Hood - S3E31 - Voleranno scintille</title>
+    <desc lang="it">Il principe Giovanni vuole mettere contro vichinghi e abitanti del villaggio, per vendicare un torto che ha subito dai vichinghi. Assolda quindi quattro mercenari che, travestendosi, fanno dei dispetti agli uni e agli altri. Quando i due gruppi si stanno per scontrare apertamente, Robin svela la verità. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E31</episode-num>
+    <episode-num system="xmltv_ns">2 . 30 . </episode-num>
+  </programme>
+  <programme start="20260419120000 +0200" stop="20260419121500 +0200" channel="RaiGulp.it">
+    <title lang="it">Robin Hood - S3E32 - Il nuovo capo</title>
+    <desc lang="it">Harald viene colto alla sprovvista da Erik e i suoi scagnozzi, che gli rubano il martello e lo imprigionano in una caverna. Erik si dirige quindi all'accampamento e racconta a tutti di aver sconfitto Harald a duello e di averlo mandato in esilio: secondo la legge dei vichinghi ora il nuovo capo del clan è lui. Come prima cosa, ordina di saccheggiare il villaggio di re Riccardo. Insospettiti, Robin e i suoi amici scoprono che Erik ha ingannato tutti i vichinghi. Decidono quindi di andare a liberare Harald e riportarlo all'accampamento, smascherando così Erik e scongiurando una guerra tra re Riccardo e i vichinghi. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E32</episode-num>
+    <episode-num system="xmltv_ns">2 . 31 . </episode-num>
+  </programme>
+  <programme start="20260419121500 +0200" stop="20260419122000 +0200" channel="RaiGulp.it">
+    <title lang="it">Anselmo Wannabe - S1E19 - Il commercialista</title>
+    <desc lang="it">clienti ! Fargli pagare le tasse, su quelle non si scherza! Sarà tuo compito gestire le imprese per farle funzionare al meglio. Così quando pagheranno la tua parcella, penseranno soddisfatti a quanto sei stato bravo! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <episode-num system="xmltv_ns">0 . 18 . </episode-num>
+  </programme>
+  <programme start="20260419122000 +0200" stop="20260419123000 +0200" channel="RaiGulp.it">
+    <title lang="it">Anselmo Wannabe - S1E20 - L'astronauta</title>
+    <desc lang="it">Navigare nel cosmo è il sogno di ogni bambino. Ma bisogna essere scienziati e avere nervi saldi e una forma fisica impeccabile. E come si fa Anselmo con la paura del buio ? Basta una tuta illuminata e via si parte per la missione su Marte. Che stupore e che meraviglia la Terra da lassù! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <episode-num system="xmltv_ns">0 . 19 . </episode-num>
+  </programme>
+  <programme start="20260419123000 +0200" stop="20260419124000 +0200" channel="RaiGulp.it">
+    <title lang="it">Anselmo Wannabe - S1E21 - L'idraulico</title>
+    <desc lang="it">Accidenti a quello sgocciolio che non ti fa dormire Anselmo! Ci vuole tanta pratica per conoscere i segreti di tubi, caldaie, domotika, energia pulita! Ecco una chiamata urgente: per una perdita bisognerà capire dove finiscono tutti quei tubi! Parlarci dentro? Ma si un'idea geniale all'Anselmo. Se poi non funziona con tutta quell'acqua non resta che fare una bella piscina. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <episode-num system="xmltv_ns">0 . 20 . </episode-num>
+  </programme>
+  <programme start="20260419124000 +0200" stop="20260419130500 +0200" channel="RaiGulp.it">
+    <title lang="it">Mia and Me - S1E2 - La speranza di Centopia</title>
+    <desc lang="it">Derisa da Violetta per la sua imbarazzante prestazione atletica, Mia vuole andarsene dalla scuola per rifugiarsi nel più idilliaco mondo di Centopia. Ma stavolta deve risolvere un enigma per scoprire la password del suo braccialetto. Vincent, anche lui un po' isolato dagli altri studenti, aiuta Mia ma per poco non scopre il suo segreto. Su Centopia, Mia scopre che il dissonante Trumptus di Phuddle è più di quel che sembra ad un primo ascolto. Grazie all'aiuto di Mia, gli elfi hanno una nuova speranza di salvare Centopia. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <episode-num system="xmltv_ns">0 . 1 . </episode-num>
+  </programme>
+  <programme start="20260419130500 +0200" stop="20260419133000 +0200" channel="RaiGulp.it">
+    <title lang="it">Winx Club - The Magic is Back - S1E2 - Fata o strega?</title>
+    <desc lang="it">Bloom è in crisi quando scopre di dover sostenere un test ad Alfea per scoprire se è una fata o una strega. Le Trix sfruttano i suoi dubbi e la paura di non appartenere al mondo delle fate la getta nello sconforto. Toccherà alle Winx aiutarla a trovare la risposta dentro di sé - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <episode-num system="xmltv_ns">0 . 1 . </episode-num>
+  </programme>
+  <programme start="20260419133000 +0200" stop="20260419135500 +0200" channel="RaiGulp.it">
+    <title lang="it">Anatane e i ragazzi di Okura - S1E3 - Sabotaggio</title>
+    <desc lang="it">Anatane e i suoi amici hanno un incidente e il loro airgliss è distrutto. Si fermano quindi nella vicina città di Strasburgo e incontrano Flora, una ragazza che offre loro il suo aiuto, e sua nonna, Augusta, che mette a disposizione dei ragazzi un nuovo velivolo, un planef, per proseguire il loro viaggio verso Okura - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+  </programme>
+  <programme start="20260419135500 +0200" stop="20260419142000 +0200" channel="RaiGulp.it">
+    <title lang="it">Anatane e i ragazzi di Okura - S1E4 - Caduta libera</title>
+    <desc lang="it">I nostri eroi continuano il viaggio verso Okura, ma vengono intercettati da Denko. Riescono a sfuggirgli e non senza difficoltà riescono a raggiungere Marsiglia dove cercano una nave per raggiungere la Cina - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <episode-num system="xmltv_ns">0 . 3 . </episode-num>
   </programme>
   <programme start="20260419142000 +0200" stop="20260419144500 +0200" channel="RaiGulp.it">
     <title lang="it">Runes - La magia delle rune - S1E3 - Il ritratto</title>
@@ -25206,6 +26421,21 @@ Intanto Elena e Giuliano sono più innamorati che mai. Valerio, risolti i proble
     <desc lang="it">CARTONI ANIMATI - Vuoi fare un gioco superdivertente, senza regole o quasi? E in cui puoi usare tutto quello che ti piace: trucchi ninja, clave primitive, o robot telecomandati? Lo Spike Ball è lo sport che fa per te! No - n lo conosci? Beh, è stato appena inventato da Nino, Viola e Lj - Wang insieme al loro smart coach, Lucky! - di Marco Storani 2019 ITA - KKK</desc>
     <category lang="it" />
   </programme>
+  <programme start="20260419084000 +0200" stop="20260419103000 +0200" channel="RaiMovie.it">
+    <title lang="it">La poliziotta</title>
+    <desc lang="it">Lombardia, anni '70. Giovanna, da sempre sottomessa a famiglia e fidanzato, decide di cambiare vita e arruolarsi nei vigili urbani. Diventa un rigoroso tutore della legge, denunciando scandali e imbrogli senza timore. La sua integrità colpisce però persone troppo influenti: per metterla a tacere, la ragazza viene spedita ingiustamente al confino. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419103000 +0200" stop="20260419122000 +0200" channel="RaiMovie.it">
+    <title lang="it">Totò, Peppino e... la malafemmina</title>
+    <desc lang="it">Un giovane di belle speranze si innamora di un'attrice di varietà. La famiglia di lui è però contraria, a cominciare dai due buffi zii. Film di culto con tante scene da antologia. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419122000 +0200" stop="20260419141000 +0200" channel="RaiMovie.it">
+    <title lang="it">Amici di letto</title>
+    <desc lang="it">New York City, oggi. Dylan e Jamie, entrambi delusi dall'amore, stringono un patto: fare sesso senza lasciarsi andare al sentimento. Lui, art director a New York, e lei, cacciatrice di teste, scoprono un'intesa fisica perfetta. Riusciranno a mantenere la loro relazione senza che i sentimenti complichino tutto? Disponibile anche in lingua originale. - KKK</desc>
+    <category lang="it" />
+  </programme>
   <programme start="20260419141000 +0200" stop="20260419161500 +0200" channel="RaiMovie.it">
     <title lang="it">Mona Lisa Smile</title>
     <desc lang="it">La professoressa Katherine Watson arriva a Wellesley per insegnare storia dell'arte a ragazze destinate a un futuro da mogli benestanti. Il suo spirito anticonformista fatica a farsi strada nella società tradizionale americana degli anni '50, ma Katherine è una donna piena di risorse. Disponibile anche in lingua originale. - KKK</desc>
@@ -25592,6 +26822,46 @@ Intanto Elena e Giuliano sono più innamorati che mai. Valerio, risolti i proble
     <title lang="it">Il cammino per Santiago</title>
     <desc lang="it">Un medico americano, partito per recuperare il corpo del figlio deceduto all'inizio del "cammino per Santiago", si mette egli stesso in pellegrinaggio. Dal libro "Off the Road" di Jack Hitt. - KKK</desc>
     <category lang="it" />
+  </programme>
+  <programme start="20260419075000 +0200" stop="20260419091500 +0200" channel="RaiPremium.it">
+    <title lang="it">Ma tu mi vuoi bene? - 2ª Parte</title>
+    <desc lang="it">Una bambina abbandonata dalla nascita e con un carattere difficile, un'assistente sociale decisa e tenace, un giudice dal profondo senso morale. Una storia tormentata, ma con il lieto fine. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419091500 +0200" stop="20260419101500 +0200" channel="RaiPremium.it">
+    <title lang="it">Un Medico in Famiglia S6E13 - Il fantasma di Cettina</title>
+    <desc lang="it">I gemellini notano la sagoma di una donna dietro la finestra della casa dei Torello e credono che si tratti del fantasma di Cettina. Nonna Enrica, a tal proposito, organizza una seduta spiritica per evocarla insieme alle sue amiche. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S6 E13</episode-num>
+    <episode-num system="xmltv_ns">5 . 12 . </episode-num>
+  </programme>
+  <programme start="20260419101500 +0200" stop="20260419111500 +0200" channel="RaiPremium.it">
+    <title lang="it">Un Medico in Famiglia S6E14 - Baci rubati</title>
+    <desc lang="it">Un'amica di Annuccia sorprende Fanny e Lele. Annuccia, dopo averlo scoperto dall'amica, non accetta la nuova fidanzata del padre, al contrario della famiglia che è ancora un po' confusa. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S6 E14</episode-num>
+    <episode-num system="xmltv_ns">5 . 13 . </episode-num>
+  </programme>
+  <programme start="20260419111500 +0200" stop="20260419121000 +0200" channel="RaiPremium.it">
+    <title lang="it">Un Medico in Famiglia S6E15 - Vengo anch'io... no, tu no!</title>
+    <desc lang="it">Un collega confessa a Lele di essere innamorato di Fanny. Lele, imbarazzato, non gli rivela di avere una relazione con la ragazza. Intanto Ave dice a Guido che sua sorella non ha preso bene la notizia di avere un fratello. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S6 E15</episode-num>
+    <episode-num system="xmltv_ns">5 . 14 . </episode-num>
+  </programme>
+  <programme start="20260419121000 +0200" stop="20260419130500 +0200" channel="RaiPremium.it">
+    <title lang="it">Un Medico in Famiglia S6E16 - I delfini innamorati</title>
+    <desc lang="it">I gemelli convincono Bianca e Lele ad andare all'Acqua Park, dove sperano di farli innamorare. Fanny decide di seguirli per conoscere bene i gemelli, ma questi non ne vogliono proprio sapere… - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S6 E16</episode-num>
+    <episode-num system="xmltv_ns">5 . 15 . </episode-num>
+  </programme>
+  <programme start="20260419130500 +0200" stop="20260419140000 +0200" channel="RaiPremium.it">
+    <title lang="it">Un Medico in Famiglia S6E17 - Ti presento i miei</title>
+    <desc lang="it">Fanny decide di presentare Lele alla sua famiglia. Ave riceve il permesso dai Martini di trasferirsi a casa loro, perché la colf Melina non è in grado di badare alla bambina da sola. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S6 E17</episode-num>
+    <episode-num system="xmltv_ns">5 . 16 . </episode-num>
   </programme>
   <programme start="20260419140000 +0200" stop="20260419150000 +0200" channel="RaiPremium.it">
     <title lang="it">Un Medico in Famiglia S6E18 - All'ombra del cupolone</title>
@@ -26541,6 +27811,41 @@ Intanto Elena e Giuliano sono più innamorati che mai. Valerio, risolti i proble
     <episode-num system="onscreen">S1 E1</episode-num>
     <episode-num system="xmltv_ns">0 . 0 . </episode-num>
   </programme>
+  <programme start="20260419090000 +0200" stop="20260419093000 +0200" channel="RaiScuola.it">
+    <title lang="it">Memex Nautilus - Gli Elementi più reatti</title>
+    <desc lang="it">Memex Nautilus - Gli Elementi più reattivi della Tavola, i metalli alcalini e alcalino/terrosi - Nautilus è il programma di informazione e approfondimento scientifico di Rai Cultura. Con l'astrofisico e di - vulgatore Luca Perri andiamo alla scoperta del mondo che ci circonda e delle sue regole. In questa puntata, dedicata alla Tavola Periodica degli Elementi, ci occupiamo di alcuni degli elementi più reattivi in natura, che si trovano tutti nella parte più a sinistra della Tavola: i metalli alcalini e quelli alcalino/terrosi. A farci da guida in studio, assieme a Luca Perri, è il chimico e divulgatore scientifico Silvano Fuso, con il supporto delle schede tecniche realizzate con il chimico del CNR Pietro Calandra. Con Anna Pancaldi facciamo invece un viaggio indietro nel tempo di quattrocento anni, nell'Inghilterra del Diciasettesimo secolo, per fare la conoscenza di Sir Humprhy Davy e dei 'miracolosi' sali di Epsom. - un programma di Diego Garbati e Francesco Linguiti - con la collaborazione di Catia Barone, Massimo Bongiorno, Davide Coero Borga, Federica De Maria, Daniela Mazzoli, Pierluigi Pantini, Luca Perri, Nicoletta Piu, Pino Roggero - a cura di Eleonora Ottaviani - produttore esecutivo Livia Lauriola - progetto a cura di Diego Garbati - regia Pierluigi Pantini - conduce Luca Perri con la partecipazione di Anna Pancaldi - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419093000 +0200" stop="20260419100000 +0200" channel="RaiScuola.it">
+    <title lang="it">Memex Memex Doc - Vita da Ricercatore (p</title>
+    <desc lang="it">Memex Memex Doc - Vita da Ricercatore (p. 17): Catalina Curceanu, fisica - Con Davide Coero Borga andiamo alla scoperta della vita quotidiana di chi fa ricerca: storie di ordinario entusiasmo. Giovani curi - osi, coraggiosi sperimentatori, eruditi, non manca nessuno a questo bizzarro bestiario del mondo scientifico. Un'allegra incursione dentro e fuori i laboratori, i posti frequentati o direttamente a domicilio. Una spedizione sul campo perché, come diceva Feynman: l'esperimento è il solo giudice della verità scientifica. In questa puntata incontriamo Catalina Curceanu, fisica. - Un programma di Davide Coero Borga e Pino Roggero - A cura di Eleonora Ottaviani - Produttore esecutivo Livia Lauriola - Progetto a cura di Diego Garbati - Regia Mario Ferrari e Giuseppe Cembalo - Conduce Davide Coero Borga - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419100000 +0200" stop="20260419110000 +0200" channel="RaiScuola.it">
+    <title lang="it">Touch Sky - Carte mappe atlanti celesti</title>
+    <desc lang="it">Alla scoperta dei rari atlanti celesti, delle cartografie lunari e di quelle del Sistema solare, custoditi presso gli Osservatori INAF. Un viaggio fatto insieme alle persone che li preservano e contribuisco - no alla loro valorizzazione, per raccontare il contributo italiano alla visione e alla conoscenza del cosmo. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419110000 +0200" stop="20260419114500 +0200" channel="RaiScuola.it">
+    <title lang="it">Meraviglie naturali della Danimarca Il l</title>
+    <desc lang="it">Meraviglie naturali della Danimarca Il lago e il fiume Ep.4 - Il colorato e veloce martin pescatore si tuffa sott'acqua per catturare i pesci, il castoro costruisce la sua diga con qualsiasi cosa, da tronc - hi d'albero a piccoli ramoscelli, per proteggere l'ingresso della sua tana, e la trota di mare nuota per centinaia di chilometri a monte per deporre le uova. Scopriamo la fauna selvatica degli innumerevoli laghi e torrenti della Danimarca. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419114500 +0200" stop="20260419123000 +0200" channel="RaiScuola.it">
+    <title lang="it">Serengeti Serie 2 Ep. 1 - Intrigo</title>
+    <desc lang="it">Mentre i nostri personaggi portano nuova vita nella pianura del Serengeti, in tempi di pace, divertimento, tranquillità e nuove rivalità, una grande tempesta si sta preparando per trasformare il loro mondo accogl - iente in un umido incubo. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419123000 +0200" stop="20260419133000 +0200" channel="RaiScuola.it">
+    <title lang="it">Di là dal fiume tra gli alberi L'isola d</title>
+    <desc lang="it">Di là dal fiume tra gli alberi L'isola di Marettimo - Ep. 7 - Marettimo, la più lontana, montuosa e selvaggia dell'arcipelago delle Egadi, stupisce per i suoi colori, i suoi odori e le sue forme. La poca g - ente che rimane d'inverno sull'isola, vive felice, con ritmi calmi, rilassati e gioviali, un luogo che riesce a trasmettere con la propria autenticità l'amore per la propria terra. - di Vincenzo Saccone - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419133000 +0200" stop="20260419142000 +0200" channel="RaiScuola.it">
+    <title lang="it">Racconti di Scienza Ep. 10 - Disaster En</title>
+    <desc lang="it">Racconti di Scienza Ep. 10 - Disaster Engineered - La Tragedia del Titanic e dell'Hindenburg - KKK</desc>
+    <category lang="it" />
+  </programme>
   <programme start="20260419142000 +0200" stop="20260419150000 +0200" channel="RaiScuola.it">
     <title lang="it">Digital world Etica e pensiero critico d</title>
     <desc lang="it">Digital world Etica e pensiero critico digitale. - È sempre più necessario avere delle buone regole da osservare per praticare il bene comune, con norme e valori che regolano il nostro modo di agire, nell' - utilizzo della rete e dei social. Parliamo di etica e di pensiero critico digitale e lo facciamo in compagnia di Luciano Floridi, Derrick De Kerchove, Maura Gancitano, Fabio Ciotti. - KKK</desc>
@@ -27431,6 +28736,29 @@ Intanto Elena e Giuliano sono più innamorati che mai. Valerio, risolti i proble
     <desc lang="it">Paesaggi Vitivinicoli Langhe Roero e Monferrato Ep. 2 - Le dolci colline - Il sito UNESCO dei Paesaggi vitivinicoli del Piemonte: Langhe - Roero e Monferrato - Dalla tenuta di Fontanafredda, a Serralunga d'A - lba, nel cuore del Piemonte, Chiara Buratti ci accompagna in un viaggio alla scoperta dei "Paesaggi vitivinicoli Langhe - Roero e Monferrato", dichiarati Patrimonio mondiale dell'Umanità dall'Unesco nel 2014. A dieci anni dal riconoscimento universale, quest'area geografica che si estende per circa 11.000 ettari nella parte meridionale del Piemonte, continua a essere oggetto di studio e di valorizzazione per la sua tutela culturale, economica, sociale e ambientale. Lo scopriamo in modo dettagliato grazie alle testimonianze di Luca Mercalli, Presidente della Società Meteorologica, e di Mario Tozzi, Primo ricercatore CNR e divulgatore scientifico. Conosciamo anche i protagonisti del territorio impegnati in prima linea tra tradizione e innovazione in campo vitivinicolo, come Attilio Pecchenino, viticoltore in Dogliani e Michela Adriano, vignaiola in Alba, insieme al professore Antonio Potenza dell'Istituto Nicola Pellati di Nizza Monferrato e alla biotecnologa Antonella Costantini del CREA - Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria - di Asti. Gli economisti Irene Rotellini e Guido Guerzoni si soffermano sulla ricerca dedicata agli impatti socioeconomici del titolo Unesco prodotta in occasione del decennale, cui si aggiungono le riflessioni di Giovanna Quaglia e Bruno Bertero, rispettivamente Presidente e Direttore del sito UNESCO "Paesaggi Vitivinicoli del Piemonte: Langhe - Roero e Monferrato", e dell'antropologo Piercarlo Grimaldi. - KKK</desc>
     <category lang="it" />
   </programme>
+  <programme start="20260419073000 +0200" stop="20260419093000 +0200" channel="RaiSport.it">
+    <title lang="it">Calcio: Qualificazioni Mondiali femminili 2027 - Gruppo A1: Danimarca - Italia</title>
+    <desc lang="it">Prosegue il cammino della Nazionale femminile nelle qualificazioni al Campionato Mondiale 2027. Nel Gruppo A1, l'Italia affronta in trasferta la Danimarca in una sfida di alto profilo che può indirizzare il percorso verso la fase finale. In diretta da Copenaghen, una gara cruciale contro una delle avversarie più competitive del girone. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2025 .  . </episode-num>
+  </programme>
+  <programme start="20260419093000 +0200" stop="20260419113000 +0200" channel="RaiSport.it">
+    <title lang="it">Calcio: Camp. Italiano Serie C Sky Wifi 2025/26 37a giornata</title>
+    <desc lang="it">Calcio: Camp. Italiano Serie C Sky Wifi 2025/26 37a giornata - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419113000 +0200" stop="20260419130000 +0200" channel="RaiSport.it">
+    <title lang="it">Nuoto: Campionato Italiano Primaverile Unipol 2026 - Riccione: Finali (5a giornata)</title>
+    <desc lang="it">Campionato Italiano Primaverile Unipol - Riccione: Finali (5a giornata) - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2025 .  . </episode-num>
+  </programme>
+  <programme start="20260419130000 +0200" stop="20260419140000 +0200" channel="RaiSport.it">
+    <title lang="it">Karate - Campionati Italiani Assoluti 2026</title>
+    <desc lang="it">Campionati Italiani Assoluti - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2025 .  . </episode-num>
+  </programme>
   <programme start="20260419140000 +0200" stop="20260419161000 +0200" channel="RaiSport.it">
     <title lang="it">Judo - Campionati Europei Senior 2026 - Tiblisi: Finali (4a giornata)</title>
     <desc lang="it">Giornata conclusiva dei Campionati Europei di judo senior a Tbilisi. Sul tatami le categorie più pesanti, - 78kg e +78kg femminili e - 100kg e +100kg maschili, per assegnare le ultime medaglie e chiudere la rassegna continentale. - KKK</desc>
@@ -27904,6 +29232,73 @@ Intanto Elena e Giuliano sono più innamorati che mai. Valerio, risolti i proble
   <programme start="20260424234500 +0200" stop="20260425000000 +0200" channel="RaiSport.it">
     <title lang="it">TG Sport Notte</title>
     <desc lang="it">TG Sport Notte - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419090000 +0200" stop="20260419091000 +0200" channel="RaiStoria.it">
+    <title lang="it">Scritto, letto, detto - Laura Di Fiore</title>
+    <desc lang="it">Giovanni Paolo Fontana intervista scrittori, giornalisti e testimoni. La storica Laura Di Fiore analizza l'intreccio nel Mezzogiorno di alcune forme di violenza politica con quella criminale e con l'azione delle istituzioni deputate all'ordine pubblico, tra la fine del Settecento e l'unificazione italiana. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2024 .  . </episode-num>
+  </programme>
+  <programme start="20260419091000 +0200" stop="20260419092000 +0200" channel="RaiStoria.it">
+    <title lang="it">Screenshot. Gli artisti e la loro storia - Pietro Annigoni, Autoritratto (pt7)</title>
+    <desc lang="it">Classe 1910, Pietro Annigoni è noto come 'il pittore delle regine': realizzò infatti diversi ritratti reali, primo fra tutti quello della regina Elisabetta II d'Inghilterra e altri membri della famiglia. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2026 E7</episode-num>
+    <episode-num system="xmltv_ns">2025 . 6 . </episode-num>
+  </programme>
+  <programme start="20260419092000 +0200" stop="20260419100000 +0200" channel="RaiStoria.it">
+    <title lang="it">Passato e Presente - Le elezioni del '48 - 13/04/2018</title>
+    <desc lang="it">18 aprile 1948. Da meno di due anni l'Italia ha scelto la repubblica e ora, in un contesto di profondi mutamenti, di crisi politiche e sociali, gli italiani, per la prima volta, partecipano alle elezioni politiche di uno Stato democratico. È il primo grande spartiacque politico dell'Italia repubblicana, segnato dallo scontro frontale tra Democrazia Cristiana e Fronte Popolare Socialcomunista. La campagna elettorale tra i due schieramenti, guidati da Togliatti e De Gasperi, è stata aspra, ma non ha offuscato ciò che è chiaro a entrambi: gli italiani devono andare in massa alle urne. Così, a votare si recano quasi 27 milioni di persone, il 92,23% degli aventi diritto. Gli italiani hanno scelto di contare nelle decisioni. Una consultazione decisiva, non solo per il governo del Paese, ma per il suo stesso collocamento internazionale. La netta vittoria della democrazia cristiana, grazie anche al ruolo della Chiesa, consolida l'ancoraggio dell'Italia all'Occidente e apre una lunga stagione di centralità democristiana nella vita politica nazionale. In studio con Paolo Mieli il professor Agostino Giovagnoli. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2016 .  . </episode-num>
+  </programme>
+  <programme start="20260419100000 +0200" stop="20260419103000 +0200" channel="RaiStoria.it">
+    <title lang="it">L'intellettuale e la spia - Il caso Pitigrilli</title>
+    <desc lang="it">Un documentario dedicato agli intellettuali antifascisti torinesi, membri di Giustizia e Libertà. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419103000 +0200" stop="20260419113500 +0200" channel="RaiStoria.it">
+    <title lang="it">Città Novecento</title>
+    <desc lang="it">La nascita, lo sviluppo ed il presente della città - fabbrica di Colleferro, fondata e cresciuta insieme alla sua industria, dagli anni Dieci del Novecento ai giorni nostri. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419113500 +0200" stop="20260419114500 +0200" channel="RaiStoria.it">
+    <title lang="it">Dieci minuti con... - Riccardo Bacchelli</title>
+    <desc lang="it">Incontro con lo scrittore Riccardo Bacchelli (19 aprile 1891 - 8 ottobre 1985) che parla del suo romanzo più celebre "Il Mulino del Po" e della sua passione per il teatro e i viaggi. Di Domenico Porzio (1958) - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419114500 +0200" stop="20260419120500 +0200" channel="RaiStoria.it">
+    <title lang="it">Il giorno e la storia</title>
+    <desc lang="it">Persone, eventi e ricorrenze del 19 aprile 2026. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419120500 +0200" stop="20260419130000 +0200" channel="RaiStoria.it">
+    <title lang="it">Italiani. Roberto Bracco - Emma e Irma Gramatica</title>
+    <desc lang="it">Il nesso tra Roberto Bracco e le sorelle Gramatica è costituito dall'affetto che lega la più giovane, Emma, all'autore teatrale, ingiustamente messo all'angolo nel ventennio fascista. Sarà Emma a riportare infatti in scena Bracco, inviso a Mussolini e al regime, con la rappresentazione de "I Pazzi", l'ultima opera scritta dal bistrattato autore. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="xmltv_ns">2019 .  . </episode-num>
+  </programme>
+  <programme start="20260419130000 +0200" stop="20260419134000 +0200" channel="RaiStoria.it">
+    <title lang="it">Discoring - Puntata del 13/03/1977</title>
+    <desc lang="it">Bruno Martino canta "E la chiamano estate"; in anteprima assoluta "Da lunedì", eseguita dal duo musicale I San Francisco. Dopo l'ascolto di numerosi brani grazie alla dj Antonella, in studio è ospite il cantante Mal che interpreta "Penne colorate". - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1977 E4</episode-num>
+    <episode-num system="xmltv_ns">1976 . 3 . </episode-num>
+  </programme>
+  <programme start="20260419134000 +0200" stop="20260419135500 +0200" channel="RaiStoria.it">
+    <title lang="it">Marisa La Nuit - Lettera di Totò e Peppino</title>
+    <desc lang="it">Marisa Laurito propone la lettera di Totò e Peppino, un estratto dal famoso film "Totò, Peppino e la... malafemmina". - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419135500 +0200" stop="20260419140000 +0200" channel="RaiStoria.it">
+    <title lang="it">Marisa La Nuit - Electoral</title>
+    <desc lang="it">Marisa Laurito e Renzo Arbore presentano Mario Merola, noto cantante della sceneggiata napoletana. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419140000 +0200" stop="20260419142000 +0200" channel="RaiStoria.it">
+    <title lang="it">Il giorno e la storia</title>
+    <desc lang="it">Persone, eventi e ricorrenze del 19 aprile 2026. - KKK</desc>
     <category lang="it" />
   </programme>
   <programme start="20260419142000 +0200" stop="20260419150000 +0200" channel="RaiStoria.it">
@@ -29112,6 +30507,314 @@ Intanto Elena e Giuliano sono più innamorati che mai. Valerio, risolti i proble
     <title lang="it">Reduci. Le ultime memorie della Seconda guerra mondiale</title>
     <desc lang="it">Ad ottant'anni dalla fine del secondo conflitto mondiale, una ricerca degli ultimi reduci italiani ha permesso di ripercorrere attraverso i ricordi dei protagonisti le vicende belliche del nostro Paese, dalla dichiarazione di guerra del 10 giugno 1940 fino alla Liberazione del 25 aprile 1945. Un racconto che, sfidando la labilità della memoria, rievoca alcune tra le più drammatiche battaglie che coinvolsero i soldati italiani, come Nikolajewka ed El Alamein, la tragica ritirata dell'ARMIR, la violenza durante l'occupazione della Jugoslavia e nella Repubblica Sociale Italiana, gli atti di eroismo e di generosità sui diversi fronti di guerra, dalla steppa russa al deserto africano. Un'occasione per ascoltare le testimonianze dei protagonisti che, attraverso le loro ultime parole, compongono uno spietato testamento contro la guerra. Con la partecipazione dello storico Mauro Canali. - KKK</desc>
     <category lang="it" />
+  </programme>
+  <programme start="20260419090000 +0200" stop="20260419092000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Vampirina - S3E72 - Facciamo un tuffo / La gara di incantesimi</title>
+    <desc lang="it">La migliore amica di Vi in Transilvania, viene in visita in Pennsylvania al Festival delle Lucciole, durante un'ondata di caldo. Vi partecipa all'annuale gara di Incantesimi della Transilvania - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E72</episode-num>
+    <episode-num system="xmltv_ns">2 . 71 . </episode-num>
+  </programme>
+  <programme start="20260419092000 +0200" stop="20260419092500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Minnie's Bow - Toons - S3E35 - Panico al picnic</title>
+    <desc lang="it">Mentre Cucù Loca si diverte a sguazzare nella piscina per uccelli, Paperina prepara il suo pezzo forte da picnic per Minnie e Clarabella! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E35</episode-num>
+    <episode-num system="xmltv_ns">2 . 34 . </episode-num>
+  </programme>
+  <programme start="20260419092500 +0200" stop="20260419093000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Minnie's Bow - Toons - S3E36 - Il tempo del tacchino</title>
+    <desc lang="it">Che abbondanza! Minnie e Paperina preparano un tacchino arrosto gigante per Clarabella e le gemelle, ma il tacchino ha altri programmi - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E36</episode-num>
+    <episode-num system="xmltv_ns">2 . 35 . </episode-num>
+  </programme>
+  <programme start="20260419093000 +0200" stop="20260419093500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Maddie e Triggs - S1E29 - In viaggio con lo zio George</title>
+    <desc lang="it">Maddie e Triggs esplorano il mondo attraverso le cartoline dello zio George, viaggiando con la fantasia. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E29</episode-num>
+    <episode-num system="xmltv_ns">0 . 28 . </episode-num>
+  </programme>
+  <programme start="20260419093500 +0200" stop="20260419094500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Maddie e Triggs - S1E30 - Campane brontolone</title>
+    <desc lang="it">Maddie, Triggs e la nonna scoprono che le campane della torre non "cantano" più perché sono arrugginite e scoraggiate. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E30</episode-num>
+    <episode-num system="xmltv_ns">0 . 29 . </episode-num>
+  </programme>
+  <programme start="20260419094500 +0200" stop="20260419095000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Maddie e Triggs - S1E31 - Gli opposti si attraggono</title>
+    <desc lang="it">Maddie e Triggs non riescono a godersi il finale di Gatto Trombetta perché ognuno trova insopportabili i rumori che fa l'altro mangiando. Con l'aiuto di papà, scoprono che anche quei piccoli difetti possono diventare qualcosa da apprezzare. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <episode-num system="xmltv_ns">0 . 30 . </episode-num>
+  </programme>
+  <programme start="20260419095000 +0200" stop="20260419100000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Maddie e Triggs - S1E32 - Lo yodel di Bertha</title>
+    <desc lang="it">Maddie, Triggs e la mamma salgono sulla collina di Higgledy Piggledy, dove incontrano Bertha, una capra esperta di yodel. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E32</episode-num>
+    <episode-num system="xmltv_ns">0 . 31 . </episode-num>
+  </programme>
+  <programme start="20260419100000 +0200" stop="20260419101000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Olga da Polga - S1E8 - La danza della Fata Confetto</title>
+    <desc lang="it">Olga si sente un po' fuori forma, e rimane sconvolta da un temporale. Dopo averla portata dalla veterinaria con scarsi risultati, la famiglia Paglia vede in tv una ballerina che sulle note della Danza della Fata confetto, fa sentire molto meglio Olga. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <episode-num system="xmltv_ns">0 . 7 . </episode-num>
+  </programme>
+  <programme start="20260419101000 +0200" stop="20260419102000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Olga da Polga - S1E9 - Olga e il drago</title>
+    <desc lang="it">Un rumore forte sta turbando il signor Paglia. Che cosa potrebbe essere?  Forse un drago? Olga sostiene di poter controllare il drago, ma sta dicendo la verità? - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <episode-num system="xmltv_ns">0 . 8 . </episode-num>
+  </programme>
+  <programme start="20260419102000 +0200" stop="20260419103500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Olga da Polga - S1E10 - Il grande squittio</title>
+    <desc lang="it">Olga partecipa a "Il grande squittio" - una competizione per trovare il porcellino d'India più rumoroso della città! Tuttavia, Olga avrà bisogno di aiuto per battere gli altri porcellini... - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <episode-num system="xmltv_ns">0 . 9 . </episode-num>
+  </programme>
+  <programme start="20260419103500 +0200" stop="20260419104000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Brave Bunnies - S2E29 - Le scatole magiche</title>
+    <desc lang="it">I Brave Bunnies sono accampati a casa della famiglia Volpe. I coniglietti sono alle prese con un'altra giornata all'insegna del divertimento: tra scatole magiche e castelli fiabeschi, Bop, Boo e Franny diventeranno "i costruttori reali" al servizio della Regina Coniglietta. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2 E29</episode-num>
+    <episode-num system="xmltv_ns">1 . 28 . </episode-num>
+  </programme>
+  <programme start="20260419104000 +0200" stop="20260419104500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Brave Bunnies - S2E30 - Il bunny - insetto</title>
+    <desc lang="it">I Brave Bunnies vanno dalla famiglia delle Tigri. Bop e Boo ne approfittano per imparare da Garry tante cose sugli insetti. Perciò andranno in giro per il giardino di casa alla ricerca di nuove specie. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2 E30</episode-num>
+    <episode-num system="xmltv_ns">1 . 29 . </episode-num>
+  </programme>
+  <programme start="20260419104500 +0200" stop="20260419105500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Brave Bunnies - S2E31 - Robot in concerto</title>
+    <desc lang="it">Boo e Bop, accompagnati dalla loro mamma, vanno a giocare a casa di Bao, la loro amica panda. Il signor Panda ha preparato un nuovo gioco che prevede l'utilizzo del robot di casa Blinky. Per fortuna anche Boo ha portato con sé il suo bunny - robot, così potranno giocare tutti insieme imparando a fare musica. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2 E31</episode-num>
+    <episode-num system="xmltv_ns">1 . 30 . </episode-num>
+  </programme>
+  <programme start="20260419105500 +0200" stop="20260419110000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Brave Bunnies - S2E32 - Costumi a caso</title>
+    <desc lang="it">I Brave Bunnies sono a casa dei loro amici, la famiglia delle scimmie. Li stanno aiutando a prepararsi perché sono in partenza per il prossimo tour di spettacoli. Nel frattempo Boo, Bop, Chuka e Chika si inventano un nuovo gioco: travestirsi in maniera casuale con i vestiti di scena! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2 E32</episode-num>
+    <episode-num system="xmltv_ns">1 . 31 . </episode-num>
+  </programme>
+  <programme start="20260419110000 +0200" stop="20260419111000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Alice &amp; Lewis - S2E51 - Manie di gentilezza</title>
+    <desc lang="it">Dinah è stufa di dover usare le buone maniere all'ora del tè con la Regina, così usa una porta verde per creare una sua sosia molto gentile. Le chiede di sostituirla solo per la durata del banchetto ma alla nuova Dinah sembra piacere molto il Paese delle Meraviglie. Siamo sicuri che non decida di voler restare? - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2 E51</episode-num>
+    <episode-num system="xmltv_ns">1 . 50 . </episode-num>
+  </programme>
+  <programme start="20260419111000 +0200" stop="20260419112500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Alice &amp; Lewis - S2E52 - L'equilibrio</title>
+    <desc lang="it">Aiuto, il castello della Regina si è inclinato! Serve l'aiuto dell'Architetto del Paese delle Meraviglie per sistemarlo, il problema è che nessuno lo conosce. Alice e Lewis si rivolgono al Bibliomago ma nemmeno lui ricorda chi sia. L'unica soluzione è controllare nel Campo dei Ricordi per scoprire la sua identità. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2 E52</episode-num>
+    <episode-num system="xmltv_ns">1 . 51 . </episode-num>
+  </programme>
+  <programme start="20260419112500 +0200" stop="20260419113500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Alice &amp; Lewis - S2E1 - Il dentino dei desideri</title>
+    <desc lang="it">Lewis cade e perde un dentino, questo gli dà la possibilità di esprimere un desiderio che si avvererà immediatamente. La cosa suscita l'interesse di tutti gli abitanti del Paese delle Meraviglie che fanno di tutto per accaparrarsi il prezioso tesoro. Alice dovrà̀ giocare d'astuzia per permettere all'amico di conservare il suo dentino. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <episode-num system="xmltv_ns">1 . 0 . </episode-num>
+  </programme>
+  <programme start="20260419113500 +0200" stop="20260419114000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Lampadino e Caramella nel MagiRegno degli Zampa - S1E1 - Viva il circo</title>
+    <desc lang="it">Entrando al Parco dell'Elefante, Lampadino e Caramella notano il grande tendone di un circo. A loro piace tanto perché, grazie ai suoi spettacoli, dona molta allegria. Al contrario, quando giungono nel MagiRegno dal loro amico Zampacorta, scoprono che Duca Puzzoloso ha cosparso il polline dei Fiori della Tristezza ed ora nessuno ride più. Solo una grande gioia può rimettere le cose a posto: così i due fratellini propongono di organizzare un grande spettacolo circense - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <episode-num system="xmltv_ns">0 . 0 . </episode-num>
+  </programme>
+  <programme start="20260419114000 +0200" stop="20260419114500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Lampadino e Caramella nel MagiRegno degli Zampa - S1E2 - Ossa preistoriche</title>
+    <desc lang="it">Nel Parco dell'Elefante i bambini sono fermi ad ammirare gli scheletri di enormi lucertole. Lampadino spiega a Caramella che si tratta di una mostra di dinosauri, gli antichi abitanti della Terra. Subito dopo vanno nel MagiRegno dal loro amico Zampacorta che li invita a partecipare, insieme agli altri cuccioli, a una caccia al tesoro. Un mistero decifrare il primo indizio, ma un mistero ancora più grande è scoprire cosa sarà mai il grande osso trovato casualmente da Lampadino - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <episode-num system="xmltv_ns">0 . 1 . </episode-num>
+  </programme>
+  <programme start="20260419114500 +0200" stop="20260419115500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Lampadino e Caramella nel MagiRegno degli Zampa - S1E3 - Le regole del gioco</title>
+    <desc lang="it">Alcuni bambini giocano a ruba - bandiera nel Parco dell'Elefante. Lampadino e Caramella si fermano a guardare e rimangono affascinati quando, senza approfittare dell'inciampo dell'avversaria, l'altra bambina ha preferito fermarsi e aiutarla. Anche nel MagiRegno si svolge una grande competizione: la MagiMaratona, una lunga corsa cui tutti possono partecipare. Anche Duca Puzzoloso. Ma ci sono precise regole da rispettare per decretare l'unico vincitore - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+  </programme>
+  <programme start="20260419115500 +0200" stop="20260419120000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Lampadino e Caramella nel MagiRegno degli Zampa - S1E4 - La gara di mongolfiere</title>
+    <desc lang="it">Giornata ventosa al Parco dell'Elefante. Un vento così forte che con un mulinello fa volare via il cappellino di Willy. Lampadino spiega che ciò avviene quando il vento soffia da diverse posizioni. Nel MagiRegno, invece, è una giornata tranquilla ed è stata organizzata una gara di mongolfiere. I due fratellini, insieme a Zampacorta, gareggiano guidati da capitan Pizzorosso. I loro sfidanti, Lupo Solitario e le pecore Molly, Polly e Dolly, sono agguerriti ma, misteriosamente, finiscono fuori percorso a causa di un vento insolito... - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <episode-num system="xmltv_ns">0 . 3 . </episode-num>
+  </programme>
+  <programme start="20260419120000 +0200" stop="20260419120500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Mini Cuccioli e i DinoCuccioli - S1E17 - I Popcorn giganti</title>
+    <desc lang="it">I Mini Cuccioli sono attratti da un profumino. Viene dai popcorn giganti al gusto di fragola, fatti con le pannocchie dell'orto dei DinoCuccioli. Bernoccolo spiega che per avere piante così basta annaffiarle ogni mattina. Cilindro fa crescere una carota gigante, ma quando l'assaggia, sa di zucca! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <episode-num system="xmltv_ns">0 . 16 . </episode-num>
+  </programme>
+  <programme start="20260419120500 +0200" stop="20260419121000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Mini Cuccioli e i DinoCuccioli - S1E18 - Gincana sulle cime degli alberi</title>
+    <desc lang="it">I Mini Cuccioli parlano della paura e ognuno la immagina a modo suo. Giunti alla Valle, sono messi alla prova. Infatti, i DinoCuccioli li portano sulla gincana, i ponti tibetani sospesi tra gli alberi. Cilindro vede le mani della paura, Portatile affronta la prova. Alla fine, tutti superano i ponti - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <episode-num system="xmltv_ns">0 . 17 . </episode-num>
+  </programme>
+  <programme start="20260419121000 +0200" stop="20260419121500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Mini Cuccioli e i DinoCuccioli - S1E19 - Il Dinogigante di pietra</title>
+    <desc lang="it">Mini Cuccioli e DinoCuccioli giocano a palla, ma Nicola il picchio preferisce il suo videogioco. Attila dice che anche i dinosauri ne hanno uno: il Dinogigante. Così, invita l'amico a provarlo. È una statua di pietra simile a un videogioco. I due si divertono così tanto che Nicola si dimentica del suo! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <episode-num system="xmltv_ns">0 . 18 . </episode-num>
+  </programme>
+  <programme start="20260419121500 +0200" stop="20260419122500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Mini Cuccioli e i DinoCuccioli - S1E20 - Sfilata improvvisata</title>
+    <desc lang="it">Diva e Cocò preparano una sfilata di moda nella Valle dei DinoCuccioli e coinvolgono Dattila. Creano gli abiti con elementi naturali e sarà premiata la modella con il look più creativo. Durante la sfilata però le tre modelle hanno dei contrattempi. Alla fine, vince Gelsomina con la sua idea geniale - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <episode-num system="xmltv_ns">0 . 19 . </episode-num>
+  </programme>
+  <programme start="20260419122500 +0200" stop="20260419123000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Mini Cuccioli e i DinoCuccioli - S1E21 - Nascondinosauro</title>
+    <desc lang="it">I Mini Cuccioli giocano con i DinoCuccioli a "nascondinosauro" nell'Altopiano Colorato: dovranno trovare i dinosauri nella vegetazione. Uno alla volta, i DinoCuccioli si mimetizzano e non è facile per i Mini Cuccioli trovarli. È divertente, ma la prossima volta saranno i Mini Cuccioli a nascondersi! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <episode-num system="xmltv_ns">0 . 20 . </episode-num>
+  </programme>
+  <programme start="20260419123000 +0200" stop="20260419123500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Topo Tip - S2E5 - Voglio perdere il dentino!</title>
+    <desc lang="it">In un bel pomeriggio di sole, Tip riceve i suoi amici in giardino. Mentre la mamma e Marylou bevono una tazza di tè, i cuccioli giocano ai mostri. Improvvisamente, Tip si accorge che qualcosa non va: il suo dente davanti dondola. Che si stia trasformando in un mostro sdentato? Sulle prime, gli amici vogliono proteggere il dente di Tip, ma quando la mamma gli spiega che il dondolio del dente è un segno che sta crescendo, Tip fa di tutto per liberarsene subito. Riuscirà, alla fine, a diventare un cucciolo adulto? - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <episode-num system="xmltv_ns">1 . 4 . </episode-num>
+  </programme>
+  <programme start="20260419123500 +0200" stop="20260419124500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Topo Tip - S2E6 - Il malumore è contagioso</title>
+    <desc lang="it">Chissà, forse è sceso dalla parte sbagliata del letto, ma oggi Tip è proprio di cattivo umore. E quel che è peggio, il suo cattivo umore sembra contagiare chiunque gli stia vicino, prima Tippy, a colazione, poi i suoi compagni all'asilo. Che il cattivo umore sia una malattia contagiosa, come il raffreddore? Tip e i suoi amici iniziano a essere preoccupati. Non resta che una visita dal dottor Codoni per togliersi il dubbio e far sì che una giornata cominciata male si trasformi in uno splendido pomeriggio insieme - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <episode-num system="xmltv_ns">1 . 5 . </episode-num>
+  </programme>
+  <programme start="20260419124500 +0200" stop="20260419125000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Topo Tip - S2E7 - Signor inverno</title>
+    <desc lang="it">A Tip non piace affatto l'inverno, lo trova troppo freddo. Tanto che non vuole neppure far visita ai nonni. Per fargli cambiare idea, i nonni decidono di portarlo a scoprire le bellezze del Signor Inverno. I ghiaccioli, lo stagno gelato e l'aria fresca hanno qualcosa di magico... e anche il fatto che le giornate siano più corte comporta dei vantaggi: quella sera, approfittando che viene buio presto, al villaggio ci sarà un fantastico festival delle lanterne, aperto a grandi e piccini. Eh sì, dopotutto, l'inverno non è così male! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <episode-num system="xmltv_ns">1 . 6 . </episode-num>
+  </programme>
+  <programme start="20260419125000 +0200" stop="20260419130000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Topo Tip - S2E8 - Com'è difficile chiedere scusa</title>
+    <desc lang="it">Tip e gli altri cuccioli sono all'asilo, dove Maggie sta organizzando un gioco a quiz, a squadre, con in premio un sacco pieno di bellissime biglie. Per essere certo di vincere, Tip decide di fare squadra con Billy. Con questa scelta, però, ferisce i sentimenti di Jody, il suo migliore amico. Vedendo Jody molto triste, Coniglietta suggerisce a Tip di chiedergli scusa. Cosa che Tip rifiuta di fare. Possibile sia tanto difficile strappargli la parola "scusa" dalla bocca? - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <episode-num system="xmltv_ns">1 . 7 . </episode-num>
+  </programme>
+  <programme start="20260419130000 +0200" stop="20260419130500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Bing - S1E43 - Le vertigini</title>
+    <desc lang="it">Bing si fa spingere sulla giostra per andare veloce, ma quando prende troppa velocità si accorge di avere le vertigini. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E43</episode-num>
+    <episode-num system="xmltv_ns">0 . 42 . </episode-num>
+  </programme>
+  <programme start="20260419130500 +0200" stop="20260419131500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Bing - S1E44 - La casetta</title>
+    <desc lang="it">Bing costruisce un rifugio con i cuscini del divano per giocare al lupo cattivo con gli amici. Bing fa il lupo e quando gli viene vietato di entrare nella casetta, si arrabbia e la distrugge! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E44</episode-num>
+    <episode-num system="xmltv_ns">0 . 43 . </episode-num>
+  </programme>
+  <programme start="20260419131500 +0200" stop="20260419132000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Bing - S1E45 - I ghiaccioli</title>
+    <desc lang="it">Fa caldo e Bing e Flop si comprano un ghiacciolo, ma Bing si distrae per aiutare una ranocchia finita nella piscina gonfiabile e intanto i ghiaccioli finiscono per sciogliersi! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E45</episode-num>
+    <episode-num system="xmltv_ns">0 . 44 . </episode-num>
+  </programme>
+  <programme start="20260419132000 +0200" stop="20260419133000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Bing - S1E46 - Il murale</title>
+    <desc lang="it">Bing e Sula dipingono un murale e per sbaglio Bing imbratta di colore il disegno di Sula, che si arrabbia. Si accorgono poi però che il murale è così diventato ancora più bello! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E46</episode-num>
+    <episode-num system="xmltv_ns">0 . 45 . </episode-num>
+  </programme>
+  <programme start="20260419133000 +0200" stop="20260419133500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Bluey - S1E37 - L'avventura</title>
+    <desc lang="it">Principesse, cavalli e bacchette magiche. Bluey e Chloe possono interpretare qualsiasi ruolo vogliano, quando si imbarcano in un'avventura per salvare il loro regno da gioco dalla regina avida. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <episode-num system="xmltv_ns">0 . 36 . </episode-num>
+  </programme>
+  <programme start="20260419133500 +0200" stop="20260419134500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Bluey - S1E38 - Copiona</title>
+    <desc lang="it">Bluey si sta divertendo a copiare tutto ciò che papà dice e fa, ma il gioco prende una svolta seria quando Bluey trova un pappagallino ferito e devono fare una visita di emergenza dal veterinario. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E38</episode-num>
+    <episode-num system="xmltv_ns">0 . 37 . </episode-num>
+  </programme>
+  <programme start="20260419134500 +0200" stop="20260419135000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Bluey - S1E39 - Il pigiama party</title>
+    <desc lang="it">La cuginetta Muffin arriva per un pigiama party. Bluey e Bingo possono restare quindi sveglie fino a tardi! Ma Muffin e' stanca perche' ha saltato il riposino. Ed e' il caos! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E39</episode-num>
+    <episode-num system="xmltv_ns">0 . 38 . </episode-num>
+  </programme>
+  <programme start="20260419135000 +0200" stop="20260419140000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Bluey - S1E40 - Bebè in anticipo</title>
+    <desc lang="it">Il gruppo di gioco di Bluey è in disaccordo quando l'ospedale pediatrico di Indy si scontra con i cavalieri e i draghi di Rusty. Ma spiegandosi, entrambi scoprono che i loro giochi hanno molto in comune. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E40</episode-num>
+    <episode-num system="xmltv_ns">0 . 39 . </episode-num>
+  </programme>
+  <programme start="20260419140000 +0200" stop="20260419140500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Peppa Pig - S11E3 - L'arredamento</title>
+    <desc lang="it">Quando la famiglia Pig fa il giro della nuova casa, Peppa e George scoprono con stupore che le loro camerette sono vuote. Mamma e papà Pig dicono che potranno decorarle a loro piacimento, così si recano in un negozio di arredamento. Peppa ha difficoltà nel scegliere un tema e decide di creare una cameretta personalizzata. Una volta a casa, gli arredi vengono posizionati, creando le camerette più belle del mondo! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S11 E3</episode-num>
+    <episode-num system="xmltv_ns">10 . 2 . </episode-num>
+  </programme>
+  <programme start="20260419140500 +0200" stop="20260419141000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Peppa Pig - S11E4 - Un'auto più grande</title>
+    <desc lang="it">Oggi è arrivato il seggiolino da auto per bebè, ma nella macchina della famiglia Pig non c'è spazio! Peppa e George mostrano a papà Pig delle auto giocattolo per aiutarlo nella scelta. Alla fine, dopo un paio di finte prove su strada, papà Pig individua l'auto perfetta, solo che deve essere leggermente più grande del modellino, e la trova presso l'autosalone - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S11 E4</episode-num>
+    <episode-num system="xmltv_ns">10 . 3 . </episode-num>
+  </programme>
+  <programme start="20260419141000 +0200" stop="20260419141500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Peppa Pig - S11E5 - La festa del puzzle</title>
+    <desc lang="it">Peppa e George sono alla Festa dei Puzzle con nonna e nonno Pig. Peppa è sbalordita dalla loro quantità. Poi il nonno le spiega come funziona un'asta e per errore acquista un puzzle! La Signora Asino le rivela quanto importante sia non perderne neanche una tessera, ma Peppa ne trova una sul pavimento! Fortunatamente scopre anche dove va inserita! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S11 E5</episode-num>
+    <episode-num system="xmltv_ns">10 . 4 . </episode-num>
+  </programme>
+  <programme start="20260419141500 +0200" stop="20260419142000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Peppa Pig - S11E6 - Gli hobby</title>
+    <desc lang="it">Madame Gazzella spiega ai piccoli che cos'è un hobby e loro raccontano quelli propri e dei loro genitori, creando non poco imbarazzo fra questi ultimi. Però l'hobby di Peppa piace a tutti: saltare nelle pozzanghere di fango! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S11 E6</episode-num>
+    <episode-num system="xmltv_ns">10 . 5 . </episode-num>
+  </programme>
+  <programme start="20260419142000 +0200" stop="20260419142500 +0200" channel="RaiYoyo.it">
+    <title lang="it">Peppa Pig - S11E7 - La trapunta patchwork</title>
+    <desc lang="it">Oggi Peppa prepara una trapunta per la sorellina che arriverà. Aiutata da mamma e nonna Pig raccoglie vecchi pezzi di stoffe, ma ha l'impressione che i ricordi a loro collegati siano troppo tristi per usarle. Però, riflettendo, comprende che i ricordi tristi possono diventare felici col tempo, così realizza una splendida trapunta - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S11 E7</episode-num>
+    <episode-num system="xmltv_ns">10 . 6 . </episode-num>
+  </programme>
+  <programme start="20260419142500 +0200" stop="20260419143000 +0200" channel="RaiYoyo.it">
+    <title lang="it">Peppa Pig - S11E8 - Minivan dell'arte</title>
+    <desc lang="it">Peppa è fuori in gita con Suzy, nonna Pecora e mamma Pecora. Mentre viaggiano sulla macchina di mamma Pecora, vedono un vecchio pulmino nell'isola ecologica. Nonna Pecora insiste che può trasformarlo in qualcosa di molto più bello! Con l'aiuto degli amici di Peppa, lo dipingono di mille colori, però non ha il motore! Per fortuna nonno Cane lo sistema con un motore nuovo. Ora nonna Pecora può portare l'arte in giro per il mondo! - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S11 E8</episode-num>
+    <episode-num system="xmltv_ns">10 . 7 . </episode-num>
   </programme>
   <programme start="20260419143000 +0200" stop="20260419144000 +0200" channel="RaiYoyo.it">
     <title lang="it">Piripinguini - S1E33 - Brinicle e l'unicorno</title>
@@ -35387,6 +37090,30 @@ Intanto Elena e Giuliano sono più innamorati che mai. Valerio, risolti i proble
     <episode-num system="onscreen">S5 E26</episode-num>
     <episode-num system="xmltv_ns">4 . 25 . </episode-num>
   </programme>
+  <programme start="20260419090300 +0200" stop="20260419100500 +0200" channel="Rete4.it">
+    <title lang="it">Terra Amara - S3 Ep32</title>
+    <desc lang="it">Zuleyha è turbata per il discorso che Behice ha tenuto davanti a tutta la stampa con il quale ha pubblicamente accusato Zuleyha di aver istigato la sua aggressione, e Sevda e Demir tentano invano di farla reagire. Yilmaz viene a sapere che Mujgan ha detto a Zuleyha di essere incinta. - KKK</desc>
+    <category lang="it">soap opera</category>
+    <category lang="it">drammatico</category>
+    <episode-num system="onscreen">S3 E32</episode-num>
+    <episode-num system="xmltv_ns">2 . 31 . </episode-num>
+  </programme>
+  <programme start="20260419100500 +0200" stop="20260419115500 +0200" channel="Rete4.it">
+    <title lang="it">Dalla parte degli animali</title>
+    <desc lang="it">Tante storie con protagonisti i nostri amici a quattro zampe. Conduce Vittoria Brambilla. - KKK</desc>
+    <category lang="it">lifestyle</category>
+  </programme>
+  <programme start="20260419115500 +0200" stop="20260419122700 +0200" channel="Rete4.it">
+    <title lang="it">Tg4</title>
+    <desc lang="it">Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4. A seguire, le previsioni metereologiche. - KKK</desc>
+    <category lang="it">telegiornale</category>
+  </programme>
+  <programme start="20260419122700 +0200" stop="20260419135700 +0200" channel="Rete4.it">
+    <title lang="it">La signora in giallo - Omicidio al buio - ii parte/delitto in cornice</title>
+    <desc lang="it">Mentre Jessica sta registrando un libro giallo per i ciechi, nello studio manca la luce. Quando la corrente ritorna, uno dei proprietari dello studio e' in fin di vita. - KKK</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <episode-num system="xmltv_ns">0 . 5 . </episode-num>
+  </programme>
   <programme start="20260419135700 +0200" stop="20260419152700 +0200" channel="Rete4.it">
     <title lang="it">Colombo</title>
     <desc lang="it">Il dottor Marshall Cahill (Jose' Ferrer), capo di un centro studi e ricerche in campo economico, uccide il professor Howard Nicholson (Lew Ayres) per evitargli di rivelare che Neill (Robert Walker Jr.), figlio di Cahill, ha plagiato la teoria scientifica di un collega deceduto. La signora Nicholson (Jessica Walter), psichiatra di Neill, e' al corrente dell'accaduto, ma per proteggere il suo cliente si rifiuta di rispondere alle domande del tenente Colombo (Peter Falk). 
@@ -35993,6 +37720,80 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
   <programme start="20260423213000 +0200" stop="20260424005000 +0200" channel="Rete4.it">
     <title lang="it">Dritto e rovescio</title>
     <desc lang="it">Prodotto da Videonews e condotto da Paolo Del Debbio. Al centro del programma, l'attualita' politico - economica del Paese raccontata dai suoi protagonisti. - KKK</desc>
+  </programme>
+  <programme start="20260419090000 +0200" stop="20260419093000 +0200" channel="SkyTG24.it">
+    <title lang="it">TG24 mezz'ora</title>
+    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419093000 +0200" stop="20260419100000 +0200" channel="SkyTG24.it">
+    <title lang="it">Health</title>
+    <desc lang="it">Health Stg. 5 (2026) Ep.16 - 19/04/2026 - Raffaella Cesaroni approfondisce i temi che riguardano le cure innovative, lo stato della ricerca, il benessere e gli sviluppi digitali. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S5 E16</episode-num>
+    <episode-num system="xmltv_ns">4 . 15 . </episode-num>
+  </programme>
+  <programme start="20260419100000 +0200" stop="20260419103000 +0200" channel="SkyTG24.it">
+    <title lang="it">TG24 mezz'ora</title>
+    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419103000 +0200" stop="20260419110000 +0200" channel="SkyTG24.it">
+    <title lang="it">TG24 mezz'ora</title>
+    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419110000 +0200" stop="20260419111500 +0200" channel="SkyTG24.it">
+    <title lang="it">TG24 mezz'ora</title>
+    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419111500 +0200" stop="20260419113000 +0200" channel="SkyTG24.it">
+    <title lang="it">Incipit</title>
+    <desc lang="it">Uno dei piu' apprezzati scrittori europei racconta il suo ultimo romanzo, "Il problema finale", soffermandosi sul fascino del crepuscolo in letteratura - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S6 E15</episode-num>
+    <episode-num system="xmltv_ns">5 . 14 . </episode-num>
+  </programme>
+  <programme start="20260419113000 +0200" stop="20260419115500 +0200" channel="SkyTG24.it">
+    <title lang="it">TG24 mezz'ora</title>
+    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419115500 +0200" stop="20260419123000 +0200" channel="SkyTG24.it">
+    <title lang="it">Il TG di Mezzogiorno</title>
+    <desc lang="it">Telegiornale in diretta. La domanda del giorno, lo Sport, il Meteo. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419123000 +0200" stop="20260419125500 +0200" channel="SkyTG24.it">
+    <title lang="it">TG24 mezz'ora</title>
+    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419125500 +0200" stop="20260419130000 +0200" channel="SkyTG24.it">
+    <title lang="it">TG24 Preview</title>
+    <desc lang="it">TG24 Preview - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419130000 +0200" stop="20260419133000 +0200" channel="SkyTG24.it">
+    <title lang="it">Ore 13</title>
+    <desc lang="it">Le notizie della giornata raccontate con collegamenti live e approfondimenti. Con una finestra sul nostro Paese. E, sempre, il fatto principale del giorno analizzato e commentato da un esperto. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419133000 +0200" stop="20260419135000 +0200" channel="SkyTG24.it">
+    <title lang="it">Ore 13</title>
+    <desc lang="it">Le notizie della giornata raccontate con collegamenti live e approfondimenti. Con una finestra sul nostro Paese. E, sempre, il fatto principale del giorno analizzato e commentato da un esperto. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419135000 +0200" stop="20260419140000 +0200" channel="SkyTG24.it">
+    <title lang="it">Extra Time</title>
+    <desc lang="it">Telegiornale. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419140000 +0200" stop="20260419143000 +0200" channel="SkyTG24.it">
+    <title lang="it">TG24 mezz'ora</title>
+    <desc lang="it">Telegiornale in diretta. I giornali di oggi, lo Sport, il Meteo. - KKK</desc>
+    <category lang="it" />
   </programme>
   <programme start="20260419143000 +0200" stop="20260419150000 +0200" channel="SkyTG24.it">
     <title lang="it">TG24 mezz'ora</title>
@@ -37242,6 +39043,26 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <desc lang="it">Con Skyline, dal lunedi' al venerdi', vi portiamo dentro tutte le notizie della giornata. Una scansione di quanto successo in Italia e nel mondo, con spazio agli ospiti e alle storie. - KKK</desc>
     <category lang="it" />
   </programme>
+  <programme start="20260419082500 +0200" stop="20260419101000 +0200" channel="SuperTennis.it">
+    <title lang="it">ATP 1000 Shanghai 2025</title>
+    <desc lang="it">Arthur Rindrknech vs Valentin Vacherot ATP 1000 Shanghai 2025 - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419101000 +0200" stop="20260419102500 +0200" channel="SuperTennis.it">
+    <title lang="it">Tie Movie 2026</title>
+    <desc lang="it">TieMovie. Il cinema incontra il tennis - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419102500 +0200" stop="20260419122000 +0200" channel="SuperTennis.it">
+    <title lang="it">WTA 500 Stoccarda 2026</title>
+    <desc lang="it">Altra tappa del calendario dei tornei WTA 500 - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419122000 +0200" stop="20260419124000 +0200" channel="SuperTennis.it">
+    <title lang="it">Supertennis Today</title>
+    <desc lang="it">Supertennis Today - Il salotto del Tennis, Studi per e post partita - KKK</desc>
+    <category lang="it" />
+  </programme>
   <programme start="20260419124000 +0200" stop="20260419144000 +0200" channel="SuperTennis.it">
     <title lang="it">LIVE WTA 500 Stoccarda</title>
     <desc lang="it">Altra tappa del calendario dei tornei WTA 500 - KKK</desc>
@@ -37586,6 +39407,42 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <title lang="it">News</title>
     <desc lang="it">News - KKK</desc>
     <category lang="it" />
+  </programme>
+  <programme start="20260419084400 +0200" stop="20260419095200 +0200" channel="TGCom24.it">
+    <title lang="it">Tgcom24 diretta 2026</title>
+    <desc lang="it">Tgcom24 diretta 2026 - KKK</desc>
+  </programme>
+  <programme start="20260419095200 +0200" stop="20260419100000 +0200" channel="TGCom24.it">
+    <title lang="it">Tgcom24 - meteo</title>
+    <desc lang="it">Previsioni meteorologiche del territorio italiano, diviso per zone geografiche, dettagliate e costantemente aggiornate. - KKK</desc>
+  </programme>
+  <programme start="20260419100000 +0200" stop="20260419115500 +0200" channel="TGCom24.it">
+    <title lang="it">Tgcom24 diretta 2026</title>
+    <desc lang="it">Tgcom24 diretta 2026 - KKK</desc>
+  </programme>
+  <programme start="20260419115500 +0200" stop="20260419122500 +0200" channel="TGCom24.it">
+    <title lang="it">Tg4</title>
+    <desc lang="it">Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4. A seguire, le previsioni metereologiche. - KKK</desc>
+    <category lang="it">telegiornale</category>
+  </programme>
+  <programme start="20260419122500 +0200" stop="20260419125800 +0200" channel="TGCom24.it">
+    <title lang="it">Studio Aperto</title>
+    <desc lang="it">Notizie e approfondimenti in diretta sui temi di attualita' quotidiani a cura della redazione giornalistica di Studio Aperto. - KKK</desc>
+    <category lang="it">telegiornale</category>
+  </programme>
+  <programme start="20260419125800 +0200" stop="20260419133400 +0200" channel="TGCom24.it">
+    <title lang="it">Tg5</title>
+    <desc lang="it">Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5. - KKK</desc>
+    <category lang="it">telegiornale</category>
+  </programme>
+  <programme start="20260419133400 +0200" stop="20260419141800 +0200" channel="TGCom24.it">
+    <title lang="it">Sport Mediaset XXL</title>
+    <desc lang="it">Approfondimento in diretta sul campionato di calcio di serie A a cura della redazione giornalistica di Sport Mediaset. In studio Benedetta Radaelli. - KKK</desc>
+    <category lang="it">calcio</category>
+  </programme>
+  <programme start="20260419141800 +0200" stop="20260419143000 +0200" channel="TGCom24.it">
+    <title lang="it">Tgcom24 diretta 2026</title>
+    <desc lang="it">Tgcom24 diretta 2026 - KKK</desc>
   </programme>
   <programme start="20260419143000 +0200" stop="20260419143600 +0200" channel="TGCom24.it">
     <title lang="it">Tgcom24 - meteo</title>
@@ -38501,6 +40358,36 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <title lang="it">Sport Mediaset - La giornata</title>
     <desc lang="it">Le principali notizie sportive della giornata a cura della redazione giornalistica di Sport Mediaset. - KKK</desc>
   </programme>
+  <programme start="20260419083000 +0200" stop="20260419092000 +0200" channel="TV2000.it">
+    <title lang="it">Santa Messa</title>
+    <desc lang="it">Santa Messa - SANTA MESSA DAL SANTUARIO SAN PIO IN PIETRELCINA - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419092000 +0200" stop="20260419095500 +0200" channel="TV2000.it">
+    <title lang="it">Buongiorno Prof</title>
+    <desc lang="it">Buongiorno Prof - Un docu reality che racconta l'ora di religione in una scuola superiore - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419095500 +0200" stop="20260419105500 +0200" channel="TV2000.it">
+    <title lang="it">Film viaggio Camerun e Angola</title>
+    <desc lang="it">Film viaggio Camerun e Angola - Film viaggio Camerun e Angola - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419105500 +0200" stop="20260419110000 +0200" channel="TV2000.it">
+    <title lang="it">FIRMATO DA TE 2023</title>
+    <desc lang="it">Firmato da te - Racconto breve, attraverso la voce dei protagonisti, nelle diverse citta' d'Italia, su come viene concretamente utilizzato l'8xmille destinato alla Chiesa Cattolica. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419110000 +0200" stop="20260419123500 +0200" channel="TV2000.it">
+    <title lang="it">Santa Messa</title>
+    <desc lang="it">Santa Messa - SANTA MESSA celebrata da Papa Leone XIV a Kilamba - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419123500 +0200" stop="20260419130500 +0200" channel="TV2000.it">
+    <title lang="it">BORGHI D'ITALIA</title>
+    <desc lang="it">Borghi d'Italia - Un itinerario nella storia, nell'arte e nelle tradizioni del Bel Paese. In ogni puntata il protagonista e il borgo - KKK</desc>
+    <category lang="it" />
+  </programme>
   <programme start="20260419130500 +0200" stop="20260419145500 +0200" channel="TV2000.it">
     <title lang="it">Un bambino da amare</title>
     <desc lang="it">Un bambino da amare - Regia di M. Meyjes (2005). David, scrittore di fantascienza, resta vedovo e adotta un bambino, ma il piccolo sostiene di provenire da Marte. - KKK</desc>
@@ -39270,6 +41157,42 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <title lang="it">Cammino di Santiago</title>
     <desc lang="it">Cammino di Santiago - Di D. Demichelis e S. Saporito (2024). Incontri lungo il cammino di Santiago: i motivi e significati con cui i pellegrini intraprendono il viaggio dell'anima. - KKK</desc>
     <category lang="it" />
+  </programme>
+  <programme start="20260419083000 +0200" stop="20260419092600 +0200" channel="TopCrime.it">
+    <title lang="it">East New York - S1 Ep19</title>
+    <desc lang="it">Un assistente procuratore distrettuale viene trovato morto; Haywood e Suarez devono affrontare un'enorme pressione per risolvere il caso. - KKK</desc>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <episode-num system="xmltv_ns">0 . 18 . </episode-num>
+  </programme>
+  <programme start="20260419092600 +0200" stop="20260419101900 +0200" channel="TopCrime.it">
+    <title lang="it">East New York - S1 Ep20</title>
+    <desc lang="it">La squadra affronta sfide inaspettate mentre indaga sull'omicidio di un senzatetto. - KKK</desc>
+    <episode-num system="onscreen">S1 E20</episode-num>
+    <episode-num system="xmltv_ns">0 . 19 . </episode-num>
+  </programme>
+  <programme start="20260419101900 +0200" stop="20260419111500 +0200" channel="TopCrime.it">
+    <title lang="it">Law &amp; Order: Special Victims Unit - Zucchero</title>
+    <desc lang="it">Il cadavere di una ragazza viene ritrovato in una galleria ferroviaria, all'interno di una valigia. La vittima era membro di un sito appuntamenti denominato "Sapore di Zucchero". - KKK</desc>
+    <episode-num system="onscreen">S11 E2</episode-num>
+    <episode-num system="xmltv_ns">10 . 1 . </episode-num>
+  </programme>
+  <programme start="20260419111500 +0200" stop="20260419121200 +0200" channel="TopCrime.it">
+    <title lang="it">Law &amp; Order: Special Victims Unit - Solitudine</title>
+    <desc lang="it">Parker torna dalla fidanzata Lily: trova la casa a soqquadro e tracce di sangue che finiscono sulla scala antincendio fuori dalla loro camera da letto. - KKK</desc>
+    <episode-num system="onscreen">S11 E3</episode-num>
+    <episode-num system="xmltv_ns">10 . 2 . </episode-num>
+  </programme>
+  <programme start="20260419121200 +0200" stop="20260419130900 +0200" channel="TopCrime.it">
+    <title lang="it">Law &amp; Order: Special Victims Unit - Amnesia</title>
+    <desc lang="it">Dalton Rindell si sveglia nel proprio appartamento con una ferita in testa e una donna uccisa a colpi di martello in camera da letto. Cosa e' accaduto? - KKK</desc>
+    <episode-num system="onscreen">S11 E4</episode-num>
+    <episode-num system="xmltv_ns">10 . 3 . </episode-num>
+  </programme>
+  <programme start="20260419130900 +0200" stop="20260419140700 +0200" channel="TopCrime.it">
+    <title lang="it">Law &amp; Order: Special Victims Unit - Notti da incubo</title>
+    <desc lang="it">Cory, figlio di Eva e figliastro di Thomas, viene stuprato. La polizia sospetta dell'istruttore di wrestling, ex pedofilo, ma l'uomo risulta innocente: chi e' il colpevole? - KKK</desc>
+    <episode-num system="onscreen">S11 E5</episode-num>
+    <episode-num system="xmltv_ns">10 . 4 . </episode-num>
   </programme>
   <programme start="20260419140700 +0200" stop="20260419145600 +0200" channel="TopCrime.it">
     <title lang="it">The Mentalist - Rosso bollente</title>
@@ -40157,6 +42080,44 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <episode-num system="onscreen">S5 E5</episode-num>
     <episode-num system="xmltv_ns">4 . 4 . </episode-num>
   </programme>
+  <programme start="20260419085000 +0200" stop="20260419100500 +0200" channel="Tv8.it">
+    <title lang="it">Quattro matrimoni</title>
+    <desc lang="it">Costantino della Gherardesca mette in sfida 4 spose alle loro seconde nozze, pronte a giudicare, con un voto da 0 a 10, abito, location, cibo ed evento generale delle avversarie. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S5 E4</episode-num>
+    <episode-num system="xmltv_ns">4 . 3 . </episode-num>
+  </programme>
+  <programme start="20260419100500 +0200" stop="20260419101000 +0200" channel="Tv8.it">
+    <title lang="it">Sky TG24 in pillole</title>
+    <desc lang="it">Il telegiornale con le notizie piu' importanti del giorno. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419101000 +0200" stop="20260419112500 +0200" channel="Tv8.it">
+    <title lang="it">Quattro matrimoni</title>
+    <desc lang="it">Costantino della Gherardesca mette in sfida 4 spose agguerritissime, pronte a giudicare, con un voto da 0 a 10, abito, location, cibo ed evento generale dei matrimoni delle avversarie. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S6 E6</episode-num>
+    <episode-num system="xmltv_ns">5 . 5 . </episode-num>
+  </programme>
+  <programme start="20260419112500 +0200" stop="20260419113000 +0200" channel="Tv8.it">
+    <title lang="it">Sky TG24 in pillole</title>
+    <desc lang="it">Il telegiornale con le notizie piu' importanti del giorno. - KKK</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260419113000 +0200" stop="20260419125000 +0200" channel="Tv8.it">
+    <title lang="it">Bruno Barbieri - 4 Hotel</title>
+    <desc lang="it">Lecce - Bruno Barbieri e' a Lecce, culla del barocco. E a sfidarsi saranno 4 bed&amp;breakfast dove Geltrude, Patrizia, Marco e Francesco tengono alta la bandiera dell'accoglienza salentina. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <episode-num system="xmltv_ns">3 . 4 . </episode-num>
+  </programme>
+  <programme start="20260419125000 +0200" stop="20260419142500 +0200" channel="Tv8.it">
+    <title lang="it">Alessandro Borghese - 4 Ristoranti</title>
+    <desc lang="it">Sardegna - Zona della Sardegna con una storia millenaria che affonda le radici tanto in montagna quanto lungo la sua costa meravigliosa, Ogliastra e' il terreno di una sfida tutta al femminile. - KKK</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S9 E10</episode-num>
+    <episode-num system="xmltv_ns">8 . 9 . </episode-num>
+  </programme>
   <programme start="20260419142500 +0200" stop="20260419144000 +0200" channel="Tv8.it">
     <title lang="it">Pre Superbike 2026 Round 3 19/04/2026</title>
     <desc lang="it">Il pre gara della World Superbike, dove piloti e addetti ai lavori ci raccontano le loro sensazioni prima della partenza della gara. - KKK</desc>
@@ -40879,6 +42840,42 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <url>http://www.warnertv.it</url>
     <display-name lang="it">Discovery Channel</display-name>
   </channel>
+  <programme start="20260419084500 +0200" stop="20260419094000 +0200" channel="Discovery Channel">
+    <title lang="it">Finding Bigfoot: cacciatori di mostri</title>
+    <sub-title lang="it">Ricerche in Canada</sub-title>
+    <desc lang="it">Ricerche in Canada - I cacciatori proseguono le loro ricerche nelle Montagne Rocciose canadesi per indagare su alcune immagini del Bigfoot immortalate da una telecamera. Rintracceranno la creatura?</desc>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20260419094000 +0200" stop="20260419103500 +0200" channel="Discovery Channel">
+    <title lang="it">Finding Bigfoot: cacciatori di mostri</title>
+    <sub-title lang="it">Baby Bigfoot</sub-title>
+    <desc lang="it">Baby Bigfoot - Il team arriva a New York per indagare su un video che mostrerebbe un piccolo di Bigfoot. Un nuovo metodo di ricerca aiutera' a localizzare la creatura che vive vicino alla Grande Mela?</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20260419103500 +0200" stop="20260419113000 +0200" channel="Discovery Channel">
+    <title lang="it">Finding Bigfoot: cacciatori di mostri</title>
+    <sub-title lang="it">Bigfoot su strada</sub-title>
+    <desc lang="it">Bigfoot su strada - Il team arriva a Rhode Island per esaminare il video che riprenderebbe un Bigfoot su una strada. In questo piccolo stato americano il numero di avvistamenti di Bigfoot e' in aumento.</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20260419113000 +0200" stop="20260419123500 +0200" channel="Discovery Channel">
+    <title lang="it">Texas Rangers</title>
+    <sub-title lang="it">Il morso del coccodrillo</sub-title>
+    <desc lang="it">Il morso del coccodrillo - La squadra cerca un alligatore che ha morso un uomo e il figlio di 13 anni. Nel Texas occidentale, un'automobile abbandonata porta la squadra a credere che una ragazza sia scomparsa.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20260419123500 +0200" stop="20260419133000 +0200" channel="Discovery Channel">
+    <title lang="it">Texas Rangers</title>
+    <sub-title lang="it">Catturare un bracconiere</sub-title>
+    <desc lang="it">Catturare un bracconiere - La squadra organizza un'operazione notturna in diversi paesi per fermare i pirati della strada. Un cervo ucciso con una freccia conduce i guardiani ad un bracconiere.</desc>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20260419133000 +0200" stop="20260419142500 +0200" channel="Discovery Channel">
+    <title lang="it">Texas Rangers</title>
+    <sub-title lang="it">Alligatore vs. Cane</sub-title>
+    <desc lang="it">Alligatore vs. Cane - La squadra deve rilocalizzare un alligatore che pesa circa 220 chili che si aggira in periferia. Inoltre, gli uomini scoprono una vasta coltivazione di marijuana in una riserva naturale.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
   <programme start="20260419142500 +0200" stop="20260419152500 +0200" channel="Discovery Channel">
     <title lang="it">Deadliest Catch</title>
     <sub-title lang="it">Mare di Bering</sub-title>
@@ -41191,6 +43188,105 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <url>http://www.tv.blue.ch</url>
     <display-name lang="it">Real.Time.ch</display-name>
   </channel>
+  <programme channel="RSI.La.1.ch" start="20260419083500 +0000" stop="20260419103000 +0000">
+    <title lang="it">Paganini</title>
+    <desc lang="it">Lo spazio televisivo dedicato alla musica di qualità sia in termini di interpreti che di originalità. Concerti, documentari, spazi dedicati alla danza, recensioni librarie e discografiche.</desc>
+    <credits>
+      <director>Fabio Luca</director>
+    </credits>
+    <date>2026</date>
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260419103000 +0000" stop="20260419104500 +0000">
+    <title lang="it">Telegiornale</title>
+    <sub-title lang="it">19/04/2026, 12:30</sub-title>
+    <desc lang="it">L'appuntamento quotidiano con le ultime notizie di attualità nazionali, internazionali e anche regionali, presentate sempre con uno stile diretto. A cura della redazione giornalistica della rete.</desc>
+    <credits>
+      <director>Roberto Cattaneo</director>
+    </credits>
+    <date>2026</date>
+    <country lang="it">CH</country>
+    <premiere />
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260419104500 +0000" stop="20260419105500 +0000">
+    <title lang="it">Meteo regionale</title>
+    <sub-title lang="it">19/04/2026, 12:45</sub-title>
+    <desc lang="it">Tutti i colori del tempo: uno sguardo alle previsioni regionali per oggi e i prossimi giorni.</desc>
+    <date>2026</date>
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260419105500 +0000" stop="20260419121000 +0000">
+    <title lang="it">Colombo</title>
+    <sub-title lang="it">Un killer venuto dal Vietnam</sub-title>
+    <desc lang="it">Lo scrittore Allen Mallory informa il suo editore Riley Greenleaf di avere intenzione di lavorare per una casa editrice concorrente. Lo spietato uomo d'affari assume un killer per eliminarlo. Il tenente Colombo deve smascherare il colpevole.</desc>
+    <credits>
+      <actor role="Lt. Columbo">Peter Falk</actor>
+      <director>Robert Butler</director>
+    </credits>
+    <date>1974</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260419121000 +0000" stop="20260419124000 +0000">
+    <title lang="it">Mr. Bean</title>
+    <sub-title lang="it">Mr. Bean mani di forbice</sub-title>
+    <desc lang="it">Di solito il signor Bean odia il parrucchiere, ma in questa occasione si diverte veramente molto: taglia, scolpisce e strappa i capelli di alcuni poveri clienti.</desc>
+    <credits>
+      <director>John Birkin</director>
+    </credits>
+    <date>1995</date>
+    <country lang="it">GB</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260419124000 +0000" stop="20260419133500 +0000">
+    <title lang="it">Ritorno in paradiso</title>
+    <sub-title lang="it">Il bicchiere avvelenato</sub-title>
+    <desc lang="it">Durante una corsa organizzata per promuovere gli integratori prepararti da Jade, il suo amico e socio in affari Curtis muore. Trattandosi di un giovane allenato, Mackenzie è sicura che si sia trattato di un avvelenamento.</desc>
+    <credits>
+      <actor role="DI Mackenzie Clarke">Anna Samson</actor>
+      <actor role="Stuart Granger">Andrea Demetriades</actor>
+      <actor role="Reggie Rocco">Catherine McClements</actor>
+      <actor role="Glenn">Tai Hara</actor>
+      <actor role="Rita">Maggie Dence</actor>
+      <actor role="Maggie">Deborah Kennedy</actor>
+      <actor role="Ted">Lloyd Griffith</actor>
+      <actor role="Zayne Wyatt">Dylan Hare</actor>
+    </credits>
+    <date>2024</date>
+    <country lang="it">AU</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme channel="RSI.La.1.ch" start="20260419133500 +0000" stop="20260419143000 +0000">
+    <title lang="it">Delitti in Paradiso</title>
+    <sub-title lang="it">L'ultimo caso dell'ispettore Parker</sub-title>
+    <desc lang="it">La squadra si trova di fronte a un rompicapo quando un passeggero si imbarca su un volo per Dominica ma viene trovato morto a Saint Marie. Il pilota e l'assistente di volo negano di aver visto la vittima, sollevando dei sospetti.</desc>
+    <credits>
+      <actor role="Ispettore Neville Parker">Ralf Little</actor>
+      <actor role="Commissario Selwyn Patterson">Don Warrington</actor>
+      <actor role="DS Naomi Thomas">Shantol Jackson</actor>
+      <actor role="Officer Dwayne Myers">Danny John-Jules</actor>
+      <actor role="Agente Darlene Curtis">Ginny Holder</actor>
+      <actor role="Catherine Bordey">Élizabeth Bourgine</actor>
+      <actor role="Monette Gilbert">Rachel Adedeji</actor>
+      <actor role="Kurt Henderson">Calvin Demba</actor>
+      <actor role="Taylor Fielding">Richard Fleeshman</actor>
+      <actor role="Detective Sergeant Florence Cassell">Joséphine Jobert</actor>
+      <director>Leon Lopez</director>
+    </credits>
+    <date>2024</date>
+    <country lang="it">GB</country>
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S13 E8</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
   <programme channel="RSI.La.1.ch" start="20260419143000 +0000" stop="20260419160000 +0000">
     <title lang="it">La marcia nuziale 3: Arriva la sposa</title>
     <desc lang="it">È il fine settimana di San Valentino nella locanda e Olivia e Mick ospitano le proprie famiglie. Le cose si fanno complicate quando la sorella dell'uomo decide di sposarsi alla locanda e la figlia annuncia di voler abbandonare il college.</desc>
@@ -41774,6 +43870,45 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <date>2026</date>
     <country lang="it">CH</country>
   </programme>
+  <programme channel="RSI.LA.2.ch" start="20260419072000 +0000" stop="20260419090500 +0000">
+    <title lang="it">Coppa Svizzera: FC Stade Lausanne-Ouchy - Grasshoppers</title>
+    <desc lang="it">Dallo Stade Olympique de la Pontaise di Losanna, Svizzera.</desc>
+    <date>2026</date>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260419090500 +0000" stop="20260419101000 +0000">
+    <title lang="it">Falò</title>
+    <desc lang="it">Settimanale d'informazione, il cui stile giornalistico è quello di una rubrica d'inchiesta, che riesce a suscitare un dibattito attorno ai temi di attualità.</desc>
+    <credits>
+      <director>Gaetano Agueci</director>
+      <director>Anna Bernasconi</director>
+      <director>Philippe Blanc</director>
+    </credits>
+    <date>2026</date>
+    <country lang="it">CH</country>
+    <episode-num system="onscreen">S25 E33</episode-num>
+  </programme>
+  <programme channel="RSI.LA.2.ch" start="20260419101000 +0000" stop="20260419130000 +0000">
+    <title lang="it">Tutti insieme appassionatamente</title>
+    <desc lang="it">La Madre Superiora del monastero di Salzburg mette alla prova la vocazione di una postulante, la bella e giovane Maria, facendola lavorare come governante in casa della famiglia Von Trapp.</desc>
+    <credits>
+      <actor role="Maria">Julie Andrews</actor>
+      <actor role="Capitano von Trapp">Christopher Plummer</actor>
+      <actor role="Baronessa Schraeder">Eleanor Parker</actor>
+      <actor role="Max Detweiler">Richard Haydn</actor>
+      <actor role="Madre superiora">Peggy Wood</actor>
+      <actor role="Liesl von Trapp">Charmian Carr</actor>
+      <actor role="Louisa von Trapp">Heather Menzies-Urich</actor>
+      <actor role="Friedrich von Trapp">Nicholas Hammond</actor>
+      <actor role="Kurt von Trapp">Duane Chase</actor>
+      <actor role="Brigitta von Trapp">Angela Cartwright</actor>
+      <director>Robert Wise</director>
+    </credits>
+    <date>1965</date>
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
   <programme channel="RSI.LA.2.ch" start="20260419130000 +0000" stop="20260419153000 +0000">
     <title lang="it">UCI WorldTour: Uomini: Amstel Gold Race</title>
     <desc lang="it">Tutte le gare del UCI WorldTour, il ciclismo su strada maschile d'élite.</desc>
@@ -42057,6 +44192,48 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <date>2014</date>
     <country lang="it">CH</country>
     <premiere />
+  </programme>
+  <programme channel="La.7d.ch" start="20260419081000 +0000" stop="20260419103500 +0000">
+    <title lang="it">Storia di una ladra di libri</title>
+    <desc lang="it">Adottata all'età di nove anni, Liesel vive con i genitori in un quartiere operaio in Germania. Testimone del nazismo, la ragazza trova conforto nei libri che ruba per imparare a leggere.</desc>
+    <credits>
+      <actor role="Hans Hubermann">Geoffrey Rush</actor>
+      <actor role="Rosa">Emily Watson</actor>
+      <actor role="Liesel Meminger">Sophie Nélisse</actor>
+      <actor role="Rudy">Nico Liersch</actor>
+      <actor role="Max Vandenburg">Ben Schnetzer</actor>
+      <actor role="Franz">Levin Liam</actor>
+      <actor role="Frau Hermann">Barbara Auer</actor>
+      <actor role="Frau Heinrich">Kirsten Block</actor>
+      <actor role="Barbara Steiner">Carina N. Wiese</actor>
+      <actor role="Frau Becker">Hildegard Schroedter</actor>
+      <director>Brian Percival</director>
+    </credits>
+    <date>2013</date>
+    <country lang="it">US</country>
+    <country lang="it">DE</country>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="La.7d.ch" start="20260419103500 +0000" stop="20260419123500 +0000">
+    <title lang="it">Calendar Girls</title>
+    <desc lang="it">Dopo la morte per leucemia di John, sua moglie Annie e una sua carissima amica propongono al Women's Institute locale di fare un calendario per raccogliere fondi da destinare all'ospedale.</desc>
+    <credits>
+      <actor role="Chris">Helen Mirren</actor>
+      <actor role="Annie">Julie Walters</actor>
+      <actor role="John">John Alderton</actor>
+      <actor role="Cora">Linda Bassett</actor>
+      <actor role="Jessie">Annette Crosbie</actor>
+      <actor role="Lawrence">Philip Glenister</actor>
+      <actor role="Rod Harper">Ciarán Hinds</actor>
+      <actor role="Celia">Celia Imrie</actor>
+      <actor role="Marie">Geraldine James</actor>
+      <actor role="Ruth">Penelope Wilton</actor>
+      <director>Nigel Cole</director>
+    </credits>
+    <date>2003</date>
+    <country lang="it">GB</country>
   </programme>
   <programme channel="La.7d.ch" start="20260419123500 +0000" stop="20260419145000 +0000">
     <title lang="it">Agente 007: Una cascata di diamanti</title>
@@ -42460,6 +44637,70 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <desc lang="it">Scopriamo assieme quali sorprese sono in serbo nel prossimo futuro per ciascuno dei segni dello zodiaco. L'appuntamento quotidiano con l'oroscopo de La7 è pronto a rivelare ogni sfumatura dell'influenza delle stelle.</desc>
     <date>2014</date>
     <country lang="it">IT</country>
+  </programme>
+  <programme channel="Giallo.ch" start="20260419072000 +0000" stop="20260419091500 +0000">
+    <title lang="it">L'ispettore Barnaby</title>
+    <sub-title lang="it">La prova dell'innocenza</sub-title>
+    <desc lang="it">Durante una convention annuale di fotografia appare una foto di Barnaby in compagnia di una donna, il cui marito viene assassinato poco dopo. L'ispettore diventa il primo sospettato del crimine e viene immediatamente sospeso dal servizio.</desc>
+    <credits>
+      <actor role="DCI Tom Barnaby">John Nettles</actor>
+      <actor role="DS Ben Jones">Jason Hughes</actor>
+      <actor role="Joyce Barnaby">Jane Wymark</actor>
+      <actor role="Dr. George Bullard">Barry Jackson</actor>
+      <actor role="Lionel Bell">Nigel Anthony</actor>
+      <actor role="Steve Bright">Andrew Tiernan</actor>
+      <actor role="Eddie Carfax">Adrian Scarborough</actor>
+      <actor role="Headley Madrigal">Peter Eyre</actor>
+      <actor role="Martin Spellman">Richard Lintern</actor>
+      <actor role="Seb Madrigal">Martin Hutson</actor>
+      <director>Richard Holthouse</director>
+    </credits>
+    <date>2007</date>
+    <country lang="it">US</country>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="Giallo.ch" start="20260419091500 +0000" stop="20260419111500 +0000">
+    <title lang="it">Vera</title>
+    <desc lang="it">L'adattamento alla vita civile non è stato facile per il caporale Conn Burns, che si è ritrovato in difficoltà a Newcastle. L'ispettore capo Stanhope viene chiamato dopo il ritrovamento del corpo di Burns e porta alla luce segreti del suo passato.</desc>
+    <credits>
+      <actor role="DCI Vera Stanhope">Brenda Blethyn</actor>
+      <actor role="Sergente Aiden Healy">Kenny Doughty</actor>
+      <actor role="Kenny Lockhart">Jon Morrison</actor>
+      <actor role="DC Jacqueline Williams">Ibinabo Jack</actor>
+      <actor role="DC Mark Edwards">Riley Jones</actor>
+      <actor role="Dr Paula Bennett">Sarah Kameela Impey</actor>
+      <actor role="Mandy Wilson">Rachel Denning</actor>
+      <actor role="Benny">Francis Magee</actor>
+      <actor role="Steve Wilson">Paul Thornley</actor>
+      <actor role="Liv Masters">Victoria Ekanoye</actor>
+      <director>Claire Winyard</director>
+    </credits>
+    <date>2023</date>
+    <country lang="it">GB</country>
+    <episode-num system="onscreen">S12 E2</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme channel="Giallo.ch" start="20260419111500 +0000" stop="20260419131500 +0000">
+    <title lang="it">I misteri di Brokenwood</title>
+    <sub-title lang="it">Il fantasma che è in te</sub-title>
+    <desc lang="it">Quando Peggy Froome, grande appassionata della musica degli anni Ottanta, viene trovata morta dopo un concerto del suo amato complesso musicale Stolen Arrow, il passato si scontra con il presente.</desc>
+    <credits>
+      <actor role="Inspector Mike Sherpard">Neill Rea</actor>
+      <actor role="Inspector Kirtin Sims">Fern Sutherland</actor>
+      <actor role="DC Daniel Chalmers">Jarod Rawiri</actor>
+      <actor role="Gina Kadinsky">Cristina Serban Ionda</actor>
+      <director>Michael Hurst</director>
+    </credits>
+    <date>2025</date>
+    <country lang="it">NZ</country>
+    <episode-num system="onscreen">S11 E1</episode-num>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
   </programme>
   <programme channel="Giallo.ch" start="20260419131500 +0000" stop="20260419151000 +0000">
     <title lang="it">McDonald &amp; Dodds</title>
@@ -42967,6 +45208,122 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <rating system="FSK">
       <value>6+</value>
     </rating>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419085700 +0000" stop="20260419093000 +0000">
+    <title lang="it">CCISS: Viaggiare informati</title>
+    <desc lang="it">I più importanti aggiornamenti in tempo reale e le previsioni riguardanti la viabilità sulla rete stradale italiana, a cura del Centro di Coordinamento Informazioni sulla Sicurezza Stradale.</desc>
+    <date>2012</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419093000 +0000" stop="20260419095500 +0000">
+    <title lang="it">TG</title>
+    <desc lang="it">Edizione del notiziario televisivo a cura della redazione giornalistica di TeleTicino. Ogni giorno, le notizie più importanti a livello locale, nazionale ed internazionale.</desc>
+    <date>2014</date>
+    <country lang="it">CH</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419095500 +0000" stop="20260419100000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Uno sguardo alle previsioni del tempo in Italia per oggi e i prossimi giorni. Un'analisi delle temperature, i venti e le eventuali precipitazioni.</desc>
+    <date>2009</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419100000 +0000" stop="20260419103000 +0000">
+    <title lang="it">Via della Conciliazione</title>
+    <desc lang="it">Uno sguardo alla storia che si nasconde dietro la nascita di una delle arterie principali di Roma. Scopriamo assieme le ragioni per le quali Benito Mussolini ha scelto di collegare Città del Vaticano con un piccolo borgo, ormai demolito.</desc>
+    <credits>
+      <director>Piergiorgio Curzi</director>
+      <director>Raffaele Brunetti</director>
+    </credits>
+    <date>2014</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419103000 +0000" stop="20260419110000 +0000">
+    <title lang="it">Sport24</title>
+    <desc lang="it">Tutte le ultime notizie ed approfondimenti riguardanti il mondo dello sport a cura della redazione.</desc>
+    <date>2022</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419110000 +0000" stop="20260419112700 +0000">
+    <title lang="it">TITOLI TG</title>
+    <desc lang="it">Scopriamo le notizie del giorno e alcune novità in rubrica selezionate dalla redazione.</desc>
+    <date>2025</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419112700 +0000" stop="20260419113000 +0000">
+    <title lang="it">Meteo</title>
+    <desc lang="it">Uno sguardo alle previsioni del tempo in Italia per oggi e i prossimi giorni. Un'analisi delle temperature, i venti e le eventuali precipitazioni.</desc>
+    <date>2009</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419113000 +0000" stop="20260419114500 +0000">
+    <title lang="it">Sommario</title>
+    <desc lang="it">Le principali notizie.</desc>
+    <date>2012</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419114500 +0000" stop="20260419120000 +0000">
+    <title lang="it">AR Frammenti d'arte</title>
+    <desc lang="it">Affascinanti viaggi alla scoperta dei segreti dell'arte e dei beni culturali italiani insieme a Costantino D'Orazio, storico dell'arte e saggista, che ci ricorda il motivo per cui il nostro è chiamato il Bel Paese.</desc>
+    <credits>
+      <director>Francesca Bartolomei</director>
+      <director>Alessia Vitali</director>
+    </credits>
+    <date>2014</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419120000 +0000" stop="20260419122000 +0000">
+    <title lang="it">TITOLI TG</title>
+    <desc lang="it">Scopriamo le notizie del giorno e alcune novità in rubrica selezionate dalla redazione.</desc>
+    <date>2025</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419122000 +0000" stop="20260419123000 +0000">
+    <title lang="it">Non solo 8 marzo</title>
+    <desc lang="it">L'evoluzione dell'universo femminile attraverso storie straordinarie di donne provenienti da diversi ambiti sociali e professionali. Una serie di interviste a campionesse sportive, scienziate e politiche.</desc>
+    <date>2025</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419123000 +0000" stop="20260419124500 +0000">
+    <title lang="it">News</title>
+    <desc lang="it">Le principali notizie del momento a cura della redazione della rete RaiNews24. Aggiornamenti ed approfondimenti riguardanti politica, cronaca, esteri, economia, sport e attualità.</desc>
+    <date>2012</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419124500 +0000" stop="20260419125100 +0000">
+    <title lang="it">In scena</title>
+    <desc lang="it">Eventi teatrali, culturali e musicali in tutta Italia, raccontati dagli inviati della rete o trasmessi in forma integrale.</desc>
+    <date>2014</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419125100 +0000" stop="20260419130000 +0000">
+    <title lang="it">Supercinema</title>
+    <desc lang="it">Rotocalco d'informazione cinematografica con le più interessanti anteprime dai film in programmazione nelle sale italiane per i prossimi mesi e interviste ad attori, registi e produttori.</desc>
+    <date>2000</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419130000 +0000" stop="20260419133000 +0000">
+    <title lang="it">TITOLI TG</title>
+    <desc lang="it">Scopriamo le notizie del giorno e alcune novità in rubrica selezionate dalla redazione.</desc>
+    <date>2025</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419133000 +0000" stop="20260419135000 +0000">
+    <title lang="it">Sommario</title>
+    <desc lang="it">Le principali notizie.</desc>
+    <date>2012</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419135000 +0000" stop="20260419140000 +0000">
+    <title lang="it">Central Park West</title>
+    <desc lang="it">Un rassegna di notizie dall'estero dal corrispondente da New York, Antonio Monda.</desc>
+    <date>2014</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Rai.News.24.ch" start="20260419140000 +0000" stop="20260419143000 +0000">
+    <title lang="it">TITOLI TG</title>
+    <desc lang="it">Scopriamo le notizie del giorno e alcune novità in rubrica selezionate dalla redazione.</desc>
+    <date>2025</date>
+    <country lang="it">IT</country>
   </programme>
   <programme channel="Rai.News.24.ch" start="20260419143000 +0000" stop="20260419143500 +0000">
     <title lang="it">TG ucraino</title>
@@ -43532,6 +45889,46 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <date>2022</date>
     <country lang="it">IT</country>
   </programme>
+  <programme channel="Real.Time.ch" start="20260419083500 +0000" stop="20260419093000 +0000">
+    <title lang="it">Svuoto casa... tutto all'asta!</title>
+    <sub-title lang="it">Rara collezione</sub-title>
+    <desc lang="it">Angus scopre una soffitta piena di oggetti bizzarri ma di grande valore.</desc>
+    <date>2023</date>
+    <country lang="it">GB</country>
+    <episode-num system="onscreen">S3 E1</episode-num>
+  </programme>
+  <programme channel="Real.Time.ch" start="20260419093000 +0000" stop="20260419103000 +0000">
+    <title lang="it">Svuoto casa... tutto all'asta!</title>
+    <sub-title lang="it">Collezione preziosa</sub-title>
+    <desc lang="it">Un'associazione di beneficenza ha bisogno di denaro. Angus riuscirà ad aiutarli?</desc>
+    <date>2023</date>
+    <country lang="it">GB</country>
+    <episode-num system="onscreen">S3 E2</episode-num>
+  </programme>
+  <programme channel="Real.Time.ch" start="20260419103000 +0000" stop="20260419120000 +0000">
+    <title lang="it">Il forno delle meraviglie</title>
+    <sub-title lang="it">Rione Monti</sub-title>
+    <desc lang="it">Facciamo tappa in uno dei quartieri storici della città: il Rione Monti. Il nome deriva dal fatto che con il termine li monti nel Medioevo si intendeva la vasta zona che comprendeva tre dei 7 colli: l'Esquilino, il Viminale, e parte del Quirinale.</desc>
+    <date>2026</date>
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme channel="Real.Time.ch" start="20260419120000 +0000" stop="20260419130500 +0000">
+    <title lang="it">Cortesie per gli ospiti</title>
+    <sub-title lang="it">Sofia e Laura vs Alessandro e Gabriele</sub-title>
+    <desc lang="it">La tradizione modenese incontra la fantasia e la creatività di due coppie di amici.</desc>
+    <date>2026</date>
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S22 E19</episode-num>
+  </programme>
+  <programme channel="Real.Time.ch" start="20260419130500 +0000" stop="20260419141000 +0000">
+    <title lang="it">Cortesie per gli ospiti</title>
+    <sub-title lang="it">Erika e Eleonora vs Carla e Alessia</sub-title>
+    <desc lang="it">Sorelle contro nonna e nipote. Scopriamo quale sarà l'intesa vincente.</desc>
+    <date>2026</date>
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S22 E18</episode-num>
+  </programme>
   <programme channel="Real.Time.ch" start="20260419141000 +0000" stop="20260419151500 +0000">
     <title lang="it">Casa a prima vista</title>
     <sub-title lang="it">Chiara e Marco</sub-title>
@@ -43891,6 +46288,40 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <date>2025</date>
     <country lang="it">IT</country>
     <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme channel="Motor.Trend.ch" start="20260419082500 +0000" stop="20260419094000 +0000">
+    <title lang="it">Vintage garage</title>
+    <sub-title lang="it">Simca Aronde P60</sub-title>
+    <desc lang="it">François vuole restaurare un'auto prodotta dal 1951 al 1963: una Simca Aronde. Il veicolo è stato commercializzato fino al 1964 ed era una delle auto più popolari in Francia.</desc>
+    <date>2019</date>
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S4 E12</episode-num>
+  </programme>
+  <programme channel="Motor.Trend.ch" start="20260419094000 +0000" stop="20260419105500 +0000">
+    <title lang="it">Vintage garage</title>
+    <sub-title lang="it">Facel Vega Facellia</sub-title>
+    <desc lang="it">François aiuta un amico a rinnovare un veicolo della casa automobilistica francese Facel Vega: una Facellia originaria del 1962, modello in produzione dal 1960 al 1964.</desc>
+    <credits>
+      <director>Karim Mahmoud</director>
+    </credits>
+    <date>2020</date>
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S5 E1</episode-num>
+  </programme>
+  <programme channel="Motor.Trend.ch" start="20260419105500 +0000" stop="20260419130000 +0000">
+    <title lang="it">Speciale Imola</title>
+    <date>2023</date>
+  </programme>
+  <programme channel="Motor.Trend.ch" start="20260419130000 +0000" stop="20260419135500 +0000">
+    <title lang="it">Vintage garage</title>
+    <sub-title lang="it">Chevrolet Camaro</sub-title>
+    <desc lang="it">François ha trovato un'auto americana iconica: la Chevrolet Camaro SS del 1968. Tuttavia, la struttura del veicolo fa ritardare i lavori di ristrutturazione di un mese.</desc>
+    <credits>
+      <director>Karim Mahmoud</director>
+    </credits>
+    <date>2020</date>
+    <country lang="it">FR</country>
+    <episode-num system="onscreen">S5 E2</episode-num>
   </programme>
   <programme channel="Motor.Trend.ch" start="20260419135500 +0000" stop="20260419145000 +0000">
     <title lang="it">Vintage garage</title>
@@ -44252,6 +46683,40 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <country lang="it">CA</country>
     <episode-num system="onscreen">S13 E8</episode-num>
   </programme>
+  <programme channel="NOVE.ch" start="20260419085500 +0000" stop="20260419095500 +0000">
+    <title lang="it">Eden: Pianeta selvaggio</title>
+    <sub-title lang="it">Namibia: La costa degli scheletri</sub-title>
+    <desc lang="it">Il deserto del Namib è uno dei più antichi della Terra, qui vivono più specie endemiche che in qualsiasi altro luogo. Fonti d'acqua nascoste, come una misteriosa e affascinante nebbia marina che fornisce preziosa idratazione.</desc>
+    <date>2021</date>
+    <country lang="it">GB</country>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme channel="NOVE.ch" start="20260419095500 +0000" stop="20260419105500 +0000">
+    <title lang="it">Eden: Pianeta selvaggio</title>
+    <sub-title lang="it">La valle del fiume Luangwa</sub-title>
+    <desc lang="it">Alla fine della Great Rift Valley dell'Africa Orientale c'è una terra dimenticata dai tempi: le dolci praterie della Luangwa Valley. l segreti della ricchezza di questo Eden, come la piena annuale del potente fiume.</desc>
+    <date>2021</date>
+    <country lang="it">GB</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme channel="NOVE.ch" start="20260419105500 +0000" stop="20260419121000 +0000">
+    <title lang="it">Cash or Trash: Chi offre di più?</title>
+    <desc lang="it">I mercanti portano oggetti unici e offerte sorprendenti. Andiamo a scoprire insieme quali sono gli oggetti più ambiti.</desc>
+    <credits>
+      <director>Giuseppe Bianchi</director>
+      <director>Tomas Goldschmidt</director>
+    </credits>
+    <date>2025</date>
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S7 E48</episode-num>
+  </programme>
+  <programme channel="NOVE.ch" start="20260419121000 +0000" stop="20260419142500 +0000">
+    <title lang="it">Only Fun: Comico show</title>
+    <desc lang="it">Prepariamoci a ridere con i migliori comici italiani, cabarettisti, imitatori al Teatro Galleria di Legnano, in uno spettacolo presentato da Elettra Lamborghini e i PanPers, duo formato da Andrea Pisani e Luca Peracino.</desc>
+    <date>2026</date>
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S6 E9</episode-num>
+  </programme>
   <programme channel="NOVE.ch" start="20260419142500 +0000" stop="20260419160000 +0000">
     <title lang="it">Little Big Italy</title>
     <sub-title lang="it">Marsiglia</sub-title>
@@ -44566,6 +47031,249 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <date>2022</date>
     <country lang="it">US</country>
     <episode-num system="onscreen">S8 E5</episode-num>
+  </programme>
+  <programme channel="K2.ch" start="20260419090000 +0000" stop="20260419091500 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Survivor</sub-title>
+    <desc lang="it">Visto che Alvin è rimasto ferito, Simon accetta di affrontare Derek durante un reality show di sopravvivenza, dove c'è spazio per solo un vincitore. Giocare sporco potrebbe essere l'unico modo per vincere.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2016</date>
+    <country lang="it">US</country>
+  </programme>
+  <programme channel="K2.ch" start="20260419091500 +0000" stop="20260419092500 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Basta noia!</sub-title>
+    <desc lang="it">Dave ha deciso di confiscare il cellulare di Alvin come punizione. Il giovane Chipmunk non sa cosa fare del suo tempo libero e diventa pazzo di noia.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <country lang="it">US</country>
+  </programme>
+  <programme channel="K2.ch" start="20260419092500 +0000" stop="20260419094000 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Un giorno con lo zio Alvin</sub-title>
+    <desc lang="it">Quando Alvin rapisce Geizmo, il robot di Simon, riceve una lezione importante su come si debba educare correttamente un bambino.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <country lang="it">US</country>
+  </programme>
+  <programme channel="K2.ch" start="20260419094000 +0000" stop="20260419095000 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Davey Boy</sub-title>
+    <desc lang="it">Simon ha creato una nuova invenzione, ovvero una macchina che può trasformare persone adulte in bambini. Accidentalmente Simon colpisce Dave, il quale torna ad essere il ragazzino maleducato di un tempo.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <country lang="it">US</country>
+  </programme>
+  <programme channel="K2.ch" start="20260419095000 +0000" stop="20260419100500 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <desc lang="it">Alvin scopre che Theodore ha un canale dove milioni di persone lo guardano mangiare i suoi cibi preferiti. Dave fa costruire un gazebo in giardino e cerca di coinvolgere i ragazzi con il suo entusiasmo.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E2</episode-num>
+  </programme>
+  <programme channel="K2.ch" start="20260419100500 +0000" stop="20260419103500 +0000">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">La casa dei fantasmi</sub-title>
+    <desc lang="it">Il nostro trio di barbieri visita una villa infestata in occasione di Halloween, con artisti che non sono affatto inquietanti. Pan Barbiere dà una mano in modo che possano entrare nella parte.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme channel="K2.ch" start="20260419103500 +0000" stop="20260419104500 +0000">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">Wilk e la pianta di fagioli</sub-title>
+    <desc lang="it">Un germoglio verde cresce al posto del fagiolo magico. Il germoglio cresce rapidamente e la famiglia del barbiere del pane è ipnotizzata dalla vista misteriosa.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme channel="K2.ch" start="20260419104500 +0000" stop="20260419111500 +0000">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">Bilk latte di campagna</sub-title>
+    <desc lang="it">Stanco della vita di campagna, Bilk, il cugino di Wilk, si trasferisce in città e convince Pan Barbiere ad avviare una propria attività agricola.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <country lang="it">KR</country>
+  </programme>
+  <programme channel="K2.ch" start="20260419111500 +0000" stop="20260419114000 +0000">
+    <title lang="it">Il barbiere pasticciere</title>
+    <sub-title lang="it">Le tre torte di riso</sub-title>
+    <desc lang="it">Pan Barbiere sfugge per un soffio a pericoli di vario genere e si rende conto che la sua vita è in pericolo. Cerca di scoprire perché ha un bersaglio sulla schiena.</desc>
+    <credits>
+      <director>Jeong Ji-hwan</director>
+    </credits>
+    <date>2022</date>
+    <country lang="it">KR</country>
+    <episode-num system="onscreen">S3 E11</episode-num>
+  </programme>
+  <programme channel="K2.ch" start="20260419114000 +0000" stop="20260419115000 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <desc lang="it">Durante un viaggio in macchina Alvin vede che hanno installato una nuova attrazione e tormenta Dave per andarci. Dave porta i Chipmunks e le Chipettes in montagna per poter lavorare in tranquillità.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E3</episode-num>
+  </programme>
+  <programme channel="K2.ch" start="20260419115000 +0000" stop="20260419120500 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <desc lang="it">Durante un temporale i Chipmunks rientrano a casa e non riescono a trovare più Dave. Intanto Simon e Theodore impiegano il loro fine settimana nella ricerca per guadagnare crediti extra a scienze.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E4</episode-num>
+  </programme>
+  <programme channel="K2.ch" start="20260419120500 +0000" stop="20260419122000 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <desc lang="it">A scuola fervono i preparativi per il nuovo spettacolo, ma nessuno è contento, a parte il professor Dobson. Intanto Simon è alle prese con il suo robot Geizmo, che ha davvero un carattere difficile.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E5</episode-num>
+  </programme>
+  <programme channel="K2.ch" start="20260419122000 +0000" stop="20260419123000 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <desc lang="it">Simon segue un corso di scienza, dove un dottore spiega che è possible superare la necessità di dormire. Inoltre lavora ad una nuova invenzione: un raggio laser che riporta gli oggetti indietro nel tempo.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme channel="K2.ch" start="20260419123000 +0000" stop="20260419124000 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <desc lang="it">Theodore si comporta in modo strano, è molto riservato e inizia a frequentare gente sospetta. In città verrà organizzato un concorso per ragazze in cui vengono messi in palio 500 dollari.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E7</episode-num>
+  </programme>
+  <programme channel="K2.ch" start="20260419124000 +0000" stop="20260419125500 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Imbrogliona a chi?; Festa per viaggiatori del tempo</sub-title>
+    <desc lang="it">La signorina Croner vince una competizione, ma la signorina Miller la accusa di aver imbrogliato. Alvin cerca di convincere Simon che viaggiare nel tempo è possibile.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2022</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E8</episode-num>
+  </programme>
+  <programme channel="K2.ch" start="20260419125500 +0000" stop="20260419130500 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">La casa di Cedar Lane; Il bullo del bagno</sub-title>
+    <desc lang="it">Arriva il giorno di Halloween e i compagni di Alvin si lamentano perché ormai non c'è più nulla in grado di spaventarli. Grazie ai suoi ottimi voti, Simon viene indicato come esempio da seguire per i suoi compagni.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2022</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E9</episode-num>
+  </programme>
+  <programme channel="K2.ch" start="20260419130500 +0000" stop="20260419132000 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Zeela the Great</sub-title>
+    <desc lang="it">Il robot di Simon, Geizmo, è geloso del robot di Jeanette, fino a quando una tragedia rivela i suoi veri sentimenti.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <country lang="it">US</country>
+  </programme>
+  <programme channel="K2.ch" start="20260419132000 +0000" stop="20260419133000 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Il blocco dello scrittore; Flick!</sub-title>
+    <desc lang="it">Dave attraversa un momento di blocco mentre scrive un musical per Broadway. Anche se Dave glielo ha vietato, Alvin infrange le regole e scarica un videogioco sul computer con cui Dave lavora.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2022</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E11</episode-num>
+  </programme>
+  <programme channel="K2.ch" start="20260419133000 +0000" stop="20260419134500 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Davey Boy</sub-title>
+    <desc lang="it">Simon ha creato una nuova invenzione, ovvero una macchina che può trasformare persone adulte in bambini. Accidentalmente Simon colpisce Dave, il quale torna ad essere il ragazzino maleducato di un tempo.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2021</date>
+    <country lang="it">US</country>
+  </programme>
+  <programme channel="K2.ch" start="20260419134500 +0000" stop="20260419135500 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Animaletti da festa; Warren Seville</sub-title>
+    <desc lang="it">Alvin desidera organizzare da solo le serate con il gruppo utilizzando un sito Internet dedicato. Alvin vuole fare in modo che Theodore si separi dall'orsetto Teddy.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2022</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E13</episode-num>
+  </programme>
+  <programme channel="K2.ch" start="20260419135500 +0000" stop="20260419140000 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Il signor Lou; Canzone d'amore</sub-title>
+    <desc lang="it">Theodore sta creando un piccolo uomo fatto di plastilina. Dave trova un foglio accartocciato su cui c'è scritta una poesia d'amore.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2022</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E14</episode-num>
+  </programme>
+  <programme channel="K2.ch" start="20260419140000 +0000" stop="20260419141500 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">Il pluriball; Scacco matto</sub-title>
+    <desc lang="it">Alvin e Brittany si ritrovano in una battaglia a colpi di cime di ghiande. Quando una ragazza carina entra a far parte del club degli scacchi, Alvin chiede a Jeanette di insegnargli a giocare, in modo da potersi iscrivere anche lui.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2022</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E15</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="K2.ch" start="20260419141500 +0000" stop="20260419142500 +0000">
+    <title lang="it">Alvinnn!!! and the Chipmunks</title>
+    <sub-title lang="it">La scuola estiva; Il puzzle</sub-title>
+    <desc lang="it">Alvin si trova costretto a frequentare una scuola estiva per recuperare i brutti voti. In occasione del primo dicembre a casa Seville inizia una nuova sfida, che riguarda la composizione di un enorme puzzle da completare in compagnia.</desc>
+    <credits>
+      <director>Janice Karman</director>
+    </credits>
+    <date>2022</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S5 E16</episode-num>
   </programme>
   <programme channel="K2.ch" start="20260419142500 +0000" stop="20260419143500 +0000">
     <title lang="it">Alvinnn!!! and the Chipmunks</title>
@@ -45841,6 +48549,90 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
       <value>6+</value>
     </rating>
   </programme>
+  <programme channel="Frisbee.ch" start="20260419084000 +0000" stop="20260419090500 +0000">
+    <title lang="it">Mega Game Dinsieme</title>
+    <desc lang="it">I DinsiemE devono affrontare una nuova sfida per fermare il piano diabolico dei due folli scienziati, creatori di un super laser capace di trasformare tutti in robot.</desc>
+    <date>2023</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme channel="Frisbee.ch" start="20260419090500 +0000" stop="20260419092500 +0000">
+    <title lang="it">Mega Game Dinsieme</title>
+    <desc lang="it">I DinsiemE devono affrontare una nuova sfida per fermare il piano diabolico dei due folli scienziati, creatori di un super laser capace di trasformare tutti in robot.</desc>
+    <date>2023</date>
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+  </programme>
+  <programme channel="Frisbee.ch" start="20260419092500 +0000" stop="20260419095500 +0000">
+    <title lang="it">Mega Game Dinsieme</title>
+    <desc lang="it">I DinsiemE devono affrontare una nuova sfida per fermare il piano diabolico dei due folli scienziati, creatori di un super laser capace di trasformare tutti in robot.</desc>
+    <date>2023</date>
+    <country lang="it">IT</country>
+    <episode-num system="onscreen">S2 E12</episode-num>
+  </programme>
+  <programme channel="Frisbee.ch" start="20260419095500 +0000" stop="20260419102000 +0000">
+    <title lang="it">Curioso come George</title>
+    <sub-title lang="it">Un terribile formicolio; Sciroppo di acero fatto in casa</sub-title>
+    <desc lang="it">Dopo aver combinato un pasticcio a colazione, George scopre che un esercito di formiche si è radunato sul pavimento sotto il tavolo. George scopre come viene prodotto lo sciroppo d'acero.</desc>
+    <date>2012</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S6 E7</episode-num>
+  </programme>
+  <programme channel="Frisbee.ch" start="20260419102000 +0000" stop="20260419104500 +0000">
+    <title lang="it">Curioso come George</title>
+    <sub-title lang="it">DJ George; Pittura sabbiosa</sub-title>
+    <desc lang="it">L'Uomo con il Cappello Giallo vince i biglietti per un concerto di Bonnie Smooth, e George resta chiuso nella cabina del DJ. George fa del suo meglio per dipingere con la sabbia.</desc>
+    <date>2012</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S6 E8</episode-num>
+  </programme>
+  <programme channel="Frisbee.ch" start="20260419104500 +0000" stop="20260419111500 +0000">
+    <title lang="it">Curioso come George</title>
+    <sub-title lang="it">Non ti conosco più, Polpetta; L'amico delfino</sub-title>
+    <desc lang="it">George decide di seguire Gnocchi ovunque vada, in modo da poter capire cosa fa il suo amico gatto quando esce di casa. Inoltre, mentre sono in spiaggia, Marco e George decidono di seppellire il loro tesoro.</desc>
+    <date>2012</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S6 E9</episode-num>
+  </programme>
+  <programme channel="Frisbee.ch" start="20260419111500 +0000" stop="20260419112500 +0000">
+    <title lang="it">Curioso come George</title>
+    <sub-title lang="it">I tesori di George; Una casa per lo scoiattolo</sub-title>
+    <desc lang="it">Steve diventa capo del Pretty City Committee Pod 7, in una missione per liberare il quartiere dai rifiuti. George e l'Uomo con il Cappello Giallo trovano a casa un ospite a sorpresa.</desc>
+    <date>2012</date>
+    <country lang="it">US</country>
+  </programme>
+  <programme channel="Frisbee.ch" start="20260419112500 +0000" stop="20260419125500 +0000">
+    <title lang="it">Curioso come George 3: Ritorno nella giungla</title>
+    <desc lang="it">George prende parte a un'importante missione spaziale, ma la sua navicella ha un guasto e precipita della giungla africana. Qui egli fa la conoscenza di nuovi incredibili amici.</desc>
+    <credits>
+      <director>Phil Weinstein</director>
+    </credits>
+    <date>2015</date>
+    <country lang="it">US</country>
+  </programme>
+  <programme channel="Frisbee.ch" start="20260419125500 +0000" stop="20260419132000 +0000">
+    <title lang="it">Go Dog Go</title>
+    <sub-title lang="it">Nevica!</sub-title>
+    <desc lang="it">Il BauNatale è nell'aria, ma, quando la slitta di Santa Bau si schianta, tocca poi a Scheggia e Cooch compiere un atto molto altruista, e provare così a salvare il Natale di tutti.</desc>
+    <date>2021</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme channel="Frisbee.ch" start="20260419132000 +0000" stop="20260419134500 +0000">
+    <title lang="it">Go Dog Go</title>
+    <sub-title lang="it">Cani a babordo ;Il palco di ossi</sub-title>
+    <desc lang="it">Scheggia cerca di ricreare il primo incontro dei suoi genitori. Successivamente, Scheggia raduna una squadra per tentare di ricostruire il palco di ossi in occasione del centesimo anniversario di Zampaland.</desc>
+    <date>2021</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme channel="Frisbee.ch" start="20260419134500 +0000" stop="20260419141000 +0000">
+    <title lang="it">Go Dog Go</title>
+    <sub-title lang="it">Prendimi se ci riesci; Vecchi giocattoli</sub-title>
+    <desc lang="it">Il primo giorno da cadetta Scheggia infrange delle regole per vincere, quindi impara così una lezione importante. Ma decide di donare i vecchi giocattoli di Scheggia ai cuccioli bisognosi.</desc>
+    <date>2021</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
   <programme channel="Frisbee.ch" start="20260419141000 +0000" stop="20260419143500 +0000">
     <title lang="it">Curioso come George</title>
     <sub-title lang="it">George agli antipodi; Il mistero delle Perseidi</sub-title>
@@ -46905,6 +49697,235 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <date>2023</date>
     <country lang="it">FR</country>
     <episode-num system="onscreen">S1 E24</episode-num>
+  </programme>
+  <programme channel="Super!.ch" start="20260419084500 +0000" stop="20260419091000 +0000">
+    <title lang="it">A casa dei Loud</title>
+    <sub-title lang="it">I re del contest</sub-title>
+    <desc lang="it">Lincoln e Clyde vogliono partecipare a un contest di Ace Savvy i cui vincitori avranno la possibilità di far parte del prossimo film della saga. Lincoln convince anche le sorelle a partecipare.</desc>
+    <date>2019</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="Super!.ch" start="20260419091000 +0000" stop="20260419093500 +0000">
+    <title lang="it">I Thunderman</title>
+    <sub-title lang="it">Una lezione per i gemelli</sub-title>
+    <desc lang="it">Max ha deciso di costruire un turbo-idromassaggio nel suo rifugio, ma si scontra con il divieto dei genitori.</desc>
+    <credits>
+      <actor role="Phoebe Thunderman">Kira Kosarin</actor>
+      <actor role="Max Thunderman">Jack Griffo</actor>
+      <actor role="Barb Thunderman">Rosa Blasi</actor>
+      <actor role="Hank Thunderman">Christian Tallman</actor>
+      <actor role="Nora Thunderman">Addison Riecke</actor>
+      <actor role="Billy Thunderman">Diego Velázquez</actor>
+    </credits>
+    <date>2018</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E28</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="Super!.ch" start="20260419093500 +0000" stop="20260419100000 +0000">
+    <title lang="it">I Thunderman</title>
+    <sub-title lang="it">Il...Thundercentesimo</sub-title>
+    <desc lang="it">Max e Phoebe effettuano il novantanovesimo salvataggio e diventano sempre più determinati nel raggiungere quello che in famiglia viene definito come il 'Thundercentesimo'.</desc>
+    <credits>
+      <actor role="Phoebe Thunderman">Kira Kosarin</actor>
+      <actor role="Max Thunderman">Jack Griffo</actor>
+      <actor role="Barb Thunderman">Rosa Blasi</actor>
+      <actor role="Hank Thunderman">Christian Tallman</actor>
+      <actor role="Nora Thunderman">Addison Riecke</actor>
+      <actor role="Billy Thunderman">Diego Velázquez</actor>
+    </credits>
+    <date>2018</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E29</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="Super!.ch" start="20260419100000 +0000" stop="20260419102500 +0000">
+    <title lang="it">Henry Danger</title>
+    <sub-title lang="it">Danger Games</sub-title>
+    <desc lang="it">Il dottor Minyak vuole essere il più grande cattivo del mondo e, per affermarlo, ha bisogno di un evento spettacolare!</desc>
+    <credits>
+      <actor role="Henry">Jace Norman</actor>
+      <actor role="Ray Manchester">Cooper Barnes</actor>
+      <actor role="Charlotte">Riele Downs</actor>
+      <actor role="Jasper">Sean Ryan Fox</actor>
+      <actor role="Piper">Ella Anderson</actor>
+    </credits>
+    <date>2017</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="Super!.ch" start="20260419102500 +0000" stop="20260419105000 +0000">
+    <title lang="it">Henry Danger</title>
+    <sub-title lang="it">Danger Games</sub-title>
+    <desc lang="it">Il dottor Minyak decide di sabotare il concerto di beneficenza organizzato da un famoso rapper: Double G.</desc>
+    <credits>
+      <actor role="Henry">Jace Norman</actor>
+      <actor role="Ray Manchester">Cooper Barnes</actor>
+      <actor role="Charlotte">Riele Downs</actor>
+      <actor role="Jasper">Sean Ryan Fox</actor>
+      <actor role="Piper">Ella Anderson</actor>
+    </credits>
+    <date>2017</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="Super!.ch" start="20260419105000 +0000" stop="20260419111500 +0000">
+    <title lang="it">Henry Danger</title>
+    <sub-title lang="it">Danger Games</sub-title>
+    <desc lang="it">Per sconfiggere il dottor Minyak Capitan Man riceve l'aiuto di un gruppo di ragazzini cervelloni, i Game Shakers, creatori del suo videogioco preferito.</desc>
+    <credits>
+      <actor role="Henry">Jace Norman</actor>
+      <actor role="Ray Manchester">Cooper Barnes</actor>
+      <actor role="Charlotte">Riele Downs</actor>
+      <actor role="Jasper">Sean Ryan Fox</actor>
+      <actor role="Piper">Ella Anderson</actor>
+    </credits>
+    <date>2017</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="Super!.ch" start="20260419111500 +0000" stop="20260419114000 +0000">
+    <title lang="it">Henry Danger</title>
+    <sub-title lang="it">Sfida nei corridoi</sub-title>
+    <desc lang="it">Bish, una ragazzina difficile, semina il panico a scuola. Charlotte cerca di affrontarla ma la prepotenza della sua rivale non ha eguali.</desc>
+    <credits>
+      <actor role="Henry">Jace Norman</actor>
+      <actor role="Ray Manchester">Cooper Barnes</actor>
+      <actor role="Charlotte">Riele Downs</actor>
+      <actor role="Jasper">Sean Ryan Fox</actor>
+      <actor role="Piper">Ella Anderson</actor>
+    </credits>
+    <date>2017</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="Super!.ch" start="20260419114000 +0000" stop="20260419120500 +0000">
+    <title lang="it">Henry Danger</title>
+    <sub-title lang="it">Papera di gomma</sub-title>
+    <desc lang="it">I genitori di Henry partono per il weekend, ma lasciano alcune indicazioni al figlio, fra cui non toccare la macchinina radiocomandata del Sig. Hart e non organizzare feste.</desc>
+    <credits>
+      <actor role="Henry">Jace Norman</actor>
+      <actor role="Ray Manchester">Cooper Barnes</actor>
+      <actor role="Charlotte">Riele Downs</actor>
+      <actor role="Jasper">Sean Ryan Fox</actor>
+      <actor role="Piper">Ella Anderson</actor>
+    </credits>
+    <date>2018</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E21</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="Super!.ch" start="20260419120500 +0000" stop="20260419123000 +0000">
+    <title lang="it">Henry Danger</title>
+    <sub-title lang="it">Tagli al budget</sub-title>
+    <desc lang="it">Il vicesindaco Willard, per costruire la linea ferroviaria ad alta velocità, decide di tagliare i costi del comune, e taglia del 90% il budget dei nostri supereroi.</desc>
+    <credits>
+      <actor role="Henry">Jace Norman</actor>
+      <actor role="Ray Manchester">Cooper Barnes</actor>
+      <actor role="Charlotte">Riele Downs</actor>
+      <actor role="Jasper">Sean Ryan Fox</actor>
+      <actor role="Piper">Ella Anderson</actor>
+    </credits>
+    <date>2018</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="Super!.ch" start="20260419123000 +0000" stop="20260419125500 +0000">
+    <title lang="it">Henry Danger</title>
+    <sub-title lang="it">Il cartone animato</sub-title>
+    <desc lang="it">Piper organizza a casa sua la prima del nuovo cartone su Capitan Man e Kid Danger. Il super-duo ha l'opportunità di visionare un episodio in anteprima.</desc>
+    <credits>
+      <actor role="Henry">Jace Norman</actor>
+      <actor role="Ray Manchester">Cooper Barnes</actor>
+      <actor role="Charlotte">Riele Downs</actor>
+      <actor role="Jasper">Sean Ryan Fox</actor>
+      <actor role="Piper">Ella Anderson</actor>
+    </credits>
+    <date>2018</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="Super!.ch" start="20260419125500 +0000" stop="20260419132000 +0000">
+    <title lang="it">Henry Danger</title>
+    <sub-title lang="it">Il cartone animato</sub-title>
+    <desc lang="it">Piper organizza a casa sua la prima del nuovo cartone su Capitan Man e Kid Danger. Il super-duo ha l'opportunità di visionare un episodio in anteprima.</desc>
+    <credits>
+      <actor role="Henry">Jace Norman</actor>
+      <actor role="Ray Manchester">Cooper Barnes</actor>
+      <actor role="Charlotte">Riele Downs</actor>
+      <actor role="Jasper">Sean Ryan Fox</actor>
+      <actor role="Piper">Ella Anderson</actor>
+    </credits>
+    <date>2018</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="Super!.ch" start="20260419132000 +0000" stop="20260419134500 +0000">
+    <title lang="it">Henry Danger</title>
+    <sub-title lang="it">Viaggio di compleanno</sub-title>
+    <desc lang="it">Il viaggio per il compleanno di Charlotte per andare a vedere lo show dei Boo Man Group viene deviato da Kid Danger e da Capitan Man, a causa di un'emergenza.</desc>
+    <credits>
+      <actor role="Henry">Jace Norman</actor>
+      <actor role="Ray Manchester">Cooper Barnes</actor>
+      <actor role="Charlotte">Riele Downs</actor>
+      <actor role="Jasper">Sean Ryan Fox</actor>
+      <actor role="Piper">Ella Anderson</actor>
+    </credits>
+    <date>2018</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
+  </programme>
+  <programme channel="Super!.ch" start="20260419134500 +0000" stop="20260419141000 +0000">
+    <title lang="it">Henry Danger</title>
+    <sub-title lang="it">Le bugie del sabato sera</sub-title>
+    <desc lang="it">Lacey, l'ex-ragazza di Ray, si presenta da Junk &amp; Stuff con suo marito Roger, che lavora nei Servizi Segreti Britannici. Capitan Man dice di essere un inventore.</desc>
+    <credits>
+      <actor role="Henry">Jace Norman</actor>
+      <actor role="Ray Manchester">Cooper Barnes</actor>
+      <actor role="Charlotte">Riele Downs</actor>
+      <actor role="Jasper">Sean Ryan Fox</actor>
+      <actor role="Piper">Ella Anderson</actor>
+    </credits>
+    <date>2018</date>
+    <country lang="it">US</country>
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <rating system="FSK">
+      <value>6+</value>
+    </rating>
   </programme>
   <programme channel="Super!.ch" start="20260419141000 +0000" stop="20260419143500 +0000">
     <title lang="it">Henry Danger</title>
@@ -48447,6 +51468,36 @@ Gli amici organizzano una festa a sorpresa per salutare Michael prima della part
     <rating system="FSK">
       <value>6+</value>
     </rating>
+  </programme>
+  <programme channel="Mezzo.ch" start="20260419085000 +0000" stop="20260419094500 +0000">
+    <title lang="fr">Naïssam Jalal : Landscapes of Eternity, Jazz sous les pommiers</title>
+    <desc lang="fr">La flûtiste Naissam Jalal interprète son concert "Landscapes of Eternity" où elle explore le lien entre musique, nature et spiritualité. Une représentation donnée le 8 mai 2024 lors du festival Jazz sous les pommiers 2024 à Coutances.</desc>
+    <credits>
+      <director>Samuel Thiebaut</director>
+    </credits>
+    <date>2024</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.ch" start="20260419094500 +0000" stop="20260419103500 +0000">
+    <title lang="fr">Franco Ambrosetti Quintet live at Estival Lugano</title>
+    <desc lang="fr">Estival est un festival de jazz d'été à Lugano, en Suisse, qui propose une programmation surprenante. Le compositeur, trompettiste et joueur de bugle Franco Ambrosetti se produira avec son quintette dans sa ville natale de Lugano.</desc>
+    <date>2018</date>
+    <country lang="fr">GB</country>
+  </programme>
+  <programme channel="Mezzo.ch" start="20260419103500 +0000" stop="20260419111500 +0000">
+    <title lang="fr">INTERMEZZO</title>
+    <desc lang="fr">Clips.</desc>
+    <date>2013</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.ch" start="20260419111500 +0000" stop="20260419125500 +0000">
+    <title lang="fr">Young Euro Classic 2022: Chineke! Junior Orchestra, Glass Marcano</title>
+    <desc lang="fr">Junior Orchestra, dirigé par Glass Marcano, interprète des œuvres de Samuel Coleridge-Taylor, Stewart Goodyear, Gerard Aimontche et Pyotr Ilyich Tchaikovsky.</desc>
+    <credits>
+      <director>Andreas Morell</director>
+    </credits>
+    <date>2022</date>
+    <country lang="fr">DE</country>
   </programme>
   <programme channel="Mezzo.ch" start="20260419125500 +0000" stop="20260419153000 +0000">
     <title lang="fr">Bach: St. Matthew Passion - Christophe Rousset, Les Talens Lyriques</title>
