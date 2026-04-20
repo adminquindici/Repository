@@ -304,14 +304,14 @@ http://87.246.54.249:8080/MaxSport4/index.m3u8
 #EXTINF:-1 tvg-id="Ring BG" tvg-name="Ring BG" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Ring BG
 http://87.246.54.249:8080/RING/index.m3u8
 
-#EXTINF:-1 tvg-id="Setanta Sport+" tvg-name="Setanta Sport+" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sport+
-http://188.225.31.197/bpk-tv/000008786/tve/index.m3u8
-
 #EXTINF:-1 tvg-id="Setanta Sports 1" tvg-name="Setanta Sports 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 1
 http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="Setanta Sports 2" tvg-name="Setanta Sports 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 2
 http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
+
+#EXTINF:-1 tvg-id="Setanta Sport+" tvg-name="Setanta Sport+" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sport+
+http://188.225.31.197/bpk-tv/000008786/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="Art Sport 1 Kosovo" tvg-name="Art Sport 1 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 1 Kosovo
 http://169.150.223.25/ArtSport1HD/index.m3u8
