@@ -77,6 +77,9 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-id="La.7d.ch" tvg-name="La.7d.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/007.jpg",29 La7 Cinema
 http://78.130.250.2:8023/play/a044/index.m3u8
 
+#EXTINF:-1 tvg-id="La.7d.ch" tvg-name="La.7d.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/007.jpg",29 La7 Cinema
+http://apsrev.evolution-tv.cz:2052/Sorestrak/dVVazEmY2k/49446
+
 #EXTINF:-1 tvg-id="LA5.it" tvg-name="LA5.it" tvg-logo="https://i.imgur.com/UNyJaho.png",30 La5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
@@ -333,15 +336,6 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/cz.png",Sport 2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SS24" tvg-name="SS24" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",SS24
-http://apsrev.evolution-tv.cz:2052/sal804/sal804/69429
-
-#EXTINF:-1 tvg-id="SS24" tvg-name="SS24" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",SS24
-http://apsrev.evolution-tv.cz:2052/carloziodibba1/tNvBB6bsPgLT/101434
-
-#EXTINF:-1 tvg-id="SS24" tvg-name="SS24" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",SS24
-http://81.31.194.66:8080/pro3321771602465/c351d62b2adf/3904
 
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
