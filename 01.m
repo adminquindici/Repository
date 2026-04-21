@@ -23,9 +23,6 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv8.it" tvg-logo="https://i.imgur.com/xvoHVOU.png",8 TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="NOVE.ch" tvg-name="NOVE.ch" tvg-logo="https://i.imgur.com/Hp723RU.png",9 Nove
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
-
 #EXTINF:-1 tvg-id="10 Primocanale" tvg-name="10 Primocanale" tvg-logo="https://i.imgur.com/xWF1A1U.png",10 Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 
@@ -77,20 +74,11 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-id="La.7d.ch" tvg-name="La.7d.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/007.jpg",29 La7 Cinema
 http://78.130.250.2:8023/play/a044/index.m3u8
 
-#EXTINF:-1 tvg-id="La.7d.ch" tvg-name="La.7d.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/007.jpg",29 La7 Cinema
-http://fortv.cc:8080/tmostg@windstream.net/rQHnPTsGUD/266401
-
 #EXTINF:-1 tvg-id="LA5.it" tvg-name="LA5.it" tvg-logo="https://i.imgur.com/UNyJaho.png",30 La5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Real.Time.ch" tvg-name="Real.Time.ch" tvg-logo="https://i.imgur.com/9dcTYg1.png",31 Real Time
-https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
-
 #EXTINF:-1 tvg-id="QVC" tvg-name="QVC" tvg-logo="https://i.imgur.com/Ea7iUX2.png",32 QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://i.imgur.com/i60OYr9.png",33 Food Network
-https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
 
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34.it" tvg-logo="https://i.imgur.com/YyldwhI.png",34 Cine 34
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
@@ -103,9 +91,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/31/3328310f-6d31-30a1-be18-d17a7ecb95cd.png?w=200&f=PNG&p=true&q=85",37 Discovery Channel
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
-
-#EXTINF:-1 tvg-id="Giallo.ch" tvg-name="Giallo.ch" tvg-logo="https://i.imgur.com/0PIRwZS.png",38 Giallo
-https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
 
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TopCrime.it" tvg-logo="https://i.imgur.com/RFIwv9O.png",39 Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
@@ -143,9 +128,6 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnt
 #EXTINF:-1 tvg-id="TGCom24.it" tvg-name="TGCom24.it" tvg-logo="https://i.imgur.com/xautVD8.png",51 TGCOM 24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" tvg-logo="https://i.imgur.com/dmEmRX7.png",52 Dmax
-https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
-
 #EXTINF:-1 tvg-id="53 Casa Italia 53" tvg-name="53 Casa Italia 53" tvg-logo="https://i.imgur.com/O4GQVCk.png",53 Casa Italia 53
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 
@@ -155,17 +137,11 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MediasetExtra.it" tvg-logo="https://i.imgur.com/mM8lopo.png",55 Mediaset Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://i.imgur.com/emLNC0U.png",56 HGTV
-https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
-
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RaiScuola.it" tvg-logo="https://i.imgur.com/tmtJW6s.png",57 Rai Scuola
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7
 
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="RaiSport.it" tvg-logo="https://i.imgur.com/xsGljsb.png",58 Rai Sport
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7
-
-#EXTINF:-1 tvg-id="Motor.Trend.ch" tvg-name="Motor.Trend.ch" tvg-logo="https://i.imgur.com/ipj2H0n.png",59 Discovery Turbo
-https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 
 #EXTINF:-1 tvg-id="SportItalia.it" tvg-name="SportItalia.it" tvg-logo="https://i.imgur.com/hu56Ya5.png",60 Sportitalia
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
@@ -200,7 +176,7 @@ https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="122 Canale 122" tvg-name="122 Canale 122" tvg-logo="https://i.imgur.com/9F1sVjZ.png",122 Canale 122
 https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AP Channel" tvg-name="AP Channel" tvg-logo="https://drive.google.com/uc?export=download&id=1qw6DOzEt8xrIfw7JJaiOpZgWJFU2CBJQ",269 AP Channel
+#EXTINF:-1 tvg-id="AP Channel" tvg-name="AP Channel" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/AP.png",269 AP Channel
 https://64b16f23efbee.streamlock.net/apchannel/apchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="262 ByoBlu" tvg-name="262 ByoBlu" tvg-logo="https://i.imgur.com/1xaHGtU.png",262 ByoBlu
 https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
@@ -253,13 +229,13 @@ http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="eurosport2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 2
 http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://iptvx.one/picons/sky-sports-tennis.png",Sky Sports Tennis
+#EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Tennis
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
 
-#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Sky Sport F1
+#EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sport F1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/tv.png",Sky Sports Premier League
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Premier League
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=f6Lrx1cPYx2SfJ9mbaHnbw&e=2068506972&scheme=https
 
 #EXTINF:-1 tvg-id="Diema Sport 1" tvg-name="Diema Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/dm.jpg",Diema Sport 1
@@ -304,6 +280,24 @@ http://87.246.54.249:8080/MaxSport4/index.m3u8
 #EXTINF:-1 tvg-id="Ring BG" tvg-name="Ring BG" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Ring BG
 http://87.246.54.249:8080/RING/index.m3u8
 
+#EXTINF:-1 tvg-id="Art Sport 1 Kosovo" tvg-name="Art Sport 1 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 1 Kosovo
+http://169.150.223.25/ArtSport1HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Art Sport 2 Kosovo" tvg-name="Art Sport 2 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 2 Kosovo
+http://169.150.223.25/ArtSport2/index.m3u8
+
+#EXTINF:-1 tvg-id="Art Sport 3 Kosovo" tvg-name="Art Sport 3 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 3 Kosovo
+http://169.150.223.25/ArtSport3/index.m3u8
+
+#EXTINF:-1 tvg-id="Art Sport 4 Kosovo" tvg-name="Art Sport 4 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 4 Kosovo
+http://169.150.223.25/ArtSport4/index.m3u8
+
+#EXTINF:-1 tvg-id="Art Sport 5 Kosovo" tvg-name="Art Sport 5 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 5 Kosovo
+http://169.150.223.25/ArtSport5/index.m3u8
+
+#EXTINF:-1 tvg-id="Art Sport 6 Kosovo" tvg-name="Art Sport 6 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 6 Kosovo
+http://169.150.223.25/ArtSport6/index.m3u8
+
 #EXTINF:-1 tvg-id="Setanta Sports 1" tvg-name="Setanta Sports 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 1
 http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
 
@@ -313,13 +307,22 @@ http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:-1 tvg-id="Setanta Sport+" tvg-name="Setanta Sport+" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sport+
 http://188.225.31.197/bpk-tv/000008786/tve/index.m3u8
 
-#EXTINF:-1 tvg-id="Art Sport 1 Kosovo" tvg-name="Art Sport 1 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 1 Kosovo
-http://169.150.223.25/ArtSport1HD/index.m3u8
+#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/cz.png",Sport 1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Art Sport 2 Kosovo" tvg-name="Art Sport 2 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 2 Kosovo
-http://169.150.223.25/ArtSport2/index.m3u8
+#EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/cz.png",Sport 2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Art Sport 3 Kosovo" tvg-name="Art Sport 3 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 3 Kosovo
+#EXTINF:-1 tvg-id="SS24" tvg-name="SS24" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",SS24
+http://apsrev.evolution-tv.cz:2052/sal804/sal804/69429
+
+#EXTINF:-1 tvg-id="SS24" tvg-name="SS24" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",SS24
+http://81.31.194.66:8080/pro3321771602465/c351d62b2adf/3904
+
+#EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
+https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
+
+ ",Art Sport 3 Kosovo
 http://169.150.223.25/ArtSport3/index.m3u8
 
 #EXTINF:-1 tvg-id="Art Sport 4 Kosovo" tvg-name="Art Sport 4 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 4 Kosovo
