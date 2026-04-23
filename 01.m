@@ -337,12 +337,6 @@ http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/cz.png",Sport 2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="La.7d.ch" tvg-name="La.7d.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/007.jpg",29 La7 Cinema
-http://1tv41.icu:8080/52335416/52335416/266401
-
-#EXTINF:-1 tvg-id="Mezzo Live" tvg-name="Mezzo Live" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mz.jpg",Mezzo Live
-http://xuucdmku.gr2bwu.xyz:80/play/vit813937/qkfJ4xkcXjcE/1255572.ts
-
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
 
