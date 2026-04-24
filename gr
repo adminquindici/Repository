@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="CustomEPG">
-  <!-- Definizione del canale -->
-  <channel id="Sport 1">
-    <display-name lang="it">Sport 1</display-name>
+<tv generator-info-name="Custom EPG Generator">
+  <channel id="Sport2">
+    <display-name lang="it">Sport 2</display-name>
   </channel>
-
-  <!-- Programma unico dalle 00:00 alle 23:59 -->
-  <programme start="20270522000000 +0200" stop="20270522235900 +0200" channel="Sport 1">
-    <title lang="it">free</title>
+  <programme start="20260424100000 +0200" stop="20260424180000 +0200" channel="Sport2">
+    <title lang="it">all day</title>
+    <desc lang="it">all day description</desc>
   </programme>
 </tv>
 
