@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="CustomEPG">
   <!-- Definizione del canale -->
-  <channel id="roma2026">
-    <display-name lang="it">Roma 2026</display-name>
+  <channel id="sport 1">
+    <display-name lang="it">Sport 1</display-name>
   </channel>
 
   <!-- Programma unico dalle 00:00 alle 23:59 -->
