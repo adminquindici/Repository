@@ -307,10 +307,10 @@ http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
 #EXTINF:-1 tvg-id="Setanta Sport+" tvg-name="Setanta Sport+" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sport+
 http://188.225.31.197/bpk-tv/000008786/tve/index.m3u8
 
-#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/cz.png",Sport 1
+#EXTINF:-1 tvg-id="Sport_1" tvg-name="Sport_1" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/sportcz.png",Sport_1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/cz.png",Sport 2
+#EXTINF:-1 tvg-id="Sport_2" tvg-name="Sport_2" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/sportcz.png",Sport_2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
