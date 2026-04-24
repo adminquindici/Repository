@@ -235,7 +235,7 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 #EXTINF:-1 tvg-id="FOX News" tvg-name="FOX News" tvg-logo="https://i.ibb.co/hdBrzcc/fox.png",FOX News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN International
+#EXTINF:-1 tvg-id="CNN.ch" tvg-name="CNN.ch" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN International
 https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
 
 #EXTINF:-1 tvg-id="RSI.La.1.ch" tvg-name="RSI.La.1.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA1
@@ -262,15 +262,6 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m
 #EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Premier League
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=f6Lrx1cPYx2SfJ9mbaHnbw&e=2068506972&scheme=https
 
-#EXTINF:-1 tvg-id="Diema Sport 1" tvg-name="Diema Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/dm.jpg",Diema Sport 1
-http://87.246.54.249:8080/DiemaSport/index.m3u8
-
-#EXTINF:-1 tvg-id="Diema Sport 2" tvg-name="Diema Sport 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/dm.jpg",Diema Sport 2
-http://87.246.54.249:8080/DiemaSport2/index.m3u8
-
-#EXTINF:-1 tvg-id="Diema Sport 3" tvg-name="Diema Sport 3" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/dm.jpg",Diema Sport 3
-http://87.246.54.249:8080/DiemaSport3/index.m3u8
-
 #EXTINF:-1 tvg-id="Israel Sport 1" tvg-name="Israel Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/is.png",Israel Sport 1
 http://185.132.134.159:80/sport1/index.m3u8
 
@@ -288,21 +279,6 @@ http://185.132.134.159:80/sport5/index.m3u8
 
 #EXTINF:-1 tvg-id="Israel Sport 6" tvg-name="Israel Sport 6" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/is.png",Israel Sport 6
 http://185.132.134.159:80/sport6/index.m3u8
-
-#EXTINF:-1 tvg-id="MAX Sport 1" tvg-name="MAX Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mx.jpg",MAX Sport 1
-http://87.246.54.249:8080/MaxSport1/index.m3u8
-
-#EXTINF:-1 tvg-id="MAX Sport 2" tvg-name="MAX Sport 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mx.jpg",MAX Sport 2
-http://87.246.54.249:8080/MaxSport2/index.m3u8
-
-#EXTINF:-1 tvg-id="MAX Sport 3" tvg-name="MAX Sport 3" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mx.jpg",MAX Sport 3
-http://87.246.54.249:8080/MaxSport3/index.m3u8
-
-#EXTINF:-1 tvg-id="MAX Sport 4" tvg-name="MAX Sport 4" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mx.jpg",MAX Sport 4
-http://87.246.54.249:8080/MaxSport4/index.m3u8
-
-#EXTINF:-1 tvg-id="Ring BG" tvg-name="Ring BG" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Ring BG
-http://87.246.54.249:8080/RING/index.m3u8
 
 #EXTINF:-1 tvg-id="Art Sport 1 Kosovo" tvg-name="Art Sport 1 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 1 Kosovo
 http://169.150.223.25/ArtSport1HD/index.m3u8
