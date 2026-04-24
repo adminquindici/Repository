@@ -3,8 +3,8 @@
   <channel id="Sport2">
     <display-name lang="it">Sport 2</display-name>
   </channel>
-  <programme start="20260424100000 +0200" stop="20260424180000 +0200" channel="Sport2">
-    <title lang="it">all day</title>
+  <programme start="20260425100000 +0200" stop="20260524180000 +0200" channel="Sport2">
+    <title lang="it">carlo</title>
     <desc lang="it">all day description</desc>
   </programme>
 </tv>
