@@ -247,11 +247,11 @@ https://netplus.zappr.stream/rsila2hd.m3u8
 #EXTINF:-1 tvg-id="Rally TV" tvg-name="Rally TV" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/w.jpg",Rally TV
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
 
-#EXTINF:-1 tvg-id="eurosport 1" tvg-name="eurosport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 1
-http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 1 HD
+http://77.245.98.18:8000/play/a00h
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-name="eurosport2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 2
-http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-name="Eurosport 2 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 2 HD
+http://85.117.37.41/eurosport2/index.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Tennis
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
@@ -298,14 +298,14 @@ http://169.150.223.25/ArtSport5/index.m3u8
 #EXTINF:-1 tvg-id="Art Sport 6 Kosovo" tvg-name="Art Sport 6 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 6 Kosovo
 http://169.150.223.25/ArtSport6/index.m3u8
 
+#EXTINF:-1 tvg-id="Sport Plus Kazakhstan" tvg-name="Sport Plus Kazakhstan" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Sport Plus Kazakhstan
+http://37.46.49.14:18010/play/a056/index.m3u8
+
 #EXTINF:-1 tvg-id="Setanta Sports 1" tvg-name="Setanta Sports 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 1
-http://188.225.31.197/bpk-tv/000004498/tve/index.m3u8
+https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Setanta Sports 2" tvg-name="Setanta Sports 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 2
-http://188.225.31.197/bpk-tv/000004499/tve/index.m3u8
-
-#EXTINF:-1 tvg-id="Setanta Sport+" tvg-name="Setanta Sport+" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sport+
-http://188.225.31.197/bpk-tv/000008786/tve/index.m3u8
+https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Sport_1" tvg-name="Sport_1" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/sportcz.png",Sport_1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
