@@ -6,7 +6,7 @@
   </channel>
 
   <!-- Programma unico dalle 00:00 alle 23:59 -->
-  <programme start="20240522000000 +0200" stop="20240522235900 +0200" channel="roma2026">
+  <programme start="20270522000000 +0200" stop="20270522235900 +0200" channel="roma2026">
     <title lang="it">free</title>
   </programme>
 </tv>
