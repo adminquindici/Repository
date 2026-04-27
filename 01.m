@@ -256,9 +256,6 @@ http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sport F1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-name="Sky Sports Premier League" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Premier League
-https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=f6Lrx1cPYx2SfJ9mbaHnbw&e=2068506972&scheme=https
-
 #EXTINF:-1 tvg-id="Israel Sport 1" tvg-name="Israel Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/is.png",Israel Sport 1
 http://185.132.134.159:80/sport1/index.m3u8
 
@@ -294,9 +291,6 @@ http://169.150.223.25/ArtSport5/index.m3u8
 
 #EXTINF:-1 tvg-id="Art Sport 6 Kosovo" tvg-name="Art Sport 6 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 6 Kosovo
 http://169.150.223.25/ArtSport6/index.m3u8
-
-#EXTINF:-1 tvg-id="Sport Plus Kazakhstan" tvg-name="Sport Plus Kazakhstan" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Sport Plus Kazakhstan
-http://37.46.49.14:18010/play/a056/index.m3u8
 
 #EXTINF:-1 tvg-id="Setanta Sports 1" tvg-name="Setanta Sports 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 1
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
