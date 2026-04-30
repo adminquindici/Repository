@@ -42,7 +42,7 @@ https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="Mezzo.ch" tvg-name="Mezzo.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mz.jpg",Mezzo
-http://158.101.222.193:88/georgia_play.php?id=mezzo
+http://dmi3y-tv.online/hls/CH_MEZZO.m3u8
 
 #EXTINF:-1 tvg-id="Classic Arts Showcase" tvg-name="Classic Arts Showcase" tvg-logo="https://i.imgur.com/M6FFkc3.png",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
@@ -252,6 +252,9 @@ http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="eurosport2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 2
 http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Tennis
+https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
 
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sport F1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
