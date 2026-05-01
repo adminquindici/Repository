@@ -23,8 +23,8 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv8.it" tvg-logo="https://i.imgur.com/xvoHVOU.png",8 TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="NOVE.ch" tvg-name="NOVE.ch" tvg-logo="https://i.imgur.com/Hp723RU.png",9 Nove
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+#EXTINF:-1 tvg-id="NOVE" tvg-name="NOVE" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/30/4d59eb96-9c6e-30b7-8744-07be2f84e3da.png?w=200&f=PNG&p=true&q=85",NOVE
+https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=nove&playerParams.caid=nove&playerParams.slate=nove&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3Nzc1NTg2ODgsIm5iZiI6MTc3NzU1ODY4OCwiZXhwIjoxNzc3NTU5MDQ4LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiODcuMTIuMjguODEifQ.o5LKNU_XMMxbzegDNQ_yIAdp9G8psmcFwWsKSgtKcpg&playerParams.gdpr=CQjD4HAQjD4HAAcABBITCbFwAAAAAAAAABCYAAAAAAEhIBgAFQAPAAggBkAGgATABCADKAJKAe0BeYDJAKeDoBoACwAKgAggBkAGgATABlADRAI6ASUA9oC8wGSAU8HAAgCEAJiIQAQAFkoAgACwAmALzAZISAAgJiKQDgAFgAVABBADIANAAmADKAGiAO8AjoBJQD2gLzAZIBTwoABATEWABgAZATEBT8AA.YAAAAAAAAAAA.IKfwHgAAwALAAwACoAGQAPAAgABQAC0AGQANAAmACAAEIAMoAaIA7wCEAEdAJKAe0BGoCYgF5gMZAZIA70CMwE4IKdgp6BT8
 
 #EXTINF:-1 tvg-id="10 Primocanale" tvg-name="10 Primocanale" tvg-logo="https://i.imgur.com/xWF1A1U.png",10 Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
@@ -102,7 +102,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/31/3328310f-6d31-30a1-be18-d17a7ecb95cd.png?w=200&f=PNG&p=true&q=85",37 Discovery Channel
-https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+https://d24aqelmrau4kx.cloudfront.net/WBTV_IT_1.m3u8
 
 #EXTINF:-1 tvg-id="Giallo.ch" tvg-name="Giallo.ch" tvg-logo="https://i.imgur.com/0PIRwZS.png",38 Giallo
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
