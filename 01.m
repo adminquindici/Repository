@@ -26,9 +26,6 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTINF:-1 tvg-id="NOVE.ch" tvg-name="NOVE.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",9 Nove
 http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/266406
 
-#EXTINF:-1 tvg-id="NOVE.ch" tvg-name="NOVE.ch" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/30/4d59eb96-9c6e-30b7-8744-07be2f84e3da.png?w=200&f=PNG&p=true&q=85",9 Nove
-https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=nove&playerParams.caid=nove&playerParams.slate=nove&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3Nzc1NTg2ODgsIm5iZiI6MTc3NzU1ODY4OCwiZXhwIjoxNzc3NTU5MDQ4LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiODcuMTIuMjguODEifQ.o5LKNU_XMMxbzegDNQ_yIAdp9G8psmcFwWsKSgtKcpg&playerParams.gdpr=CQjD4HAQjD4HAAcABBITCbFwAAAAAAAAABCYAAAAAAEhIBgAFQAPAAggBkAGgATABCADKAJKAe0BeYDJAKeDoBoACwAKgAggBkAGgATABlADRAI6ASUA9oC8wGSAU8HAAgCEAJiIQAQAFkoAgACwAmALzAZISAAgJiKQDgAFgAVABBADIANAAmADKAGiAO8AjoBJQD2gLzAZIBTwoABATEWABgAZATEBT8AA.YAAAAAAAAAAA.IKfwHgAAwALAAwACoAGQAPAAgABQAC0AGQANAAmACAAEIAMoAaIA7wCEAEdAJKAe0BGoCYgF5gMZAZIA70CMwE4IKdgp6BT8
-
 #EXTINF:-1 tvg-id="10 Primocanale" tvg-name="10 Primocanale" tvg-logo="https://i.imgur.com/xWF1A1U.png",10 Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
 
@@ -46,9 +43,6 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 
 #EXTINF:-1 tvg-id="Mezzo.ch" tvg-name="Mezzo.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mz.jpg",Mezzo
 http://dmi3y-tv.online/hls/CH_MEZZO.m3u8
-
-#EXTINF:-1 tvg-id="Mezzo Live" tvg-name="Mezzo Live" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mz.jpg",Mezzo Live
-http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/266609
 
 #EXTINF:-1 tvg-id="Classic Arts Showcase" tvg-name="Classic Arts Showcase" tvg-logo="https://i.imgur.com/M6FFkc3.png",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
@@ -247,9 +241,6 @@ https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="RSI.La.1.ch" tvg-name="RSI.La.1.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA1
 https://netplus.zappr.stream/rsila1hd.m3u8
 
-#EXTINF:-1 tvg-id="RSI.LA.2.ch" tvg-name="RSI.LA.2.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA2
-https://netplus.zappr.stream/rsila2hd.m3u8
-
 #EXTINF:-1 tvg-id="Rally TV" tvg-name="Rally TV" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/w.jpg",Rally TV
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
 
@@ -264,6 +255,9 @@ https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1
 
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sport F1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="RSI.LA.2.ch" tvg-name="RSI.LA.2.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA2
+https://netplus.zappr.stream/rsila2hd.m3u8
 
 #EXTINF:-1 tvg-id="Sky Sports F1" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports F1
 http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/53704
