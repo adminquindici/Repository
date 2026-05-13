@@ -265,24 +265,6 @@ http://185.132.134.159:80/sport5/index.m3u8
 #EXTINF:-1 tvg-id="Israel Sport 6" tvg-name="Israel Sport 6" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/is.png",Israel Sport 6
 http://185.132.134.159:80/sport6/index.m3u8
 
-#EXTINF:-1 tvg-id="Art Sport 1 Kosovo" tvg-name="Art Sport 1 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 1 Kosovo
-http://169.150.223.25/ArtSport1HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Art Sport 2 Kosovo" tvg-name="Art Sport 2 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 2 Kosovo
-http://169.150.223.25/ArtSport2/index.m3u8
-
-#EXTINF:-1 tvg-id="Art Sport 3 Kosovo" tvg-name="Art Sport 3 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 3 Kosovo
-http://169.150.223.25/ArtSport3/index.m3u8
-
-#EXTINF:-1 tvg-id="Art Sport 4 Kosovo" tvg-name="Art Sport 4 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 4 Kosovo
-http://169.150.223.25/ArtSport4/index.m3u8
-
-#EXTINF:-1 tvg-id="Art Sport 5 Kosovo" tvg-name="Art Sport 5 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 5 Kosovo
-http://169.150.223.25/ArtSport5/index.m3u8
-
-#EXTINF:-1 tvg-id="Art Sport 6 Kosovo" tvg-name="Art Sport 6 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 6 Kosovo
-http://169.150.223.25/ArtSport6/index.m3u8
-
 #EXTINF:-1 tvg-id="Setanta Sports 1" tvg-name="Setanta Sports 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 1
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 
@@ -300,6 +282,75 @@ http://99.27.51.147:8080/BeinSport3/index.m3u8
 
 #EXTINF:-1 tvg-id="Bein EXTRAS" tvg-name="Bein EXTRAS" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Bein EXTRAS
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Arena Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/arena.jpeg",Arena Sport 1 HD
+http://178.253.194.79:10006
+
+#EXTINF:-1 tvg-id="Arena Sport 2 HD" tvg-name="Arena Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/arena.jpeg",Arena Sport 2 HD
+http://178.253.194.79:10007
+
+#EXTINF:-1 tvg-id="Arena Sport 3 HD" tvg-name="Arena Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/arena.jpeg",Arena Sport 3 HD
+http://178.253.194.79:10008
+
+#EXTINF:-1 tvg-id="Arena Sport 4 HD" tvg-name="Arena Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/arena.jpeg",Arena Sport 4 HD
+http://178.253.194.79:10009
+
+#EXTINF:-1 tvg-id="Arena Sport 5 HD" tvg-name="Arena Sport 5 HD" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/arena.jpeg",Arena Sport 5 HD
+http://178.253.194.79:10010
+
+#EXTINF:-1 tvg-id="Arena Sport 6 HD" tvg-name="Arena Sport 6 HD" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/arena.jpeg",Arena Sport 6 HD
+http://178.253.194.79:10011
+
+#EXTINF:-1 tvg-id="Arena Sport 7 HD" tvg-name="Arena Sport 7 HD" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/arena.jpeg",Arena Sport 7 HD
+http://178.253.194.79:10012
+
+#EXTINF:-1 tvg-id="Arena Sport 8 HD" tvg-name="Arena Sport 8 HD" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/arena.jpeg",Arena Sport 8 HD
+http://178.253.194.79:10013
+
+#EXTINF:-1 tvg-id="Arena Sport 1 Premium HD" tvg-name="Arena Sport 1 Premium HD" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/arena.jpeg",Arena Sport 1 Premium HD
+http://178.253.194.79:10001
+
+#EXTINF:-1 tvg-id="Arena Sport 2 Premium HD" tvg-name="Arena Sport 2 Premium HD" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/arena.jpeg",Arena Sport 2 Premium HD
+http://178.253.194.79:10004
+
+#EXTINF:-1 tvg-id="Arena Sport 3 Premium HD" tvg-name="Arena Sport 3 Premium HD" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/arena.jpeg",Arena Sport 3 Premium HD
+http://178.253.194.79:10005
+
+#EXTINF:-1 tvg-id="Arena Sport 4 Premium HD" tvg-name="Arena Sport 4 Premium HD" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/arena.jpeg",Arena Sport 4 Premium HD
+http://178.253.194.79:10016
+
+#EXTINF:-1 tvg-id="Arena Sport 5 Premium HD" tvg-name="Arena Sport 5 Premium HD" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/arena.jpeg",Arena Sport 5 Premium HD
+http://178.253.194.79:10017
+
+#EXTINF:-1 tvg-id="Arena Adrenalin HD" tvg-name="Arena Adrenalin HD" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/arena.jpeg",Arena Adrenalin HD
+http://178.253.194.79:10018
+
+#EXTINF:-1 tvg-id="Arena Tennis HD" tvg-name="Arena Tennis HD" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/arena.jpeg",Arena Tennis HD
+http://178.253.194.79:10019
+
+#EXTINF:-1 tvg-id="Art Sport 1" tvg-name="Art Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 1
+https://srv1.adriatelekom.com/ArtSport1HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Art Sport 2" tvg-name="Art Sport 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 2
+https://srv1.adriatelekom.com/ArtSport2/index.m3u8
+
+#EXTINF:-1 tvg-id="Art Sport 3" tvg-name="Art Sport 3" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 3
+https://srv1.adriatelekom.com/ArtSport3/index.m3u8
+
+#EXTINF:-1 tvg-id="Art Sport 4" tvg-name="Art Sport 4" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 4
+https://srv1.adriatelekom.com/ArtSport4/index.m3u8
+
+#EXTINF:-1 tvg-id="Art Sport 5" tvg-name="Art Sport 5" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 5
+https://srv1.adriatelekom.com/ArtSport5/index.m3u8
+
+#EXTINF:-1 tvg-id="Art Sport 6" tvg-name="Art Sport 6" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 6
+https://srv1.adriatelekom.com/ArtSport6/index.m3u8
+
+#EXTINF:-1 tvg-id="Max Sport 1" tvg-name="Max Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Max Sport 1
+https://srv1.adriatelekom.com/MaxSport1HR/index.m3u8
+
+#EXTINF:-1 tvg-id="Max Sport 2" tvg-name="Max Sport 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Max Sport 2
+https://srv1.adriatelekom.com/MaxSport2HR/index.m3u8
 
 #EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/cz.png",Sport 1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
