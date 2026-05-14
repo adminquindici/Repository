@@ -331,24 +331,6 @@ https://srv1.adriatelekom.com/MaxSport1HR/index.m3u8
 #EXTINF:-1 tvg-id="Max Sport 2" tvg-name="Max Sport 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mx.jpg",Max Sport 2
 https://srv1.adriatelekom.com/MaxSport2HR/index.m3u8
 
-#EXTINF:-1 tvg-id="Art Sport 1 Kosovo" tvg-name="Art Sport 1 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 1 Kosovo
-http://169.150.223.25/ArtSport1HD/index.m3u8
-
-#EXTINF:-1 tvg-id="Art Sport 2 Kosovo" tvg-name="Art Sport 2 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 2 Kosovo
-http://169.150.223.25/ArtSport2/index.m3u8
-
-#EXTINF:-1 tvg-id="Art Sport 3 Kosovo" tvg-name="Art Sport 3 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 3 Kosovo
-http://169.150.223.25/ArtSport3/index.m3u8
-
-#EXTINF:-1 tvg-id="Art Sport 4 Kosovo" tvg-name="Art Sport 4 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 4 Kosovo
-http://169.150.223.25/ArtSport4/index.m3u8
-
-#EXTINF:-1 tvg-id="Art Sport 5 Kosovo" tvg-name="Art Sport 5 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 5 Kosovo
-http://169.150.223.25/ArtSport5/index.m3u8
-
-#EXTINF:-1 tvg-id="Art Sport 6 Kosovo" tvg-name="Art Sport 6 Kosovo" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/art.jpg",Art Sport 6 Kosovo
-http://169.150.223.25/ArtSport6/index.m3u8
-
 #EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/cz.png",Sport 1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 
