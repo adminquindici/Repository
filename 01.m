@@ -24,7 +24,7 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:-1 tvg-id="NOVE.ch" tvg-name="NOVE.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",9 Nove
-http://op172.jxtrtpvp.top:8080/VIP01141762009303102/bfda8d66c9e9/136214
+http://91.146.94.234:10001/play/a09q
 
 #EXTINF:-1 tvg-id="10 Primocanale" tvg-name="10 Primocanale" tvg-logo="https://i.imgur.com/xWF1A1U.png",10 Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
@@ -94,6 +94,9 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/31/3328310f-6d31-30a1-be18-d17a7ecb95cd.png?w=200&f=PNG&p=true&q=85",37 Discovery Channel
 https://d3a5c87efixjp8.cloudfront.net/out/v1/12837340dbdf42f2b13481a5ca6f80b2/HLS_CMAF_DRM/index.m3u8
+
+#EXTINF:-1 tvg-id="Giallo.ch" tvg-name="Giallo.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",38 Giallo
+http://91.146.94.234:10001/play/a09p
 
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="TopCrime.it" tvg-logo="https://i.imgur.com/RFIwv9O.png",39 Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
