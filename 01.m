@@ -143,6 +143,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MediasetExtra.it" tvg-logo="https://i.imgur.com/mM8lopo.png",55 Mediaset Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",56 HGTV
+http://91.146.94.234:10001/play/a09s
+
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RaiScuola.it" tvg-logo="https://drive.google.com/uc?export=download&id=1FtaTl-_kuc3-kgdsaQdi9-x4SILMM002",57 Rai Scuola
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7
 
@@ -222,6 +225,9 @@ https://netplus.zappr.stream/rsila2hd.m3u8
 
 #EXTINF:-1 tvg-id="Rally TV" tvg-name="Rally TV" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/w.jpg",Rally TV
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+
+#EXTINF:-1 tvg-id="eurosport 1" tvg-name="eurosport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 1
+http://91.146.94.234:10001/play/a05o
 
 #EXTINF:-1 tvg-id="eurosport 1" tvg-name="eurosport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 1
 http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
