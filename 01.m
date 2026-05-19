@@ -152,6 +152,9 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="RaiSport.it" tvg-logo="https://drive.google.com/uc?export=download&id=1FtaTl-_kuc3-kgdsaQdi9-x4SILMM002",58 Rai Sport
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7
 
+#EXTINF:-1 tvg-id="Motor.Trend.ch" tvg-name="Motor.Trend.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",59 Discovery Turbo
+http://91.146.94.234:10001/play/a0ip
+
 #EXTINF:-1 tvg-id="SportItalia.it" tvg-name="SportItalia.it" tvg-logo="https://i.imgur.com/hu56Ya5.png",60 Sportitalia
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 
@@ -216,12 +219,6 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CNN.ch" tvg-name="CNN.ch" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN International
 https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
-
-#EXTINF:-1 tvg-id="RSI.La.1.ch" tvg-name="RSI.La.1.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA1
-https://netplus.zappr.stream/rsila1hd.m3u8
-
-#EXTINF:-1 tvg-id="RSI.LA.2.ch" tvg-name="RSI.LA.2.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA2
-https://netplus.zappr.stream/rsila2hd.m3u8
 
 #EXTINF:-1 tvg-id="Rally TV" tvg-name="Rally TV" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/w.jpg",Rally TV
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
@@ -321,6 +318,21 @@ https://srv1.adriatelekom.com/MaxSport1HR/index.m3u8
 
 #EXTINF:-1 tvg-id="Max Sport 2" tvg-name="Max Sport 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mx.jpg",Max Sport 2
 https://srv1.adriatelekom.com/MaxSport2HR/index.m3u8
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT 1" tvg-name="CANAL+ SPORT 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",CANAL+ SPORT 1
+http://91.146.94.234:10001/play/a07d
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT 2" tvg-name="CANAL+ SPORT 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",CANAL+ SPORT 2
+http://91.146.94.234:10001/play/a075
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT 3" tvg-name="CANAL+ SPORT 3" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",CANAL+ SPORT 3
+http://91.146.94.234:10001/play/a072
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT 4" tvg-name="CANAL+ SPORT 4" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",CANAL+ SPORT 4
+http://91.146.94.234:10001/play/a073
+
+#EXTINF:-1 tvg-id="CANAL+ SPORT 5" tvg-name="CANAL+ SPORT 5" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",CANAL+ SPORT 5
+http://91.146.94.234:10001/play/a074
 
 #EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/cz.png",Sport 1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
