@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/01.e, https://nameless-meadow-bc43.cc67-cc.workers.dev/"
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="https://drive.google.com/uc?export=download&id=1FtaTl-_kuc3-kgdsaQdi9-x4SILMM002",1 Rai Uno
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",1 Rai Uno
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7
 
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2.it" tvg-logo="https://drive.google.com/uc?export=download&id=1FtaTl-_kuc3-kgdsaQdi9-x4SILMM002",2 Rai Due
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",2 Rai Due
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7
 
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai3.it" tvg-logo="https://drive.google.com/uc?export=download&id=1FtaTl-_kuc3-kgdsaQdi9-x4SILMM002",3 Rai Tre
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai3.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",3 Rai Tre
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7
 
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete4.it" tvg-logo="https://i.imgur.com/GWx2Fkl.png",4 Rete Quattro
@@ -50,19 +50,19 @@ https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20Mediaset.it" tvg-logo="https://i.imgur.com/It13jwX.png",20 20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai4.it" tvg-logo="https://drive.google.com/uc?export=download&id=1FtaTl-_kuc3-kgdsaQdi9-x4SILMM002",21 Rai 4
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai4.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",21 Rai 4
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7
 
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris.it" tvg-logo="https://i.imgur.com/Ixz1BY3.png",22 Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai5.it" tvg-logo="https://drive.google.com/uc?export=download&id=1FtaTl-_kuc3-kgdsaQdi9-x4SILMM002",23 Rai 5
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai5.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",23 Rai 5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7
 
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RaiMovie.it" tvg-logo="https://drive.google.com/uc?export=download&id=1FtaTl-_kuc3-kgdsaQdi9-x4SILMM002",24 Rai Movie
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="RaiMovie.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",24 Rai Movie
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7
 
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RaiPremium.it" tvg-logo="https://drive.google.com/uc?export=download&id=1FtaTl-_kuc3-kgdsaQdi9-x4SILMM002",25 Rai Premium
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="RaiPremium.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",25 Rai Premium
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7
 
 #EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo.it" tvg-logo="https://i.imgur.com/cPluF03.png",26 Cielo
@@ -104,10 +104,10 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing.it" tvg-logo="https://i.imgur.com/niSlrqT.png",40 Boing
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RaiGulp.it" tvg-logo="https://drive.google.com/uc?export=download&id=1FtaTl-_kuc3-kgdsaQdi9-x4SILMM002",42 Rai Gulp
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="RaiGulp.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",42 Rai Gulp
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
 
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RaiYoyo.it" tvg-logo="https://drive.google.com/uc?export=download&id=1FtaTl-_kuc3-kgdsaQdi9-x4SILMM002",43 Rai Yoyo
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RaiYoyo.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",43 Rai Yoyo
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7
 
 #EXTINF:-1 tvg-id="Frisbee.ch" tvg-name="Frisbee.ch" tvg-logo="https://i.imgur.com/9y1zIAe.png",44 Frisbee
@@ -119,7 +119,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Super!.ch" tvg-name="Super!.ch" tvg-logo="https://i.imgur.com/1124YEp.png",47 Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rai.News.24.ch" tvg-name="Rai.News.24.ch" tvg-logo="https://drive.google.com/uc?export=download&id=1FtaTl-_kuc3-kgdsaQdi9-x4SILMM002",48 Rai News 24
+#EXTINF:-1 tvg-id="Rai.News.24.ch" tvg-name="Rai.News.24.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",48 Rai News 24
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7
 
 #EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia2.it" tvg-logo="https://i.imgur.com/nq48sjO.png",49 Italia 2
@@ -137,7 +137,7 @@ https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="53 Casa Italia 53" tvg-name="53 Casa Italia 53" tvg-logo="https://i.imgur.com/O4GQVCk.png",53 Casa Italia 53
 https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="RaiStoria.it" tvg-logo="https://drive.google.com/uc?export=download&id=1FtaTl-_kuc3-kgdsaQdi9-x4SILMM002",54 Rai Storia
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="RaiStoria.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",54 Rai Storia
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7
 
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MediasetExtra.it" tvg-logo="https://i.imgur.com/mM8lopo.png",55 Mediaset Extra
@@ -146,10 +146,10 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",56 HGTV
 http://91.146.94.234:10001/play/a09s
 
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RaiScuola.it" tvg-logo="https://drive.google.com/uc?export=download&id=1FtaTl-_kuc3-kgdsaQdi9-x4SILMM002",57 Rai Scuola
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RaiScuola.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",57 Rai Scuola
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7
 
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="RaiSport.it" tvg-logo="https://drive.google.com/uc?export=download&id=1FtaTl-_kuc3-kgdsaQdi9-x4SILMM002",58 Rai Sport
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="RaiSport.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",58 Rai Sport
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7
 
 #EXTINF:-1 tvg-id="Motor.Trend.ch" tvg-name="Motor.Trend.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",59 Discovery Turbo
@@ -249,24 +249,6 @@ https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playli
 
 #EXTINF:-1 tvg-id="Tennis+" tvg-name="Tennis+" tvg-logo="https://images.plex.tv/photo?url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fd8dd29ce-8968-4a90-a21c-37af62c48e54%2F5_Tennis_Plus__Horizontal_Default_Art__3840x2160px_v4.jpg",Tennis+
 https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Israel Sport 1" tvg-name="Israel Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/is.png",Israel Sport 1
-http://185.132.134.159:80/sport1/index.m3u8
-
-#EXTINF:-1 tvg-id="Israel Sport 2" tvg-name="Israel Sport 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/is.png",Israel Sport 2
-http://185.132.134.159:80/sport2/index.m3u8
-
-#EXTINF:-1 tvg-id="Israel Sport 3" tvg-name="Israel Sport 3" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/is.png",Israel Sport 3
-http://185.132.134.159:80/sport3/index.m3u8
-
-#EXTINF:-1 tvg-id="Israel Sport 4" tvg-name="Israel Sport 4" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/is.png",Israel Sport 4
-http://185.132.134.159:80/sport4/index.m3u8
-
-#EXTINF:-1 tvg-id="Israel Sport 5" tvg-name="Israel Sport 5" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/is.png",Israel Sport 5
-http://185.132.134.159:80/sport5/index.m3u8
-
-#EXTINF:-1 tvg-id="Israel Sport 6" tvg-name="Israel Sport 6" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/is.png",Israel Sport 6
-http://185.132.134.159:80/sport6/index.m3u8
 
 #EXTINF:-1 tvg-id="Setanta Sports 1" tvg-name="Setanta Sports 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 1
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
