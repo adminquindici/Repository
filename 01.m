@@ -220,8 +220,8 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.ch" tvg-name="CNN.ch" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN International
 https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
 
-#EXTINF:-1 tvg-id="RSI.La.1.ch" tvg-name="RSI.La.1.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA1
-http://goldpro4.xyz:8080/ny1MEa7c/ffhBSyf/121175
+#EXTINF:-1 tvg-id="RSI LA 1" tvg-name="RSI LA 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA 1
+http://goldpro4.xyz:8080/ny1MEa7c/ffhBSyf/49443
 
 #EXTINF:-1 tvg-id="RSI.LA.2.ch" tvg-name="RSI.LA.2.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA2
 http://goldpro4.xyz:8080/ny1MEa7c/ffhBSyf/121176
@@ -238,6 +238,9 @@ http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="eurosport2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 2
 http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Sky Sport 24" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sport 24
+http://goldpro4.xyz:8080/ny1MEa7c/ffhBSyf/591850
+
 #EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Tennis
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
 
@@ -246,9 +249,6 @@ https://amg01444-tennischannelth-tennischde-samsungch-jp1l8.amagi.tv/playlist/am
 
 #EXTINF:-1 tvg-id="Tennis channel 2" tvg-name="Tennis channel 2" tvg-logo="https://images.tennis.com/image/private/t_16-9_768/f_png/tenniscom-prd/ikebrhr6qoaxbzfyxvct.png",Tennis channel 2
 https://amg01444-tennischannel-amg01444c2-lg-us-959.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-lgus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Tennis+" tvg-name="Tennis+" tvg-logo="https://images.plex.tv/photo?url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fd8dd29ce-8968-4a90-a21c-37af62c48e54%2F5_Tennis_Plus__Horizontal_Default_Art__3840x2160px_v4.jpg",Tennis+
-https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Setanta Sports 1" tvg-name="Setanta Sports 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 1
 https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
@@ -301,12 +301,6 @@ http://178.253.194.79:10018
 #EXTINF:-1 tvg-id="Arena Tennis HD" tvg-name="Arena Tennis HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Tennis HD
 http://178.253.194.79:10019
 
-#EXTINF:-1 tvg-id="Max Sport 1" tvg-name="Max Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mx.jpg",Max Sport 1
-https://srv1.adriatelekom.com/MaxSport1HR/index.m3u8
-
-#EXTINF:-1 tvg-id="Max Sport 2" tvg-name="Max Sport 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mx.jpg",Max Sport 2
-https://srv1.adriatelekom.com/MaxSport2HR/index.m3u8
-
 #EXTINF:-1 tvg-id="Eleven Sports 1" tvg-name="Eleven Sports 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Eleven Sports 1
 http://91.146.94.234:10001/play/ase1
 
@@ -318,18 +312,6 @@ http://91.146.94.234:10001/play/ase3
 
 #EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Eleven Sports 4
 http://91.146.94.234:10001/play/ase4
-
-#EXTINF:-1 tvg-id="SKY SPORT F1" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",SKY SPORT F1
-http://goldpro4.xyz:8080/ny1MEa7c/ffhBSyf/591305
-
-#EXTINF:-1 tvg-id="SKY SPORT F1" tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",SKY SPORT F1
-http://goldpro4.xyz:8080/ny1MEa7c/ffhBSyf/591849
-
-#EXTINF:-1 tvg-id="SKY SPORT F1 RAW" tvg-name="SKY SPORT F1 RAW" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",SKY SPORT F1 RAW
-http://goldpro4.xyz:8080/ny1MEa7c/ffhBSyf/580091
-
-#EXTINF:-1 tvg-id="SKY SPORT F1 RAW" tvg-name="SKY SPORT F1 RAW" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",SKY SPORT F1 RAW
-http://goldpro4.xyz:8080/ny1MEa7c/ffhBSyf/610053
 
 #EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/cz.png",Sport 1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
