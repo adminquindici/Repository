@@ -220,7 +220,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.ch" tvg-name="CNN.ch" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN International
 https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
 
-#EXTINF:-1 tvg-id="RSI LA 1" tvg-name="RSI LA 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA 1
+#EXTINF:-1 tvg-id="RSI.La.1.ch" tvg-name="RSI.La.1.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA1
 http://goldpro4.xyz:8080/ny1MEa7c/ffhBSyf/49443
 
 #EXTINF:-1 tvg-id="RSI.LA.2.ch" tvg-name="RSI.LA.2.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA2
@@ -238,9 +238,6 @@ http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="eurosport2" tvg-name="eurosport2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 2
 http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sport 24" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sport 24
-http://goldpro4.xyz:8080/ny1MEa7c/ffhBSyf/591850
-
 #EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Tennis
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
 
@@ -255,30 +252,6 @@ https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Setanta Sports 2" tvg-name="Setanta Sports 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 2
 https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Arena Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 1 HD
-http://178.253.194.79:10006
-
-#EXTINF:-1 tvg-id="Arena Sport 2 HD" tvg-name="Arena Sport 2 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 2 HD
-http://178.253.194.79:10007
-
-#EXTINF:-1 tvg-id="Arena Sport 3 HD" tvg-name="Arena Sport 3 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 3 HD
-http://178.253.194.79:10008
-
-#EXTINF:-1 tvg-id="Arena Sport 4 HD" tvg-name="Arena Sport 4 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 4 HD
-http://178.253.194.79:10009
-
-#EXTINF:-1 tvg-id="Arena Sport 5 HD" tvg-name="Arena Sport 5 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 5 HD
-http://178.253.194.79:10010
-
-#EXTINF:-1 tvg-id="Arena Sport 6 HD" tvg-name="Arena Sport 6 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 6 HD
-http://178.253.194.79:10011
-
-#EXTINF:-1 tvg-id="Arena Sport 7 HD" tvg-name="Arena Sport 7 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 7 HD
-http://178.253.194.79:10012
-
-#EXTINF:-1 tvg-id="Arena Sport 8 HD" tvg-name="Arena Sport 8 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 8 HD
-http://178.253.194.79:10013
 
 #EXTINF:-1 tvg-id="Arena Sport 1 Premium HD" tvg-name="Arena Sport 1 Premium HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 1 Premium HD
 http://178.253.194.79:10001
