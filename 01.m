@@ -18,7 +18,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="La7.it" tvg-name="La7.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/007.jpg",7 La7
-https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+https://d1chghleocc9sm.cloudfront.net/Live_1280x720_.m3u8
 
 #EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv8.it" tvg-logo="https://i.imgur.com/xvoHVOU.png",8 TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
@@ -91,9 +91,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-id="RTL 102.5 TV" tvg-name="RTL 102.5 TV" tvg-logo="https://i.imgur.com/KdissvS.png",36 RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/31/3328310f-6d31-30a1-be18-d17a7ecb95cd.png?w=200&f=PNG&p=true&q=85",37 Discovery Channel
-https://d3a5c87efixjp8.cloudfront.net/out/v1/12837340dbdf42f2b13481a5ca6f80b2/HLS_CMAF_DRM/index.m3u8
 
 #EXTINF:-1 tvg-id="Giallo.ch" tvg-name="Giallo.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",38 Giallo
 http://91.146.94.234:10001/play/a09p
@@ -221,10 +218,10 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
 
 #EXTINF:-1 tvg-id="RSI.La.1.ch" tvg-name="RSI.La.1.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA1
-http://goldpro4.xyz:8080/ny1MEa7c/ffhBSyf/49443
+https://nl1.dstv.cx/RSILa1/index.m3u8
 
 #EXTINF:-1 tvg-id="RSI.LA.2.ch" tvg-name="RSI.LA.2.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA2
-http://goldpro4.xyz:8080/ny1MEa7c/ffhBSyf/121176
+https://nl1.dstv.cx/RSILa2/index.m3u8
 
 #EXTINF:-1 tvg-id="Rally TV" tvg-name="Rally TV" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/w.jpg",Rally TV
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
@@ -285,12 +282,6 @@ http://91.146.94.234:10001/play/ase3
 
 #EXTINF:-1 tvg-id="Eleven Sports 4" tvg-name="Eleven Sports 4" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Eleven Sports 4
 http://91.146.94.234:10001/play/ase4
-
-#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/cz.png",Sport 1
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/cz.png",Sport 2
-http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
