@@ -17,6 +17,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia1.it" tvg-logo="https://i.imgur.com/oCiOxBG.png",6 Italia Uno
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
+#EXTINF:-1 tvg-id="La7.it" tvg-name="La7.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/007.jpg",7 La7
+https://d1chghleocc9sm.cloudfront.net/Live_1280x720_.m3u8
+
 #EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv8.it" tvg-logo="https://i.imgur.com/xvoHVOU.png",8 TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
@@ -112,9 +115,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7
 
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="RaiYoyo.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",43 Rai Yoyo
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7
-
-#EXTINF:-1 tvg-id="Frisbee.ch" tvg-name="Frisbee.ch" tvg-logo="https://i.imgur.com/9y1zIAe.png",44 Frisbee
-https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito.it" tvg-logo="https://i.imgur.com/oK2DcDJ.png",46 Cartoonito
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
