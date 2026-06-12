@@ -244,12 +244,6 @@ http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Tennis
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
 
-#EXTINF:-1 tvg-id="Setanta Sports 1" tvg-name="Setanta Sports 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 1
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Setanta Sports 2" tvg-name="Setanta Sports 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 2
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Arena Sport 1 Premium HD" tvg-name="Arena Sport 1 Premium HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 1 Premium HD
 http://178.253.194.79:10001
 
@@ -270,6 +264,24 @@ http://178.253.194.79:10018
 
 #EXTINF:-1 tvg-id="Arena Tennis HD" tvg-name="Arena Tennis HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Tennis HD
 http://178.253.194.79:10019
+
+#EXTINF:-1 tvg-id="ESPN Premium" tvg-name="ESPN Premium" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",ESPN Premium
+http://181.224.255.210:8001/play/a0pt/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",ESPN2
+http://181.224.255.210:8001/play/a0oj/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN4" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",ESPN4
+http://181.224.255.210:8001/play/a0og/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN5" tvg-name="ESPN5" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",ESPN5
+http://181.224.255.210:8001/play/a0pr/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN6" tvg-name="ESPN6" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",ESPN6
+http://181.224.255.210:8001/play/a0eq/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN7" tvg-name="ESPN7" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",ESPN7
+http://181.224.255.210:8001/play/a0m5/index.m3u8
 
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
