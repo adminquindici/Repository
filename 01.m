@@ -238,12 +238,6 @@ http://169.150.223.25/Eurosport2HD/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Tennis
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
 
-#EXTINF:-1 tvg-id="Arena Tennis HD" tvg-name="Arena Tennis HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Tennis HD
-http://178.253.194.79:10019
-
-#EXTINF:-1 tvg-id="Arena Adrenalin MotoGP F1" tvg-name="Arena Adrenalin MotoGP F1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Adrenalin MotoGP F1
-http://178.253.194.79:10018
-
 #EXTINF:-1 tvg-id="ESPN Premium" tvg-name="ESPN Premium" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",ESPN Premium
 http://181.224.255.210:8001/play/a0pt/index.m3u8
 
@@ -277,26 +271,11 @@ http://178.253.194.79:10016
 #EXTINF:-1 tvg-id="Arena Sport 5 Premium HD" tvg-name="Arena Sport 5 Premium HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 5 Premium HD
 http://178.253.194.79:10017
 
-#EXTINF:-1 tvg-id="Bein Sport 1 FR" tvg-name="Bein Sport 1 FR" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Bein Sport 1 FR
-http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1 tvg-id="Arena Adrenalin MotoGP F1" tvg-name="Arena Adrenalin MotoGP F1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Adrenalin MotoGP F1
+http://178.253.194.79:10018
 
-#EXTINF:-1 tvg-id="Bein Sport 2 FR" tvg-name="Bein Sport 2 FR" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Bein Sport 2 FR
-http://99.27.51.147:8080/BeinSport2/index.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sport 3 FR" tvg-name="Bein Sport 3 FR" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Bein Sport 3 FR
-http://99.27.51.147:8080/BeinSport3/index.m3u8
-
-#EXTINF:-1 tvg-id="Bein EXTRAS" tvg-name="Bein EXTRAS" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",Bein EXTRAS
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-#EXTINF:-1 tvg-id="Setanta Sports 1 Georgia" tvg-name="Setanta Sports 1 Georgia" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 1 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-
-#EXTINF:-1 tvg-id="Setanta Sports 2 Georgia" tvg-name="Setanta Sports 2 Georgia" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 2 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
-
-#EXTINF:-1 tvg-id="Setanta Sports 3 Georgia" tvg-name="Setanta Sports 3 Georgia" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 3 Georgia
-http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
+#EXTINF:-1 tvg-id="Arena Tennis HD" tvg-name="Arena Tennis HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Tennis HD
+http://178.253.194.79:10019
 
 #EXTINF:-1 tvg-id="Arena Sport 1 HD" tvg-name="Arena Sport 1 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 1 HD
 http://178.253.194.79:10006
@@ -319,13 +298,22 @@ http://178.253.194.79:10011
 #EXTINF:-1 tvg-id="Arena Sport 7 HD" tvg-name="Arena Sport 7 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 7 HD
 http://178.253.194.79:10012
 
-#EXTINF:-1 tvg-id="                           " tvg-name="                           " tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",                           
+#EXTINF:-1 tvg-id="Arena Sport 8 HD" tvg-name="Arena Sport 8 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 8 HD
+http://178.253.194.79:10013
+
+#EXTINF:-1 tvg-id="Setanta Sports 1 Georgia" tvg-name="Setanta Sports 1 Georgia" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 1 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+
+#EXTINF:-1 tvg-id="Setanta Sports 2 Georgia" tvg-name="Setanta Sports 2 Georgia" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 2 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
+
+#EXTINF:-1 tvg-id="Setanta Sports 3 Georgia" tvg-name="Setanta Sports 3 Georgia" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 3 Georgia
+http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
+
+#EXTINF:-1 tvg-id="C Ru" tvg-name="C Ru" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",C Ru
 https://ext.cdn.nashnet.tv/228.0.0.41/index.m3u8
 
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 8 HD" tvg-name="Arena Sport 8 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 8 HD
-http://178.253.194.79:10013
 
  
