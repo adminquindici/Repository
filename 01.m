@@ -226,6 +226,15 @@ https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="IT: SKY SPORTS 24 FHD" tvg-name="IT: SKY SPORTS 24 FHD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT: SKY SPORTS 24 FHD
 http://62.182.83.108:80/Nedeljko/4Jg0Qk9I/1950
 
+#EXTINF:-1 tvg-id="IT: SKY SPORTS 24 FHD" tvg-name="IT: SKY SPORTS 24 FHD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT: SKY SPORTS 24 FHD
+http://xc.tvset.top:80/34TyLusc6rbn/S7g64teTuJXx/1950
+
+#EXTINF:-1 tvg-id="IT: SKY SPORTS 24 HD" tvg-name="IT: SKY SPORTS 24 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT: SKY SPORTS 24 HD
+http://xc.tvset.top:80/34TyLusc6rbn/S7g64teTuJXx/1951
+
+#EXTINF:-1 tvg-id="IT: SKY SPORTS 24 HD" tvg-name="IT: SKY SPORTS 24 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT: SKY SPORTS 24 HD
+http://62.182.83.108:80/Nedeljko/4Jg0Qk9I/1951
+
 #EXTINF:-1 tvg-id="IT | RSI La 1 HD" tvg-name="IT | RSI La 1 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT | RSI La 1 HD
 http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/104761
 
