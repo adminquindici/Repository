@@ -223,22 +223,22 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.ch" tvg-name="CNN.ch" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN International
 https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
 
-#EXTINF:-1 tvg-id="Sky Sports 24" tvg-name="Sky Sports 24" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports 24
+#EXTINF:-1 tvg-id="IT: SKY SPORTS 24 FHD" tvg-name="IT: SKY SPORTS 24 FHD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT: SKY SPORTS 24 FHD
 http://62.182.83.108:80/Nedeljko/4Jg0Qk9I/1950
 
-#EXTINF:-1 tvg-id="RSI.La.1.ch" tvg-name="RSI.La.1.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA1
+#EXTINF:-1 tvg-id="IT | RSI La 1 HD" tvg-name="IT | RSI La 1 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT | RSI La 1 HD
 http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/104761
 
-#EXTINF:-1 tvg-id="RSI.LA.2.ch" tvg-name="RSI.LA.2.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sw.png",RSI LA2
+#EXTINF:-1 tvg-id="IT | RSI La 2 HD" tvg-name="IT | RSI La 2 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT | RSI La 2 HD
 http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/104762
 
 #EXTINF:-1 tvg-id="Rally TV" tvg-name="Rally TV" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/w.jpg",Rally TV
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
 
-#EXTINF:-1 tvg-id="eurosport 1" tvg-name="eurosport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 1
+#EXTINF:-1 tvg-id="IT: EUROSPORT 1" tvg-name="IT: EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT: EUROSPORT 1
 http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/78023
 
-#EXTINF:-1 tvg-id="eurosport2" tvg-name="eurosport2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 2
+#EXTINF:-1 tvg-id="IT: EUROSPORT 2" tvg-name="IT: EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT: EUROSPORT 2
 http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/78024
 
 #EXTINF:-1 tvg-id="eurosport 1" tvg-name="eurosport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 1
