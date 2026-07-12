@@ -238,12 +238,6 @@ http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/78023
 #EXTINF:-1 tvg-id="IT: EUROSPORT 2" tvg-name="IT: EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT: EUROSPORT 2
 http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/78024
 
-#EXTINF:-1 tvg-id="eurosport 1" tvg-name="eurosport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 1
-http://91.146.94.234:10001/play/a05o
-
-#EXTINF:-1 tvg-id="eurosport 1" tvg-name="eurosport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 1
-https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Tennis
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
 
@@ -276,21 +270,6 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 
 #EXTINF:-1 tvg-id="Setanta Sports 3 Georgia" tvg-name="Setanta Sports 3 Georgia" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 3 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
-
-#EXTINF:-1 tvg-id="IT | Sky Sport 24 FHD" tvg-name="IT | Sky Sport 24 FHD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT | Sky Sport 24 FHD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/104577
-
-#EXTINF:-1 tvg-id="IT | Sky Sport 24 HD" tvg-name="IT | Sky Sport 24 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT | Sky Sport 24 HD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/104578
-
-#EXTINF:-1 tvg-id="IT | Sky Sport 24 HEVC" tvg-name="IT | Sky Sport 24 HEVC" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT | Sky Sport 24 HEVC
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/104579
-
-#EXTINF:-1 tvg-id="IT | Sky Sport 24 SD" tvg-name="IT | Sky Sport 24 SD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT | Sky Sport 24 SD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/104580
-
-#EXTINF:-1 tvg-id="IT: SKY SPORT 24 HD" tvg-name="IT: SKY SPORT 24 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT: SKY SPORT 24 HD
-http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/78075
 
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
