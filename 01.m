@@ -223,7 +223,7 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.ch" tvg-name="CNN.ch" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN International
 https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
 
-#EXTINF:-1 tvg-id="IT | RSI La 1 HD" tvg-name="IT | RSI La 1 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT | RSI La 1 HD
+#EXTINF:-1 tvg-id="RSI.La.1.ch" tvg-name="RSI.La.1.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT | RSI La 1 HD
 http://update.faceboock.ro:80/AN228814/Pcdvnj92UVgtrNBu8GeaA91WG3vPE7/104761
 
 #EXTINF:-1 tvg-id="IT | RSI La 2 HD" tvg-name="IT | RSI La 2 HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",IT | RSI La 2 HD
