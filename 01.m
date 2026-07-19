@@ -265,6 +265,33 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 tvg-id="Setanta Sports 3 Georgia" tvg-name="Setanta Sports 3 Georgia" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 3 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
 
+#EXTINF:-1 tvg-id="Diema Sport HD BG" tvg-name="Diema Sport HD BG" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/dm.jpg",Diema Sport HD BG
+http://213.91.179.28:8000/play/a06q
+
+#EXTINF:-1 tvg-id="Diema Sport 2 HD BG" tvg-name="Diema Sport 2 HD BG" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/dm.jpg",Diema Sport 2 HD BG
+http://213.91.179.28:8000/play/a08e
+
+#EXTINF:-1 tvg-id="Diema Sport 3 HD BG" tvg-name="Diema Sport 3 HD BG" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/dm.jpg",Diema Sport 3 HD BG
+http://213.91.179.28:8000/play/a08f
+
+#EXTINF:-1 tvg-id="MAX Sport 1 HD BG" tvg-name="MAX Sport 1 HD BG" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",MAX Sport 1 HD BG
+http://213.91.179.28:8000/play/a0as
+
+#EXTINF:-1 tvg-id="MAX Sport 2 HD BG" tvg-name="MAX Sport 2 HD BG" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",MAX Sport 2 HD BG
+http://213.91.179.28:8000/play/a0at
+
+#EXTINF:-1 tvg-id="MAX Sport 3 HD BG" tvg-name="MAX Sport 3 HD BG" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/tv.jpg",MAX Sport 3 HD BG
+http://213.91.179.28:8000/play/a0ar
+
+#EXTINF:-1 tvg-id="Max Sport 4 BG" tvg-name="Max Sport 4 BG" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mx.jpg",Max Sport 4 BG
+http://213.91.179.28:8000/play/a05n
+
+#EXTINF:-1 tvg-id="Diema Sport HD Serbian" tvg-name="Diema Sport HD Serbian" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/dm.jpg",Diema Sport HD Serbian
+https://shift03.isp.bg/Diema_Sport_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="Diema Sport 2 HD Serbian" tvg-name="Diema Sport 2 HD Serbian" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/dm.jpg",Diema Sport 2 HD Serbian
+https://shift03.isp.bg/Diema_Sport_2_HD/index.m3u8
+
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
 
