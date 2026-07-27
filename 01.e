@@ -102,61 +102,6 @@
   <channel id="Tv8.it">
     <display-name lang="it">Tv8.it</display-name>
   </channel>
-  <programme start="20260727032200 +0200" stop="20260727040500 +0200" channel="20Mediaset.it">
-    <title lang="it">Distretto di polizia - I fantasmi dal passato</title>
-    <desc lang="it">Una giovane baby sitter, e' uccisa a coltellate dal suo ex Carlo Serra, un tossicodipendente che le ha sottratto la bimba di tre anni che era con lei. - -</desc>
-    <episode-num system="onscreen">S5 E18</episode-num>
-    <episode-num system="xmltv_ns">4 . 17 . </episode-num>
-  </programme>
-  <programme start="20260727040500 +0200" stop="20260727044800 +0200" channel="20Mediaset.it">
-    <title lang="it">Distretto di polizia - Chicco e spillo</title>
-    <desc lang="it">Due giovani sprovveduti, Chicco e Spillo, rapinano il negozio di cianfrusaglie di tale Politi, in realta' un pericoloso ricettatore. - -</desc>
-    <episode-num system="onscreen">S5 E19</episode-num>
-    <episode-num system="xmltv_ns">4 . 18 . </episode-num>
-  </programme>
-  <programme start="20260727044800 +0200" stop="20260727053100 +0200" channel="20Mediaset.it">
-    <title lang="it">Distretto di polizia - Il giustiziere</title>
-    <desc lang="it">Luca ed Anna indagano sull'omicidio di un uomo appena uscito dal carcere dopo una condanna per stupro. - -</desc>
-    <episode-num system="onscreen">S5 E20</episode-num>
-    <episode-num system="xmltv_ns">4 . 19 . </episode-num>
-  </programme>
-  <programme start="20260727053100 +0200" stop="20260727060000 +0200" channel="20Mediaset.it">
-    <title lang="it">Distretto di polizia - Il prezzo di una vita</title>
-    <desc lang="it">Mauro e Roberto si occupano del caso del penalista Paolo Silvestri ucciso da un suo ex assistito, un pregiudicato appena uscito dal carcere. - -</desc>
-    <episode-num system="onscreen">S5 E21</episode-num>
-    <episode-num system="xmltv_ns">4 . 20 . </episode-num>
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727064000 +0200" channel="20Mediaset.it">
-    <title lang="it">Show reel</title>
-    <desc lang="it">Show reel '26 - -</desc>
-  </programme>
-  <programme start="20260727064000 +0200" stop="20260727072300 +0200" channel="20Mediaset.it">
-    <title lang="it">Distretto di polizia - Il quarto uomo</title>
-    <desc lang="it">Davide e Giulia aspettano in ospedale il risveglio di Giuseppe Castaldo, vivo per miracolo dopo essere stato ferito da Rea. - -</desc>
-    <episode-num system="onscreen">S5 E22</episode-num>
-    <episode-num system="xmltv_ns">4 . 21 . </episode-num>
-  </programme>
-  <programme start="20260727072300 +0200" stop="20260727080700 +0200" channel="20Mediaset.it">
-    <title lang="it">Chuck - Chuck vs. Morgan</title>
-    <desc lang="it">Chuck da un po' di tempo non ha flash quindi non puo' partecipare alla nuova missione: dovra' rimanere al Castello mentre il resto della squadra va a Malibu perche' hanno saputo che l'Anello vuole arruolare Devon, ma in realta' si tratta di una trappola. - -</desc>
-    <category lang="it">azione</category>
-    <episode-num system="onscreen">S3 E9</episode-num>
-    <episode-num system="xmltv_ns">2 . 8 . </episode-num>
-  </programme>
-  <programme start="20260727080700 +0200" stop="20260727085700 +0200" channel="20Mediaset.it">
-    <title lang="it">Chuck - Chuck vs. la Tic Tac</title>
-    <desc lang="it">Casey viene di nuovo reclutato dal colonnello Keller, colui che lo aveva scelto per entrare a far parte di una squadra segreta dell'NSA. - -</desc>
-    <category lang="it">azione</category>
-    <episode-num system="onscreen">S3 E10</episode-num>
-    <episode-num system="xmltv_ns">2 . 9 . </episode-num>
-  </programme>
-  <programme start="20260727085700 +0200" stop="20260727095200 +0200" channel="20Mediaset.it">
-    <title lang="it">Dr. House - Medical division - Vaiolo</title>
-    <desc lang="it">Una ragazza e' ricoverata in ospedale con il vaiolo, e il CDC istituisce un blocco. Il medico incaricato vieta al team di House di fare diagnosi, ma Masters ritiene che abbia un secondo fine. Nel frattempo, Wilson e Sam riesaminano la loro relazione, mentre curano una giovane paziente. - -</desc>
-    <category lang="it">drammatico</category>
-    <episode-num system="onscreen">S7 E7</episode-num>
-    <episode-num system="xmltv_ns">6 . 6 . </episode-num>
-  </programme>
   <programme start="20260727095200 +0200" stop="20260727104000 +0200" channel="20Mediaset.it">
     <title lang="it">Dr. House - Medical division - Piccoli sacrifici</title>
     <desc lang="it">Un paziente viene ricoverato al Princeton Plainsboro dopo aver tentato di crocifiggersi. Nel frattempo, House e il team assistono ad un matrimonio e il rapporto di Wilson con Sam inaspettatamente cambia. - -</desc>
@@ -1136,54 +1081,6 @@ Il dottor Charles, grazie a un collega russo, trova il modo di aiutare un pazien
     <category lang="it">dimensioni parallele</category>
     <category lang="it">fantascienza</category>
   </programme>
-  <programme start="20260727035000 +0200" stop="20260727041300 +0200" channel="27Mediaset.it">
-    <title lang="it">Casa dolce casa - Bolle di sapone</title>
-    <desc lang="it">Sofia ed Ernesto decidono di dedicarsi agli affari e, insieme, organizzano in casa Bonetti una vendita di prodotti per la casa. - -</desc>
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <episode-num system="xmltv_ns">1 . 7 . </episode-num>
-  </programme>
-  <programme start="20260727041300 +0200" stop="20260727055400 +0200" channel="27Mediaset.it">
-    <title lang="it">Codice rosso - Bugie/errori</title>
-    <desc lang="it">Le vicende dell'immaginaria squadra 15A del corpo dei vigili del fuoco di Roma, alle prese con un piromane e varie altre calamita'. - -</desc>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <episode-num system="xmltv_ns">0 . 2 . </episode-num>
-  </programme>
-  <programme start="20260727055400 +0200" stop="20260727060000 +0200" channel="27Mediaset.it">
-    <title lang="it">Camera Cafe'</title>
-    <desc lang="it">Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu - -</desc>
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727060500 +0200" channel="27Mediaset.it">
-    <title lang="it">Camera Cafe'</title>
-    <desc lang="it">Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe'. Con Luca Bizzarri, Paolo Kessisoglu - -</desc>
-  </programme>
-  <programme start="20260727060500 +0200" stop="20260727062600 +0200" channel="27Mediaset.it">
-    <title lang="it">Camera Cafe' - Camera cafe' '07</title>
-    <desc lang="it">Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffè tra colleghi, superiori e buffe vicende quotidiane. - -</desc>
-    <category lang="it">sit-com</category>
-    <episode-num system="onscreen">S5 E46</episode-num>
-    <episode-num system="xmltv_ns">4 . 45 . </episode-num>
-  </programme>
-  <programme start="20260727062600 +0200" stop="20260727071300 +0200" channel="27Mediaset.it">
-    <title lang="it">Agenzia Rockford - La grande scommessa</title>
-    <desc lang="it">Quattro cittadini apparentemente rispettabili assumono Rockford per acquistare un'autopompa usata per la loro citta'. - -</desc>
-    <episode-num system="onscreen">S4 E9</episode-num>
-    <episode-num system="xmltv_ns">3 . 8 . </episode-num>
-  </programme>
-  <programme start="20260727071300 +0200" stop="20260727080000 +0200" channel="27Mediaset.it">
-    <title lang="it">Miami Vice - Gli invasori</title>
-    <desc lang="it">Il tenente Castillo (Edward James Olmos) viene incaricato dal suo superiore di investigare su una serie di furti e violenze perpetrati negli ultimi tempi a Miami. 
- Le indagini fanno emergere un dato prezioso per identificare i colpevoli: tutte le donne rimaste vittime dei furti frequentavano lo stesso parrucchiere...
- Guest stars dell'episodio: Brent Jennings (Sergente High Heraty), Sylvia Miles (Signora Goldman), Esai Morales (Pete Romano) - -</desc>
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <episode-num system="xmltv_ns">0 . 17 . </episode-num>
-  </programme>
-  <programme start="20260727080000 +0200" stop="20260727090700 +0200" channel="27Mediaset.it">
-    <title lang="it">Miami Vice - Nessuno vive in eterno</title>
-    <desc lang="it">Sonny Crockett (Don Johnson) ha una relazione con Brenda (Kim Greist), affascinante architetto che gli ha fatto letteralmente perdere la testa.
- Purtroppo a causa di questa infatuazione, Sonny inizia a trascurare il suo lavoro di detective, costringendo il suo collega Tubbs (Philip Michael Thomas) ad occuparsi da solo di un caso piuttosto difficile. - -</desc>
-    <episode-num system="onscreen">S1 E19</episode-num>
-    <episode-num system="xmltv_ns">0 . 18 . </episode-num>
-  </programme>
   <programme start="20260727090700 +0200" stop="20260727100900 +0200" channel="27Mediaset.it">
     <title lang="it">La casa nella prateria - Un ragazzo selvaggio - I parte</title>
     <desc lang="it">Gli abitanti di Walnut Grove si coalizzano per salvare Matthew, un ragazzo sordo, dalle grinfie del dottor McQueen che lo esibisce come fenomeno da baraccone. - -</desc>
@@ -1972,217 +1869,6 @@ Il dottor Charles, grazie a un collega russo, trova il modo di aiutare un pazien
   </programme>
   <programme start="20260801060000 +0200" stop="20260802000000 +0200" channel="AlmaTV.it">
     <title lang="it">EPG non disponibile</title>
-  </programme>
-  <programme start="20260727035500 +0200" stop="20260727040500 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - Solo al mondo</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S3 E19</episode-num>
-    <episode-num system="xmltv_ns">2 . 18 . </episode-num>
-  </programme>
-  <programme start="20260727040500 +0200" stop="20260727042000 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - Il compagno di giochi</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S3 E19</episode-num>
-    <episode-num system="xmltv_ns">2 . 18 . </episode-num>
-  </programme>
-  <programme start="20260727042000 +0200" stop="20260727043000 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - L'assolo</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S3 E20</episode-num>
-    <episode-num system="xmltv_ns">2 . 19 . </episode-num>
-  </programme>
-  <programme start="20260727043000 +0200" stop="20260727044000 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - Famiglia al verde</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S3 E20</episode-num>
-    <episode-num system="xmltv_ns">2 . 19 . </episode-num>
-  </programme>
-  <programme start="20260727044000 +0200" stop="20260727045000 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - Si torna a scuola</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S4 E1</episode-num>
-    <episode-num system="xmltv_ns">3 . 0 . </episode-num>
-  </programme>
-  <programme start="20260727045000 +0200" stop="20260727050000 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - Dottor Demolitore</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <episode-num system="xmltv_ns">3 . 1 . </episode-num>
-  </programme>
-  <programme start="20260727050000 +0200" stop="20260727051000 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - La gang</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S4 E3</episode-num>
-    <episode-num system="xmltv_ns">3 . 2 . </episode-num>
-  </programme>
-  <programme start="20260727051000 +0200" stop="20260727052000 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - Gli altri</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S4 E4</episode-num>
-    <episode-num system="xmltv_ns">3 . 3 . </episode-num>
-  </programme>
-  <programme start="20260727052000 +0200" stop="20260727053500 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - Il papa' di papa'</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S4 E5</episode-num>
-    <episode-num system="xmltv_ns">3 . 4 . </episode-num>
-  </programme>
-  <programme start="20260727053500 +0200" stop="20260727054500 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - Il contratto</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S4 E7</episode-num>
-    <episode-num system="xmltv_ns">3 . 6 . </episode-num>
-  </programme>
-  <programme start="20260727054500 +0200" stop="20260727060500 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - L'assegno</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S4 E8</episode-num>
-    <episode-num system="xmltv_ns">3 . 7 . </episode-num>
-  </programme>
-  <programme start="20260727060500 +0200" stop="20260727061500 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - I Sosia</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S5 E19</episode-num>
-    <episode-num system="xmltv_ns">4 . 18 . </episode-num>
-  </programme>
-  <programme start="20260727061500 +0200" stop="20260727062500 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - False identita'</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S5 E20</episode-num>
-    <episode-num system="xmltv_ns">4 . 19 . </episode-num>
-  </programme>
-  <programme start="20260727062500 +0200" stop="20260727063500 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - Il riscatto dei papa'</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S5 E21</episode-num>
-    <episode-num system="xmltv_ns">4 . 20 . </episode-num>
-  </programme>
-  <programme start="20260727063500 +0200" stop="20260727064500 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - Cattive recensioni</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <episode-num system="onscreen">S5 E22</episode-num>
-    <episode-num system="xmltv_ns">4 . 21 . </episode-num>
-  </programme>
-  <programme start="20260727064500 +0200" stop="20260727070500 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - Pacco a sorpresa</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S5 E23</episode-num>
-    <episode-num system="xmltv_ns">4 . 22 . </episode-num>
-  </programme>
-  <programme start="20260727070500 +0200" stop="20260727071500 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - Lo Skate</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S5 E14</episode-num>
-    <episode-num system="xmltv_ns">4 . 13 . </episode-num>
-  </programme>
-  <programme start="20260727071500 +0200" stop="20260727073500 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - Nonno Frankie</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S5 E18</episode-num>
-    <episode-num system="xmltv_ns">4 . 17 . </episode-num>
-  </programme>
-  <programme start="20260727073500 +0200" stop="20260727074500 +0200" channel="Boing.it">
-    <title lang="it">Lo strano e meraviglioso mondo di Gumball - La poesia</title>
-    <desc lang="it">Che stia combattendo contro un impero del fast food o affrontando un'intelligenza artificiale senziente, Gumball Watterson finisce sempre per trascinare con sé suo fratello Darwin, sua sorella Anais e il resto della città di Elmore. - -</desc>
-    <category lang="it">avventura</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <episode-num system="xmltv_ns">0 . 4 . </episode-num>
-  </programme>
-  <programme start="20260727074500 +0200" stop="20260727080000 +0200" channel="Boing.it">
-    <title lang="it">Lo strano e meraviglioso mondo di Gumball - Il traffico</title>
-    <desc lang="it">Che stia combattendo contro un impero del fast food o affrontando un'intelligenza artificiale senziente, Gumball Watterson finisce sempre per trascinare con sé suo fratello Darwin, sua sorella Anais e il resto della città di Elmore. - -</desc>
-    <category lang="it">avventura</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <episode-num system="xmltv_ns">0 . 5 . </episode-num>
-  </programme>
-  <programme start="20260727080000 +0200" stop="20260727081500 +0200" channel="Boing.it">
-    <title lang="it">Teen Titans Go! - Beni immobili</title>
-    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - -</desc>
-    <category lang="it">azione</category>
-    <category lang="it">animazione</category>
-    <episode-num system="onscreen">S9 E9</episode-num>
-    <episode-num system="xmltv_ns">8 . 8 . </episode-num>
-  </programme>
-  <programme start="20260727081500 +0200" stop="20260727082500 +0200" channel="Boing.it">
-    <title lang="it">Teen Titans Go! - I Guerrieri Alati</title>
-    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - -</desc>
-    <category lang="it">azione</category>
-    <category lang="it">animazione</category>
-    <episode-num system="onscreen">S9 E10</episode-num>
-    <episode-num system="xmltv_ns">8 . 9 . </episode-num>
-  </programme>
-  <programme start="20260727082500 +0200" stop="20260727084000 +0200" channel="Boing.it">
-    <title lang="it">Teen Titans Go! - La vasca idromassaggio</title>
-    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - -</desc>
-    <category lang="it">azione</category>
-    <category lang="it">animazione</category>
-    <episode-num system="onscreen">S9 E7</episode-num>
-    <episode-num system="xmltv_ns">8 . 6 . </episode-num>
-  </programme>
-  <programme start="20260727084000 +0200" stop="20260727085000 +0200" channel="Boing.it">
-    <title lang="it">Teen Titans Go! - Circuito Chiuso</title>
-    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - -</desc>
-    <category lang="it">azione</category>
-    <category lang="it">animazione</category>
-    <episode-num system="onscreen">S9 E11</episode-num>
-    <episode-num system="xmltv_ns">8 . 10 . </episode-num>
-  </programme>
-  <programme start="20260727085000 +0200" stop="20260727090500 +0200" channel="Boing.it">
-    <title lang="it">Teen Titans Go! - Un premio prestigioso</title>
-    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - -</desc>
-    <category lang="it">azione</category>
-    <category lang="it">animazione</category>
-    <episode-num system="onscreen">S9 E19</episode-num>
-    <episode-num system="xmltv_ns">8 . 18 . </episode-num>
-  </programme>
-  <programme start="20260727090500 +0200" stop="20260727091500 +0200" channel="Boing.it">
-    <title lang="it">Teen Titans Go! - Uno squalo fuori controllo</title>
-    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - -</desc>
-    <category lang="it">azione</category>
-    <category lang="it">animazione</category>
-    <episode-num system="onscreen">S9 E14</episode-num>
-    <episode-num system="xmltv_ns">8 . 13 . </episode-num>
-  </programme>
-  <programme start="20260727091500 +0200" stop="20260727093500 +0200" channel="Boing.it">
-    <title lang="it">Teen Titans Go! - La rivincita dello squalo</title>
-    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - -</desc>
-    <category lang="it">azione</category>
-    <category lang="it">animazione</category>
-    <episode-num system="onscreen">S9 E15</episode-num>
-    <episode-num system="xmltv_ns">8 . 14 . </episode-num>
-  </programme>
-  <programme start="20260727093500 +0200" stop="20260727094500 +0200" channel="Boing.it">
-    <title lang="it">Teen Titans Go! - Vita in canotta</title>
-    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - -</desc>
-    <category lang="it">azione</category>
-    <category lang="it">animazione</category>
-    <episode-num system="onscreen">S9 E16</episode-num>
-    <episode-num system="xmltv_ns">8 . 15 . </episode-num>
-  </programme>
-  <programme start="20260727094500 +0200" stop="20260727100000 +0200" channel="Boing.it">
-    <title lang="it">Teen Titans Go! - La gang dei pesci</title>
-    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - -</desc>
-    <category lang="it">azione</category>
-    <category lang="it">animazione</category>
-    <episode-num system="onscreen">S9 E17</episode-num>
-    <episode-num system="xmltv_ns">8 . 16 . </episode-num>
   </programme>
   <programme start="20260727100000 +0200" stop="20260727101000 +0200" channel="Boing.it">
     <title lang="it">Teen Titans Go! - Robin al contrario</title>
@@ -5964,71 +5650,6 @@ Il dottor Charles, grazie a un collega russo, trova il modo di aiutare un pazien
     <episode-num system="onscreen">S2 E5</episode-num>
     <episode-num system="xmltv_ns">1 . 4 . </episode-num>
   </programme>
-  <programme start="20260727025700 +0200" stop="20260727042900 +0200" channel="Canale5.it">
-    <title lang="it">Caterina e le sue figlie - S1 Ep1</title>
-    <desc lang="it">Sono trascorsi vent'anni da quando Caterina (Virna Lisi) e le sue tre figlie, Adele (Alessandra), Agostina (Valeria Milillo) e Carlotta (Sarah Felberbaum), sono state abbandonate da Enzo Parisi, marito di Caterina.
- Caterina fa la postina ad Anfri, paesino marchigiano, le sue ragazze, ormai adulte, vivono a Roma. La trentaseienne Adele aspira al posto di direttore generale presso l'hotel in cui lavora come PR ed e' una carrierista convinta; la trentaduenne Agostina e' invece tutta dedita al marito notaio Ettore (Alessandro), alla figlia sedicenne Rebecca (Martina Pinto) e al neonato Leo; Carlotta, ventisei anni, e' una studentessa di lettere che aspira a fare la modella.
- Mentre Caterina, dopo anni di lutto, torna alla vita frequentando il nuovo farmacista di Anfri, il bel vedovo Attilio Pensiero (Ray Lovelock), Adele rimane incinta dell'architetto Gerardo Balestra (Niseem Onorato), in partenza per il Marocco per due anni, Carlotta e' in piena crisi esistenziale, e, dulci... - -</desc>
-    <category lang="it">sentimentale</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <episode-num system="xmltv_ns">0 . 0 . </episode-num>
-  </programme>
-  <programme start="20260727042900 +0200" stop="20260727052400 +0200" channel="Canale5.it">
-    <title lang="it">R.I.S. Roma - Delitti imperfetti - S1 Ep20</title>
-    <desc lang="it">Nell'ultimo episodio della sesta stagione dopo l'arresto di Vasto, i Ris sono riusciti a spezzare l'alleanza criminale. Si riparte dall'interrogatorio di Vasto, ma l'uomo si rifiuta di rivelare alcunche'. L'unica speranza e' provare ad analizzare tutto quello che ha indosso Vasto per trovare una traccia che permetta di localizzare il covo. - -</desc>
-    <category lang="it">poliziesco</category>
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <episode-num system="xmltv_ns">0 . 19 . </episode-num>
-  </programme>
-  <programme start="20260727052400 +0200" stop="20260727060000 +0200" channel="Canale5.it">
-    <title lang="it">R.I.S. Roma 2 - Delitti imperfetti - Nella quiete della vostra casa</title>
-    <desc lang="it">Fresco di nomina a capitano Ghirelli indaga con Lucia sulla Banda del Lupo, uno spietato gruppo di rapinatori che agisce nascondendosi dietro maschere di animali. Intanto Flavia e Cecchi collaborano con il nuovo arrivato, Orlando Serra, su un delicato caso di rapimento di un neonato. - -</desc>
-    <category lang="it">poliziesco</category>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <episode-num system="xmltv_ns">1 . 0 . </episode-num>
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727061500 +0200" channel="Canale5.it">
-    <title lang="it">Prima Pagina Tg5</title>
-    <desc lang="it">Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5. - -</desc>
-    <category lang="it">telegiornale</category>
-  </programme>
-  <programme start="20260727061500 +0200" stop="20260727063000 +0200" channel="Canale5.it">
-    <title lang="it">Prima Pagina Tg5</title>
-    <desc lang="it">Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5. - -</desc>
-  </programme>
-  <programme start="20260727063000 +0200" stop="20260727064500 +0200" channel="Canale5.it">
-    <title lang="it">Prima Pagina Tg5</title>
-    <desc lang="it">Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5. - -</desc>
-  </programme>
-  <programme start="20260727064500 +0200" stop="20260727070000 +0200" channel="Canale5.it">
-    <title lang="it">Prima Pagina Tg5</title>
-    <desc lang="it">Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5. - -</desc>
-  </programme>
-  <programme start="20260727070000 +0200" stop="20260727071500 +0200" channel="Canale5.it">
-    <title lang="it">Prima Pagina Tg5</title>
-    <desc lang="it">Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5. - -</desc>
-  </programme>
-  <programme start="20260727071500 +0200" stop="20260727073000 +0200" channel="Canale5.it">
-    <title lang="it">Prima Pagina Tg5</title>
-    <desc lang="it">Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5. - -</desc>
-  </programme>
-  <programme start="20260727073000 +0200" stop="20260727074500 +0200" channel="Canale5.it">
-    <title lang="it">Prima Pagina Tg5</title>
-    <desc lang="it">Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5. - -</desc>
-  </programme>
-  <programme start="20260727074500 +0200" stop="20260727075300 +0200" channel="Canale5.it">
-    <title lang="it">Prima Pagina Tg5</title>
-    <desc lang="it">Prima edizione quotidiana del notiziario televisivo a cura della redazione giornalistica di Canale 5. - -</desc>
-  </programme>
-  <programme start="20260727075300 +0200" stop="20260727075900 +0200" channel="Canale5.it">
-    <title lang="it">Traffico</title>
-    <desc lang="it">Bollettino del traffico che si avvale di simulazioni grafiche costantemente aggiornate. - -</desc>
-  </programme>
-  <programme start="20260727075900 +0200" stop="20260727084200 +0200" channel="Canale5.it">
-    <title lang="it">Tg5</title>
-    <desc lang="it">Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5. - -</desc>
-    <category lang="it">telegiornale</category>
-  </programme>
   <programme start="20260727084200 +0200" stop="20260727105000 +0200" channel="Canale5.it">
     <title lang="it">Morning News</title>
     <desc lang="it">Programma d'informazione con aggiornamenti riguardanti politica, cronaca, esteri, economia, sport e attualita'. Conduce Dario Maltese. - -</desc>
@@ -6877,246 +6498,6 @@ il servizio fotografico che vuole fare a Zeynep, all'insaputa di Haziran. - -</d
     <desc lang="it">Melek arriva alla villa di Sultan e viene accolta dalla famiglia. Aiuta con la preparazione delle conserve per l'inverno fino a quando non ha uno scontro con Yildiz. - -</desc>
     <episode-num system="onscreen">S1 E26</episode-num>
     <episode-num system="xmltv_ns">0 . 25 . </episode-num>
-  </programme>
-  <programme start="20260727035500 +0200" stop="20260727040500 +0200" channel="Cartoonito.it">
-    <title lang="it">Simone - Il Ladro di caramelle</title>
-    <desc lang="it">Simone è un coniglietto pieno di energia, dinamico, creativo e birichino, gli piace credere di essere un supereroe mascherandosi da Superconiglio! Di fronte a una difficoltà o a una paura, torna spesso ad essere un piccolo coniglio. E non si vergogna di confidarsi con i suoi genitori e di chiedere loro un consiglio e la loro protezione. - -</desc>
-    <category lang="it">per i bimbi piccoli</category>
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <episode-num system="xmltv_ns">3 . 1 . </episode-num>
-  </programme>
-  <programme start="20260727040500 +0200" stop="20260727041000 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - Il casco</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E58</episode-num>
-    <episode-num system="xmltv_ns">0 . 57 . </episode-num>
-  </programme>
-  <programme start="20260727041000 +0200" stop="20260727042000 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - Il frigorifero</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E59</episode-num>
-    <episode-num system="xmltv_ns">0 . 58 . </episode-num>
-  </programme>
-  <programme start="20260727042000 +0200" stop="20260727042500 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - La mascherina chirurgica</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E60</episode-num>
-    <episode-num system="xmltv_ns">0 . 59 . </episode-num>
-  </programme>
-  <programme start="20260727042500 +0200" stop="20260727043500 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - La colla</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E61</episode-num>
-    <episode-num system="xmltv_ns">0 . 60 . </episode-num>
-  </programme>
-  <programme start="20260727043500 +0200" stop="20260727044500 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - Il telecomando</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E62</episode-num>
-    <episode-num system="xmltv_ns">0 . 61 . </episode-num>
-  </programme>
-  <programme start="20260727044500 +0200" stop="20260727045000 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - Il gesso</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E63</episode-num>
-    <episode-num system="xmltv_ns">0 . 62 . </episode-num>
-  </programme>
-  <programme start="20260727045000 +0200" stop="20260727050000 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - Il termometro</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E64</episode-num>
-    <episode-num system="xmltv_ns">0 . 63 . </episode-num>
-  </programme>
-  <programme start="20260727050000 +0200" stop="20260727050500 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - Il semaforo</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E65</episode-num>
-    <episode-num system="xmltv_ns">0 . 64 . </episode-num>
-  </programme>
-  <programme start="20260727050500 +0200" stop="20260727051500 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - Il telescopio</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E66</episode-num>
-    <episode-num system="xmltv_ns">0 . 65 . </episode-num>
-  </programme>
-  <programme start="20260727051500 +0200" stop="20260727052500 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - Il forno a microonde</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E67</episode-num>
-    <episode-num system="xmltv_ns">0 . 66 . </episode-num>
-  </programme>
-  <programme start="20260727052500 +0200" stop="20260727053000 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - La telecamera</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E68</episode-num>
-    <episode-num system="xmltv_ns">0 . 67 . </episode-num>
-  </programme>
-  <programme start="20260727053000 +0200" stop="20260727054000 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - Il Personal Computer</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E69</episode-num>
-    <episode-num system="xmltv_ns">0 . 68 . </episode-num>
-  </programme>
-  <programme start="20260727054000 +0200" stop="20260727054500 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - L'anello</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E70</episode-num>
-    <episode-num system="xmltv_ns">0 . 69 . </episode-num>
-  </programme>
-  <programme start="20260727054500 +0200" stop="20260727060000 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - Le casse audio</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E75</episode-num>
-    <episode-num system="xmltv_ns">0 . 74 . </episode-num>
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727062000 +0200" channel="Cartoonito.it">
-    <title lang="it">Tom &amp; Jerry a New York - Guerra robotica/Una notte paurosa/Il gatto profumato..</title>
-    <desc lang="it">Tom e Jerry si sistemano nelle loro nuove stanze al Royal Gate Hotel e scatenano il caos nella Grande Mela. - -</desc>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <episode-num system="xmltv_ns">0 . 4 . </episode-num>
-  </programme>
-  <programme start="20260727062000 +0200" stop="20260727062500 +0200" channel="Cartoonito.it">
-    <title lang="it">The Tom and Jerry Show - Nella tana dello yeti</title>
-    <desc lang="it">Nemici giurati, il gatto Tom e il topo Jerry, innescano una serie di gag straordinarie e divertenti. Tom s'ingegna per catturare Jerry ma il topo riesce sempre ad avere la meglio. - -</desc>
-    <episode-num system="onscreen">S4 E9</episode-num>
-    <episode-num system="xmltv_ns">3 . 8 . </episode-num>
-  </programme>
-  <programme start="20260727062500 +0200" stop="20260727063500 +0200" channel="Cartoonito.it">
-    <title lang="it">The Tom and Jerry Show - Il tesoro del pirata</title>
-    <desc lang="it">Il pirata Bells sul suo vascello volante e' alla ricerca del suo millesimo tesoro per poter finalmente entrare nel paradiso dei pirati. Il forziere dei tre topini bavaresi sembra fare al caso suo. - -</desc>
-    <episode-num system="onscreen">S4 E10</episode-num>
-    <episode-num system="xmltv_ns">3 . 9 . </episode-num>
-  </programme>
-  <programme start="20260727063500 +0200" stop="20260727064000 +0200" channel="Cartoonito.it">
-    <title lang="it">The Tom and Jerry Show - Blob mangiatutto</title>
-    <desc lang="it">Nemici giurati, il gatto Tom e il topo Jerry, innescano una serie di gag straordinarie e divertenti. Tom s'ingegna per catturare Jerry ma il topo riesce sempre ad avere la meglio. - -</desc>
-    <category lang="it">per i bimbi piccoli</category>
-    <episode-num system="onscreen">S4 E11</episode-num>
-    <episode-num system="xmltv_ns">3 . 10 . </episode-num>
-  </programme>
-  <programme start="20260727064000 +0200" stop="20260727065000 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - Il letto</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <episode-num system="xmltv_ns">0 . 15 . </episode-num>
-  </programme>
-  <programme start="20260727065000 +0200" stop="20260727065500 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - La chiave</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <episode-num system="xmltv_ns">0 . 16 . </episode-num>
-  </programme>
-  <programme start="20260727065500 +0200" stop="20260727070000 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - Il CD</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <episode-num system="xmltv_ns">0 . 17 . </episode-num>
-  </programme>
-  <programme start="20260727070000 +0200" stop="20260727071000 +0200" channel="Cartoonito.it">
-    <title lang="it">C'erano una volta...gli oggetti - La cartella</title>
-    <desc lang="it">Il cartone animato, destinato a un pubblico di bambini e adulti, illustra, con l'aiuto di personaggi animati, il funzionamento del corpo umano. - -</desc>
-    <category lang="it">educativo</category>
-    <episode-num system="onscreen">S1 E19</episode-num>
-    <episode-num system="xmltv_ns">0 . 18 . </episode-num>
-  </programme>
-  <programme start="20260727071000 +0200" stop="20260727073500 +0200" channel="Cartoonito.it">
-    <title lang="it">La casa delle bambole di Gabby - Baby Benny Scatola è qui!</title>
-    <desc lang="it">Gabby e la sua schiera di amici felini si fanno strada nella loro spettacolare casa delle bambole, che nasconde un mondo di incredibili sorprese. - -</desc>
-    <category lang="it">per i bimbi piccoli</category>
-    <episode-num system="onscreen">S3 E15</episode-num>
-    <episode-num system="xmltv_ns">2 . 14 . </episode-num>
-  </programme>
-  <programme start="20260727073500 +0200" stop="20260727080000 +0200" channel="Cartoonito.it">
-    <title lang="it">La casa delle bambole di Gabby - La crociera per sirene</title>
-    <desc lang="it">Gabby e la sua schiera di amici felini si fanno strada nella loro spettacolare casa delle bambole, che nasconde un mondo di incredibili sorprese. - -</desc>
-    <category lang="it">per i bimbi piccoli</category>
-    <episode-num system="onscreen">S3 E16</episode-num>
-    <episode-num system="xmltv_ns">2 . 15 . </episode-num>
-  </programme>
-  <programme start="20260727080000 +0200" stop="20260727080500 +0200" channel="Cartoonito.it">
-    <title lang="it">Hey Duggee - Il Club dei Lupetti - La canzone della rana</title>
-    <desc lang="it">Hey duggee: il club dei lupetti - -</desc>
-    <category lang="it">per i bimbi piccoli</category>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <episode-num system="xmltv_ns">0 . 2 . </episode-num>
-  </programme>
-  <programme start="20260727080500 +0200" stop="20260727081500 +0200" channel="Cartoonito.it">
-    <title lang="it">Hey Duggee - Il distintivo del castello</title>
-    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - -</desc>
-    <category lang="it">per i bimbi piccoli</category>
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <episode-num system="xmltv_ns">0 . 16 . </episode-num>
-  </programme>
-  <programme start="20260727081500 +0200" stop="20260727082500 +0200" channel="Cartoonito.it">
-    <title lang="it">Hey Duggee - Il distintivo della spiegazione</title>
-    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - -</desc>
-    <category lang="it">per i bimbi piccoli</category>
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <episode-num system="xmltv_ns">0 . 17 . </episode-num>
-  </programme>
-  <programme start="20260727082500 +0200" stop="20260727083000 +0200" channel="Cartoonito.it">
-    <title lang="it">Hey Duggee - Il distintivo del cavallo a dondolo</title>
-    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - -</desc>
-    <category lang="it">per i bimbi piccoli</category>
-    <episode-num system="onscreen">S1 E19</episode-num>
-    <episode-num system="xmltv_ns">0 . 18 . </episode-num>
-  </programme>
-  <programme start="20260727083000 +0200" stop="20260727083500 +0200" channel="Cartoonito.it">
-    <title lang="it">Hey Duggee - Il distintivo del guarisci presto</title>
-    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - -</desc>
-    <category lang="it">per i bimbi piccoli</category>
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <episode-num system="xmltv_ns">0 . 19 . </episode-num>
-  </programme>
-  <programme start="20260727083500 +0200" stop="20260727084500 +0200" channel="Cartoonito.it">
-    <title lang="it">Hey Duggee - Il distintivo del singhiozzo</title>
-    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - -</desc>
-    <category lang="it">per i bimbi piccoli</category>
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <episode-num system="xmltv_ns">0 . 20 . </episode-num>
-  </programme>
-  <programme start="20260727084500 +0200" stop="20260727085500 +0200" channel="Cartoonito.it">
-    <title lang="it">Hey Duggee - Il distintivo del labirinto</title>
-    <desc lang="it">Segui le avventure di Duggee e i suoi amici, pronti ad imparare nuove abilità e a collezionare distintivi! - -</desc>
-    <category lang="it">per i bimbi piccoli</category>
-    <episode-num system="onscreen">S1 E22</episode-num>
-    <episode-num system="xmltv_ns">0 . 21 . </episode-num>
-  </programme>
-  <programme start="20260727085500 +0200" stop="20260727091000 +0200" channel="Cartoonito.it">
-    <title lang="it">Chi ha sfidato Ninna e Matti? - Episodio 23</title>
-    <desc lang="it">Gli amatissimi Ninna e Matti sono tornati per affrontare coi loro amici tutte le divertenti sfide lanciate loro dal pubblico di Cartoonito! - -</desc>
-    <episode-num system="onscreen">S2 E23</episode-num>
-    <episode-num system="xmltv_ns">1 . 22 . </episode-num>
-  </programme>
-  <programme start="20260727091000 +0200" stop="20260727093000 +0200" channel="Cartoonito.it">
-    <title lang="it">Chi ha sfidato Ninna e Matti? - Episodio 24</title>
-    <desc lang="it">Gli amatissimi Ninna e Matti sono tornati per affrontare coi loro amici tutte le divertenti sfide lanciate loro dal pubblico di Cartoonito! - -</desc>
-    <episode-num system="onscreen">S2 E24</episode-num>
-    <episode-num system="xmltv_ns">1 . 23 . </episode-num>
-  </programme>
-  <programme start="20260727093000 +0200" stop="20260727095000 +0200" channel="Cartoonito.it">
-    <title lang="it">Tiny Toons Looniversity - Il giorno della foto</title>
-    <desc lang="it">Segui Baby e Buster Bunny e i loro amici Duca Duck e Lindon nelle loro bizzarre avventure, sotto la guida dei migliori insegnanti cartooneschi del giro: i Looney Tunes! - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <episode-num system="xmltv_ns">1 . 1 . </episode-num>
   </programme>
   <programme start="20260727095000 +0200" stop="20260727101500 +0200" channel="Cartoonito.it">
     <title lang="it">Tiny Toons Looniversity - Cartoni nello spazio</title>
@@ -11007,87 +10388,6 @@ il servizio fotografico che vuole fare a Zeynep, all'insaputa di Haziran. - -</d
     <episode-num system="onscreen">S2 E35</episode-num>
     <episode-num system="xmltv_ns">1 . 34 . </episode-num>
   </programme>
-  <programme start="20260727023000 +0200" stop="20260727042000 +0200" channel="Cielo.it">
-    <title lang="it">Le due vie del destino</title>
-    <desc lang="it">Colin Firth e Nicole Kidman in un dramma tratto da una storia vera. Ancora segnato dalla prigionia patita durante la guerra, un uomo va in cerca del suo aguzzino per vendicarsi. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727042000 +0200" stop="20260727044000 +0200" channel="Cielo.it">
-    <title lang="it">Affari di famiglia</title>
-    <desc lang="it">Una figurina rara - I ragazzi si occupano di una rara figurina su cui e' raffigurato George Herman Ruth detto 'Babe' all'epoca in cui giocava nei Red Sox di Boston. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S7 E3</episode-num>
-    <episode-num system="xmltv_ns">6 . 2 . </episode-num>
-  </programme>
-  <programme start="20260727044000 +0200" stop="20260727050500 +0200" channel="Cielo.it">
-    <title lang="it">Affari di famiglia</title>
-    <desc lang="it">Game Over - I ragazzi sono alle prese con un hovercraft. Rick e Corey porteranno a termine l'affare? Inoltre, al negozio arriva un vecchio videogioco. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S10 E38</episode-num>
-    <episode-num system="xmltv_ns">9 . 37 . </episode-num>
-  </programme>
-  <programme start="20260727050500 +0200" stop="20260727053500 +0200" channel="Cielo.it">
-    <title lang="it">Affari di famiglia</title>
-    <desc lang="it">Successi e fallimenti - Scopriamo gli oggetti piu' grandi e costosi arrivati al negozio: un'enorme macchina chiamata 'Robosaurus' e una scatola per sigari che apparteneva a John F. Kennedy. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S15 E41</episode-num>
-    <episode-num system="xmltv_ns">14 . 40 . </episode-num>
-  </programme>
-  <programme start="20260727053500 +0200" stop="20260727060000 +0200" channel="Cielo.it">
-    <title lang="it">Affari di famiglia</title>
-    <desc lang="it">Le avventure di Corey e Chumlee - Scopriamo gli oggetti piu' straordinari arrivati al negozio: una chitarra Gibson del valore di 50.000 dollari, un'automobile del 1969 e un paio di pistole. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S10 E32</episode-num>
-    <episode-num system="xmltv_ns">9 . 31 . </episode-num>
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727062500 +0200" channel="Cielo.it">
-    <title lang="it">TG24 Pagine</title>
-    <desc lang="it">I quotidiani italiani e stranieri, i siti e i social nella rassegna di Sky TG24. Disponibile anche sul sito e su tutte le piattaforme. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727062500 +0200" stop="20260727063000 +0200" channel="Cielo.it">
-    <title lang="it">TG24 Preview</title>
-    <desc lang="it">TG24 Preview - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727063000 +0200" stop="20260727065500 +0200" channel="Cielo.it">
-    <title lang="it">TG24 Buongiorno</title>
-    <desc lang="it">Le notizie in primo piano, dall'Italia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727065500 +0200" stop="20260727071500 +0200" channel="Cielo.it">
-    <title lang="it">Affari di famiglia</title>
-    <desc lang="it">Rick 'n' Roll - Rick partecipa al "Rock and Roll Fantasy Camp". Intanto, Chumlee e Richard si occupano di una collezione di giocattoli dei primi anni del '900. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S12 E1</episode-num>
-    <episode-num system="xmltv_ns">11 . 0 . </episode-num>
-  </programme>
-  <programme start="20260727071500 +0200" stop="20260727080000 +0200" channel="Cielo.it">
-    <title lang="it">Fratelli in affari</title>
-    <desc lang="it">Sophie e Preston - Stanchi di vivere nella loro piccola casa in affitto, Sophie, Preston e il piccolo Finn hanno bisogno di maggiore spazio. Jonathan e Drew si mettono subito all'opera per aiutarli ma i desideri della famiglia passano prima per il budget a disposizione. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S3 E11</episode-num>
-    <episode-num system="xmltv_ns">2 . 10 . </episode-num>
-  </programme>
-  <programme start="20260727080000 +0200" stop="20260727085000 +0200" channel="Cielo.it">
-    <title lang="it">Fratelli in affari</title>
-    <desc lang="it">Mark e Dave - Originari di Minneapolis, Mark e Dave si sono trasferiti a Las Vegas. Drew e Jonathan propongono ai due l'acquisto di una meravigliosa casa degli anni Sessanta. Una famosa drag queen offre consigli di design. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S8 E9</episode-num>
-    <episode-num system="xmltv_ns">7 . 8 . </episode-num>
-  </programme>
-  <programme start="20260727085000 +0200" stop="20260727094000 +0200" channel="Cielo.it">
-    <title lang="it">Fratelli in affari</title>
-    <desc lang="it">Lauren e Jeremy - Lauren e Jeremy desiderano una casa che soddisfi i bisogni dei loro figli e che sia anche lontana dalla famosa strada Strip di Las Vegas. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S8 E10</episode-num>
-    <episode-num system="xmltv_ns">7 . 9 . </episode-num>
-  </programme>
-  <programme start="20260727094000 +0200" stop="20260727094500 +0200" channel="Cielo.it">
-    <title lang="it">Sky TG24 in pillole</title>
-    <desc lang="it">Il telegiornale con le notizie piu' importanti del giorno. - -</desc>
-    <category lang="it" />
-  </programme>
   <programme start="20260727094500 +0200" stop="20260727104000 +0200" channel="Cielo.it">
     <title lang="it">Fratelli in affari</title>
     <desc lang="it">Javier e Carolyn - Javier e Carolyn sono molto attivi nelle opere di beneficenza. I fratelli decidono di aiutare questa famiglia generosa ad acquistare la loro prima casa. - -</desc>
@@ -11925,32 +11225,6 @@ il servizio fotografico che vuole fare a Zeynep, all'insaputa di Haziran. - -</d
     <desc lang="it">Una donna e' sospettata di omicidio dopo la morte del marito; il figlio mezzo cieco si trova ad affrontare un dilemma morale in quanto testimone principale. - -</desc>
     <category lang="it" />
   </programme>
-  <programme start="20260727031600 +0200" stop="20260727044900 +0200" channel="Cine34.it">
-    <title lang="it">Fuori uno sotto un altro...arriva il passatore</title>
-    <desc lang="it">Commedia sexy con Edwige Fenech, George Hilton e Umberto D'Orsi. Stefano Pelloni detto il Passatore, leggendario bandito romagnolo che mette a segno un colpo dietro l'altro, sembra imprendibile. Sulle sue tracce, oltre a numerose amanti, un ex compagno di studi in seminario, il capo della Polizia Zambelli. - -</desc>
-    <category lang="it">commedia</category>
-    <category lang="it">commedia erotica</category>
-  </programme>
-  <programme start="20260727044900 +0200" stop="20260727062000 +0200" channel="Cine34.it">
-    <title lang="it">Appassionata</title>
-    <desc lang="it">Eugenia adora morbosamente il padre, ma è Nicola, sua disinibita amica, che seduce l'uomo. Una sera la figlia si sostituisce all'amica. Con E. Giorgi, O. Muti. - -</desc>
-    <category lang="it">drammatico</category>
-    <category lang="it">classici</category>
-    <category lang="it">commedia erotica</category>
-  </programme>
-  <programme start="20260727062000 +0200" stop="20260727075800 +0200" channel="Cine34.it">
-    <title lang="it">Facciamo fiesta</title>
-    <desc lang="it">Sotto il sole caraibico le riflessioni sociali di due giovani italiani che si ritrovano a Cuba per un progetto lavorativo. Insieme devono realizzare un video documentaristico del posto ma i programmi cambiano quando conoscono un terzo connazionale e due splendide ragazze locali. - -</desc>
-    <category lang="it">commedia</category>
-    <category lang="it">commedia brillante</category>
-  </programme>
-  <programme start="20260727075800 +0200" stop="20260727080600 +0200" channel="Cine34.it">
-    <title lang="it">Vi racconto - Eleonora giorgi</title>
-    <desc lang="it">Rubrica di approfondimento settimanale sul cinema italiano a cura di Enrico Vanzina. - -</desc>
-    <category lang="it">magazine</category>
-    <episode-num system="onscreen">S1 E22</episode-num>
-    <episode-num system="xmltv_ns">0 . 21 . </episode-num>
-  </programme>
   <programme start="20260727080600 +0200" stop="20260727100800 +0200" channel="Cine34.it">
     <title lang="it">Mani di velluto</title>
     <desc lang="it">Frizzante commedia con la coppia Celentano - Giorgi. Guido Quiller è diventato milionario grazie a un vetro antirapina di sua invenzione. Un giorno per un equivoco conosce una bella borseggiatrice e se ne innamora e non avendo il coraggio di svelare la sua identità si finge ladro e organizza svariati colpi insieme alla donna. Ma primo o poi la verità verrà a galla. - -</desc>
@@ -12380,64 +11654,6 @@ Non c'è giudizio, solo una fotografia da cui prendere le distanze e trarne risa
   <programme start="20260731210000 +0200" stop="20260801000700 +0200" channel="Cine34.it">
     <title lang="it">Abbronzatissimi</title>
     <desc lang="it">[Commedia] - Storie d'amore estive nello scenario balneare di Rimini. Con J. Cala', T. Teocoli, A. Parietti, E. Grimaldi. Regia di B. Gaburro; ITA 1991 - -</desc>
-  </programme>
-  <programme start="20260727031300 +0200" stop="20260727040300 +0200" channel="Focus.it">
-    <title lang="it">Planet Earth III - Le meraviglie della natura - Umani</title>
-    <desc lang="it">Dalle tundre ghiacciate del nord fino alle foreste dell'equatore. Un viaggio emozionante attraverso alcuni dei panorami più belli del pianeta Terra. - -</desc>
-    <category lang="it">meraviglie della natura</category>
-    <episode-num system="onscreen">S3 E7</episode-num>
-    <episode-num system="xmltv_ns">2 . 6 . </episode-num>
-  </programme>
-  <programme start="20260727040300 +0200" stop="20260727045400 +0200" channel="Focus.it">
-    <title lang="it">Cascate Vittoria - Eden africano</title>
-    <desc lang="it">Si possono vedere da distanze fino a 30 km: come un vulcano borbottante e ribollente, pronto a eruttare, una nuvola luminosa si alza dalla terra. È così che si possono vivere le Cascate Vittoria all'alba. La gente del posto lo chiama: "Il fumo del tuono". - -</desc>
-    <category lang="it">meraviglie della natura</category>
-  </programme>
-  <programme start="20260727045400 +0200" stop="20260727054600 +0200" channel="Focus.it">
-    <title lang="it">Natura fantastica (e dove trovarla) - S1 Ep6</title>
-    <desc lang="it">Celebriamo le Galapagos, Palau, la Grande Barriera Corallina e altri punti caldi della biodiversità. - -</desc>
-    <category lang="it">meraviglie della natura</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <episode-num system="xmltv_ns">0 . 5 . </episode-num>
-  </programme>
-  <programme start="20260727054600 +0200" stop="20260727061500 +0200" channel="Focus.it">
-    <title lang="it">Focus natura</title>
-    <desc lang="it">Alla scoperta di un antico popolo di pastori, i Safini, abitanti di un'Italia centrale ricca di storia, ma soprattutto dalla natura incontaminata. - -</desc>
-    <category lang="it">meraviglie della natura</category>
-  </programme>
-  <programme start="20260727061500 +0200" stop="20260727070000 +0200" channel="Focus.it">
-    <title lang="it">Predatori e prede - L'eterna sfida - S1 Ep6</title>
-    <desc lang="it">Un'entusiasmante serie sulla fauna selvatica che offre nuove prospettive su come predatori come orsi polari, leopardi e lupi inseguono e abbattono le loro prede. - -</desc>
-    <category lang="it">il regno animale</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <episode-num system="xmltv_ns">0 . 5 . </episode-num>
-  </programme>
-  <programme start="20260727070000 +0200" stop="20260727072200 +0200" channel="Focus.it">
-    <title lang="it">Focus natura</title>
-    <desc lang="it">Il biologo Vincenzo Venuto ci accompagna tra l'isola dell'Asinara e il promontorio di Capocaccia, alla scoperta delle meraviglie naturali della Sardegna del nord. - -</desc>
-    <category lang="it">meraviglie della natura</category>
-  </programme>
-  <programme start="20260727072200 +0200" stop="20260727081700 +0200" channel="Focus.it">
-    <title lang="it">Com'erano fatti gli animali preistorici - I segreti della tigre della tasmania</title>
-    <desc lang="it">La storia di un animale preistorico sopravvissuto fino all'epoca moderna ed estintosi per esclusiva responsabilità dell'uomo : il tilacino, meglio noto come tigre della Tasmania. E se potesse tornare a vivere, grazie all'ingegneria genetica? - -</desc>
-    <category lang="it">il regno animale</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <episode-num system="xmltv_ns">0 . 5 . </episode-num>
-  </programme>
-  <programme start="20260727081700 +0200" stop="20260727091700 +0200" channel="Focus.it">
-    <title lang="it">Lake Ranch Italian Cowboys - S1 Ep4</title>
-    <desc lang="it">Seguiamo il percorso dei nostri cowboys che andranno a prelevare una mandria di vacche da accompagnare nel pascolo di Lake Ranche. - -</desc>
-    <category lang="it">storia miti e religioni</category>
-    <category lang="it">natura</category>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <episode-num system="xmltv_ns">0 . 3 . </episode-num>
-  </programme>
-  <programme start="20260727091700 +0200" stop="20260727094000 +0200" channel="Focus.it">
-    <title lang="it">Fuori le prove! - Indagini ai confini della realta' - S2 Ep26</title>
-    <desc lang="it">Il video di un presunto Bigfoot; uno strano oggetto in fiamme sul cielo australiano; una inquietante creatura che sembra essere formata solo da gambe e dei vermi che si comportano in modo strano. - -</desc>
-    <category lang="it">scienza e tecnologia</category>
-    <episode-num system="onscreen">S2 E26</episode-num>
-    <episode-num system="xmltv_ns">1 . 25 . </episode-num>
   </programme>
   <programme start="20260727094000 +0200" stop="20260727105300 +0200" channel="Focus.it">
     <title lang="it">Le sette meraviglie del mondo antico - Il mausoleo di Alicarnasso</title>
@@ -13321,30 +12537,6 @@ Il corpo di una presunta sirena rimasta conservata in una scatola per generazion
     <episode-num system="onscreen">S1 E9</episode-num>
     <episode-num system="xmltv_ns">0 . 8 . </episode-num>
   </programme>
-  <programme start="20260727033900 +0200" stop="20260727051600 +0200" channel="Iris.it">
-    <title lang="it">Payback - La rivincita di Porter</title>
-    <desc lang="it">[Azione] - Per il ciclo: EFFETTO NOTTE.
-Remake di "Senza un attimo di tregua". Due ladri compiono un furto. Alla spartizione del bottino, uno dei due fugge col malloppo. Con Mel Gibson. Regia di B. Helgeland; USA 1998 - -</desc>
-  </programme>
-  <programme start="20260727051600 +0200" stop="20260727062700 +0200" channel="Iris.it">
-    <title lang="it">Desiderando Giulia</title>
-    <desc lang="it">[Drammatico] - Per il ciclo: EFFETTO NOTTE.
-Uno scrittore in crisi d'ispirazione, legato morbosamente alla sorella, s'innamora di Giulia, donna provocante e misteriosa. Con S. Grandi, J. Leysen. Regia di A. Barzini; ITA 1986 - -</desc>
-  </programme>
-  <programme start="20260727062700 +0200" stop="20260727071400 +0200" channel="Iris.it">
-    <title lang="it">Kojak - Paradisi infernali</title>
-    <desc lang="it">Il tenente Kojak vuol aiutare suo nipote dopo aver scoperto che si droga. Ma la persona che contatta e' appena finita nei guai. - -</desc>
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <episode-num system="xmltv_ns">2 . 3 . </episode-num>
-  </programme>
-  <programme start="20260727071400 +0200" stop="20260727081000 +0200" channel="Iris.it">
-    <title lang="it">Walker Texas Ranger - Un vagone d'oro</title>
-    <desc lang="it">Walker (Chuck Norris) e Trivette (Clarence Giliard) ricevono l'incarico di prestare consulenza alla troupe di un film western ambientato nel Texas. Sembrerebbe un lavoro tranquillo, ma quattro degli stuntman, con la complicita' di un poliziotto ferroviario, mettono a segno una rapina spettacolare: riescono a far sparire un vagone blindato che trasporta 28 milioni di dollari e su cui viaggiano quattro agenti del Tesoro. Dato che il vagone e' sparito mentre il treno era in corsa, nessuno e' in grado di spiegare la dinamica dell'azione. Ma Walker e Trivette, con l'aiuto di C.D., anche stavolta trovano il bandolo della matassa...
- " " - -</desc>
-    <category lang="it">poliziesco</category>
-    <episode-num system="onscreen">S2 E13</episode-num>
-    <episode-num system="xmltv_ns">1 . 12 . </episode-num>
-  </programme>
   <programme start="20260727081000 +0200" stop="20260727100600 +0200" channel="Iris.it">
     <title lang="it">A 077 sfida ai killers</title>
     <desc lang="it">[Spionaggio] - Per il ciclo: ITALIAN SPY STORY.
@@ -13769,54 +12961,6 @@ Film basato sull'omonima serie degli anni '80: C. Farrell e J. Foxx sono polizio
     <category lang="it">drammatico</category>
     <category lang="it">biografico</category>
     <category lang="it">storico</category>
-  </programme>
-  <programme start="20260727034400 +0200" stop="20260727042800 +0200" channel="Italia1.it">
-    <title lang="it">Hitler's Engineers: Building the third reich - S1 Ep6</title>
-    <desc lang="it">Fritz Todt, Ispettore Generale delle Strade Tedesche e artefice dell'Autobahn, il sistema di autostrade costruito dal regime negli anni dal 1933 al 1939, fu il responsabile dell'Organizzazione Todt, addetta alla costruzione delle installazioni militari. - -</desc>
-    <category lang="it">storia miti e religioni</category>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <episode-num system="xmltv_ns">0 . 5 . </episode-num>
-  </programme>
-  <programme start="20260727042800 +0200" stop="20260727051100 +0200" channel="Italia1.it">
-    <title lang="it">Hot roads - strade di fuoco - S1 Ep1</title>
-    <desc lang="it">Una strada montana che fa da accesso dell'India al tetto del mondo, l'Himalaya. Un percorso di 475 chilometri nella punta più a nord del subcontinente indiano collega le città di Manali e Leh nella regione del Ladakh. - -</desc>
-    <category lang="it">inchiesta</category>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <episode-num system="xmltv_ns">0 . 0 . </episode-num>
-  </programme>
-  <programme start="20260727051100 +0200" stop="20260727060400 +0200" channel="Italia1.it">
-    <title lang="it">I campioni del regno animale - Macchine per uccidere</title>
-    <desc lang="it">Ecco i venti candidati al titolo di miglior cacciatore al mondo attraverso criteri che premiano le doti di resistenza, abilità e strategia. - -</desc>
-    <category lang="it">il regno animale</category>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <episode-num system="xmltv_ns">0 . 4 . </episode-num>
-  </programme>
-  <programme start="20260727060400 +0200" stop="20260727065600 +0200" channel="Italia1.it">
-    <title lang="it">I campioni del regno animale - Gli animali piu' tenaci sulla terra</title>
-    <desc lang="it">Vi presentiamo le 20 creature più tenaci del mondo animale, le loro tattiche difensive ed offensive. Chi si aggiudicherà come il sopravvissuto più tenace? - -</desc>
-    <category lang="it">il regno animale</category>
-    <episode-num system="onscreen">S2 E1</episode-num>
-    <episode-num system="xmltv_ns">1 . 0 . </episode-num>
-  </programme>
-  <programme start="20260727065600 +0200" stop="20260727075300 +0200" channel="Italia1.it">
-    <title lang="it">Chips - La mania dell'autostop</title>
-    <desc lang="it">Un muscoloso camionista (l'ex giocatore di football Ben Davidson) usa un metodo molto particolare per ottenere lo spazio che gli necessita per parcheggiare il suo mezzo. Gli agenti devono poi occuparsi di due spericolate ragazze, Jenny (Lark Geib) e Marge (Stacey Nelkin), che amano vagabondare facendo l'autostop fino a quando non incontrano un esaltato che perde il controllo dell'automobile in autostrada. C'e' poi Elmer (George Chandler), un anziano signore che si rifiuta di abbandonare la sua casa in procinto di essere demolita... - -</desc>
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <episode-num system="xmltv_ns">0 . 16 . </episode-num>
-  </programme>
-  <programme start="20260727075300 +0200" stop="20260727084500 +0200" channel="Italia1.it">
-    <title lang="it">Chips - Falso allarme</title>
-    <desc lang="it">Gli agenti della Pattuglia Stradale Californiana si dirigono prontamente sul luogo dove e' stato segnalato un grave incidente.
-Qui vengono convogliati anche i vigili del fuoco e le ambulanze per il soccorso, che hanno ricevuto la chiamata d'emergenza. Si tratta pero' di un falso allarme. Baker (Larry Wilcox) e Poncharello (Erik Estrada) sono perfino costretti ad affrontare un pitone imprigionato in un'automobile in divieto di sosta... - -</desc>
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <episode-num system="xmltv_ns">0 . 17 . </episode-num>
-  </programme>
-  <programme start="20260727084500 +0200" stop="20260727093700 +0200" channel="Italia1.it">
-    <title lang="it">Chicago med - In salute ed in malattia</title>
-    <desc lang="it">Connor, dopo l'ennesimo litigio col padre, scopre che in realta' aveva ragione: ha da sempre idealizzato la madre e accusato lui della sua morte. Purtroppo non fa in tempo a dirglielo, perche' il padre muore di infarto in ospedale. Intanto Charles cerca in tutti i modi di convincere Caroline a restare a Chicago. Quando si decide a dichiararle il suo amore, scopre che il cancro della donna e' progredito e che non le resta molto da vivere - -</desc>
-    <category lang="it">drammatico</category>
-    <episode-num system="onscreen">S4 E21</episode-num>
-    <episode-num system="xmltv_ns">3 . 20 . </episode-num>
   </programme>
   <programme start="20260727093700 +0200" stop="20260727103100 +0200" channel="Italia1.it">
     <title lang="it">Chicago med - Un cuore coraggioso</title>
@@ -14784,112 +13928,6 @@ Il dottor Charles riceve la visita di un amico d'infanzia che ha avuto un sorpre
     <category lang="it">poliziesco</category>
     <episode-num system="onscreen">S23 E5</episode-num>
     <episode-num system="xmltv_ns">22 . 4 . </episode-num>
-  </programme>
-  <programme start="20260727035200 +0200" stop="20260727041400 +0200" channel="Italia2.it">
-    <title lang="it">Che campioni Holly e Benji! - Volata verso la finale</title>
-    <desc lang="it">Sta per terminare la partita tra la Flynet e la New Team. Holly, nonostante le pessime condizioni fisiche, sferra il tiro che decretera' la vittoria finale. - -</desc>
-    <category lang="it">anime</category>
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <episode-num system="xmltv_ns">2 . 3 . </episode-num>
-  </programme>
-  <programme start="20260727041400 +0200" stop="20260727043600 +0200" channel="Italia2.it">
-    <title lang="it">Che campioni Holly e Benji! - Addio, Flynet</title>
-    <desc lang="it">La Flynet perde la semifinale contro la New Team. 
- Jenny, in partenza per l'America, soffre all'idea di lasciare Philip. Quest'ultimo la raggiunge all'aeroporto e le da' un ultimo saluto. - -</desc>
-    <category lang="it">anime</category>
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <episode-num system="xmltv_ns">2 . 4 . </episode-num>
-  </programme>
-  <programme start="20260727043600 +0200" stop="20260727050100 +0200" channel="Italia2.it">
-    <title lang="it">Camera Cafe' - Camera cafe'</title>
-    <desc lang="it">Le vicende degli impiegati di un'azienda si intrecciano intorno alla macchinetta del caffe' tra colleghi, superiori e buffe vicende quotidiane. - -</desc>
-    <episode-num system="onscreen">S1 E30</episode-num>
-    <episode-num system="xmltv_ns">0 . 29 . </episode-num>
-  </programme>
-  <programme start="20260727050100 +0200" stop="20260727052300 +0200" channel="Italia2.it">
-    <title lang="it">Forza Campioni - A ciascuno il suo sogno</title>
-    <desc lang="it">La serie animata "Forza campioni" narra la storia della squadra giovanile di calcio del Godai e delle avventure di Nick, un ragazzo semplice ed introverso. Nick e' arrivato a Godai per frequentare la locale facolta' di economica e commercio dell'Universita'. Lo accompagna il suo amico Roberto, un vero genio patito del computer che, pur essendo studente modello, nutre una grande passione per il calcio. Assistendo agli allenamenti della squadra universitaria, Nick scopre di avere un nuovo interesse, del tutto insospettato: il calcio. La carriera calcistica di Nick pero' e' ostacolata dai nonni, potenti industriali, che vorrebbero vedere il nipote a capo dei rispettivi imperi economici. Ma Nick, che ha scoperto di possedere un talento naturale per il gioco del calcio, e' deciso a continuare e fara' di tutto per concilaire l'attivita' sportiva con lo studio.
- Tra i vari amici che Nick incontra al villaggio Godai c'e' Miriam, organizatrice del club dei tifosi. E' una ragaz... - -</desc>
-    <category lang="it">anime</category>
-    <episode-num system="onscreen">S1 E21</episode-num>
-    <episode-num system="xmltv_ns">0 . 20 . </episode-num>
-  </programme>
-  <programme start="20260727052300 +0200" stop="20260727054700 +0200" channel="Italia2.it">
-    <title lang="it">Forza Campioni - Un momento di crisi</title>
-    <desc lang="it">La serie animata "Forza campioni" narra la storia della squadra giovanile di calcio del Godai e delle avventure di Nick, un ragazzo semplice ed introverso. Nick e' arrivato a Godai per frequentare la locale facolta' di economica e commercio dell'Universita'. Lo accompagna il suo amico Roberto, un vero genio patito del computer che, pur essendo studente modello, nutre una grande passione per il calcio. Assistendo agli allenamenti della squadra universitaria, Nick scopre di avere un nuovo interesse, del tutto insospettato: il calcio. La carriera calcistica di Nick pero' e' ostacolata dai nonni, potenti industriali, che vorrebbero vedere il nipote a capo dei rispettivi imperi economici. Ma Nick, che ha scoperto di possedere un talento naturale per il gioco del calcio, e' deciso a continuare e fara' di tutto per concilaire l'attivita' sportiva con lo studio.
- Tra i vari amici che Nick incontra al villaggio Godai c'e' Miriam, organizatrice del club dei tifosi. E' una ragaz... - -</desc>
-    <category lang="it">anime</category>
-    <episode-num system="onscreen">S1 E22</episode-num>
-    <episode-num system="xmltv_ns">0 . 21 . </episode-num>
-  </programme>
-  <programme start="20260727054700 +0200" stop="20260727061000 +0200" channel="Italia2.it">
-    <title lang="it">Forza Campioni - Il giallo dello stadio</title>
-    <desc lang="it">La serie animata "Forza campioni" narra la storia della squadra giovanile di calcio del Godai e delle avventure di Nick, un ragazzo semplice ed introverso. Nick e' arrivato a Godai per frequentare la locale facolta' di economica e commercio dell'Universita'. Lo accompagna il suo amico Roberto, un vero genio patito del computer che, pur essendo studente modello, nutre una grande passione per il calcio. Assistendo agli allenamenti della squadra universitaria, Nick scopre di avere un nuovo interesse, del tutto insospettato: il calcio. La carriera calcistica di Nick pero' e' ostacolata dai nonni, potenti industriali, che vorrebbero vedere il nipote a capo dei rispettivi imperi economici. Ma Nick, che ha scoperto di possedere un talento naturale per il gioco del calcio, e' deciso a continuare e fara' di tutto per concilaire l'attivita' sportiva con lo studio.
- Tra i vari amici che Nick incontra al villaggio Godai c'e' Miriam, organizatrice del club dei tifosi. E' una ragaz... - -</desc>
-    <category lang="it">anime</category>
-    <episode-num system="onscreen">S1 E23</episode-num>
-    <episode-num system="xmltv_ns">0 . 22 . </episode-num>
-  </programme>
-  <programme start="20260727061000 +0200" stop="20260727063500 +0200" channel="Italia2.it">
-    <title lang="it">Forza Campioni - Una vacanza movimentata</title>
-    <desc lang="it">La serie animata "Forza campioni" narra la storia della squadra giovanile di calcio del Godai e delle avventure di Nick, un ragazzo semplice ed introverso. Nick e' arrivato a Godai per frequentare la locale facolta' di economica e commercio dell'Universita'. Lo accompagna il suo amico Roberto, un vero genio patito del computer che, pur essendo studente modello, nutre una grande passione per il calcio. Assistendo agli allenamenti della squadra universitaria, Nick scopre di avere un nuovo interesse, del tutto insospettato: il calcio. La carriera calcistica di Nick pero' e' ostacolata dai nonni, potenti industriali, che vorrebbero vedere il nipote a capo dei rispettivi imperi economici. Ma Nick, che ha scoperto di possedere un talento naturale per il gioco del calcio, e' deciso a continuare e fara' di tutto per concilaire l'attivita' sportiva con lo studio.
- Tra i vari amici che Nick incontra al villaggio Godai c'e' Miriam, organizatrice del club dei tifosi. E' una ragaz... - -</desc>
-    <category lang="it">anime</category>
-    <episode-num system="onscreen">S1 E24</episode-num>
-    <episode-num system="xmltv_ns">0 . 23 . </episode-num>
-  </programme>
-  <programme start="20260727063500 +0200" stop="20260727070000 +0200" channel="Italia2.it">
-    <title lang="it">Forza Campioni - Partenza improvvisa</title>
-    <desc lang="it">La serie animata "Forza campioni" narra la storia della squadra giovanile di calcio del Godai e delle avventure di Nick, un ragazzo semplice ed introverso. Nick e' arrivato a Godai per frequentare la locale facolta' di economica e commercio dell'Universita'. Lo accompagna il suo amico Roberto, un vero genio patito del computer che, pur essendo studente modello, nutre una grande passione per il calcio. Assistendo agli allenamenti della squadra universitaria, Nick scopre di avere un nuovo interesse, del tutto insospettato: il calcio. La carriera calcistica di Nick pero' e' ostacolata dai nonni, potenti industriali, che vorrebbero vedere il nipote a capo dei rispettivi imperi economici. Ma Nick, che ha scoperto di possedere un talento naturale per il gioco del calcio, e' deciso a continuare e fara' di tutto per concilaire l'attivita' sportiva con lo studio.
- Tra i vari amici che Nick incontra al villaggio Godai c'e' Miriam, organizatrice del club dei tifosi. E' una ragaz... - -</desc>
-    <category lang="it">anime</category>
-    <episode-num system="onscreen">S1 E25</episode-num>
-    <episode-num system="xmltv_ns">0 . 24 . </episode-num>
-  </programme>
-  <programme start="20260727070000 +0200" stop="20260727072200 +0200" channel="Italia2.it">
-    <title lang="it">L'ape Maia - Il lombrico Max</title>
-    <desc lang="it">Ispirato al famoso libro "L'Ape Maia" di Waldemar Bonsels, scritto nel 1912, il cartone narra le avventure della simpatica e curiosa Ape Maia e non vuole essere solo un programma di intrattenimento, ma soprattutto un programma educativo e di informazione.
- Attraverso le mille avventure dell'Ape Maia i telespettatori impareranno a conoscere il mondo degli insetti. L'Ape Maia e' circondata da numerosi amici: Willy, il pigro calabrone; Flip, la cavalletta; Kurt, il grosso scarafaggio, convinto di essere la creatura piu' forte della prateria; la mosca Puck e il lombrico Max, il cui unico rammarico e' non poter volare. Il nemico piu' terribile dell'Ape Maia e' invece il grande ragno Thekla. - -</desc>
-    <category lang="it">anime</category>
-    <episode-num system="onscreen">S1 E23</episode-num>
-    <episode-num system="xmltv_ns">0 . 22 . </episode-num>
-  </programme>
-  <programme start="20260727072200 +0200" stop="20260727075300 +0200" channel="Italia2.it">
-    <title lang="it">L'ape Maia - Ranocchio furbo</title>
-    <desc lang="it">Ispirato al famoso libro "L'Ape Maia" di Waldemar Bonsels, scritto nel 1912, il cartone narra le avventure della simpatica e curiosa Ape Maia e non vuole essere solo un programma di intrattenimento, ma soprattutto un programma educativo e di informazione.
- Attraverso le mille avventure dell'Ape Maia i telespettatori impareranno a conoscere il mondo degli insetti. L'Ape Maia e' circondata da numerosi amici: Willy, il pigro calabrone; Flip, la cavalletta; Kurt, il grosso scarafaggio, convinto di essere la creatura piu' forte della prateria; la mosca Puck e il lombrico Max, il cui unico rammarico e' non poter volare. Il nemico piu' terribile dell'Ape Maia e' invece il grande ragno Thekla. - -</desc>
-    <category lang="it">anime</category>
-    <episode-num system="onscreen">S1 E24</episode-num>
-    <episode-num system="xmltv_ns">0 . 23 . </episode-num>
-  </programme>
-  <programme start="20260727075300 +0200" stop="20260727082300 +0200" channel="Italia2.it">
-    <title lang="it">L'ape Maia - Il coleottero innamorato</title>
-    <desc lang="it">Ispirato al famoso libro "L'Ape Maia" di Waldemar Bonsels, scritto nel 1912, il cartone narra le avventure della simpatica e curiosa Ape Maia e non vuole essere solo un programma di intrattenimento, ma soprattutto un programma educativo e di informazione.
- Attraverso le mille avventure dell'Ape Maia i telespettatori impareranno a conoscere il mondo degli insetti. L'Ape Maia e' circondata da numerosi amici: Willy, il pigro calabrone; Flip, la cavalletta; Kurt, il grosso scarafaggio, convinto di essere la creatura piu' forte della prateria; la mosca Puck e il lombrico Max, il cui unico rammarico e' non poter volare. Il nemico piu' terribile dell'Ape Maia e' invece il grande ragno Thekla. - -</desc>
-    <category lang="it">anime</category>
-    <episode-num system="onscreen">S1 E25</episode-num>
-    <episode-num system="xmltv_ns">0 . 24 . </episode-num>
-  </programme>
-  <programme start="20260727082300 +0200" stop="20260727085000 +0200" channel="Italia2.it">
-    <title lang="it">Occhi di gatto - Un'amica per Tati</title>
-    <desc lang="it">Maggie, figlia di un uomo facoltoso, si sente trascurata dal padre e cosi', per fargli dispetto, ruba un suo quadro, "La donna nuda", al quale egli tiene in maniera particolare. Anche Kelly, Sheila e Tati desiderano la medesima tela, perche' dipinta da loro padre. Intanto, il padre di Maggie assume un investigatore privato che gli riporta a casa la figlia, ma che tiene per se' il quadro... - -</desc>
-    <category lang="it">anime</category>
-    <episode-num system="onscreen">S2 E13</episode-num>
-    <episode-num system="xmltv_ns">1 . 12 . </episode-num>
-  </programme>
-  <programme start="20260727085000 +0200" stop="20260727091600 +0200" channel="Italia2.it">
-    <title lang="it">Occhi di gatto - La spilla della discordia</title>
-    <desc lang="it">Per recuperare un diamante che apparteneva alla collezione del padre, Sheila si spaccia per la figlia di un tagliatore di pietre preziose che lavorava per la malavita. Quasi contemporaneamente, anche Matthew si introduce, travestito, nella stessa banda di ladri che compie furti nelle gioiellerie, con lo scopo di riappropriarsi di una spilla da lui acquistata per fare un regalo a Sheila... - -</desc>
-    <category lang="it">anime</category>
-    <episode-num system="onscreen">S2 E14</episode-num>
-    <episode-num system="xmltv_ns">1 . 13 . </episode-num>
-  </programme>
-  <programme start="20260727091600 +0200" stop="20260727094200 +0200" channel="Italia2.it">
-    <title lang="it">Che campioni Holly e Benji! - Volata verso la finale</title>
-    <desc lang="it">Sta per terminare la partita tra la Flynet e la New Team. Holly, nonostante le pessime condizioni fisiche, sferra il tiro che decretera' la vittoria finale. - -</desc>
-    <category lang="it">anime</category>
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <episode-num system="xmltv_ns">2 . 3 . </episode-num>
   </programme>
   <programme start="20260727094200 +0200" stop="20260727101000 +0200" channel="Italia2.it">
     <title lang="it">Che campioni Holly e Benji! - Addio, Flynet</title>
@@ -16511,48 +15549,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <title lang="it">Tremors</title>
     <desc lang="it">[Horror] - Gigantesche creature affiorano dalla sabbia terrorizzando un villaggio sperduto nel deserto del Nevada. Regia di R. Underwood; USA 1990 - -</desc>
   </programme>
-  <programme start="20260727031500 +0200" stop="20260727044300 +0200" channel="LA5.it">
-    <title lang="it">L'inganno della seduzione</title>
-    <desc lang="it">Le apparenze ingannano? Laura torna a Malibu nella tenuta di famiglia ma il rapporto con il padre e la matrigna non sono dei migliori e inoltre il suo ex fidanzato torna a farsi vivo nonostante i suoi rifiuti. Ma quando un giorno conosce Brad, pensa che il ragazzo possa essere l'uomo giusto per lei. Ma non tutto è come sembra. - -</desc>
-    <category lang="it">drammatico</category>
-    <category lang="it">mistery</category>
-    <category lang="it">thriller</category>
-  </programme>
-  <programme start="20260727044300 +0200" stop="20260727051000 +0200" channel="LA5.it">
-    <title lang="it">Vivere - S4 Ep59</title>
-    <desc lang="it">Il comportamento di Mirella, che trascura il lavoro giocando a fare la star televisiva, manda su tutte le furie Giovanni. Convinta che Pier Francesco abbia ritirato la denuncia nei confronti di Alfio grazie all'intercessione di Danilo, Alice si ricrede sul conto del giovane Sarpi. Per far piacere a Gianna, Chiara tiene fede al suo proposito di non vedere Vincenzo per un pò. Alice e Luca vengono incaricati da un noto critico d'arte, innamoratosi dei teli di Colette, di produrre le stoffe per arredare il suo appartamento. Vittorio si reca all'appuntamento col nipote e inaspettatamente si ritrova faccia a faccia con Emilia. - -</desc>
-    <category lang="it">soap opera</category>
-    <category lang="it">sentimentale</category>
-    <episode-num system="onscreen">S4 E59</episode-num>
-    <episode-num system="xmltv_ns">3 . 58 . </episode-num>
-  </programme>
-  <programme start="20260727051000 +0200" stop="20260727060000 +0200" channel="LA5.it">
-    <title lang="it">Tempesta d'amore - S18 Ep137</title>
-    <desc lang="it">Paul chiede a Josie notizie dei suoi successi; la ragazza gli racconta del grosso ordine ricevuto per la festa di Primavera e dell'acquisto delle quote del Caffe Liebling da parte di Erik. - -</desc>
-    <episode-num system="onscreen">S18 E137</episode-num>
-    <episode-num system="xmltv_ns">17 . 136 . </episode-num>
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727065100 +0200" channel="LA5.it">
-    <title lang="it">Tempesta d'amore - S18 Ep138</title>
-    <desc lang="it">Costanze riesce a ottenere la maggioranza dei voti per assegnare la sponsorizzazione della Festa di Primavera a favore della Schoko Götter. - -</desc>
-    <episode-num system="onscreen">S18 E138</episode-num>
-    <episode-num system="xmltv_ns">17 . 137 . </episode-num>
-  </programme>
-  <programme start="20260727065100 +0200" stop="20260727071600 +0200" channel="LA5.it">
-    <title lang="it">Vivere - S4 Ep60</title>
-    <desc lang="it">Colette tenta di far riappacificare Emilia e Vittorio durante il pranzo da lei appositamente organizzato. Venuta a sapere che Pier Francesco ha ritirato la denuncia nei confronti del padre grazie all'intercessione di Nina, Alice decide di smascherare Danilo, che si era attribuito il merito della cosa. Dopo aver pranzato alla Locanda Belvedere, Varani invita Lisa a fare una passeggiata. A casa Falcon arriva un personaggio inaspettato. - -</desc>
-    <category lang="it">soap opera</category>
-    <category lang="it">sentimentale</category>
-    <episode-num system="onscreen">S4 E60</episode-num>
-    <episode-num system="xmltv_ns">3 . 59 . </episode-num>
-  </programme>
-  <programme start="20260727071600 +0200" stop="20260727092400 +0200" channel="LA5.it">
-    <title lang="it">L'onore e il rispetto - S2 Ep4</title>
-    <desc lang="it">Seconda stagione della saga della famiglia Fortebracci. Tonio, sopravvissuto ad una strage, affronta un destino che si accanisce contro di lui: la sua amata Olga muore in un incidente stradale. Convinto da Santi a costituirsi, Tonio viene arrestato, mentre la cupola mafiosa lo condanna a morte perché ha tradito Cosa Nostra nascondendo il denaro di donna Rosangela in Svizzera, così la permanenza in carcere di Tonio diventa un inferno. - -</desc>
-    <category lang="it">drammatico</category>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <episode-num system="xmltv_ns">1 . 3 . </episode-num>
-  </programme>
   <programme start="20260727092400 +0200" stop="20260727103100 +0200" channel="LA5.it">
     <title lang="it">Cherry Season - La stagione del cuore - S2 Ep73</title>
     <desc lang="it">Ayaz chiede l'aiuto di Mete per un progetto difficile che deve realizzare a causa dell'intromissione di Oyku. I due decidono di ridiventare soci. Anche Oyku viene aiutata da Burcu nella creazione di una collezione ispirata alla Spagna del diciannovesimo secolo. - -</desc>
@@ -17289,104 +16285,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <title lang="it">Temptation island</title>
     <desc lang="it">Il programma piu' atteso dell'estate dedicato ai sentimenti con nuovi colpi di scena, momenti romantici, tradimenti inattesi e confronti al falo'. Conduce Filippo Bisciglia. - -</desc>
     <category lang="it">reality show</category>
-  </programme>
-  <programme start="20260727024000 +0200" stop="20260727041500 +0200" channel="La7.it">
-    <title lang="it">Ciclo La7 Doc: L'incubo dei dittatori</title>
-    <desc lang="it">S1 - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727041500 +0200" stop="20260727051500 +0200" channel="La7.it">
-    <title lang="it">Ciclo La7 Doc: Tesori nascosti</title>
-    <desc lang="it">Easter Island Heads - Quale verita' si cela dietro alcune delle piu' e meno famose statue del mondo, tra cui le giganti teste sull'Isola di Pasqua? - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S2 E2</episode-num>
-    <episode-num system="xmltv_ns">1 . 1 . </episode-num>
-  </programme>
-  <programme start="20260727051500 +0200" stop="20260727060000 +0200" channel="La7.it">
-    <title lang="it">Omnibus La7</title>
-    <desc lang="it">Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa e dibattito sui principali temi dell'attualita' politica. Conduce Gerardo Greco. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S26 E317</episode-num>
-    <episode-num system="xmltv_ns">25 . 316 . </episode-num>
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727060500 +0200" channel="La7.it">
-    <title lang="it">Meteo</title>
-    <desc lang="it">L'aggiornamento sulle previsioni del tempo atmosferico in tutta Italia. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727060500 +0200" stop="20260727061000 +0200" channel="La7.it">
-    <title lang="it">Traffico</title>
-    <desc lang="it">Le principali informazioni sulla viabilita' e il traffico per chi deve mettersi in viaggio. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727061000 +0200" stop="20260727061500 +0200" channel="La7.it">
-    <title lang="it">Oroscopo</title>
-    <desc lang="it">La lettura dell'oroscopo del giorno per tutti i segni zodiacali. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727061500 +0200" stop="20260727062000 +0200" channel="La7.it">
-    <title lang="it">Meteo</title>
-    <desc lang="it">L'aggiornamento sulle previsioni del tempo atmosferico in tutta Italia. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727062000 +0200" stop="20260727062500 +0200" channel="La7.it">
-    <title lang="it">Traffico</title>
-    <desc lang="it">Le principali informazioni sulla viabilita' e il traffico per chi deve mettersi in viaggio. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727062500 +0200" stop="20260727063000 +0200" channel="La7.it">
-    <title lang="it">Oroscopo</title>
-    <desc lang="it">La lettura dell'oroscopo del giorno per tutti i segni zodiacali. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727063000 +0200" stop="20260727063500 +0200" channel="La7.it">
-    <title lang="it">Meteo</title>
-    <desc lang="it">L'aggiornamento sulle previsioni del tempo atmosferico in tutta Italia. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727063500 +0200" stop="20260727064000 +0200" channel="La7.it">
-    <title lang="it">Traffico</title>
-    <desc lang="it">Le principali informazioni sulla viabilita' e il traffico per chi deve mettersi in viaggio. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727064000 +0200" stop="20260727065000 +0200" channel="La7.it">
-    <title lang="it">Anticamera con vista</title>
-    <desc lang="it">La sintesi senza filtri della settimana, con le piu' importanti novita' dal mondo della politica. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727065000 +0200" stop="20260727065500 +0200" channel="La7.it">
-    <title lang="it">Traffico</title>
-    <desc lang="it">Le principali informazioni sulla viabilita' e il traffico per chi deve mettersi in viaggio. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727065500 +0200" stop="20260727070000 +0200" channel="La7.it">
-    <title lang="it">Oroscopo</title>
-    <desc lang="it">La lettura dell'oroscopo del giorno per tutti i segni zodiacali. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727070000 +0200" stop="20260727074000 +0200" channel="La7.it">
-    <title lang="it">Omnibus News</title>
-    <desc lang="it">Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa, aggiornamenti sul traffico e previsioni meteo. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S26 E318</episode-num>
-    <episode-num system="xmltv_ns">25 . 317 . </episode-num>
-  </programme>
-  <programme start="20260727074000 +0200" stop="20260727075500 +0200" channel="La7.it">
-    <title lang="it">TG La7 ore 7.40</title>
-    <desc lang="it">S2025 - Notizie di attualita', cronaca e societa' selezionate dalla redazione di La7. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727075500 +0200" stop="20260727080000 +0200" channel="La7.it">
-    <title lang="it">Omnibus Meteo</title>
-    <desc lang="it">Previsioni del tempo. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727080000 +0200" stop="20260727094000 +0200" channel="La7.it">
-    <title lang="it">Omnibus La7</title>
-    <desc lang="it">Programma di informazione e approfondimento con rubriche, ospiti, rassegna stampa e dibattito sui principali temi dell'attualita' politica. Conduce Gerardo Greco. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S26 E318</episode-num>
-    <episode-num system="xmltv_ns">25 . 317 . </episode-num>
   </programme>
   <programme start="20260727094000 +0200" stop="20260727110000 +0200" channel="La7.it">
     <title lang="it">Coffee Break</title>
@@ -18588,71 +17486,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <desc lang="it">Harper deve indagare, sotto richiesta di una sua ex amante, su alcune lettere che ha ricevuto. Sembra un caso semplice eppure... - -</desc>
     <category lang="it" />
   </programme>
-  <programme start="20260727032900 +0200" stop="20260727041100 +0200" channel="MediasetExtra.it">
-    <title lang="it">Zig Zag</title>
-    <desc lang="it">Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale. - -</desc>
-  </programme>
-  <programme start="20260727041100 +0200" stop="20260727044500 +0200" channel="MediasetExtra.it">
-    <title lang="it">Zig Zag</title>
-    <desc lang="it">Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale. - -</desc>
-  </programme>
-  <programme start="20260727044500 +0200" stop="20260727052700 +0200" channel="MediasetExtra.it">
-    <title lang="it">Zig Zag</title>
-    <desc lang="it">Raimondo Vianello con Sandra Mondaini presenta un divertente quiz in cui tre concorrenti si sfidano per raggiungere il ricco montepremi finale. - -</desc>
-  </programme>
-  <programme start="20260727052700 +0200" stop="20260727054000 +0200" channel="MediasetExtra.it">
-    <title lang="it">Finche' c'e' Ditta c'e' speranza - S4 Ep32</title>
-    <desc lang="it">La sitcom non e' composta da una trama vera e propria; ogni puntata assembla vari pezzi di sketch con protagonista il quartetto comico della Premiata Ditta. - -</desc>
-    <episode-num system="onscreen">S4 E32</episode-num>
-    <episode-num system="xmltv_ns">3 . 31 . </episode-num>
-  </programme>
-  <programme start="20260727054000 +0200" stop="20260727054500 +0200" channel="MediasetExtra.it">
-    <title lang="it">Mai dire gallery - pillole</title>
-    <desc lang="it">Un'occasione imperdibile per rivedere i filmati piu' esilaranti e le gag storiche dei programmi della Gialappa's Band. - -</desc>
-  </programme>
-  <programme start="20260727054500 +0200" stop="20260727060200 +0200" channel="MediasetExtra.it">
-    <title lang="it">Mai dire gallery - pillole</title>
-    <desc lang="it">Mai dire gallery - pillole - -</desc>
-  </programme>
-  <programme start="20260727060200 +0200" stop="20260727061700 +0200" channel="MediasetExtra.it">
-    <title lang="it">Mai dire gallery - pillole</title>
-    <desc lang="it">Mai dire gallery - pillole - -</desc>
-  </programme>
-  <programme start="20260727061700 +0200" stop="20260727063200 +0200" channel="MediasetExtra.it">
-    <title lang="it">Mai dire gallery - pillole</title>
-    <desc lang="it">Mai dire gallery - pillole - -</desc>
-  </programme>
-  <programme start="20260727063200 +0200" stop="20260727064300 +0200" channel="MediasetExtra.it">
-    <title lang="it">Mai dire gallery - pillole</title>
-    <desc lang="it">Un'occasione imperdibile per rivedere i filmati piu' esilaranti e le gag storiche dei programmi della Gialappa's Band. - -</desc>
-  </programme>
-  <programme start="20260727064300 +0200" stop="20260727065500 +0200" channel="MediasetExtra.it">
-    <title lang="it">Mai dire gallery - pillole</title>
-    <desc lang="it">Un'occasione imperdibile per rivedere i filmati piu' esilaranti e le gag storiche dei programmi della Gialappa's Band. - -</desc>
-  </programme>
-  <programme start="20260727065500 +0200" stop="20260727073700 +0200" channel="MediasetExtra.it">
-    <title lang="it">Tira &amp; Molla</title>
-    <desc lang="it">Con Paolo Bonolis, Tira e Molla e' un celebre gioco degli anni '90 con domande, giochi e prove irresistibili. - -</desc>
-  </programme>
-  <programme start="20260727073700 +0200" stop="20260727083700 +0200" channel="MediasetExtra.it">
-    <title lang="it">The wall</title>
-    <desc lang="it">Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti. - -</desc>
-    <category lang="it">varietà</category>
-  </programme>
-  <programme start="20260727083700 +0200" stop="20260727091100 +0200" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello - Italian style</title>
-    <desc lang="it">Raimondo e Nicola (Nicola De Buono), l'ex onorevole tornato a vivere nel palazzo, organizzano, all'insaputa di Sandra, il cenone di Capodanno "a quattro" con due ragazze straniere amanti dello "stile italiano". Per l'occasione affittano un self - storage, un box dotato di ogni confort che va tanto di moda, e per non tradire l'italian style si danno un gran daffare per arredarlo e addobbarlo. Ma qualcosa va storto: il menu "Afrodite" per quattro viene erroneamente recapitato a Sandra che, scoprendo di essere stata raggirata, va e colpisce con la solita tempestivita'... - -</desc>
-    <category lang="it">sit-com</category>
-    <episode-num system="onscreen">S11 E2</episode-num>
-    <episode-num system="xmltv_ns">10 . 1 . </episode-num>
-  </programme>
-  <programme start="20260727091100 +0200" stop="20260727094500 +0200" channel="MediasetExtra.it">
-    <title lang="it">Casa Vianello - La corrida</title>
-    <desc lang="it">Solleticato dalla bella Kate (Barbara Snellenburg), che si e' innamorata della Spagna, Raimondo ha un'idea: portare in Italia la corrida, un grande spettacolo con canti e danze dove il toro non verra' sacrificato. Naturalmente Kate potrebbe aprire lo spettacolo ballando il flamenco e lui potrebbe aiutarla ad allenarsi... Non fa i conti, pero', con l'entusiasmo di Sandra, che, volendo dare il suo contributo, si allena con Kate a suon di nacchere... I guai non tardano ad arrivare: una grossa cassa arriva a Casa Vianello: e' il toro. Adesso Raimondo deve vedersela con gli animalisti... - -</desc>
-    <category lang="it">sit-com</category>
-    <episode-num system="onscreen">S11 E3</episode-num>
-    <episode-num system="xmltv_ns">10 . 2 . </episode-num>
-  </programme>
   <programme start="20260727094500 +0200" stop="20260727101200 +0200" channel="MediasetExtra.it">
     <title lang="it">Casa Vianello - Sale grosso</title>
     <desc lang="it">La tata non c'e' per un mese e Sandra assume tramite internet una ragazza orientale, Suzie. Raimondo e' scettico: non si sa chi e', da dove viene... Sandra pero' e' convinta: bisogna fidarsi delle nuove tecnologie e dandogli del "vecchio" chiude il discorso, anzi autorizza la ragazza a fare come se fosse a casa sua. Ma Suzie ha davvero loschi propositi e a Casa Vianello comincia un via vai di gente strana: tutti chiedono il "sale"... A chiedere un po' di sale arriva anche una vicina e Raimondo, ormai esperto, le da' tutto il barattolo, non sapendo che in realta' il "sale" e' una nuova droga orientale. Il pandemonio e' in agguato e il finale e' in questura... - -</desc>
@@ -19291,80 +18124,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <title lang="it">Sarabanda Celebrity</title>
     <desc lang="it">Torna la musica, il gioco, l'adrenalina della sfida con il leggendario game show condotto da Enrico Papi. Il quiz musicale tra tradizione e novità! - -</desc>
     <category lang="it">musicale</category>
-  </programme>
-  <programme start="20260727024500 +0200" stop="20260727040000 +0200" channel="Rai1.it">
-    <title lang="it">Reazione a catena weekend - Puntata del 26/07/2026</title>
-    <desc lang="it">Il gioco che, utilizzando l'associazione logica di parole, mette alla prova la padronanza della lingua italiana di concorrenti e telespettatori. Due squadre composte da 3 giocatori si sfidano sulla loro capacità di indovinare, formare, completare e ordinare parole e "catene" di vocaboli. - -</desc>
-    <category lang="it" />
-    <episode-num system="xmltv_ns">2025 .  . </episode-num>
-  </programme>
-  <programme start="20260727040000 +0200" stop="20260727044500 +0200" channel="Rai1.it">
-    <title lang="it">Il commissario Rex - S8E3 - Oltre ogni limite</title>
-    <desc lang="it">Sotto la pavimentazione stradale, durante dei lavori per la metropolitana, viene rinvenuto il cadavere di un giovane uomo. Le fratture riscontrate dal patologo corrispondono a una caduta da una grande altezza. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S8 E3</episode-num>
-    <episode-num system="xmltv_ns">7 . 2 . </episode-num>
-  </programme>
-  <programme start="20260727044500 +0200" stop="20260727060000 +0200" channel="Rai1.it">
-    <title lang="it">RaiNews24</title>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727062800 +0200" channel="Rai1.it">
-    <title lang="it">1mattina News - Puntata del 27/07/2026</title>
-    <desc lang="it">Al centro del programma ci sono le notizie del giorno e l'attualità in tempo reale: dai fatti italiani a ciò che accade nel resto del mondo, dalla cronaca allo sport, dalla cultura allo spettacolo. Un modo veloce, chiaro e autorevole per informare e per aggiornare, grazie a ospiti in studio, collegamenti con gli inviati del Tg1 e i corrispondenti Rai, interviste a grandi personaggi e protagonisti della cronaca. Conducono Greta Mauro e Gianpiero Scarpati. - -</desc>
-    <category lang="it" />
-    <episode-num system="xmltv_ns">2025 .  . </episode-num>
-  </programme>
-  <programme start="20260727062800 +0200" stop="20260727063000 +0200" channel="Rai1.it">
-    <title lang="it">Previsioni sulla viabilità CCISS Viaggiare informati</title>
-    <desc lang="it">Previsioni sulla viabilità CCISS Viaggiare informati - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727063000 +0200" stop="20260727063300 +0200" channel="Rai1.it">
-    <title lang="it">Tg1 ore 06:30 del 27/07/2026</title>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727063300 +0200" stop="20260727065800 +0200" channel="Rai1.it">
-    <title lang="it">1mattina News - Puntata del 27/07/2026</title>
-    <desc lang="it">Al centro del programma ci sono le notizie del giorno e l'attualità in tempo reale: dai fatti italiani a ciò che accade nel resto del mondo, dalla cronaca allo sport, dalla cultura allo spettacolo. Un modo veloce, chiaro e autorevole per informare e per aggiornare, grazie a ospiti in studio, collegamenti con gli inviati del Tg1 e i corrispondenti Rai, interviste a grandi personaggi e protagonisti della cronaca. Conducono Greta Mauro e Gianpiero Scarpati. - -</desc>
-    <category lang="it" />
-    <episode-num system="xmltv_ns">2025 .  . </episode-num>
-  </programme>
-  <programme start="20260727065800 +0200" stop="20260727070000 +0200" channel="Rai1.it">
-    <title lang="it">Che tempo fa</title>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727070000 +0200" stop="20260727071000 +0200" channel="Rai1.it">
-    <title lang="it">TG1</title>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727071000 +0200" stop="20260727080000 +0200" channel="Rai1.it">
-    <title lang="it">1mattina News - Puntata del 27/07/2026</title>
-    <desc lang="it">Al centro del programma ci sono le notizie del giorno e l'attualità in tempo reale: dai fatti italiani a ciò che accade nel resto del mondo, dalla cronaca allo sport, dalla cultura allo spettacolo. Un modo veloce, chiaro e autorevole per informare e per aggiornare, grazie a ospiti in studio, collegamenti con gli inviati del Tg1 e i corrispondenti Rai, interviste a grandi personaggi e protagonisti della cronaca. Conducono Greta Mauro e Gianpiero Scarpati. - -</desc>
-    <category lang="it" />
-    <episode-num system="xmltv_ns">2025 .  . </episode-num>
-  </programme>
-  <programme start="20260727080000 +0200" stop="20260727083000 +0200" channel="Rai1.it">
-    <title lang="it">TG1</title>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727083000 +0200" stop="20260727083500 +0200" channel="Rai1.it">
-    <title lang="it">Che tempo fa</title>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727083500 +0200" stop="20260727085500 +0200" channel="Rai1.it">
-    <title lang="it">UnoMattina - Puntata del 27/07/2026</title>
-    <desc lang="it">Al centro del programma l'Italia e l'estate degli italiani: un viaggio attraverso il paese e i suoi cambiamenti con ospiti, collegamenti e testimonianze in diretta. Non mancheranno approfondimenti dedicati alla salute e al benessere, all'alimentazione, ai consumi, al turismo e alla sostenibilità, con uno sguardo sempre attento alle esigenze dei telespettatori. Continuiamo inoltre a seguire i mondiali di calcio, la rubrica quotidiana di Rai Sport racconta il torneo non solo dal punto di vista dell'attualità sportiva, ma anche del costume e dei fenomeni sociali legati all'evento. Conducono Alessandro Greco e Carolina Rey con Paola Cervelli e la partecipazione di Domenico Marocchi. - -</desc>
-    <category lang="it" />
-    <episode-num system="xmltv_ns">2025 .  . </episode-num>
-  </programme>
-  <programme start="20260727085500 +0200" stop="20260727090000 +0200" channel="Rai1.it">
-    <title lang="it">Rai Parlamento Telegiornale</title>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727090000 +0200" stop="20260727090300 +0200" channel="Rai1.it">
-    <title lang="it">TG 1 L.I.S.</title>
-    <category lang="it" />
   </programme>
   <programme start="20260727090300 +0200" stop="20260727112000 +0200" channel="Rai1.it">
     <title lang="it">UnoMattina - Puntata del 27/07/2026</title>
@@ -20283,47 +19042,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <desc lang="it">Giochi di luce, musica e spettacolo accompagnano il tradizionale show circense del Festival del Circo Internazionale di Montecarlo, giunto alla sua 46esima edizione. - -</desc>
     <category lang="it" />
     <episode-num system="xmltv_ns">2023 .  . </episode-num>
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727061000 +0200" channel="Rai2.it">
-    <title lang="it">Piloti</title>
-    <desc lang="it">Il commendator Aurelio è il titolare della compagnia aerea low - cost "Piccione AirLines". Sull'aereo e nella cabina di pilotaggio, può accadere di tutto. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727061000 +0200" stop="20260727070000 +0200" channel="Rai2.it">
-    <title lang="it">La Grande Vallata S2E7 - Il candidato Episodio 37</title>
-    <desc lang="it">Un candidato senza scrupoli di nome Giosuè Hawks sostiene che Tom Barkley gli abbia rubato gran parte dei suoi possedimenti. Episodio 37 - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <episode-num system="xmltv_ns">1 . 6 . </episode-num>
-  </programme>
-  <programme start="20260727070000 +0200" stop="20260727074600 +0200" channel="Rai2.it">
-    <title lang="it">Baywatch S4E10 - La torretta della paura</title>
-    <desc lang="it">Un nuovo bagnino aiuta Mitch e la squadra ad affrontare un'ondata di attività criminali. CJ s'invaghisce di un mago da spiaggia che rischia di annegare durante un numero subacqueo malriuscito. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S4 E10</episode-num>
-    <episode-num system="xmltv_ns">3 . 9 . </episode-num>
-  </programme>
-  <programme start="20260727074600 +0200" stop="20260727083000 +0200" channel="Rai2.it">
-    <title lang="it">Baywatch S4E11 - Una gara per crescere</title>
-    <desc lang="it">I guardaspiaggia organizzano una versione degli Special Olympics dedicata alle attività balneari, stringendo un legame con due giovani atleti abbandonati dai genitori. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S4 E11</episode-num>
-    <episode-num system="xmltv_ns">3 . 10 . </episode-num>
-  </programme>
-  <programme start="20260727083000 +0200" stop="20260727084500 +0200" channel="Rai2.it">
-    <title lang="it">TG2</title>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727084500 +0200" stop="20260727095700 +0200" channel="Rai2.it">
-    <title lang="it">The Beach S1E42</title>
-    <desc lang="it">1^ Visione Rai - 1969, Matala, spiaggia a sud di Creta: una comunità hippy vive pacificamente secondo le proprie abitudini anticonformiste, generando curiosità e diffidenza. Un omicidio sconvolge la tranquillità della zona. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E42</episode-num>
-    <episode-num system="xmltv_ns">0 . 41 . </episode-num>
-  </programme>
-  <programme start="20260727095700 +0200" stop="20260727100000 +0200" channel="Rai2.it">
-    <title lang="it">Meteo 2</title>
-    <category lang="it" />
   </programme>
   <programme start="20260727100000 +0200" stop="20260727105500 +0200" channel="Rai2.it">
     <title lang="it">TG2 Dossier</title>
@@ -21540,25 +20258,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <desc lang="it">APPROFONDIMENTO - Il racconto di un sequestro che ha fatto epoca. Giorgio Calissoni, rapito con la madre Anna Bulgari, ripercorre la vicenda e ne rivive i giorni di prigionia, fino al brutale taglio dell'orecchio.... - Di Vania Colasanti Produttore esecutivo Stefano Salandini Regia di Andrea Menghini - -</desc>
     <category lang="it" />
   </programme>
-  <programme start="20260727023000 +0200" stop="20260727041500 +0200" channel="Rai3.it">
-    <title lang="it">Sempre</title>
-    <desc lang="it">A cinquant'anni dal 25 aprile 1974, Luciana Fina rivisita le immagini della Rivoluzione dei Garofani in Portogallo, provenienti dagli archivi della Cinemateca Portuguesa e della RTP (Rádio e Televisão de Portugal). - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727041500 +0200" stop="20260727052000 +0200" channel="Rai3.it">
-    <title lang="it">Cosa farò con questa spada?</title>
-    <desc lang="it">Le manifestazioni operaie contro la presenza della NATO, le navi alleate, Nosferatu, scene dal mondo operaio e contadino e altre da esistenze marginali, come prostitute e vagabondi. Discorsi di militanti contro il colonialismo, per il comunismo. Tutto questo e molto altro nella "favola cinematografica fatta dall' enfant terribile del cinema portoghese". - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727052000 +0200" stop="20260727060000 +0200" channel="Rai3.it">
-    <title lang="it">Capitali culturali dell'Europa - Lisbona Capitale d'Europa</title>
-    <desc lang="it">«Non si trattava di un documentario su Lisbona, ma di una cronaca della storia culturale portoghese, organizzata attraverso 17 interventi e un découpage scandito per secoli. Questa visione sintetizzata del film, concreta, obiettiva, demistificata, mostra secolo dopo secolo quello che noi siamo dalla riconquista di Lisbona ai Mori (1147), fino alla Rivoluzione del 25 aprile». (Manoel de Oliveira). - (1983) Regia: Manoel de Oliveira Con: Eunice Muñoz, Diogo Dória, Luís Miguel Cintra, Manuela de Freitas, María Barroso, Luís Lima Barreto, Teresa Madruga, Carlos Paulo - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727080000 +0200" channel="Rai3.it">
-    <title lang="it">RaiNews24</title>
-    <category lang="it" />
-  </programme>
   <programme start="20260727080000 +0200" stop="20260727103000 +0200" channel="Rai3.it">
     <title lang="it">Agorà Estate - Puntata del 27/07/2026</title>
     <desc lang="it">L'approfondimento estivo del mattino di Rai3 condotto da Giulia Di Stefano con Marco Carrara, attraverso ospiti, inviati, inchieste e contributi video dai social. - -</desc>
@@ -22504,61 +21203,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <title lang="it">Ciclo Mai Visti Prima Animali Randagi Pr</title>
     <desc lang="it">Ciclo Mai Visti Prima Animali Randagi Prima Visione TV - FILM - Toni e Luca vivono in un piccolo paese di provincia: Luca guida l'ambulanza, Toni fa il soccorritore. Un giorno viene richiesto loro di trasp - ortare Emir per delle cure speciali, insieme alla figlia Maria. - (2022) Drammatico Regia: Maria Tilli Con: Giacomo Ferrara, Andrea Lattanzi, Ivan Franek, Agnese Claisse - -</desc>
     <category lang="it" />
-  </programme>
-  <programme start="20260727032300 +0200" stop="20260727040400 +0200" channel="Rai4.it">
-    <title lang="it">Senza Traccia S7E13 - Perduta per sempre</title>
-    <desc lang="it">New York. Una sezione speciale dell'FBI capitanata dall'agente Jack Malone si occupa di persone scomparse, delle quali vengono ricostruite le ultime ore attraverso la ricerca di indizi e informazioni. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S7 E13</episode-num>
-    <episode-num system="xmltv_ns">6 . 12 . </episode-num>
-  </programme>
-  <programme start="20260727040400 +0200" stop="20260727052600 +0200" channel="Rai4.it">
-    <title lang="it">Stranger Europe - Londra</title>
-    <desc lang="it">Buckingham Palace, Westminster, il Big Ben… non è questa la Londra che esplorano Ema Stokholma e Mattia Briga in questo episodio di Stranger Europe. I nostri eroi, a Brick Lane, sono sulle tracce di Banksy, il più noto e "ignoto" street artist di sempre. E a Whitechapel, moderni Sherlock Holmes, cercano di sapere qualcosa di più su Jack Lo Squartatore, facendo visita al suo insolito museo. Dalle "indagini" allo shopping: una ricerca diversa ma ugualmente interessante tra gelati all'azoto ed abiti fluorescenti. E poi i locali: da quelli ispirati a film e serie tv, ad altri legati al clima atmosferico e ad eventi storici. E infine i luoghi, perché Londra è anche quel posto dove credi di partire e invece vai a studiare magia o esci per prendere un drink e ti ritrovi in prigione. E, se ti lasciano andare, finisci a dormire in una tenda nel bel mezzo del cuore della capitale inglese. - -</desc>
-    <category lang="it" />
-    <episode-num system="xmltv_ns">2018 .  . </episode-num>
-  </programme>
-  <programme start="20260727052600 +0200" stop="20260727060700 +0200" channel="Rai4.it">
-    <title lang="it">Senza Traccia S7E14 - Amici e vicini</title>
-    <desc lang="it">New York. Una sezione speciale dell'FBI capitanata dall'agente Jack Malone si occupa di persone scomparse, delle quali vengono ricostruite le ultime ore attraverso la ricerca di indizi e informazioni. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S7 E14</episode-num>
-    <episode-num system="xmltv_ns">6 . 13 . </episode-num>
-  </programme>
-  <programme start="20260727060700 +0200" stop="20260727065300 +0200" channel="Rai4.it">
-    <title lang="it">Il commissario Rex - S6E12 - Il purosangue</title>
-    <desc lang="it">Il corpo di un uomo martoriato viene rinvenuto nel recinto di un toro da monta. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S6 E12</episode-num>
-    <episode-num system="xmltv_ns">5 . 11 . </episode-num>
-  </programme>
-  <programme start="20260727065300 +0200" stop="20260727074000 +0200" channel="Rai4.it">
-    <title lang="it">Il commissario Rex - S7E1 - All'ultimo secondo</title>
-    <desc lang="it">Una studentessa vuole acquistare le azioni di una società, ma qualcuno glielo impedisce. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S7 E1</episode-num>
-    <episode-num system="xmltv_ns">6 . 0 . </episode-num>
-  </programme>
-  <programme start="20260727074000 +0200" stop="20260727082300 +0200" channel="Rai4.it">
-    <title lang="it">Scorpion S3E9 - Una madre difficile</title>
-    <desc lang="it">Il genio Walter O'Brien viene ingaggiato dalla Homeland Security per formare e guidare un team di prodigiosi nerd con un elevato QI per far fronte alle complesse minacce dell'era moderna. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S3 E9</episode-num>
-    <episode-num system="xmltv_ns">2 . 8 . </episode-num>
-  </programme>
-  <programme start="20260727082300 +0200" stop="20260727090400 +0200" channel="Rai4.it">
-    <title lang="it">Scorpion S3E10 - In fondo al pantano</title>
-    <desc lang="it">La squadra deve salvare una donna intrappolata nelle fosse di La Brea Tar Pits, prima che finisca l'ossigeno. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S3 E10</episode-num>
-    <episode-num system="xmltv_ns">2 . 9 . </episode-num>
-  </programme>
-  <programme start="20260727090400 +0200" stop="20260727094700 +0200" channel="Rai4.it">
-    <title lang="it">Castle II ep.23</title>
-    <desc lang="it">Mentre Castle si trova a promuovere il suo nuovo romanzo, una serie di delitti lo porta a continuare la collaborazione con la polizia di New York. Ma prima dovrà risolvere le incomprensioni con la detective Beckett. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S2 E23</episode-num>
-    <episode-num system="xmltv_ns">1 . 22 . </episode-num>
   </programme>
   <programme start="20260727094700 +0200" stop="20260727102800 +0200" channel="Rai4.it">
     <title lang="it">Castle II ep.24</title>
@@ -23673,59 +22317,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <desc lang="it">Durante un viaggio notturno in auto, l'alcol e la tensione scatenano un duro litigio tra Antoine e Hélène. La donna sparisce nel buio; rimasto solo, l'uomo incrocia la strada di un pericoloso criminale evaso, precipitando in una cupa spirale di puro terrore e disperazione. - -</desc>
     <category lang="it" />
   </programme>
-  <programme start="20260727030800 +0200" stop="20260727040800 +0200" channel="Rai5.it">
-    <title lang="it">Di là dal fiume e tra gli alberi - S7E1 - Imperia, città dai due volti</title>
-    <desc lang="it">Vincenzo Saccone ci svela le due anime di Imperia, città sospesa tra il mare e i monti, che ancora mantiene due diversi centri storici, due porti e due identità. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S7 E1</episode-num>
-    <episode-num system="xmltv_ns">6 . 0 . </episode-num>
-  </programme>
-  <programme start="20260727040800 +0200" stop="20260727050100 +0200" channel="Rai5.it">
-    <title lang="it">Le Meraviglie della Francia - S1E3</title>
-    <desc lang="it">Oltre le spiagge della Costa Azzurra, il sud della Francia svela un mondo sorprendente e poco conosciuto: minuscoli toporagni tra campi di lavanda, pesci cacciatori, castori ribelli e giovani fenicotteri in danza. Tra Provenza, Camargue e Pirenei, un viaggio tra creature curiose in un paesaggio mediterraneo magico. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <episode-num system="xmltv_ns">0 . 2 . </episode-num>
-  </programme>
-  <programme start="20260727050100 +0200" stop="20260727060000 +0200" channel="Rai5.it">
-    <title lang="it">La caccia - S1E6 - Cogli l'attimo</title>
-    <desc lang="it">In questo episodio scopriremo il confine dinamico tra la terra e il mare: la costa. Un mondo in continuo cambiamento, l'unico ambiente del pianeta in cui predatori provenienti dall'aria, dalla terra e dall'acqua si incontrano e si ritrovano a cacciare insieme. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <episode-num system="xmltv_ns">0 . 5 . </episode-num>
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727062800 +0200" channel="Rai5.it">
-    <title lang="it">La scintilla di Catania - Geo 26/05/2023</title>
-    <desc lang="it">La scintilla di Catania - -</desc>
-    <category lang="it" />
-    <episode-num system="xmltv_ns">2021 .  . </episode-num>
-  </programme>
-  <programme start="20260727062800 +0200" stop="20260727072100 +0200" channel="Rai5.it">
-    <title lang="it">Fuori Binario - La Maremmana</title>
-    <desc lang="it">La nuova puntata di Fuori Binario segue la linea Maremmana, un tracciato che appena lasciata la Capitale si inoltra nella campagna della Tuscia, una volta epicentro dell'Etruria, per poi giungere fino al Parco della Maremma e al Monte Argentario. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S0 E9</episode-num>
-    <episode-num system="xmltv_ns"> . 8 . </episode-num>
-  </programme>
-  <programme start="20260727072100 +0200" stop="20260727075000 +0200" channel="Rai5.it">
-    <title lang="it">Un giorno per gli Asteroidi</title>
-    <desc lang="it">La puntata di oggi ha lo scopo di aumentare la conoscenza degli asteroidi, e in generale dei corpi minori, e di cosa possa essere fatto per evitare eventi catastrofici che coinvolgano la Terra. Ma cosa sono gli asteroidi e le comete? Perché sono cosi importanti e dunque siamo particolarmente impegnati a studiarli? - 2024 ITA - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727075000 +0200" stop="20260727084000 +0200" channel="Rai5.it">
-    <title lang="it">Le strade di Overland - Borneo malese: patrimonio naturale da proteggere - 30/08/2023</title>
-    <desc lang="it">La nuova meta de "Il Mondo con gli occhi di Overland" ci porta a scoprire uno di quegli angoli di mondo di cui davvero sappiamo pochissimo: andiamo in Sarawak, una regione della Malesia incastonata nell'isola del Borneo, tra Vietnam, Filippine e arcipelago indonesiano. Una parte del mondo che rischia di perdere la sua identità a causa della deforestazione e della coltivazione intensiva per la produzione dell'olio di palma. Ma il Sarawak è un luogo incantevole, ricco di cultura, dove esistono ancora oltre 30 tribù etniche. La capitale, Kuching, è un crogiolo di culture, da quelle indigene a quella musulmana malese, da quella cinese all'indiana, e si riflette in una cucina eccezionale. Ma quel che lascia a bocca aperta è la natura, un vero e proprio patrimonio da proteggere: visitiamo Parchi spettacolari e incontriamo specie animali uniche al mondo. Il nostro viaggio ci porta poi lontani dalle coste, nella giungla più rigogliosa, per visitare la tribù degli Iban, discendenti dai famigerati tagliatori di teste. Ormai abbandonata la pratica bandita, la sfida che li attende sarà conciliare le proprie usanze con l'apertura verso il mondo globale. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S2023 E9</episode-num>
-    <episode-num system="xmltv_ns">2022 . 8 . </episode-num>
-  </programme>
-  <programme start="20260727084000 +0200" stop="20260727094000 +0200" channel="Rai5.it">
-    <title lang="it">Di là dal fiume e tra gli alberi - S7E1 - Imperia, città dai due volti</title>
-    <desc lang="it">Vincenzo Saccone ci svela le due anime di Imperia, città sospesa tra il mare e i monti, che ancora mantiene due diversi centri storici, due porti e due identità. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S7 E1</episode-num>
-    <episode-num system="xmltv_ns">6 . 0 . </episode-num>
-  </programme>
   <programme start="20260727094000 +0200" stop="20260727103000 +0200" channel="Rai5.it">
     <title lang="it">Le Meraviglie della Francia - S1E3</title>
     <desc lang="it">Oltre le spiagge della Costa Azzurra, il sud della Francia svela un mondo sorprendente e poco conosciuto: minuscoli toporagni tra campi di lavanda, pesci cacciatori, castori ribelli e giovani fenicotteri in danza. Tra Provenza, Camargue e Pirenei, un viaggio tra creature curiose in un paesaggio mediterraneo magico. - -</desc>
@@ -24684,195 +23275,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <title lang="it">David Bowie: Ziggy Stardust</title>
     <desc lang="it">L'ultimo show in cui David Bowie impersona la figura dell'alieno Ziggy Stardust. Concerto registrato il 3 Luglio 1973 al Hammersmith Odeon di Londra per la regia di D.A. Pennebaker, rimissato da Bowie e Tony Visconti nel 1981. - -</desc>
     <category lang="it" />
-  </programme>
-  <programme start="20260727035500 +0200" stop="20260727040500 +0200" channel="RaiGulp.it">
-    <title lang="it">Le tre moschettiere - S1E9 - Salviamo Alex</title>
-    <desc lang="it">Alex viene incarcerato con l'accusa di aver disegnato delle caricature e poi incollate sulla schiena di Rochefort. Sarà compito delle moschettiere salvarlo, anche perché non è lui il colpevole dell'affronto... - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <episode-num system="xmltv_ns">0 . 8 . </episode-num>
-  </programme>
-  <programme start="20260727040500 +0200" stop="20260727042000 +0200" channel="RaiGulp.it">
-    <title lang="it">Le tre moschettiere - S1E10 - La sfida</title>
-    <desc lang="it">D'Artagnan dovrà affrontare un duello con Rochefort dato che entrambi si prendono in giro con nomignoli poco dignitosi. Scopriranno però che ci sarà una sfida molto più importante da affrontare, di qualche sciocco nomignolo... - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <episode-num system="xmltv_ns">0 . 9 . </episode-num>
-  </programme>
-  <programme start="20260727042000 +0200" stop="20260727044000 +0200" channel="RaiGulp.it">
-    <title lang="it">Winx Club - The Magic is Back - S1E5 - Shopping a Magixia</title>
-    <desc lang="it">Le Winx progettano una giornata a Magixia, ma le restrizioni di Griselda e un progetto incompleto le trattengono ad Alfea... finché Robin non le aiuta a fuggire di nascosto. Nel frattempo, Damien, sotto la pressione del padre Vexius, scatena una minacciosa creatura per rubare il potere di Bloom - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <episode-num system="xmltv_ns">0 . 4 . </episode-num>
-  </programme>
-  <programme start="20260727044000 +0200" stop="20260727044500 +0200" channel="RaiGulp.it">
-    <title lang="it">La banda della natura - S1E9 - Allarme in paese</title>
-    <desc lang="it">La banda di Spilunga stringe amicizia con una ragazza spagnola ricercata dalla polizia che campeggia nel bosco. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <episode-num system="xmltv_ns">0 . 8 . </episode-num>
-  </programme>
-  <programme start="20260727044500 +0200" stop="20260727050500 +0200" channel="RaiGulp.it">
-    <title lang="it">La banda della natura - S1E10 - Il portafortuna</title>
-    <desc lang="it">Raffaele perde la sua pirite portafortuna e crede di essere perseguitato dalla sfortuna. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <episode-num system="xmltv_ns">0 . 9 . </episode-num>
-  </programme>
-  <programme start="20260727050500 +0200" stop="20260727051500 +0200" channel="RaiGulp.it">
-    <title lang="it">Food Wizards - S1E9 - Ham vs Mah</title>
-    <desc lang="it">Ham vuole battere il record di frittelle della classe… e un nuovo, irritante compagno! Ma come farà a non mettersi nei guai con Nonno Essen e gli altri Food Wizards? - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <episode-num system="xmltv_ns">0 . 8 . </episode-num>
-  </programme>
-  <programme start="20260727051500 +0200" stop="20260727053000 +0200" channel="RaiGulp.it">
-    <title lang="it">Food Wizards - S1E10 - Alla ricerca di Nonno Essen</title>
-    <desc lang="it">Nonno Essen è sparito! Tocca ai nostri Food Wizards ritrovarlo, partendo da un altro vecchietto fin troppo arzillo, una cena pesante... e un viaggio nell'organismo! - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <episode-num system="xmltv_ns">0 . 9 . </episode-num>
-  </programme>
-  <programme start="20260727053000 +0200" stop="20260727054000 +0200" channel="RaiGulp.it">
-    <title lang="it">Mortina - S1E22 - C'è puzza di marcio</title>
-    <desc lang="it">Mortina e i suoi amici trovano un uovo al cimitero. Decidono di occuparsene ma si distraggono. Più tardi, tonfi e gemiti scuotono Villa Decadente: sarà forse la creatura uscita dall'uovo? Tra indizi pelosi e provviste divorate, la Squadra del Mistero imparerà che prendersi cura di qualcuno è una responsabilità. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E22</episode-num>
-    <episode-num system="xmltv_ns">0 . 21 . </episode-num>
-  </programme>
-  <programme start="20260727054000 +0200" stop="20260727055000 +0200" channel="RaiGulp.it">
-    <title lang="it">Mortina - S1E23 - Uno sbaglio... mostruoso!</title>
-    <desc lang="it">Mortina e Dilbert assaggiano la merenda di Nora e Leo, ma non sono abituati al "saporaccio" dei cibi freschi dei vivi - vivi. Per farlo andare via c'è un'unica soluzione: mangiare i mortilli in acquamuffa... peccato che qualcuno stia rubando tutti gli ingredienti per prepararli! Ma chi, e perché? - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E23</episode-num>
-    <episode-num system="xmltv_ns">0 . 22 . </episode-num>
-  </programme>
-  <programme start="20260727055000 +0200" stop="20260727060500 +0200" channel="RaiGulp.it">
-    <title lang="it">Mortina - S1E24 - La serra scomparsa</title>
-    <desc lang="it">A Villa Decadente è il giorno della Luccicadanza Macabra, lo spettacolo delle piante della serra. Zia Dipartita vuole che tutto sia impeccabile. Tutti sono emozionati, ma sul più bello la serra scompare! Com'è possibile? Aiutati dal fantasmino Nicholas, Mortina e i suoi amici riusciranno a risolvere il mistero! - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E24</episode-num>
-    <episode-num system="xmltv_ns">0 . 23 . </episode-num>
-  </programme>
-  <programme start="20260727060500 +0200" stop="20260727061500 +0200" channel="RaiGulp.it">
-    <title lang="it">Coop Troop - S1E8 - La campanella scomparsa</title>
-    <desc lang="it">La Coop Troop parte in missione per aiutare la cacatua Britney a ritrovare la campanella della sua amica Christina, che ha lanciato nel giardino dopo una lite. L'oggetto però sembra essere sparito nel nulla. Mentre cercano tutti insieme, i membri della Coop Troop trovano un'impronta, che potrebbe essere quella del ladro, ma… non bisogna mai fidarsi delle apparenze. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <episode-num system="xmltv_ns">0 . 7 . </episode-num>
-  </programme>
-  <programme start="20260727061500 +0200" stop="20260727063000 +0200" channel="RaiGulp.it">
-    <title lang="it">Coop Troop - S1E48 - Occhio al sonnambulo</title>
-    <desc lang="it">La Coop Troop viene chiamata da Esther, che si è risvegliata nella boccia di Fred e Frida, ma non sa spiegarsi come mai si trovi lì. Anche Reggie e Prince si sono ritrovati in un posto diverso dal solito, uno nella gabbia di Christina e Britney, l'altro nella gabbia di Albert. Flo e i suoi compagni iniziano a investigare e scoprono che gli animali sono stati spostati di notte da Cornelius, che è sonnambulo... - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E48</episode-num>
-    <episode-num system="xmltv_ns">0 . 47 . </episode-num>
-  </programme>
-  <programme start="20260727063000 +0200" stop="20260727064000 +0200" channel="RaiGulp.it">
-    <title lang="it">Super Spike Ball - S1E11 - Un luogo magico</title>
-    <desc lang="it">Il torneo si sposta a Malta. Nino, Viola e Lj - Wang non hanno un attimo di respiro, anche perché un odore nauseabondo li costringe a chiudersi il naso… sono i Primitivi! Se vuole sconfiggerli la LuckySquad dovrà utilizzare al meglio l'energia misteriosa dell'isola. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <episode-num system="xmltv_ns">0 . 10 . </episode-num>
-  </programme>
-  <programme start="20260727064000 +0200" stop="20260727065500 +0200" channel="RaiGulp.it">
-    <title lang="it">Super Spike Ball - S1E12 - L'importante è divertirsi</title>
-    <desc lang="it">Lo scontro decisivo del torneo è tra i due grandi rivali: Nino, Viola e Lj - Wang devono vedersela con l'unica squadra contro cui hanno sempre perso. Gli Invincibili! Chi si aggiudicherà la vittoria e l'agognato trofeo? - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <episode-num system="xmltv_ns">0 . 11 . </episode-num>
-  </programme>
-  <programme start="20260727065500 +0200" stop="20260727072500 +0200" channel="RaiGulp.it">
-    <title lang="it">Geronimo Stilton - S1E6 - Che scoop, Geronimo!</title>
-    <desc lang="it">Geronimo è nei guai: nonostante faccia sempre del suo meglio, ogni notizia segreta che gli passa per le zampe viene scoperta dalla sua rivale Sally. Per questo, quando per l'anniversario dei 100 anni di Topazia deve nascondere la star supersegreta ospite della celebrazione, il compito si rivela ancora più difficile! - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <episode-num system="xmltv_ns">0 . 5 . </episode-num>
-  </programme>
-  <programme start="20260727072500 +0200" stop="20260727073000 +0200" channel="RaiGulp.it">
-    <title lang="it">I Puffi - La nuova serie - S1E16 - Junior</title>
-    <desc lang="it">Zuccone trova un uovo nel bosco e non sapendo che cosa sia chiede consiglio a Grande Puffo. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <episode-num system="xmltv_ns">0 . 15 . </episode-num>
-  </programme>
-  <programme start="20260727073000 +0200" stop="20260727074000 +0200" channel="RaiGulp.it">
-    <title lang="it">I Puffi - La nuova serie - S1E17 - Missione salsapariglia</title>
-    <desc lang="it">Gargamella ha distrutto tutte le piante di salsapariglia della zona privando i Puffi del loro cibo preferito. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <episode-num system="xmltv_ns">0 . 16 . </episode-num>
-  </programme>
-  <programme start="20260727074000 +0200" stop="20260727080000 +0200" channel="RaiGulp.it">
-    <title lang="it">I Puffi - La nuova serie - S1E18 - Puffi alla moda</title>
-    <desc lang="it">Vanitoso fa un sogno in cui lui e i suoi amici Puffi sono vestiti con abiti diversi, più colorati e allegri. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <episode-num system="xmltv_ns">0 . 17 . </episode-num>
-  </programme>
-  <programme start="20260727080000 +0200" stop="20260727080500 +0200" channel="RaiGulp.it">
-    <title lang="it">Le tre moschettiere - S1E13 - I fantasmi del Louvre</title>
-    <desc lang="it">Un fantasma senza testa si aggira a Corte, spaventando tutti. D'Artagnan non è convinta che sia davvero un fantasma, dato che non esistono, così si fa aiutare dalle sue compagne a smascherare il colpevole. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <episode-num system="xmltv_ns">0 . 12 . </episode-num>
-  </programme>
-  <programme start="20260727080500 +0200" stop="20260727083000 +0200" channel="RaiGulp.it">
-    <title lang="it">Le tre moschettiere - S1E14 - Una ladra a corte</title>
-    <desc lang="it">Una nota cantante, Lady Lala, giunge a corte per allietare tutti con i suoi meravigliosi canti. Ma in realtà la donna vorrebbe rubare una macchina crea perle ideata proprio da De Plaidert. Le moschettiere tenteranno così di vederci chiaro. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <episode-num system="xmltv_ns">0 . 13 . </episode-num>
-  </programme>
-  <programme start="20260727083000 +0200" stop="20260727083500 +0200" channel="RaiGulp.it">
-    <title lang="it">Prova a non ridere - S1E27</title>
-    <desc lang="it">Battute e freddure, dall'umorismo tanto leggero quanto irresistibile. Enigmi, indovinelli, barzellette e intriganti misteri da risolvere... - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E27</episode-num>
-    <episode-num system="xmltv_ns">0 . 26 . </episode-num>
-  </programme>
-  <programme start="20260727083500 +0200" stop="20260727084500 +0200" channel="RaiGulp.it">
-    <title lang="it">Prova a non ridere - S1E28</title>
-    <desc lang="it">Battute e freddure, dall'umorismo tanto leggero quanto irresistibile. Enigmi, indovinelli, barzellette e intriganti misteri da risolvere... - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E28</episode-num>
-    <episode-num system="xmltv_ns">0 . 27 . </episode-num>
-  </programme>
-  <programme start="20260727084500 +0200" stop="20260727091000 +0200" channel="RaiGulp.it">
-    <title lang="it">Winx Club - The Magic is Back - S1E4 - Trucchi da streghe</title>
-    <desc lang="it">Le Winx affrontano un test molto impegnativo, spingendo al limite magia e lavoro di squadra. Intanto, Bloom cerca di avvicinarsi a Damien, ma la tensione cresce quando le Trix tendono il loro agguato. La sfida prende una piega inaspettata e Bloom e Flora imparano il vero significato di altruismo e coraggio - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <episode-num system="xmltv_ns">0 . 3 . </episode-num>
-  </programme>
-  <programme start="20260727091000 +0200" stop="20260727091500 +0200" channel="RaiGulp.it">
-    <title lang="it">La banda della natura - S1E7 - Piedino chiacchierino</title>
-    <desc lang="it">Piedino si lascia scappare un segreto confidatogli dai suoi amici. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E7</episode-num>
-    <episode-num system="xmltv_ns">0 . 6 . </episode-num>
-  </programme>
-  <programme start="20260727091500 +0200" stop="20260727093500 +0200" channel="RaiGulp.it">
-    <title lang="it">La banda della natura - S1E8 - L'uccellino ferito</title>
-    <desc lang="it">La banda di Spilunga salva un uccellino con l'aiuto di Samson. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <episode-num system="xmltv_ns">0 . 7 . </episode-num>
-  </programme>
-  <programme start="20260727093500 +0200" stop="20260727094500 +0200" channel="RaiGulp.it">
-    <title lang="it">Food Wizards - S1E11 - Vichinghi al limone</title>
-    <desc lang="it">Gunnar, il cugino svedese di PC, arriva in Italia e s'innamora... del panettone! Ma a forza di deliziose fette, il suo fegato diventa un campo di battaglia in stile vichingo, dove i nostri Food Wizards affronteranno Toxins particolarmente... barbarici! - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <episode-num system="xmltv_ns">0 . 10 . </episode-num>
-  </programme>
-  <programme start="20260727094500 +0200" stop="20260727100000 +0200" channel="RaiGulp.it">
-    <title lang="it">Food Wizards - S1E12 - Un pricipesso per Ginny</title>
-    <desc lang="it">Alla recita di classe, Ginny interpreta la principessa azzurra! Tutto bene? Non per Ham: Jack, il bello della scuola, sarà il... principesso da risvegliare con un bacio... di Ginny! Ham fa una pessima scelta: per rimettere le cose a posto ci vorranno un viaggio tra gli zuccheri e... Nonno Essen nell'inedita veste di attore! - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <episode-num system="xmltv_ns">0 . 11 . </episode-num>
   </programme>
   <programme start="20260727100000 +0200" stop="20260727101000 +0200" channel="RaiGulp.it">
     <title lang="it">Mortina - S1E25 - Il compleanno di Mesto</title>
@@ -27123,36 +25525,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <desc lang="it">CARTONI ANIMATI - Vuoi fare un gioco superdivertente, senza regole o quasi? E in cui puoi usare tutto quello che ti piace: trucchi ninja, clave primitive, o robot telecomandati? Lo Spike Ball è lo sport che fa per te! Non - lo conosci? Beh, è stato appena inventato da Nino, Viola e Lj - Wang insieme al loro smart coach, Lucky! - di Marco Storani 2019 ITA - -</desc>
     <category lang="it" />
   </programme>
-  <programme start="20260727020000 +0200" stop="20260727040500 +0200" channel="RaiMovie.it">
-    <title lang="it">Il treno</title>
-    <desc lang="it">Durante l'occupazione nazista della Francia, un treno trasporta opere d'arte trafugate dai musei di Parigi. Il comandante tedesco è un esteta, mentre il macchinista, capo della Resistenza, ostacola il viaggio e devia il treno. Sceneggiatura candidata all'Oscar 1966. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727040500 +0200" stop="20260727043000 +0200" channel="RaiMovie.it">
-    <title lang="it">Stanlio e Ollio - La bugia</title>
-    <desc lang="it">Stanlio e Ollio sono in partenza per le vacanze insieme alle rispettive mogli ma, ricevuto un invito per un party tra amici, si inventano mille scuse per rimanere soli in città. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727043000 +0200" stop="20260727050000 +0200" channel="RaiMovie.it">
-    <title lang="it">Stanlio e Ollio - Tempo di pic nic</title>
-    <desc lang="it">Stanlio e Ollio, con le loro mogli ed il brontolone zio Edgardo, decidono di andare a fare un pic - nic, ma scoprono presto che la giornata è irta di ostacoli. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727050000 +0200" stop="20260727064000 +0200" channel="RaiMovie.it">
-    <title lang="it">Trinità e Sartana figli di...</title>
-    <desc lang="it">Sartana e Trinità, ladri gentiluomini che perdono sempre il bottino, arrivano a Quintana. Qui devono difendere i contadini dalle mire del prepotente Barton e affrontare il bandito El Tigre, a cui sottraggono due milioni in oro. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727064000 +0200" stop="20260727082500 +0200" channel="RaiMovie.it">
-    <title lang="it">Gli uomini dal passo pesante</title>
-    <desc lang="it">Dopo la guerra civile un ricco allevatore texano boicotta i nordisti vincitori. Uno dei figli gli si oppone scatenando ancora di più l'ira paterna. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727082500 +0200" stop="20260727083000 +0200" channel="RaiMovie.it">
-    <title lang="it">Anica - Appuntamento al cinema</title>
-    <desc lang="it">RUBRICA - Rubrica per la promozione della cultura cinematografica in Italia.. - 2026 ITA - -</desc>
-    <category lang="it" />
-  </programme>
   <programme start="20260727083000 +0200" stop="20260727101500 +0200" channel="RaiMovie.it">
     <title lang="it">Totò, Vittorio e la dottoressa</title>
     <desc lang="it">Due investigatori improvvisati devono indagare sulla fedeltà coniugale di una dottoressa americana sposata con un avvocato napoletano. - -</desc>
@@ -27542,72 +25914,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <title lang="it">9 Settimane e ½</title>
     <desc lang="it">La bella gallerista Elizabeth si invaghisce dell'affascinante e ambiguo agente di borsa John, che la trascina in un vortice di esperienze sessuali proibite. Di fronte a richieste sempre più ardite e perverse, la donna inizierà a dubitare del loro rapporto. - -</desc>
     <category lang="it" />
-  </programme>
-  <programme start="20260727035000 +0200" stop="20260727044000 +0200" channel="RaiPremium.it">
-    <title lang="it">Piccolo assassino</title>
-    <desc lang="it">La vicenda di una giovane coppia terrorizzata dal figlio appena nato si apre a fantasie distopiche e a riflessioni antropologiche. Tratto da un racconto di Ray Bradbury. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727044000 +0200" stop="20260727050000 +0200" channel="RaiPremium.it">
-    <title lang="it">Piloti</title>
-    <desc lang="it">Max Tortora e Enrico Bertolino sono i due piloti della "Piccione Airlines" nella nuova sitcom ambientata in un aereo in volo. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727050000 +0200" stop="20260727053000 +0200" channel="RaiPremium.it">
-    <title lang="it">Ricominciare S3E45</title>
-    <desc lang="it">I Vallesi sono una ricca e potente famiglia proprietaria di una prestigiosa casa editrice perugina, mentre i Ruggeri sono una famiglia molto meno abbiente il cui destino però s'intreccia a quello dei Vallesi. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S3 E45</episode-num>
-    <episode-num system="xmltv_ns">2 . 44 . </episode-num>
-  </programme>
-  <programme start="20260727053000 +0200" stop="20260727055500 +0200" channel="RaiPremium.it">
-    <title lang="it">Incantesimo - S9E1</title>
-    <desc lang="it">Le appassionanti storie dei medici, infermieri ed avvocati che lavorano nella 'Clinica Life'. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S9 E1</episode-num>
-    <episode-num system="xmltv_ns">8 . 0 . </episode-num>
-  </programme>
-  <programme start="20260727055500 +0200" stop="20260727062000 +0200" channel="RaiPremium.it">
-    <title lang="it">Incantesimo - S9E2</title>
-    <desc lang="it">Le appassionanti storie dei medici, infermieri ed avvocati che lavorano nella 'Clinica Life'. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S9 E2</episode-num>
-    <episode-num system="xmltv_ns">8 . 1 . </episode-num>
-  </programme>
-  <programme start="20260727062000 +0200" stop="20260727064500 +0200" channel="RaiPremium.it">
-    <title lang="it">Incantesimo - S9E3</title>
-    <desc lang="it">Le appassionanti storie dei medici, infermieri ed avvocati che lavorano nella 'Clinica Life'. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S9 E3</episode-num>
-    <episode-num system="xmltv_ns">8 . 2 . </episode-num>
-  </programme>
-  <programme start="20260727064500 +0200" stop="20260727071000 +0200" channel="RaiPremium.it">
-    <title lang="it">Incantesimo - S9E4</title>
-    <desc lang="it">Le appassionanti storie dei medici, infermieri ed avvocati che lavorano nella 'Clinica Life'. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S9 E4</episode-num>
-    <episode-num system="xmltv_ns">8 . 3 . </episode-num>
-  </programme>
-  <programme start="20260727071000 +0200" stop="20260727084500 +0200" channel="RaiPremium.it">
-    <title lang="it">Un caso di coscienza - S3E1 - False apparenze</title>
-    <desc lang="it">Un delitto eccellente scuote la città di Trieste: il corpo di Margi, una bellissima modella, viene trovato nel laghetto del circolo del golf. Rocco, che è appena diventato padre di una bambina, accetta di difendere la sorella della vittima e con Alice e Virgilio inizia ad indagare sul caso. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <episode-num system="xmltv_ns">2 . 0 . </episode-num>
-  </programme>
-  <programme start="20260727084500 +0200" stop="20260727091000 +0200" channel="RaiPremium.it">
-    <title lang="it">Un posto al sole - Puntata del 29/05/2026 EP6960</title>
-    <desc lang="it">Dopo aver letto un messaggio di Vanni, Raffaele, geloso, litiga con la moglie, e la tensione nella coppia esplode. Rosa dovrà stare molto attenta a non fare più assenze alla scuola serale, per non perdere l'anno. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S30 E6960</episode-num>
-    <episode-num system="xmltv_ns">29 . 6959 . </episode-num>
-  </programme>
-  <programme start="20260727091000 +0200" stop="20260727093500 +0200" channel="RaiPremium.it">
-    <title lang="it">Un posto al sole - Puntata del 01/06/2026 EP6961</title>
-    <desc lang="it">Alberto confida a Niko che sta pensando di andare a cercare Anna nel casale di campagna di sua madre, mentre Gianluca rischia di scoprire la relazione tra il padre e la ragazza. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S30 E6961</episode-num>
-    <episode-num system="xmltv_ns">29 . 6960 . </episode-num>
   </programme>
   <programme start="20260727093500 +0200" stop="20260727111000 +0200" channel="RaiPremium.it">
     <title lang="it">Provaci ancora prof! S5E4 - L'ultima telefonata</title>
@@ -28526,61 +26832,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <category lang="it" />
     <episode-num system="onscreen">S1 E1</episode-num>
     <episode-num system="xmltv_ns">0 . 0 . </episode-num>
-  </programme>
-  <programme start="20260727034000 +0200" stop="20260727041000 +0200" channel="RaiScuola.it">
-    <title lang="it">Un giorno per: la donazione del sangue</title>
-    <desc lang="it">Questa giornata ha lo scopo di accrescere il numero dei donatori e di aumentare nell'opinione pubblica la consapevolezza dell'importanza di questo semplice ma preziosissimo gesto. Ma come si dona il sangue, - perché è cosi' importante farlo e soprattutto a cosa serve quest'atto di generosità? Lo possono fare tutti e dove? E' facile, sicuro? Cosa accade una volta che il sangue è stato donato, come viene trattato e a chi serve? - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727041000 +0200" stop="20260727044000 +0200" channel="RaiScuola.it">
-    <title lang="it">Memex I luoghi della scienza - Puntata 2</title>
-    <desc lang="it">Memex I luoghi della scienza - Puntata 22: Trapani - I luoghi della scienza è il diario di un viaggio attraverso l'Italia della ricerca. La conduttrice Chiara Buratti ci porta ad esplorare i centri di rice - rca del Paese, incontrando i protagonisti e raccontando il rapporto tra territorio e scienza: un rapporto profondo, che affonda le sue radici nelle caratteristiche naturali, storiche e culturali di ogni luogo. Questa puntata è dedicata al territorio di Trapani, estrema provincia occidentale della Sicilia particolarmente ricca di suggestioni paesaggistiche e culturali. Al vecchio borgo di Erice, in cima alla montagna che domina il capoluogo, incontreremo Antonino Zichichi e racconteremo la straordinaria storia del Centro Ettore Majorana. Tornando a valle, scopriremo le caratteristiche uniche dell'habitat naturale delle Saline, area tutelata dove si fa anche tanta ricerca. Visiteremo poi l'area marina protetta più grande del Mediterraneo, quella delle Egadi. E a Capo Granitola entreremo in una antica tonnara trasformata in un grande centro di ricerca del CNR, all'avanguardia nelle scienze del mare. - Un programma di Diego Garbati, Francesco Linguiti, Pino Roggero - a cura di Francesca Maria Pinto - testi di Massimo Bongiorno - regia di Silvia Di Fonso - conduce Chiara Buratti - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727044000 +0200" stop="20260727052000 +0200" channel="RaiScuola.it">
-    <title lang="it">Memex Nautilus - Le regole della Meteoro</title>
-    <desc lang="it">Memex Nautilus - Le regole della Meteorologia - Nautilus è il programma di informazione e approfondimento scientifico di Rai Cultura. Con l'astrofisico e divulgatore Luca Perri andiamo alla scoperta del mo - ndo che ci circonda e delle sue regole. Il tema di questa puntata è la Meteorologia (da non confondere con la Climatologia!). Due gli ospiti in studio: il professor Roberto Buizza, appena arrivato alla scuola superiore Sant'Anna di Pisa dopo quasi 30 anni di lavoro in uno dei centri di ricerca di eccellenza mondiale in questo settore: l'European Centre for Medium Range Weather Forecasts (ECMWF) di Reading, nel Regno Unito; e il dottor Carlo Cacciamani, meteorologo a capo del Centro Funzionale Centrale della Protezione Civile. Con Luca Mercalli, presidente della Società Italiana di Meteorologia, entriamo all'interno di una delle più antiche stazioni meteo del mondo, ancora oggi in funzione a Moncalieri, a due passi da Torino. Mentre il meteorologo Pascal Gilles, alla sede italiana dell'Agenzia Spaziale Europea (l'ESRIN di Frascati) ci spiega i segreti dei satelliti meteorologici e dell'osservazione della Terra dallo spazio. Anna Pancaldi, infine, ci tiene per mano in un viaggio attraverso la preistoria della meteorologia e ci racconta poi la storia di John Neumann e del primo 'supercomputer' che permise negli anni '50 l'emissione regolare dei primi bollettini meteo negli Stati Uniti. - un programma di Diego Garbati e Francesco Linguiti - con la collaborazione di Catia Barone, Massimo Bongiorno, Davide Coero Borga, Federica De Maria, Daniela Mazzoli, Pierluigi Pantini, Luca Perri, Nicoletta Piu, Pino Roggero - a cura di Eleonora Ottaviani - produttore esecutivo Livia Lauriola - progetto a cura di Diego Garbati - regia Pierluigi Pantini - conduce Luca Perri con la partecipazione di Anna Pancaldi - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727052000 +0200" stop="20260727053000 +0200" channel="RaiScuola.it">
-    <title lang="it">Gocce - ep. 35</title>
-    <desc lang="it">Medicine nanotecnologiche - Lo studio degli tsunami - Il siero Bonifacio. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727053000 +0200" stop="20260727060000 +0200" channel="RaiScuola.it">
-    <title lang="it">Progetto Scienza Newton (pt. 29) ll ciel</title>
-    <desc lang="it">Progetto Scienza Newton (pt. 29) ll cielo, dalla media all'alta atmosfera - Newton è il programma di informazione e approfondimento scientifico di Rai Cultura. In questa puntata Davide Coero Borga ospita F - rancesco Cairo, scienziato dell'atmosfera, ricercatore dell'Istituto di Scienze dell'Atmosfera e del Clima (ISAC - CNR) per parlare di media e alta atmosfera. Ci sono alcuni strati atmosferici che destano molto interesse tra gli scienziati come la stratosfera, che ospita lo strato di ozono. Con Francesco Cairo capiamo qual è lo stato di salute della nostra atmosfera e quali sono le connessioni tra clima e atmosfera. Seguendo un team dell'Esa alle isole Svalbard, nel Mar Glaciale Artico, vediamo come e dove viene studiato il fenomeno della fuga atmosferica dai poli terrestri. Infine, Pietro Greco ci racconta di quando per poco un gruppo di fisici non ha incendiato in un colpo solo l'intera atmosfera terrestre. - Un programma di Diego Garbati, Francesco Linguiti, Pino Roggero, Davide Coero Borga con la collaborazione di Massimo Bongiorno, Federica De Maria, Mario Ferrari, Pierluigi Pantini, Alberto Polimanti, Nicoletta Piu, Giancarlo Russo a cura di Eleonora Ottaviani, Caterina Mazzuoli progetto a cura di Diego Garbati regia Alberto Polimanti conduce Davide Coero Borga. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727065000 +0200" channel="RaiScuola.it">
-    <title lang="it">Grandi migrazioni, un'avventura straordi</title>
-    <desc lang="it">Grandi migrazioni, un'avventura straordinaria Ep. 3 - Zebre - Sfidando la brutale natura selvaggia del Botswana, seguiamo le zebre nella migrazione terrestre più lunga d'Africa. Migliaia di zebre affrontan - o leoni, siccità e fame per raggiungere le ricche praterie del Parco Nazionale Nxai Pan. Questo episodio rivela i segreti dietro questa migrazione scoperta solo di recente. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727065000 +0200" stop="20260727070500 +0200" channel="RaiScuola.it">
-    <title lang="it">Gocce - ep. 17</title>
-    <desc lang="it">Quando l'Etna ancora non c'era - La robotica Indossabile che parla di noi - Migliorare la tecnica del CRISPR - Cas9 - La confusione sessuale vibrazionale. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727070500 +0200" stop="20260727075500 +0200" channel="RaiScuola.it">
-    <title lang="it">Digital world 2024 pt 2 - Tecnofemminism</title>
-    <desc lang="it">Digital world 2024 pt 2 - Tecnofemminismo - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727075500 +0200" stop="20260727082500 +0200" channel="RaiScuola.it">
-    <title lang="it">Un giorno per: le persone con disabilità</title>
-    <desc lang="it">L' obiettivo principale di questa giornata è promuovere i diritti e il benessere delle persone con disabilità in tutte le aree della società e dello sviluppo, oltre a sensibilizzare l'opinione pubblica sul - le sfide quotidiane che queste persone affrontano. La disabilità è una realtà complessa che coinvolge una vasta gamma di condizioni fisiche, mentali, sensoriali e cognitive. Non si tratta solo di limitazioni individuali, ma di come la società costruisce barriere, fisiche e culturali, che possono ostacolare la piena partecipazione e integrazione. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727082500 +0200" stop="20260727090000 +0200" channel="RaiScuola.it">
-    <title lang="it">Memex Nautilus - Attratti dalla Luna</title>
-    <desc lang="it">Nautilus è il programma di informazione e approfondimento scientifico di Rai Cultura. Con l'astrofisico e divulgatore Luca Perri andiamo alla scoperta del mondo che ci circonda e delle sue regole. Il tema di q - uesta puntata è l'Astro d'argento, l'unico satellite naturale del pianeta Terra, oggetto di culto e adorazione fin dalla notte dei tempi e oggi più che mai al centro dei piani strategici delle agenzie spaziali più importanti: la Luna. A tenerci per mano in questo 'viaggio' sono due donne: la planetologa dell'Inaf Maria Cristina de Sanctis e la responsabile dell'Unità Esplorazione e Osservazione dell'Universo dell'Agenzia Spaziale Italiana, Barbara Negri. Al Dipartimento di Scienze e Tecnologie Aerospaziali del Politecnico di Milano, scopriamo poi con la professoressa Michéle Lavagna alcune delle meraviglie tecnologiche (sonde e lander) che si stanno sviluppando in Italia per le prossime missioni sulla Luna. Anna Pancaldi ci racconta invece la storia di un piccolo libro (appena 56 pagine) che ha segnato una svolta epocale nella nostra storia: il 'Siderus Nuncius' di Galileo Galilei. Ci svela anche alcuni curiosi retroscena della famosissima frase pronunciata da Neil Armstrong, appena messo piede sulla Luna: Un piccolo passo per un uomo, un grande passo per l'umanità. - un programma di Diego Garbati e Francesco Linguiti - con la collaborazione di Massimo Bongiorno, Davide Coero Borga, Federica De Maria, Daniela Mazzoli, Pierluigi Pantini, Luca Perri, Nicoletta Piu, Pino Roggero - a cura di Eleonora Ottaviani - produttore esecutivo Livia Lauriola - progetto a cura di Diego Garbati - regia Pierluigi Pantini - conduce Luca Perri con la partecipazione di Anna Pancaldi - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727090000 +0200" stop="20260727095500 +0200" channel="RaiScuola.it">
-    <title lang="it">Le meraviglie del Pianeta Ep. 1 - Territ</title>
-    <desc lang="it">Le meraviglie del Pianeta Ep. 1 - Territori estremi - Le meraviglie naturali sono spesso aspre, ma di una bellezza maestosa. I fattori che creano questi paesaggi mozzafiato possono anche presentare enormi - sfide per le persone che li abitano. Eppure, gli esseri umani hanno escogitato modi straordinari per sopravvivere e persino prosperare in molti di questi luoghi. Ora queste meraviglie naturali stanno subendo ogni sorta di cambiamento e anche le tecniche di sopravvivenza umana devono evolversi. - -</desc>
-    <category lang="it" />
   </programme>
   <programme start="20260727095500 +0200" stop="20260727102500 +0200" channel="RaiScuola.it">
     <title lang="it">Memex Vita da Ricercatore: Alberto Diasp</title>
@@ -29516,17 +27767,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <desc lang="it">Progetto Scienza 2024 Racconti di Scienza - Missione Artico - L'Oceano Artico è uno degli ecosistemi più vulnerabili ai cambiamenti climatici. L'aumento medio delle temperature è maggiore rispetto al resto - del pianeta e ne influenza il clima incrementando l'intensità degli eventi meteorologici estremi. Monitorare e studiare le masse d¿acqua dell'Oceano Artico è quindi fondamentale per poter affrontare il cambiamento climatico a livello globale. Dal 30 giugno al 12 luglio 2024 la nave oceanografica "Alliance", di proprietà della NATO, è stata operativa nello stretto di Fram e nel Mar di Norvegia settentrionale, per condurre la campagna ACO24, "Arctic Climate Observatory". A bordo della nave i militari della Marina Militare Italiana, i ricercatori del Consiglio Nazionale delle Ricerche, dell'Istituto Nazionale di Oceanografia e di Geofisica Sperimentale e del Centre for Maritime Research and Experimentation (CMRE) ci raccontano la vita a bordo, i metodi e i risultati della spedizione scientifica. "Alliance", che dal 2017 effettua ogni anno una spedizione in Artide per studiare il clima nell'Oceano Artico, è tra le navi da ricerca più silenziose al mondo ed è gestita dalla Marina Militare italiana, mentre il CMRE è l'unico centro di ricerca e sperimentazione marittima della Nato e ha sede da oltre 60 anni a La Spezia, all'interno della base della Marina Militare Italiana. Storicamente il centro viene collocato in questa realtà per occuparsi di acustica nell'oceano, ma dagli anni `90 ha cominciato a fare ricerca anche nell'ambito di discipline più ampie, come lo studio del clima del pianeta. - -</desc>
     <category lang="it" />
   </programme>
-  <programme start="20260727023000 +0200" stop="20260727060000 +0200" channel="RaiSport.it">
-    <title lang="it">Atletica leggera - Campionati Italiani Assoluti 2026: 2a giornata</title>
-    <desc lang="it">Atletica leggera - Campionati Italiani Assoluti: 2a giornata - -</desc>
-    <category lang="it" />
-    <episode-num system="xmltv_ns">2025 .  . </episode-num>
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727064500 +0200" channel="RaiSport.it">
-    <title lang="it">Ciclismo: Tour de France 2026 - ReTour</title>
-    <desc lang="it">Ciclismo: Tour de France 2026 - ReTour - -</desc>
-    <category lang="it" />
-  </programme>
   <programme start="20260727064500 +0200" stop="20260727103000 +0200" channel="RaiSport.it">
     <title lang="it">Atletica leggera - Campionati Italiani Assoluti 2026: 2a giornata</title>
     <desc lang="it">Atletica leggera - Campionati Italiani Assoluti: 2a giornata - -</desc>
@@ -29901,66 +28141,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <title lang="it">Atletica Leggera: Camp. Italiani Firenze: 2a Giornata</title>
     <desc lang="it">Atletica Leggera: Camp. Italiani Firenze: 2a Giornata - -</desc>
     <category lang="it" />
-  </programme>
-  <programme start="20260727030500 +0200" stop="20260727040000 +0200" channel="RaiStoria.it">
-    <title lang="it">La storia sotto inchiesta.Fuga da Lipari</title>
-    <desc lang="it">La storia sotto inchiesta.Fuga da Lipari, un esilio per la libertà - La storia delle leggi sul confino di polizia nel ventennio fascista e in particolare dei confinati sull' isola di Lipari dove per 500 co - nfinati vi erano 500 sorveglianti; ripercorre fuga dei confinati ex deputato Emilio Lussu, professore Carlo Rosselli e Francesco Fausto Nitti del 1929 che furono confinati per attività politica contro il regime fascista. - (1966) Di L.Castellani Regia di M.Leto - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727031500 +0200" stop="20260727040500 +0200" channel="RaiStoria.it">
-    <title lang="it">Storia sotto inchiesta - Fuga da Lipari. Un esilio per la libertà</title>
-    <desc lang="it">La storia delle leggi sul confino di polizia nel ventennio fascista e in particolare dei confinati sull'isola di Lipari dove per 500 confinati vi erano 500 sorveglianti. Viene ripercorsa la fuga dei confinati ex deputato Emilio Lussu, professore Carlo Rosselli e Francesco Fausto Nitti del 1929 che furono confinati per attività politica contro il regime fascista. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727040000 +0200" stop="20260727042500 +0200" channel="RaiStoria.it">
-    <title lang="it">Eventi - Giuseppe De Rita, l'Osservatore permanente</title>
-    <desc lang="it">Giorgio Zanchini incontra il sociologo Giuseppe De Rita, fondatore del CENSIS (Centro Studi Investimenti Sociali), in occasione del suo 90esimo compleanno. Un gioco di specchi con un'altra intervista che De Rita rilasciò nel 1982 ad Arrigo Levi e alla Rai. L'omaggio vuole riprendere i temi trattati in quell'intervista per capire come si sono evoluti in questi decenni e immaginare i loro futuri sviluppi. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727042500 +0200" stop="20260727045000 +0200" channel="RaiStoria.it">
-    <title lang="it">Restore - Ricette Q.B. - Pt.6</title>
-    <desc lang="it">Le ricette della tradizione della cucina italiana, raccolte dai documentari e dalle rubriche che la Rai ha dedicato alla gastronomia dagli anni '50 agli anni '80: "Alla ricerca dei cibi genuini" (1957) di Mario Soldati; "Linea contro linea" (1967/68) a cura di Giulio Macchi; "A tavola alle sette" (1974/76), con Ave Ninchi; "Menù di stagione" (1980/81) e i consigli di Vincenzo Bonassisi per "Almanacco del giorno dopo" (1979/1988). - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S0 E6</episode-num>
-    <episode-num system="xmltv_ns"> . 5 . </episode-num>
-  </programme>
-  <programme start="20260727045000 +0200" stop="20260727054000 +0200" channel="RaiStoria.it">
-    <title lang="it">C'è musica e musica - Non tanto per cantare</title>
-    <desc lang="it">Dall'etnografia al folk, dalla musica di protesta alla musica di consumo, in questa puntata si affronta il canto "popolare" nelle sue più affascinanti declinazioni. Intervengono, tra gli altri, gli etnomusicologi Alan Lomax, Diego Carpitella e Klaus Wachsmann. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727054000 +0200" stop="20260727060000 +0200" channel="RaiStoria.it">
-    <title lang="it">Il giorno e la storia</title>
-    <desc lang="it">Persone, eventi e ricorrenze del 27 luglio 2026. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727064000 +0200" channel="RaiStoria.it">
-    <title lang="it">Passato e Presente - La repubblica napoletana - 12/11/2018</title>
-    <desc lang="it">Con la discesa in Italia delle armate francesi guidate dal generale Bonaparte nel 1798 nascono delle repubbliche sorelle di quella francese, le repubbliche "giacobine". I francesi scendono fino a Napoli. Il re Borbone Ferdinando IV fugge a Palermo. La città insorge, e anche a Napoli viene proclamata la repubblica. La guidano borghesi progressisti, aristocratici illuminati, professori e studenti, il meglio della società meridionale che porta avanti le idee di libertà e uguaglianza promosse dalla Rivoluzione francese. I giacobini cercano di intervenire sugli atavici problemi sociali del meridione, ma non riescono a conquistare la plebe napoletana, i cosiddetti lazzari, che restano affezionati al re Borbone. E quando il cardinale Fabrizio Ruffo costituisce un'armata di contadini e briganti per riconquistare Napoli per conto dei Borbone, l'armata sanfedista, i lazzari lo appoggiano, si rivoltano contro i giacobini e riprendono il controllo della città. La vendetta dei Borbone è tremenda: i giacobini vengono giustiziati uno dopo l'atro. È il trionfo della restaurazione. È un momento fondamentale per le sorti del nostro Meridione. Con il professor Lucio Villari conosceremo la drammatica storia della repubblica napoletana. - -</desc>
-    <category lang="it" />
-    <episode-num system="xmltv_ns">2017 .  . </episode-num>
-  </programme>
-  <programme start="20260727064000 +0200" stop="20260727073000 +0200" channel="RaiStoria.it">
-    <title lang="it">Hong Kong, Ga Yau</title>
-    <desc lang="it">Attraverso immagini delle dimostrazioni e audio interviste, Hong Kong Ga Yau, racconta una storia di protesta popolare, il tentativo di resistere alla crescente influenza della Cina continentale nella vita di Hong Kong. L'ex colonia britannica, formalmente provincia semi autonoma, si confronta, anno dopo anno, con un sistema sempre più invasivo, fondato su ridotte libertà individuali e diritti civili. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727073000 +0200" stop="20260727083000 +0200" channel="RaiStoria.it">
-    <title lang="it">Italiani - Pionieri della televisione, Sergio Pugliese e Vittorio Veltroni</title>
-    <desc lang="it">Uno era un piemontese austero e facile alle arrabbiature, l'altro un romano affabile, simpatico, grande animatore di gruppi. Insieme fecero la storia della televisione italiana, "accendendola" nel 1954. Sono Sergio Pugliese e Vittorio Veltroni. Un doppio ritratto, intrecciato, e firmato da Enrico Salvatori: Pugliese, commediografo di una certa fama negli anni trenta, a della prosa radiofonica negli anni della guerra e del dopoguerra, nel 1952 viene nominato Direttore dell'Esercizio TV, che imposta la linea editoriale del nuovo mezzo; Vittorio Veltroni è il giovane responsabile delle radiocronache Rai - l'approfondimento del popolarissimo Giornale Radio - quando il 1 luglio 1953 viene chiamato ad dirigere il Telegiornale, in vista dell'avvio ufficiale delle trasmissioni. E' una storia che si intreccia con gli anni della guerra e della ricostruzione, con i nomi che hanno segnato un'epoca, con innovazioni tecnologiche ed editoriali. La puntata è arricchita da autorevoli testimonianze: Walter Veltroni, figlio minore di Vittorio; Valerio Veltroni, figlio maggiore di Vittorio e fratello di Walter; Sergio Zavoli, presidente Rai dal 1980 al 1986, unanimemente considerato il più importante giornalista della radiotelevisione; Furio Colombo, vincitore del concorso Rai del 1954; Emilio Ravel, giornalista Rai dal 1953; Vito Molinari: regista di varietà dal 1953; Claudio Ferretti, giornalista Rai e figlio di Mario, collega e amico personale di Vittorio Veltroni; Gianfranco Bettetini, regista televisivo e massmediologo, vincitore del Concorso del 1955; Franca Rosso Vitale, cugina di Sergio Pugliese, di cui conserva memorie personali e documentazione privata. Insieme a loro, gli storici e gli studiosi Franco Monteleone, Giorgio Simonelli, Maria Grazia Bruzzone, Luca Barra. - -</desc>
-    <category lang="it" />
-    <episode-num system="xmltv_ns">2017 .  . </episode-num>
-  </programme>
-  <programme start="20260727083000 +0200" stop="20260727085500 +0200" channel="RaiStoria.it">
-    <title lang="it">Il giorno e la storia</title>
-    <desc lang="it">Persone, eventi e ricorrenze del 27 luglio 2026. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727085500 +0200" stop="20260727093500 +0200" channel="RaiStoria.it">
-    <title lang="it">Passato e Presente - La repubblica napoletana - 12/11/2018</title>
-    <desc lang="it">Con la discesa in Italia delle armate francesi guidate dal generale Bonaparte nel 1798 nascono delle repubbliche sorelle di quella francese, le repubbliche "giacobine". I francesi scendono fino a Napoli. Il re Borbone Ferdinando IV fugge a Palermo. La città insorge, e anche a Napoli viene proclamata la repubblica. La guidano borghesi progressisti, aristocratici illuminati, professori e studenti, il meglio della società meridionale che porta avanti le idee di libertà e uguaglianza promosse dalla Rivoluzione francese. I giacobini cercano di intervenire sugli atavici problemi sociali del meridione, ma non riescono a conquistare la plebe napoletana, i cosiddetti lazzari, che restano affezionati al re Borbone. E quando il cardinale Fabrizio Ruffo costituisce un'armata di contadini e briganti per riconquistare Napoli per conto dei Borbone, l'armata sanfedista, i lazzari lo appoggiano, si rivoltano contro i giacobini e riprendono il controllo della città. La vendetta dei Borbone è tremenda: i giacobini vengono giustiziati uno dopo l'atro. È il trionfo della restaurazione. È un momento fondamentale per le sorti del nostro Meridione. Con il professor Lucio Villari conosceremo la drammatica storia della repubblica napoletana. - -</desc>
-    <category lang="it" />
-    <episode-num system="xmltv_ns">2017 .  . </episode-num>
   </programme>
   <programme start="20260727093500 +0200" stop="20260727110500 +0200" channel="RaiStoria.it">
     <title lang="it">L'onorevole Angelina</title>
@@ -31140,300 +29320,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <title lang="it">Arrivederci Saigon</title>
     <desc lang="it">Un giorno del 1968 cinque ragazze italiane, quattro delle quali minorenni, salirono su un aereo che le avrebbe portate in Estremo Oriente, convinte di imbarcarsi nella tournèe del secolo fra Hong Kong, le Filippine e il Giappone. Così Le Stars, uno dei rari gruppi femminili italiani dell'epoca, si ritrovarono catapultate nel Vietnam del Sud, "arruolate" per esibirsi di fronte alle truppe americane. - -</desc>
     <category lang="it" />
-  </programme>
-  <programme start="20260727035000 +0200" stop="20260727040000 +0200" channel="RaiYoyo.it">
-    <title lang="it">PJ Masks - Power Heroes - S6E38 - La Romeovisione</title>
-    <desc lang="it">Ai nostri beniamini super power Gattoboy, Gufetta e Geco si uniscono nuovi eroi, creando così una squadra più forte che affronta nuovi nemici in città, nello spazio e nel mondo dei ghiacci. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S6 E38</episode-num>
-    <episode-num system="xmltv_ns">5 . 37 . </episode-num>
-  </programme>
-  <programme start="20260727040000 +0200" stop="20260727041500 +0200" channel="RaiYoyo.it">
-    <title lang="it">PJ Masks - Power Heroes - S6E39 - Falenaboy</title>
-    <desc lang="it">Ai nostri beniamini super power Gattoboy, Gufetta e Geco si uniscono nuovi eroi, creando così una squadra più forte che affronta nuovi nemici in città, nello spazio e nel mondo dei ghiacci. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S6 E39</episode-num>
-    <episode-num system="xmltv_ns">5 . 38 . </episode-num>
-  </programme>
-  <programme start="20260727041500 +0200" stop="20260727042500 +0200" channel="RaiYoyo.it">
-    <title lang="it">PJ Masks - Power Heroes - S6E40 - Armadylan e il gemello cattivo</title>
-    <desc lang="it">Ai nostri beniamini super power Gattoboy, Gufetta e Geco si uniscono nuovi eroi, creando così una squadra più forte che affronta nuovi nemici in città, nello spazio e nel mondo dei ghiacci. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S6 E40</episode-num>
-    <episode-num system="xmltv_ns">5 . 39 . </episode-num>
-  </programme>
-  <programme start="20260727042500 +0200" stop="20260727043500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Pirata e capitano - S1E13 - Un pacco per Pulpililla</title>
-    <desc lang="it">Oggi Capitano ha molti pacchi da consegnare, incluso uno contenente i fuochi d'artificio per la festa di Pulpililla di quella stessa sera. Pirata si offre di consegnare il pacco di Pulpililla, perfino scommettando con Capitano che arriverà a destinazione prima di lui. Ma quando una serie di battute d'arresto la mettono in ritardo coi tempi, Pirata decide di prendere una rischiosa scorciatoia attraverso una terrificante e burrascosa rotta. Quando il Teschio Rosa finisce nei guai, l'equipaggio è obbligato a far esplodere i fuochi d'artificio come segnale di soccorso... - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <episode-num system="xmltv_ns">0 . 12 . </episode-num>
-  </programme>
-  <programme start="20260727043500 +0200" stop="20260727044500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Pirata e capitano - S1E14 - Al ladro!</title>
-    <desc lang="it">Un ladro si intrufola a bordo del Teschio Rosae ruba un pacco che Pirata e Capitano devono consegnare. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <episode-num system="xmltv_ns">0 . 13 . </episode-num>
-  </programme>
-  <programme start="20260727044500 +0200" stop="20260727050000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Pirata e capitano - S1E15 - La balena</title>
-    <desc lang="it">Trasportando Capitano e le Pirastelle, l'idrovolante viene inghiottito da una balena gigante! Dopo vari tentativi Pirata, il suo equipaggio e Ananas Bon Bon riescono a salvarli utilizzando un'informazione vitale che trovano sul Codice dei Pirati. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <episode-num system="xmltv_ns">0 . 14 . </episode-num>
-  </programme>
-  <programme start="20260727050000 +0200" stop="20260727050500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Shaun vita da pecora - S7E5 - Il campanello</title>
-    <desc lang="it">Dopo aver collaudato il suo nuovo campanello munito di telecamera il fattore realizza di essersi chiuso fuori casa. Bitzer interverrà per aiutarlo e impedire che scopra Timmy e Shaun giocare all'impazzata con un aquilone molesto. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S7 E5</episode-num>
-    <episode-num system="xmltv_ns">6 . 4 . </episode-num>
-  </programme>
-  <programme start="20260727050500 +0200" stop="20260727051000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Shaun vita da pecora - S7E6 - Sciame libero</title>
-    <desc lang="it">Il fattore si diletta come apicoltore estraendo miele dall'alveare. Dopo essersi sfilato la tuta protettiva, uno sciame di api se ne impossessa per dare ordini a Bitzer. Grazie all'intervento di Shaun le api saranno costrette a scappare via. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S7 E6</episode-num>
-    <episode-num system="xmltv_ns">6 . 5 . </episode-num>
-  </programme>
-  <programme start="20260727051000 +0200" stop="20260727052000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Shaun vita da pecora - S7E7 - Stile da stalla</title>
-    <desc lang="it">Shaun inciampa su una bomboletta di vernice rossa che colorandogli lo zoccolo la trasforma improvvisamente in un'icona di stile. In poco tempo il resto del gregge la vuole imitare ma quando gli outfit cominciano a farsi sempre più stravaganti Shaun si chiede se non sia meglio recuperare un po' di sobrietà. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S7 E7</episode-num>
-    <episode-num system="xmltv_ns">6 . 6 . </episode-num>
-  </programme>
-  <programme start="20260727052000 +0200" stop="20260727052500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Shaun vita da pecora - S7E8 - Balle in fuga</title>
-    <desc lang="it">Il fattore incarica Bitzer di fare delle balle di fieno ma le pecore affamate ci si sono nascoste dentro. Bitzer sorpreso da tutte queste balle mobili cerca di riportare ordine nel campo di fieno. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S7 E8</episode-num>
-    <episode-num system="xmltv_ns">6 . 7 . </episode-num>
-  </programme>
-  <programme start="20260727052500 +0200" stop="20260727053500 +0200" channel="RaiYoyo.it">
-    <title lang="it">I Ronfi - S1E17 - Tenersi in forma</title>
-    <desc lang="it">Panda è stufo della pigrizia dei Ronfi, e cerca di spingerli a fare un po' di moto. Nonostante i suoi sforzi, però, non può far altro che constatare che i Ronfi sono pessimi atleti. Per Lupo invece, quelle attività sportive all'aria aperta potrebbero essere una buona occasione... - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <episode-num system="xmltv_ns">0 . 16 . </episode-num>
-  </programme>
-  <programme start="20260727053500 +0200" stop="20260727054000 +0200" channel="RaiYoyo.it">
-    <title lang="it">I Ronfi - S1E18 - Babysitting</title>
-    <desc lang="it">I Ronfi trovano un cucciolo di castoro sperduto nel bosco e decidono di occuparsene, ma nonostante le buone intenzioni si rivelano subito pessimi babysitter. Per di più, Lupo sembra ingolosito da quel tenero, piccolo castoro... - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <episode-num system="xmltv_ns">0 . 17 . </episode-num>
-  </programme>
-  <programme start="20260727054000 +0200" stop="20260727055000 +0200" channel="RaiYoyo.it">
-    <title lang="it">I Ronfi - S1E19 - Go gong</title>
-    <desc lang="it">Panda tormenta i Ronfi con le sue lezioni di Tai - Chi. Due Ronfi e una Ronfetta, stufi del suo atteggiamento dispotico, decidono di nascondere il gong che Panda usa per svegliarli. Appena si accorge della scomparsa del gong, Panda si lancia alla ricerca dello strumento... - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E19</episode-num>
-    <episode-num system="xmltv_ns">0 . 18 . </episode-num>
-  </programme>
-  <programme start="20260727055000 +0200" stop="20260727060000 +0200" channel="RaiYoyo.it">
-    <title lang="it">I Ronfi - S1E20 - Dente perdente</title>
-    <desc lang="it">Durante un inseguimento, un Ronfo e Lupo si scontrano rovinosamente. Quando si riprendono, scoprono che a causa della botta si sono scambiati i denti. Accompagnati da Panda, cercano l'aiuto dei castori... - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <episode-num system="xmltv_ns">0 . 19 . </episode-num>
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727061000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Barbapapà – Una grande famiglia felice – S1E1 - L'albero dei Barbapapà</title>
-    <desc lang="it">La famiglia Barbapapà collabora insieme per salvare il grande albero, ridotto male a causa dell'inquinamento, sotto il quale sono nati. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <episode-num system="xmltv_ns">0 . 0 . </episode-num>
-  </programme>
-  <programme start="20260727061000 +0200" stop="20260727062000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Barbapapà – Una grande famiglia felice – S1E2 - Il compleanno dei Barbabebé</title>
-    <desc lang="it">È il giorno del compleanno dei barbabebé e i genitori organizzano una grande festa, ma devono imparare che i genitori non sono al servizio dei figli. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <episode-num system="xmltv_ns">0 . 1 . </episode-num>
-  </programme>
-  <programme start="20260727062000 +0200" stop="20260727063000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Barbapapà – Una grande famiglia felice – S1E3 - Bada - bam!</title>
-    <desc lang="it">Barbabravo capta una musica dolcissima proveniente da Marte. La famiglia decide di costruire un razzo per andare nello spazio a scoprire il mistero della melodia. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <episode-num system="xmltv_ns">0 . 2 . </episode-num>
-  </programme>
-  <programme start="20260727063000 +0200" stop="20260727063500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Pimpa - S1E15 - Il riccio Riccardo</title>
-    <desc lang="it">La Pimpa si reca a fare una passeggiata nel bosco e qui incontra il riccio Riccardo e i suoi figli che si lamentano perché nella loro casa c'è poco spazio e si pungono in continuazione. La Pimpa decide di correre in loro aiuto chiedendo al Picchio di bucare la parte superiore dell'albero in cui vivono così da creare maggior spazio. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <episode-num system="xmltv_ns">0 . 14 . </episode-num>
-  </programme>
-  <programme start="20260727063500 +0200" stop="20260727064000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Pimpa - S1E16 - La lucciola Lucia</title>
-    <desc lang="it">La Pimpa, rimasta sola in casa, fa colazione e si mette a dormire in attesa del rientro di Armando. Ma, arrivata la sera, Armando telefona alla Pimpa avvertendola che non riesce a tornare a casa perché ha i fari dell'auto rotti. La Pimpa decide di correre incontro ad Armando con la lucciola Lucia e le sue amiche che, illuminando la strada, riescono a consentirgli di tornare a casa. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <episode-num system="xmltv_ns">0 . 15 . </episode-num>
-  </programme>
-  <programme start="20260727064000 +0200" stop="20260727064500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Pimpa - S1E17 - Una gita nella giungla</title>
-    <desc lang="it">La Pimpa decide di andare a fare una gita nella giungla amazzonica usando l'idrovolante. Arrivata nella giungla, la Pimpa incontra alcuni animali strani tra cui un camaleonte, capace di nascondersi tra le piante assumendone il loro colore, ed un tucano che le regala un becco simile al suo. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E17</episode-num>
-    <episode-num system="xmltv_ns">0 . 16 . </episode-num>
-  </programme>
-  <programme start="20260727064500 +0200" stop="20260727065000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Pimpa - S1E18 - Una gita in Australia</title>
-    <desc lang="it">La Pimpa decide di andare in Australia usando la sua bicicletta. Arrivata al mare decide di gonfiare al massimo le ruote della sua bici per renderla adatta alla traversata. In Australia la Pimpa incontra un boomerang che le spiega come lanciarlo in aria e un canguro che le insegna come saltare. Ritornata a casa la Pimpa decide di giocare al canguro con Armando - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E18</episode-num>
-    <episode-num system="xmltv_ns">0 . 17 . </episode-num>
-  </programme>
-  <programme start="20260727065000 +0200" stop="20260727065500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Pimpa - S1E19 - Il piccolo Armando</title>
-    <desc lang="it">La Pimpa si lamenta perché Armando la obbliga a fare il bagno, a mangiare le carote e ad andare a letto presto ricordandole ogni volta che, quando lui era piccolo, faceva tutte queste cose molto volentieri. La Pimpa incuriosita chiede alla sua amica sveglia di mandare indietro il tempo per farle conoscere come era Armando da piccolo. Così la Pimpa scopre che il piccolo Armando non ama fare il bagno, odia le verdure e fa i capricci prima di andare a dormire - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E19</episode-num>
-    <episode-num system="xmltv_ns">0 . 18 . </episode-num>
-  </programme>
-  <programme start="20260727065500 +0200" stop="20260727070000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Pimpa - S1E20 - Le scarpe di Armando</title>
-    <desc lang="it">La Pimpa, personaggio creato dall'illustratore Altan, è un cagnolino dalle lunghe e larghe orecchie, tutto a macchie rosse, che interpreta le avventure e le scoperte del mondo infantile. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <episode-num system="xmltv_ns">0 . 19 . </episode-num>
-  </programme>
-  <programme start="20260727070000 +0200" stop="20260727071000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Bluey - S1E41 - Mamma e Papà</title>
-    <desc lang="it">Quando Indy e Rusty interpretano mamma e papà, non riescono a mettersi d'accordo su chi dovrebbe andare a lavorare, quindi si separano. Indy ha difficoltà a trovare una babysitter, mentre Bluey fa di Rusty il suo bambino - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E41</episode-num>
-    <episode-num system="xmltv_ns">0 . 40 . </episode-num>
-  </programme>
-  <programme start="20260727071000 +0200" stop="20260727071500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Bluey - S1E42 - Nascondino</title>
-    <desc lang="it">Bluey gioca a nascondino con Bingo, mamma e papa', ma viene presto distratta da un suo giocattolo, lasciando cosi' tutti bloccati nei loro nascondigli! - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E42</episode-num>
-    <episode-num system="xmltv_ns">0 . 41 . </episode-num>
-  </programme>
-  <programme start="20260727071500 +0200" stop="20260727072500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Bluey - S1E43 - Campeggio</title>
-    <desc lang="it">Durante una vacanza in campeggio, Bluey fa un nuovo amico di nome Jean - Luc; Bluey potrebbe non capirlo, ma trovano un linguaggio comune giocando e dando la caccia a un maiale selvatico di papà - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E43</episode-num>
-    <episode-num system="xmltv_ns">0 . 42 . </episode-num>
-  </programme>
-  <programme start="20260727072500 +0200" stop="20260727073000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Bluey - S1E44 - Monte Mammaepapà</title>
-    <desc lang="it">Bingo e Bluey hanno cinque minuti per andare a letto, giusto il tempo di correre verso la vetta del Monte Mumandad. Ma per loro, affrontare forti temporali, valanghe e punti puzzolenti richiederà un lavoro di squadra. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E44</episode-num>
-    <episode-num system="xmltv_ns">0 . 43 . </episode-num>
-  </programme>
-  <programme start="20260727073000 +0200" stop="20260727073500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Minieroi della foresta - S2E7 - La stella dei desideri</title>
-    <desc lang="it">Emilio è l'unico a non aver visto una stella cadente e a non aver potuto esprimere un desiderio. I Minieroi decidono di andare a caccia di stelle, ma il desiderio di Emilio si realizza in modo inaspettato! - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S2 E7</episode-num>
-    <episode-num system="xmltv_ns">1 . 6 . </episode-num>
-  </programme>
-  <programme start="20260727073500 +0200" stop="20260727074500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Minieroi della foresta - S2E8 - Il fortino</title>
-    <desc lang="it">I Minieroi decidono di costruire un fortino, ma le loro scorte iniziano a sparire misteriosamente. Che ci sia un ladro misterioso nella foresta? - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S2 E8</episode-num>
-    <episode-num system="xmltv_ns">1 . 7 . </episode-num>
-  </programme>
-  <programme start="20260727074500 +0200" stop="20260727075000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Minieroi della foresta - S2E9 - Tutti per uno!</title>
-    <desc lang="it">Leopoldo incarica i Minieroi di liberare un sentiero dopo una tempesta. Giulietta vuole mettere alla prova le sue doti da leader, ma alla fine impara che la vera forza di un leader si misura dal suo team. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <episode-num system="xmltv_ns">1 . 8 . </episode-num>
-  </programme>
-  <programme start="20260727075000 +0200" stop="20260727080000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Minieroi della foresta - S2E10 - La magia della foresta</title>
-    <desc lang="it">Dopo aver letto un libro di favole, i Minieroi sognano di vivere meravigliose avventure nella foresta. Ma saranno in grado di trovare una missione davvero "magica"? - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S2 E10</episode-num>
-    <episode-num system="xmltv_ns">1 . 9 . </episode-num>
-  </programme>
-  <programme start="20260727080000 +0200" stop="20260727081000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Masha e Orso - S5E26 - Tutti in spiaggia</title>
-    <desc lang="it">Masha non riesce a trovare nessuno dei suoi amici animaletti perché sono andati tutti in spiaggia a divertirsi! - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S5 E26</episode-num>
-    <episode-num system="xmltv_ns">4 . 25 . </episode-num>
-  </programme>
-  <programme start="20260727081000 +0200" stop="20260727081500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Masha e Orso - S6E1 - Un maialino volante</title>
-    <desc lang="it">Il maialino Rosy tenta in tutti i modi di raggiungere la chioma di un albero per fare una bella scorpacciata di ghiande e Masha farà di tutto per realizzare il suo sogno e insegnarle a volare. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S6 E1</episode-num>
-    <episode-num system="xmltv_ns">5 . 0 . </episode-num>
-  </programme>
-  <programme start="20260727081500 +0200" stop="20260727082500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Masha e Orso - S6E2 - All you need is... goal!</title>
-    <desc lang="it">Mentre Orso guarda una partita di calcio in tv, che si rivela essere noiosissima, Masha gioca in cortile con i suoi amici animali e la sfida è di certo molto più entusiasmante... - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S6 E2</episode-num>
-    <episode-num system="xmltv_ns">5 . 1 . </episode-num>
-  </programme>
-  <programme start="20260727082500 +0200" stop="20260727083000 +0200" channel="RaiYoyo.it">
-    <title lang="it">I Racconti di Masha - S1E9 - La fanciulla delle nevi</title>
-    <desc lang="it">Masha racconta di quanto bisogna stare attenti quando si maneggiano i petardi. Non sono giochi da prendere sottogamba, perché possono causare un sacco di cose bruttissime. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <episode-num system="xmltv_ns">0 . 8 . </episode-num>
-  </programme>
-  <programme start="20260727083000 +0200" stop="20260727085000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Firebuds - S2E45 - Flash a tempo pieno / Il problema di Bubba</title>
-    <desc lang="it">Flash cerca di aiutare troppi amici allo stesso tempo. Bubba sogna di diventare un cacciatore di tempeste - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S2 E45</episode-num>
-    <episode-num system="xmltv_ns">1 . 44 . </episode-num>
-  </programme>
-  <programme start="20260727085000 +0200" stop="20260727091500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Ariel - S1E23 - Giornata della Fattoria Didattica / Nuovo Amico in Città</title>
-    <desc lang="it">Ariel gestisce una fattoria didattica. Un nuovo arrivato non vuole fare a turno - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E23</episode-num>
-    <episode-num system="xmltv_ns">0 . 22 . </episode-num>
-  </programme>
-  <programme start="20260727091500 +0200" stop="20260727092500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Gigantosaurus - S1E33 - Ti sfidiamo, Giganto!</title>
-    <desc lang="it">Mazu è determinata! Lei e i suoi amici sfideranno Giganto in una gara, quindi inventa i primi kart del mondo! Il RockyRacer va molto veloce e ha un clacson così forte da rompere le rocce. BillBubble è bello e sicuro e si può guidare sott'acqua. TinyTrike è un fantastico fuoristrada che soffia scintille dal suo tubo di scarico. E la MazMobile può addirittura volare! Cretazia però è pronta per questi audaci e rumorosi piloti? Mentre i quattro amici si divertono a gareggiare con Giganto però, non si rendono conto di lasciare dietro di sé la distruzione. Ora dovranno correre ai ripari... prima che Giganto si faccia male! - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E33</episode-num>
-    <episode-num system="xmltv_ns">0 . 32 . </episode-num>
-  </programme>
-  <programme start="20260727092500 +0200" stop="20260727093500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Gigantosaurus - S1E34 - La siccità</title>
-    <desc lang="it">Tiny e Bill sono in competizione con Mazu e Rocky per vedere chi può raccogliere più muschio delle caverne. Durante la competizione, Tiny e Bill infrangono la regola dell'unica caverna che esiste: nessun doppio salto sui funghi. I due rompono il cappello di un fungo, che finisce per intasare il corso d'acqua di Cretazia. Quando si rendono conto di aver causato la siccità, hanno troppa paura di confessare la loro responsabilità! Nel tentativo di sbloccare segretamente la fonte, Tiny e Bill rimangono intrappolati nella grotta. Per fortuna Giganto è lì per liberarli. I due dinosauri hanno imparato una lezione preziosa: è sempre meglio "dire la verità"! - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E34</episode-num>
-    <episode-num system="xmltv_ns">0 . 33 . </episode-num>
-  </programme>
-  <programme start="20260727093500 +0200" stop="20260727095000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Gigantosaurus - S1E35 - La sfida</title>
-    <desc lang="it">Quei bulli dei fratelli raptor vogliono impedire che i nostri piccoli eroi possano giocare nel parco e li sfidano a una partita di basket per stabilire chi diventerà il padrone del parco. Bill non vuole giocare. Non ha fiducia nelle sue capacità e non vuole essere l'anello debole! Ed è quando Bill scappa e si nasconde nella giungla - e deve usare tutte le sue abilità per evitare la coda sferzante di Giganto - che si rende conto di avere tutto ciò che serve per partecipare alla partita di basket e sconfiggere i raptor. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E35</episode-num>
-    <episode-num system="xmltv_ns">0 . 34 . </episode-num>
-  </programme>
-  <programme start="20260727095000 +0200" stop="20260727100000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Gigantosaurus - S1E36 - Le parole magiche</title>
-    <desc lang="it">Quando sembra che Giganto abbia ascoltato un comando di Rocky, il giovane dino convince tutti che è il Giganto - Sussurratore! Cretazia è tutta in fermento per il talento di Rocky, e Rocky promette a tutti un vero spettacolo, in cui mostrerà come Giganto faccia tutto quello che lui gli comanda! Rocky, però, scopre presto che il suo talento è stato solo un colpo di fortuna e, tuttavia, non può deludere i suoi fan. Riuscirà a fare centro con la sua esibizione con Giganto? - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E36</episode-num>
-    <episode-num system="xmltv_ns">0 . 35 . </episode-num>
-  </programme>
-  <programme start="20260727100000 +0200" stop="20260727100500 +0200" channel="RaiYoyo.it">
-    <title lang="it">Summer &amp; Todd - L'allegra fattoria - S1E33 - Una rondine di nome Ruby</title>
-    <desc lang="it">L'estate alla fattoria è giunta al termine e Ruby la rondine deve migrare verso sud insieme al suo stormo… che però si è dimenticato di lei! Summer e Todd provano in tutti i modi ad aiutarla ad affrontare il viaggio da sola, ma l'aria si è fatta così fredda che la povera rondine non riesce nemmeno a volare. Summer ha però in mente qualcosa che possa fare al caso suo… - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E33</episode-num>
-    <episode-num system="xmltv_ns">0 . 32 . </episode-num>
   </programme>
   <programme start="20260727100500 +0200" stop="20260727101500 +0200" channel="RaiYoyo.it">
     <title lang="it">Summer &amp; Todd - L'allegra fattoria - S1E34 - La ricetta segreta</title>
@@ -37154,50 +35040,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <desc lang="it">CARTONI ANIMATI - Dixi è un elefantino pieno di contentezza, grazia e buon umore.E' poetico, dolce, imprevedibile, sognante, sensibile, giocherellone, amichevole, curioso, diretto, esuberante, timido, buffo, allegro.... - con 2016 ITA - -</desc>
     <category lang="it" />
   </programme>
-  <programme start="20260727021900 +0200" stop="20260727040100 +0200" channel="Rete4.it">
-    <title lang="it">L'istruttoria è chiusa: dimentichi</title>
-    <desc lang="it">Dal romanzo "Tante sbarre" di Leros Pittoni, con Franco Nero. Imputato di omicidio colposo e omissione di soccorso, per un incidente stradale di cui non si sa se egli sia davvero responsabile, il giovane e brillante architetto Vanzi finisce in prigione. Ben presto, la vita del carcere, la vicinanza di compagni di pena prepotenti e facili alla violenza e i metodi repressivi delle guardie gli causano una profonda angoscia - -</desc>
-    <category lang="it">drammatico</category>
-    <category lang="it">crime</category>
-  </programme>
-  <programme start="20260727040100 +0200" stop="20260727054200 +0200" channel="Rete4.it">
-    <title lang="it">In nome del popolo italiano</title>
-    <desc lang="it">Il maestro Dino Risi dirige Ugo Tognazzi e Vittorio Gassman in un film drammatico scritto da Age &amp; Scarpelli. Mariano Bonifazi è un giudice integerrimo, Lorenzo Santenocito un imprenditore truffaldino, corrotto e senza scrupoli. La morte di una giovane prostituta li metterà in conflitto sfidando i limiti del male. - -</desc>
-    <category lang="it">commedia</category>
-    <category lang="it">commedia brillante</category>
-    <category lang="it">drammatico</category>
-    <category lang="it">cinema italiano</category>
-  </programme>
-  <programme start="20260727054200 +0200" stop="20260727060300 +0200" channel="Rete4.it">
-    <title lang="it">Tg4 - ultima ora mattina</title>
-    <desc lang="it">Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4. - -</desc>
-    <category lang="it">telegiornale</category>
-  </programme>
-  <programme start="20260727060300 +0200" stop="20260727065900 +0200" channel="Rete4.it">
-    <title lang="it">4 di sera weekend</title>
-    <desc lang="it">Il nuovo programma di Rete4 dedicato a politica, economia e i principali casi di cronaca ed attualita'. - -</desc>
-    <category lang="it">talk show</category>
-    <category lang="it">politica</category>
-  </programme>
-  <programme start="20260727065900 +0200" stop="20260727073500 +0200" channel="Rete4.it">
-    <title lang="it">La promessa - S4 Ep186</title>
-    <desc lang="it">Lope riprende conoscenza dopo aver battuto la testa. Catalina si rifiuta di arrendersi, ma questo non impedisce a Leocadia di cercare di manipolarla. Santos decide di umiliare il padre assegnandogli i compiti più difficili in modo gratuito e Pia cerca di intervenire in difesa di Ricardo con don Cristobal. Ciononostante, Ricardo viene mandato a piedi a Villalquino, zoppicante. Lope e Vera cercano di gestire la loro rottura, argomento che però lei non sembra voler affrontare con le sue amiche. Manuel annuncia ufficialmente a Enora e Tono la nascita della loro nuova impresa. Il barone de Valladares si presenta alla Promessa per convincere ancora una volta Catalina a cedere e ad andarsene, ma lei non cedere. La minaccia velata dell'uomo però si palesa quando lei trova una pistola nella culla dei figli. - -</desc>
-    <category lang="it">soap opera</category>
-    <episode-num system="onscreen">S4 E186</episode-num>
-    <episode-num system="xmltv_ns">3 . 185 . </episode-num>
-  </programme>
-  <programme start="20260727073500 +0200" stop="20260727084700 +0200" channel="Rete4.it">
-    <title lang="it">Terra Amara - S4 Ep11</title>
-    <desc lang="it">Sermin ha deciso di organizzare la cerimonia di circoncisione ma Saniye non e' d'accordo e la investe con il furgoncino, fratturandole una gamba. - -</desc>
-    <episode-num system="onscreen">S4 E11</episode-num>
-    <episode-num system="xmltv_ns">3 . 10 . </episode-num>
-  </programme>
-  <programme start="20260727084700 +0200" stop="20260727095000 +0200" channel="Rete4.it">
-    <title lang="it">Segreti di famiglia - S1 Ep67</title>
-    <desc lang="it">Yekta decide di prepararsi a sferrare un potente attacco contro Ceylin, cosi' sguinzaglia i suoi associati alla ricerca di passi falsi nel passato della donna. - -</desc>
-    <episode-num system="onscreen">S1 E67</episode-num>
-    <episode-num system="xmltv_ns">0 . 66 . </episode-num>
-  </programme>
   <programme start="20260727095000 +0200" stop="20260727104200 +0200" channel="Rete4.it">
     <title lang="it">Segreti di famiglia - S1 Ep68</title>
     <desc lang="it">Ilgaz incontra Murat in carcere e interrogandolo capisce che l'uomo si e' dichiarato colpevole per coprire qualcuno. Ceylin decide di andare a trovare Lacin e di parlare con lei. - -</desc>
@@ -37844,41 +35686,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
   <programme start="20260801060000 +0200" stop="20260802000000 +0200" channel="SkyTG24.it">
     <title lang="it">EPG non disponibile</title>
   </programme>
-  <programme start="20260727010500 +0200" stop="20260727044000 +0200" channel="SuperTennis.it">
-    <title lang="it">US OPEN 2019</title>
-    <desc lang="it">Matteo Berrettini vs Gael Monfils US OPEN 2019 - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727044000 +0200" stop="20260727045500 +0200" channel="SuperTennis.it">
-    <title lang="it">Tie Book - Stagione 2026</title>
-    <desc lang="it">Claudia Fusani e Ronald Giammo' presentano Tiebook, un viaggio tra le letture dedicate al Tennis - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727045500 +0200" stop="20260727055000 +0200" channel="SuperTennis.it">
-    <title lang="it">WTA 250 Amburgo 2026</title>
-    <desc lang="it">Anna Bondar vs Tamara Korpatsch WTA 250 Amburgo Finale - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727055000 +0200" stop="20260727062000 +0200" channel="SuperTennis.it">
-    <title lang="it">WTA 250 Amburgo 2026</title>
-    <desc lang="it">Anna Bondar vs Tamara Korpatsch WTA 250 Amburgo Finale - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727062000 +0200" stop="20260727065000 +0200" channel="SuperTennis.it">
-    <title lang="it">TIE - BREAK 2025</title>
-    <desc lang="it">Tie Break - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727065000 +0200" stop="20260727093500 +0200" channel="SuperTennis.it">
-    <title lang="it">ATP 500 Washington 2025</title>
-    <desc lang="it">Alex De Minaur vs Alejandro Davidovich Fokina ATP 500 Washington 2025 Finale - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727093500 +0200" stop="20260727094500 +0200" channel="SuperTennis.it">
-    <title lang="it">New York Stories,</title>
-    <desc lang="it">Giorgio Spalluto riporta il pubblico a Forest Hills, la storica casa degli US Open. Un viaggio alle origini dello Slam americano, tra il fascino di un luogo iconico e le radici di un torneo diventato - -</desc>
-    <category lang="it" />
-  </programme>
   <programme start="20260727094500 +0200" stop="20260727121000 +0200" channel="SuperTennis.it">
     <title lang="it">US OPEN 2015</title>
     <desc lang="it">Serera Williams vs Robera Vinci US OPEN 2015 - -</desc>
@@ -38214,40 +36021,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <title lang="it">News</title>
     <desc lang="it">News - -</desc>
     <category lang="it" />
-  </programme>
-  <programme start="20260727034400 +0200" stop="20260727042300 +0200" channel="TGCom24.it">
-    <title lang="it">Tgcom24 diretta roma 2026</title>
-    <desc lang="it">Tgcom24 diretta roma 2026 - -</desc>
-  </programme>
-  <programme start="20260727042300 +0200" stop="20260727043800 +0200" channel="TGCom24.it">
-    <title lang="it">Tgcom rassegna stampa 2026</title>
-    <desc lang="it">Tgcom rassegna stampa 2026 - -</desc>
-  </programme>
-  <programme start="20260727043800 +0200" stop="20260727050400 +0200" channel="TGCom24.it">
-    <title lang="it">Tgcom24 diretta roma 2026</title>
-    <desc lang="it">Tgcom24 diretta roma 2026 - -</desc>
-  </programme>
-  <programme start="20260727050400 +0200" stop="20260727054300 +0200" channel="TGCom24.it">
-    <title lang="it">Tgcom24 diretta roma 2026</title>
-    <desc lang="it">Tgcom24 diretta roma 2026 - -</desc>
-  </programme>
-  <programme start="20260727054300 +0200" stop="20260727055900 +0200" channel="TGCom24.it">
-    <title lang="it">Tgcom rassegna stampa 2026</title>
-    <desc lang="it">Tgcom rassegna stampa 2026 - -</desc>
-  </programme>
-  <programme start="20260727055900 +0200" stop="20260727084100 +0200" channel="TGCom24.it">
-    <title lang="it">Simulcast Canale 5</title>
-    <desc lang="it">Simulcast Canale 5 - -</desc>
-  </programme>
-  <programme start="20260727084100 +0200" stop="20260727092500 +0200" channel="TGCom24.it">
-    <title lang="it">Morning News</title>
-    <desc lang="it">Programma d'informazione con aggiornamenti riguardanti politica, cronaca, esteri, economia, sport e attualita'. Conduce Dario Maltese. - -</desc>
-    <category lang="it">talk show</category>
-  </programme>
-  <programme start="20260727092500 +0200" stop="20260727094300 +0200" channel="TGCom24.it">
-    <title lang="it">Morning News</title>
-    <desc lang="it">Programma d'informazione con aggiornamenti riguardanti politica, cronaca, esteri, economia, sport e attualita'. Conduce Dario Maltese. - -</desc>
-    <category lang="it">talk show</category>
   </programme>
   <programme start="20260727094300 +0200" stop="20260727100900 +0200" channel="TGCom24.it">
     <title lang="it">Morning News</title>
@@ -39137,71 +36910,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <title lang="it">Sport Mediaset - La giornata</title>
     <desc lang="it">Le principali notizie sportive della giornata a cura della redazione giornalistica di Sport Mediaset. - -</desc>
   </programme>
-  <programme start="20260727033000 +0200" stop="20260727041000 +0200" channel="TV2000.it">
-    <title lang="it">I SANTI</title>
-    <desc lang="it">I Santi - Un documentario dedicato a San Giovanni Paolo II - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727041000 +0200" stop="20260727045500 +0200" channel="TV2000.it">
-    <title lang="it">QUEL CHE BOLLE IN PENTOLA</title>
-    <desc lang="it">Quel che bolle in pentola - Beatrice Fazi e lo chef Cinelli cucinano con gli ospiti, sotto l occhio attento degli assaggiatori. Francesca Ceci visita cucine d Italia. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727045500 +0200" stop="20260727050000 +0200" channel="TV2000.it">
-    <title lang="it">Clip Borghi d Italia</title>
-    <desc lang="it">Clip Borghi d Italia - Clip Borghi d Italia - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727050000 +0200" stop="20260727053000 +0200" channel="TV2000.it">
-    <title lang="it">SANTO ROSARIO LOURDES</title>
-    <desc lang="it">Santo Rosario - Santo Rosario da Lourdes - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727053000 +0200" stop="20260727054000 +0200" channel="TV2000.it">
-    <title lang="it">FIRMATO DA TE 2023</title>
-    <desc lang="it">Firmato da te - Racconto breve, attraverso la voce dei protagonisti, nelle diverse citta d Italia, su come viene concretamente utilizzato l 8xmille destinato alla Chiesa Cattolica. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727054000 +0200" stop="20260727060500 +0200" channel="TV2000.it">
-    <title lang="it">In Cammino</title>
-    <desc lang="it">In Cammino - Un appuntamento quotidiano che, attraverso temi e ospiti ogni giorno diversi, racconta il cammino della Chiesa verso il Sinodo. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727060500 +0200" stop="20260727065500 +0200" channel="TV2000.it">
-    <title lang="it">L ora solare</title>
-    <desc lang="it">L ora solare - Paola Saluzzi racconta l angolo luminoso della vita quotidiana. Storie di uomini e donne che non si sono arresi davanti alle difficolta e hanno creduto nel futuro - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727065500 +0200" stop="20260727070500 +0200" channel="TV2000.it">
-    <title lang="it">La preghiera del mattino</title>
-    <desc lang="it">La preghiera del mattino - La preghiera del mattino - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727070500 +0200" stop="20260727073500 +0200" channel="TV2000.it">
-    <title lang="it">SANTO ROSARIO CON IL CARD ANGELO COMASTRI</title>
-    <desc lang="it">Santo Rosario - Santo Rosario pregato dal Card Comastri - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727073500 +0200" stop="20260727082500 +0200" channel="TV2000.it">
-    <title lang="it">Di Buon Mattino</title>
-    <desc lang="it">Di Buon Mattino - Il contenitore di attualita che apre la mattina di TV 2000, tra notizie e curiosita , politica e costume - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727082500 +0200" stop="20260727083000 +0200" channel="TV2000.it">
-    <title lang="it">TG 2000 Flash</title>
-    <desc lang="it">TG 2000 Flash - Telegiornale - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727083000 +0200" stop="20260727091000 +0200" channel="TV2000.it">
-    <title lang="it">Santa Messa</title>
-    <desc lang="it">Santa Messa - Santa Messa celebrata dal Santuario Maddonna delle lacrime in Siracusa - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727091000 +0200" stop="20260727094500 +0200" channel="TV2000.it">
-    <title lang="it">Di Buon Mattino</title>
-    <desc lang="it">Di Buon Mattino - Il contenitore di attualita che apre la mattina di TV 2000, tra notizie e curiosita , politica e costume - -</desc>
-    <category lang="it" />
-  </programme>
   <programme start="20260727094500 +0200" stop="20260727103500 +0200" channel="TV2000.it">
     <title lang="it">Il mio medico</title>
     <desc lang="it">Il mio medico - Programma di informazione medica a servizio dei cittadini pensato per diffondere, con linguaggio semplice, una cultura della salute basata sulla prevenzione - -</desc>
@@ -40057,47 +37765,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <desc lang="it">La Compieta - Compieta - -</desc>
     <category lang="it" />
   </programme>
-  <programme start="20260727035500 +0200" stop="20260727052200 +0200" channel="TopCrime.it">
-    <title lang="it">Terapia mortale</title>
-    <desc lang="it">Una coppia in crisi, su invito di amici, decide di trascorrere una settimana di terapia in un resort lontano dal caos cittadino. L'ambiente emana strane sensazioni e i due i ritroveranno a dover mettere da parte le divergenze per salvarsi a vicenda. In qualche modo l'esperienza li avvicina! - -</desc>
-    <category lang="it">thriller</category>
-  </programme>
-  <programme start="20260727052200 +0200" stop="20260727060200 +0200" channel="TopCrime.it">
-    <title lang="it">Law &amp; Order: Organized Crime - Come Nottingham per Robin Hood</title>
-    <desc lang="it">Dopo l'evasione, McClane ha l'unico obiettivo di aprire un conto per la figlia di Luther Jones, il custode morto durante l'attacco alla Federal Reserve. - -</desc>
-    <episode-num system="onscreen">S2 E11</episode-num>
-    <episode-num system="xmltv_ns">1 . 10 . </episode-num>
-  </programme>
-  <programme start="20260727060200 +0200" stop="20260727064400 +0200" channel="TopCrime.it">
-    <title lang="it">Law &amp; Order: Organized Crime - Come Iago per Otello</title>
-    <desc lang="it">Jet insinua il dubbio che durante il black out, un hacker esperto come McClane si sia introdotto nei sistemi del Quartext senza difficolta'. - -</desc>
-    <episode-num system="onscreen">S2 E12</episode-num>
-    <episode-num system="xmltv_ns">1 . 11 . </episode-num>
-  </programme>
-  <programme start="20260727064400 +0200" stop="20260727072300 +0200" channel="TopCrime.it">
-    <title lang="it">Law &amp; Order: Special Victims Unit - Il valore dell'acqua</title>
-    <desc lang="it">Il cadavere di una donna viene rinvenuto nella fontana di Central Park. La vittima aveva ingerito dei funghi tossici. - -</desc>
-    <episode-num system="onscreen">S12 E5</episode-num>
-    <episode-num system="xmltv_ns">11 . 4 . </episode-num>
-  </programme>
-  <programme start="20260727072300 +0200" stop="20260727080800 +0200" channel="TopCrime.it">
-    <title lang="it">Law &amp; Order: Special Victims Unit - Il marchio</title>
-    <desc lang="it">Un uomo all'apparenza irreprensibile viene trovato legato, sodomizzato e marchiato a fuoco sul torace. La squadra indaga preoccupata dell'accaduto. - -</desc>
-    <episode-num system="onscreen">S12 E6</episode-num>
-    <episode-num system="xmltv_ns">11 . 5 . </episode-num>
-  </programme>
-  <programme start="20260727080800 +0200" stop="20260727085900 +0200" channel="TopCrime.it">
-    <title lang="it">Law &amp; Order: I due volti della giustizia - Catena di comando</title>
-    <desc lang="it">Quando un ex combattente militare decorato viene trovato assassinato nella sua città natale, Cosgrove e Shaw lavorano con sua figlia per scoprire un indizio importante. Price e Maroun devono districare le storie di altri membri del servizio collegati alla vittima per sostenere la loro causa. - -</desc>
-    <episode-num system="onscreen">S22 E8</episode-num>
-    <episode-num system="xmltv_ns">21 . 7 . </episode-num>
-  </programme>
-  <programme start="20260727085900 +0200" stop="20260727095700 +0200" channel="TopCrime.it">
-    <title lang="it">Law &amp; Order: I due volti della giustizia - Il sistema</title>
-    <desc lang="it">Un sospettato di omicidio è sfuggito alla custodia della polizia dopo aver aspettato per mesi il suo giorno in tribunale. Quando il sospettato prende in ostaggio delle persone, Shaw deve rivalutare il suo comportamento come agente di arresto. Price mette in dubbio la sua fiducia nella magistratura. - -</desc>
-    <episode-num system="onscreen">S22 E9</episode-num>
-    <episode-num system="xmltv_ns">21 . 8 . </episode-num>
-  </programme>
   <programme start="20260727095700 +0200" stop="20260727105500 +0200" channel="TopCrime.it">
     <title lang="it">Person of Interest - La fratellanza</title>
     <desc lang="it">Due bambini del ghetto si appropriano di una borsa piena di denaro, destinato ad un acquisto di droga. La Fratellanza gli da' la caccia. - -</desc>
@@ -40891,71 +38558,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <episode-num system="onscreen">S1 E3</episode-num>
     <episode-num system="xmltv_ns">0 . 2 . </episode-num>
   </programme>
-  <programme start="20260727032500 +0200" stop="20260727042500 +0200" channel="Tv8.it">
-    <title lang="it">Lady Killer</title>
-    <desc lang="it">Lady Killer - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S25 E21</episode-num>
-    <episode-num system="xmltv_ns">24 . 20 . </episode-num>
-  </programme>
-  <programme start="20260727042500 +0200" stop="20260727051500 +0200" channel="Tv8.it">
-    <title lang="it">Lady Killer</title>
-    <desc lang="it">Lady Killer - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S25 E20</episode-num>
-    <episode-num system="xmltv_ns">24 . 19 . </episode-num>
-  </programme>
-  <programme start="20260727051500 +0200" stop="20260727060000 +0200" channel="Tv8.it">
-    <title lang="it">Lady Killer</title>
-    <desc lang="it">Lady Killer - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S25 E17</episode-num>
-    <episode-num system="xmltv_ns">24 . 16 . </episode-num>
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727062500 +0200" channel="Tv8.it">
-    <title lang="it">TG24 Pagine</title>
-    <desc lang="it">I quotidiani italiani e stranieri, i siti e i social nella rassegna di Sky TG24. Disponibile anche sul sito e su tutte le piattaforme. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727062500 +0200" stop="20260727063000 +0200" channel="Tv8.it">
-    <title lang="it">TG24 Preview</title>
-    <desc lang="it">TG24 Preview - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727063000 +0200" stop="20260727070000 +0200" channel="Tv8.it">
-    <title lang="it">TG24 Buongiorno</title>
-    <desc lang="it">Le notizie in primo piano, dall'Italia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727070000 +0200" stop="20260727072000 +0200" channel="Tv8.it">
-    <title lang="it">TG24 Buongiorno</title>
-    <desc lang="it">Le notizie in primo piano, dall'Italia e dal mondo. Approfondimenti, giornali, web, meteo, traffico: tutto live. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727072000 +0200" stop="20260727073000 +0200" channel="Tv8.it">
-    <title lang="it">Sky Meteo24</title>
-    <desc lang="it">Previsioni meteo dettagliate e sempre aggiornate 24 ore al giorno. Le previsioni regionali, nazionali ed internazionali. - -</desc>
-    <category lang="it" />
-  </programme>
-  <programme start="20260727073000 +0200" stop="20260727084000 +0200" channel="Tv8.it">
-    <title lang="it">Quattro matrimoni</title>
-    <desc lang="it">Costantino della Gherardesca mette in sfida quattro spose partenopee, pronte a giudicare, con un voto da 0 a 10, abito, location, cibo ed evento generale dei matrimoni delle avversarie. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S6 E2</episode-num>
-    <episode-num system="xmltv_ns">5 . 1 . </episode-num>
-  </programme>
-  <programme start="20260727084000 +0200" stop="20260727094000 +0200" channel="Tv8.it">
-    <title lang="it">Quattro matrimoni</title>
-    <desc lang="it">Tutti i gusti per 4 matrimoni - Camilla, Luisa, Rossana e Sandra dovranno dare un voto sulle quattro categorie principali oggetto della competizione: location, cibo, abito e evento in generale. In palio una romantica luna di miele. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S2 E9</episode-num>
-    <episode-num system="xmltv_ns">1 . 8 . </episode-num>
-  </programme>
-  <programme start="20260727094000 +0200" stop="20260727094500 +0200" channel="Tv8.it">
-    <title lang="it">Sky TG24 in pillole</title>
-    <desc lang="it">Il telegiornale con le notizie piu' importanti del giorno. - -</desc>
-    <category lang="it" />
-  </programme>
   <programme start="20260727094500 +0200" stop="20260727110500 +0200" channel="Tv8.it">
     <title lang="it">Quattro matrimoni</title>
     <desc lang="it">In questo episodio Costantino assiste ai matrimoni di quattro spose che arrivano da Nord, Sud, Ovest ed Est. Quale cerimonia trionfera'? - -</desc>
@@ -41633,72 +39235,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <url>http://www.warnertv.it</url>
     <display-name lang="it">Discovery Channel</display-name>
   </channel>
-  <programme start="20260727033500 +0200" stop="20260727042000 +0200" channel="Discovery Channel">
-    <title lang="it">Come funziona l'Universo</title>
-    <sub-title lang="it">Strani mondi alieni</sub-title>
-    <desc lang="it">Strani mondi alieni - Gli astronomi hanno scoperto alcuni bizzarri pianeti molto diversi dalla Terra, ma troveremo mai un pianeta simile al nostro?</desc>
-    <episode-num system="onscreen">S5 E8</episode-num>
-  </programme>
-  <programme start="20260727042000 +0200" stop="20260727044500 +0200" channel="Discovery Channel">
-    <title lang="it">Marchio di fabbrica</title>
-    <sub-title lang="it">St.9 Ep.6</sub-title>
-    <desc lang="it">St.9 Ep.6 - Come si costruiscono i caccia moderni? Come fanno i monaci belgi a produrre la migliore birra al mondo? E come nasce il SUV dalle prestazioni migliori?</desc>
-    <episode-num system="onscreen">S9 E6</episode-num>
-  </programme>
-  <programme start="20260727044500 +0200" stop="20260727051000 +0200" channel="Discovery Channel">
-    <title lang="it">Marchio di fabbrica</title>
-    <sub-title lang="it">St.9 Ep.7</sub-title>
-    <desc lang="it">St.9 Ep.7 - In che modo i vulcani contribuiscono alla produzione del guacamole? Come si costruisce un camion capace di attraversare una palude? E come nascono le forbici Fiskar?</desc>
-    <episode-num system="onscreen">S9 E7</episode-num>
-  </programme>
-  <programme start="20260727051000 +0200" stop="20260727053500 +0200" channel="Discovery Channel">
-    <title lang="it">Marchio di fabbrica</title>
-    <sub-title lang="it">St.9 Ep.8</sub-title>
-    <desc lang="it">St.9 Ep.8 - Come si crea un cavo d'acciaio che regga un ponte da 50.000 tonnellate? Perche' i cacciatori moderni indossano stivali medievali? Come si conservano gli abiti nei negozi?</desc>
-    <episode-num system="onscreen">S9 E8</episode-num>
-  </programme>
-  <programme start="20260727053500 +0200" stop="20260727060000 +0200" channel="Discovery Channel">
-    <title lang="it">Marchio di fabbrica</title>
-    <sub-title lang="it">St.9 Ep.17</sub-title>
-    <desc lang="it">St.9 Ep.17 - Da dove provengono le cotolette migliori della Grande Mela? Come si producono i migliori sistemi di home cinema in circolazione? Come nascono le palline da tennis?</desc>
-    <episode-num system="onscreen">S9 E17</episode-num>
-  </programme>
-  <programme start="20260727060000 +0200" stop="20260727062000 +0200" channel="Discovery Channel">
-    <title lang="it">Scherzi della natura</title>
-    <sub-title lang="it">Alligatori</sub-title>
-    <desc lang="it">Alligatori - Come fa uno scarabeo stercorario a far rotolare una palla in linea retta? Gli aironi si pentono mai di passare il tempo accanto agli alligatori affamati?</desc>
-    <episode-num system="onscreen">S1 E19</episode-num>
-  </programme>
-  <programme start="20260727062000 +0200" stop="20260727064000 +0200" channel="Discovery Channel">
-    <title lang="it">Scherzi della natura</title>
-    <sub-title lang="it">Topi</sub-title>
-    <desc lang="it">Topi - Gli esperti esaminano incredibili fenomeni naturali. Quali animali ridacchiano? Perche' a San Francisco i leoni marini nuotano tutti insieme per allontanarsi?</desc>
-    <episode-num system="onscreen">S1 E20</episode-num>
-  </programme>
-  <programme start="20260727064000 +0200" stop="20260727071000 +0200" channel="Discovery Channel">
-    <title lang="it">Scherzi della natura</title>
-    <sub-title lang="it">Elefanti</sub-title>
-    <desc lang="it">Elefanti - Gli esperti spiegano perche' alcuni elefanti arrivano fuori lo stesso hotel ogni anno. Inoltre da cosa sono stati prodotti alcuni anelli di bolle lungo la costa di Portland?</desc>
-    <episode-num system="onscreen">S1 E17</episode-num>
-  </programme>
-  <programme start="20260727071000 +0200" stop="20260727080000 +0200" channel="Discovery Channel">
-    <title lang="it">Animal Security: Louisiana</title>
-    <sub-title lang="it">Il cacciatore</sub-title>
-    <desc lang="it">Il cacciatore - Gli agenti interrogano un cacciatore e notano qualcosa di insolito.</desc>
-    <episode-num system="onscreen">S2 E4</episode-num>
-  </programme>
-  <programme start="20260727080000 +0200" stop="20260727085500 +0200" channel="Discovery Channel">
-    <title lang="it">Animal Security: Louisiana</title>
-    <sub-title lang="it">Criminale</sub-title>
-    <desc lang="it">Criminale - Gli agenti fermano un criminale armato e scoprono i reati che ha commesso.</desc>
-    <episode-num system="onscreen">S2 E5</episode-num>
-  </programme>
-  <programme start="20260727085500 +0200" stop="20260727095000 +0200" channel="Discovery Channel">
-    <title lang="it">Ed Stafford: scontro fra titani</title>
-    <sub-title lang="it">Dietro le quinte</sub-title>
-    <desc lang="it">Dietro le quinte - Ed e il team rivelano i grandi sforzi compiuti per realizzare i loro viaggi.</desc>
-    <episode-num system="onscreen">S3 E7</episode-num>
-  </programme>
   <programme start="20260727095000 +0200" stop="20260727105000 +0200" channel="Discovery Channel">
     <title lang="it">Man, Woman, Child, Wild</title>
     <sub-title lang="it">St. Ep</sub-title>
@@ -41986,9 +39522,716 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <desc lang="it">St.10 Ep.9 - Proseguono le avventure dei cacciatori d'oro.</desc>
     <episode-num system="onscreen">S10 E9</episode-num>
   </programme>
+  <channel id="Food Network">
+    <url>http://www.warnertv.it</url>
+    <display-name lang="it">Food Network</display-name>
+  </channel>
+  <channel id="eurosport 1">
+    <url>http://www.tv.blue.ch</url>
+    <display-name lang="it">eurosport 1</display-name>
+  </channel>
+  <channel id="eurosport2">
+    <url>http://www.tv.blue.ch</url>
+    <display-name lang="it">eurosport2</display-name>
+  </channel>
+  <programme start="20260727100500 +0200" stop="20260727104500 +0200" channel="Food Network">
+    <title lang="it">Dal mercato alla tavola</title>
+    <sub-title lang="it">Melanzane</sub-title>
+    <desc lang="it">Melanzane - Melanzane di ogni varieta' diventano conserve, primi e millefoglie rustiche della Toscana.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260727104500 +0200" stop="20260727113000 +0200" channel="Food Network">
+    <title lang="it">Dal mercato alla tavola</title>
+    <sub-title lang="it">Patate</sub-title>
+    <desc lang="it">Patate - Patate di ogni tipo diventano chips, minestre e dolci della cucina abruzzese.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20260727113000 +0200" stop="20260727121500 +0200" channel="Food Network">
+    <title lang="it">Dal mercato alla tavola</title>
+    <sub-title lang="it">Peperoni</sub-title>
+    <desc lang="it">Peperoni - Peperoni rossi, gialli e verdi ispirano un menu' piemontese dall'antipasto al secondo.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20260727121500 +0200" stop="20260727125500 +0200" channel="Food Network">
+    <title lang="it">Dal mercato alla tavola</title>
+    <sub-title lang="it">Cicorie</sub-title>
+    <desc lang="it">Cicorie - In ogni puntata Carolina Di Domenico svela dei segreti per distinguere e usare al meglio in cucina i prodotti del mercato.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20260727125500 +0200" stop="20260727133500 +0200" channel="Food Network">
+    <title lang="it">In cucina con Imma e Matteo</title>
+    <sub-title lang="it">Sapori a sorpresa</sub-title>
+    <desc lang="it">Sapori a sorpresa - Imma e Matteo propongono: arancini di riso alla partenopea, gnocchi ripieni e charlotte di ricotta e noci.</desc>
+    <episode-num system="onscreen">S4 E5</episode-num>
+  </programme>
+  <programme start="20260727133500 +0200" stop="20260727141000 +0200" channel="Food Network">
+    <title lang="it">In cucina con Imma e Matteo</title>
+    <sub-title lang="it">Nel cuore di Napoli</sub-title>
+    <desc lang="it">Nel cuore di Napoli - Imma e Matteo cucinano: panini farciti, trippa con i fagioli e i Roccoco', dolci ciambelle.</desc>
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20260727141000 +0200" stop="20260727145000 +0200" channel="Food Network">
+    <title lang="it">In cucina con Imma e Matteo</title>
+    <sub-title lang="it">St.4 Ep.6</sub-title>
+    <desc lang="it">St.4 Ep.6 - Imma e Matteo preparano: Conchiglie di pesce gratinate, paccheri con scambi e gamberi e involtini di pesce spada.</desc>
+    <episode-num system="onscreen">S4 E6</episode-num>
+  </programme>
+  <programme start="20260727145000 +0200" stop="20260727152500 +0200" channel="Food Network">
+    <title lang="it">In cucina con Imma e Matteo</title>
+    <sub-title lang="it">St.2 Ep.6</sub-title>
+    <desc lang="it">St.2 Ep.6 - Donna Imma e Matteo celebrano la tradizione napoletana con piatti gustosi.</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20260727152500 +0200" stop="20260727160500 +0200" channel="Food Network">
+    <title lang="it">In cucina con Imma e Matteo</title>
+    <sub-title lang="it">St.4 Ep.7</sub-title>
+    <desc lang="it">St.4 Ep.7 - Imma e Matteo preparano: Carbonara di alici, polpettine di dentice al limone e frittata dolce all'arancia.</desc>
+    <episode-num system="onscreen">S4 E7</episode-num>
+  </programme>
+  <programme start="20260727160500 +0200" stop="20260727164500 +0200" channel="Food Network">
+    <title lang="it">In cucina con Imma e Matteo</title>
+    <sub-title lang="it">St.1 Ep.5</sub-title>
+    <desc lang="it">St.1 Ep.5 - Donna Imma e Matteo preparano tre ricette: risotto con rana pescatrice e vongole veraci, astice alla catalana, torta caprese con cioccolato e mandorle.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260727164500 +0200" stop="20260727173000 +0200" channel="Food Network">
+    <title lang="it">In cucina con Imma e Matteo</title>
+    <sub-title lang="it">St.4 Ep.8</sub-title>
+    <desc lang="it">St.4 Ep.8 - Imma e Matteo preparano: Frittata di scamarro, brodetto di Matteo e filetti di orata al cartoccio.</desc>
+    <episode-num system="onscreen">S4 E8</episode-num>
+  </programme>
+  <programme start="20260727173000 +0200" stop="20260727181000 +0200" channel="Food Network">
+    <title lang="it">Fatto in casa per voi</title>
+    <sub-title lang="it">St.10 Ep.2</sub-title>
+    <desc lang="it">St.10 Ep.2 - Benedetta presenta tre piatti legati alla sua storia d'amore con Marco.</desc>
+    <episode-num system="onscreen">S10 E2</episode-num>
+  </programme>
+  <programme start="20260727181000 +0200" stop="20260727184000 +0200" channel="Food Network">
+    <title lang="it">Fatto in casa per voi</title>
+    <sub-title lang="it">St.2 Ep.20</sub-title>
+    <desc lang="it">St.2 Ep.20 - Benedetta Rossi e' pronta a deliziarci con tre ricette semplici e genuine: lasagne bianche ai carciofi, filetto di maiale al pepe rosa, red velvet furba.</desc>
+    <episode-num system="onscreen">S2 E20</episode-num>
+  </programme>
+  <programme start="20260727184000 +0200" stop="20260727191000 +0200" channel="Food Network">
+    <title lang="it">Fatto in casa per voi</title>
+    <sub-title lang="it">St.9 Ep.2</sub-title>
+    <desc lang="it">St.9 Ep.2 - In questa puntata Benedetta prepara tre deliziose ricette anti-spreco.</desc>
+    <episode-num system="onscreen">S9 E2</episode-num>
+  </programme>
+  <programme start="20260727191000 +0200" stop="20260727194500 +0200" channel="Food Network">
+    <title lang="it">Fatto in casa per voi</title>
+    <sub-title lang="it">St.3 Ep.12</sub-title>
+    <desc lang="it">St.3 Ep.12 - Benedetta Rossi e' pronta a deliziarci con tre ricette semplici e genuine: i rustici di pan brioche, le monoporzioni con base croccante, il bouquet di cupcake.</desc>
+    <episode-num system="onscreen">S3 E12</episode-num>
+  </programme>
+  <programme start="20260727194500 +0200" stop="20260727202000 +0200" channel="Food Network">
+    <title lang="it">Fatto in casa per voi</title>
+    <sub-title lang="it">A scuola di cucina etnica</sub-title>
+    <desc lang="it">A scuola di cucina etnica - Benedetta cucina tre ricette etniche.</desc>
+    <episode-num system="onscreen">S8 E15</episode-num>
+  </programme>
+  <programme start="20260727202000 +0200" stop="20260727205500 +0200" channel="Food Network">
+    <title lang="it">Fatto in casa per voi</title>
+    <sub-title lang="it">St.3 Ep.26</sub-title>
+    <desc lang="it">St.3 Ep.26 - Benedetta Rossi e' pronta a deliziarci con tre ricette semplici e genuine: seppie in umido coi piselli, orata al sale, cuoppo di pesce.</desc>
+    <episode-num system="onscreen">S3 E26</episode-num>
+  </programme>
+  <programme start="20260727205500 +0200" stop="20260727213000 +0200" channel="Food Network">
+    <title lang="it">Fatto in casa per voi</title>
+    <sub-title lang="it">St.2 Ep.10</sub-title>
+    <desc lang="it">St.2 Ep.10 - Benedetta Rossi e' pronta a deliziarci con tre ricette semplici e genuine: quadrotti di verdure, torta di pasta sfoglia svuota frigo, ciambelle con lo zucchero.</desc>
+    <episode-num system="onscreen">S2 E10</episode-num>
+  </programme>
+  <programme start="20260727213000 +0200" stop="20260727220000 +0200" channel="Food Network">
+    <title lang="it">Fatto in casa per voi</title>
+    <sub-title lang="it">St.10 Ep.5</sub-title>
+    <desc lang="it">St.10 Ep.5 - e' il sale il protagonista delle tre ricette che oggi Benedetta ci propone.</desc>
+    <episode-num system="onscreen">S10 E5</episode-num>
+  </programme>
+  <programme start="20260727220000 +0200" stop="20260727223000 +0200" channel="Food Network">
+    <title lang="it">In cucina con la bisnonna - 1^TV</title>
+    <sub-title lang="it">Pizza ripiena e ciambelline</sub-title>
+    <desc lang="it">Pizza ripiena e ciambelline - Augusta prepara la pizza ripiena e le ciambelline, dolci semplici che profumano di casa e tradizione.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260727223000 +0200" stop="20260727231500 +0200" channel="Food Network">
+    <title lang="it">In cucina con la bisnonna</title>
+    <sub-title lang="it">Gnocchi di patate e cinghiale al buglione</sub-title>
+    <desc lang="it">Gnocchi di patate e cinghiale al buglione - Alice Sabatini e la bisnonna Augusta cucinano: gli gnocchi di patate e il cinghiale al buglione.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20260727231500 +0200" stop="20260728000000 +0200" channel="Food Network">
+    <title lang="it">La Sicilia segreta - Di Giusina in cucina</title>
+    <sub-title lang="it">Nicosia e Sperlinga</sub-title>
+    <desc lang="it">Nicosia e Sperlinga - A Nicosia e Sperlinga, Giusina riscopre sapori, storie e tradizioni dell'entroterra siciliano.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260728000000 +0200" stop="20260728000500 +0200" channel="Food Network">
+    <title lang="it">La Sicilia segreta - Di Giusina in cucina</title>
+    <sub-title lang="it">Nicosia e Sperlinga</sub-title>
+    <desc lang="it">Nicosia e Sperlinga - A Nicosia e Sperlinga, Giusina riscopre sapori, storie e tradizioni dell'entroterra siciliano.</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20260728000500 +0200" stop="20260728005000 +0200" channel="Food Network">
+    <title lang="it">Giusina in cucina - Seacily Edition</title>
+    <sub-title lang="it">Gangi</sub-title>
+    <desc lang="it">Gangi - Giusina prepara: pasta alla maniera di Gangi, brioche con il tuppo e un caldo freddo.</desc>
+    <episode-num system="onscreen">S3 E3</episode-num>
+  </programme>
+  <programme start="20260728005000 +0200" stop="20260728013000 +0200" channel="Food Network">
+    <title lang="it">Giusina in cucina - Seacily Edition</title>
+    <sub-title lang="it">Cerda</sub-title>
+    <desc lang="it">Cerda - A Cerda, Giusina prepara: sarde a beccafico, caponata di pesce e tuma fritta dolce.</desc>
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20260728013000 +0200" stop="20260728020000 +0200" channel="Food Network">
+    <title lang="it">Spie al ristorante</title>
+    <sub-title lang="it">Colpo grosso al ristorante</sub-title>
+    <desc lang="it">Colpo grosso al ristorante - Dopo aver acquisito il Cafe Aldente di Studio City in California, i proprietari pensano che i dipendenti seguano le vecchie regole. C'e' qualcuno che ignora davvero le nuove norme?</desc>
+    <episode-num system="onscreen">S7 E12</episode-num>
+  </programme>
+  <programme start="20260728020000 +0200" stop="20260728022500 +0200" channel="Food Network">
+    <title lang="it">Spie al ristorante</title>
+    <sub-title lang="it">Affitto losco</sub-title>
+    <desc lang="it">Affitto losco - Steve, del Nashville Street Tacos and The Stillery, crede che qualcuno usi il suo appartamento sopra il ristorante in sua assenza. Charles Stiles inviera' Jamie e Brooke a indagare.</desc>
+    <episode-num system="onscreen">S11 E12</episode-num>
+  </programme>
+  <programme start="20260728022500 +0200" stop="20260728025000 +0200" channel="Food Network">
+    <title lang="it">Spie al ristorante</title>
+    <sub-title lang="it">Kebab rubati</sub-title>
+    <desc lang="it">Kebab rubati - C'e' un problema alle forniture, e i proprietari di Dar Salam temono che sia causato da un nuovo concorrente iracheno. Charles Stiles invia le sue spie a indagare.</desc>
+    <episode-num system="onscreen">S8 E5</episode-num>
+  </programme>
+  <programme start="20260728025000 +0200" stop="20260728031500 +0200" channel="Food Network">
+    <title lang="it">Spie al ristorante</title>
+    <sub-title lang="it">Non e' una battuta</sub-title>
+    <desc lang="it">Non e' una battuta - Keith, proprietaria del Deanie's Seafood di New Orleans, e' preoccupata che il suo manager sia troppo focalizzato sulla sua carriera di comico amatoriale e non sul suo attuale lavoro.</desc>
+    <episode-num system="onscreen">S3 E7</episode-num>
+  </programme>
+  <programme start="20260728031500 +0200" stop="20260728034000 +0200" channel="Food Network">
+    <title lang="it">Spie al ristorante</title>
+    <sub-title lang="it">Complicazioni Heavy Metal</sub-title>
+    <desc lang="it">Complicazioni Heavy Metal - I gestori della Toad Tavern si chiedono se il gruppo musicale del figlio pensi di piu' ai sogni di gloria che al lavoro al ristorante. Che un altro dipendente li stia distraendo?</desc>
+    <episode-num system="onscreen">S7 E7</episode-num>
+  </programme>
+  <programme start="20260728034000 +0200" stop="20260728041000 +0200" channel="Food Network">
+    <title lang="it">Spie al ristorante</title>
+    <sub-title lang="it">Vandalismo in sede</sub-title>
+    <desc lang="it">Vandalismo in sede - A causa degli atti vandalici presso lo Spanish Potato Grill, il proprietario contatta le spie, che scopriranno che i sabotaggi partono dall'interno del locale.</desc>
+    <episode-num system="onscreen">S11 E8</episode-num>
+  </programme>
+  <programme start="20260728041000 +0200" stop="20260728043000 +0200" channel="Food Network">
+    <title lang="it">Spie al ristorante</title>
+    <sub-title lang="it">Servizi armati</sub-title>
+    <desc lang="it">Servizi armati - Keith, proprietaria del Buttons Restaurant in Texas, chiede a Charles Stiles di indagare dopo aver ricevuto lamentele sulla eccessiva severita' del suo manager.</desc>
+    <episode-num system="onscreen">S3 E12</episode-num>
+  </programme>
+  <programme start="20260728043000 +0200" stop="20260728045500 +0200" channel="Food Network">
+    <title lang="it">Spie al ristorante</title>
+    <sub-title lang="it">Mammina cara</sub-title>
+    <desc lang="it">Mammina cara - Tommy, proprietario del ristorante da Gigi a Philadelphia, sospetta che sua madre, manager del locale, si comporti in modo discriminatorio verso i clienti piu' giovani. Si rivolge a Charles.</desc>
+    <episode-num system="onscreen">S4 E10</episode-num>
+  </programme>
+  <programme start="20260728045500 +0200" stop="20260728051500 +0200" channel="Food Network">
+    <title lang="it">Spie al ristorante</title>
+    <sub-title lang="it">Il dramma</sub-title>
+    <desc lang="it">Il dramma - Il proprietario del Lenny's Deli a Los Angeles chiede a Charles di indagare sulla pasticceria, poiche' teme che il locale si stia prendendo un po' troppa liberta' sugli ordini.</desc>
+    <episode-num system="onscreen">S9 E1</episode-num>
+  </programme>
+  <programme start="20260728051500 +0200" stop="20260728053500 +0200" channel="Food Network">
+    <title lang="it">Spie al ristorante</title>
+    <sub-title lang="it">D'Chache</sub-title>
+    <desc lang="it">D'Chache - Dopo le lamentele da parte dello staff, il gestore del D'Cache vuole scoprire se il maitre, promosso da poco, sta intascando piu' di quanto previsto.</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20260728053500 +0200" stop="20260728060000 +0200" channel="Food Network">
+    <title lang="it">Spie al ristorante</title>
+    <sub-title lang="it">La cruda realta'</sub-title>
+    <desc lang="it">La cruda realta' - Sylvia, la proprietaria del Beets Cafe di Austin, Texas, chiede aiuto a Charles, perche' teme che i suoi dipendenti stiano vendendo le ricette segrete del suo menu crudista.</desc>
+    <episode-num system="onscreen">S6 E8</episode-num>
+  </programme>
+  <programme start="20260728060000 +0200" stop="20260728062500 +0200" channel="Food Network">
+    <title lang="it">Spie al ristorante</title>
+    <sub-title lang="it">Catastrofe</sub-title>
+    <desc lang="it">Catastrofe - Alcuni ristoratori si affidano a un gruppo di 'spie' e all'ausilio di telecamere nascoste per controllare i loro impiegati e scovare i dipendenti piu' indisciplinati.</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20260728062500 +0200" stop="20260728070000 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo</title>
+    <sub-title lang="it">Cucinare con la birra</sub-title>
+    <desc lang="it">Cucinare con la birra - Luca Pappagallo cucina il pane, la pasta e il pollo alla birra!</desc>
+    <episode-num system="onscreen">S4 E14</episode-num>
+  </programme>
+  <programme start="20260728070000 +0200" stop="20260728073500 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo</title>
+    <sub-title lang="it">Sapori di primavera</sub-title>
+    <desc lang="it">Sapori di primavera - Luca Pappagallo cucina: hummus di fave, garganelli asparagi e gorgonzola e agnello con i piselli.</desc>
+    <episode-num system="onscreen">S6 E15</episode-num>
+  </programme>
+  <programme start="20260728073500 +0200" stop="20260728081000 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo</title>
+    <sub-title lang="it">Ricette con i legumi</sub-title>
+    <desc lang="it">Ricette con i legumi - Luca Pappagallo cucina: minestra di fagioli, zuppa ceci e latte di cocco e curry di lenticchie.</desc>
+    <episode-num system="onscreen">S4 E21</episode-num>
+  </programme>
+  <programme start="20260728081000 +0200" stop="20260728085000 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo</title>
+    <sub-title lang="it">La cucina provenzale</sub-title>
+    <desc lang="it">La cucina provenzale - Luca Pappagallo cucina: Bouillabaisse, daube provenzale e pissaladie're.</desc>
+    <episode-num system="onscreen">S5 E25</episode-num>
+  </programme>
+  <programme start="20260728085000 +0200" stop="20260728092000 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo</title>
+    <sub-title lang="it">Tesori di Sicilia</sub-title>
+    <desc lang="it">Tesori di Sicilia - Luca Pappagallo cucina: spaghetti all'Eoliana, patate a sfincione e cannoli siciliani.</desc>
+    <episode-num system="onscreen">S6 E16</episode-num>
+  </programme>
+  <programme start="20260728092000 +0200" stop="20260728095000 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo</title>
+    <sub-title lang="it">Cucinare con il latte</sub-title>
+    <desc lang="it">Cucinare con il latte - Luca Pappagallo cucina: riso al latte, arista al latte, latte fritto.</desc>
+    <episode-num system="onscreen">S4 E23</episode-num>
+  </programme>
+  <programme start="20260728095000 +0200" stop="20260728103000 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo - Estate</title>
+    <sub-title lang="it">Ricette greche</sub-title>
+    <desc lang="it">Ricette greche - Luca Pappagallo prepara: gamberi saganaki, frittelle di pomodori e dolmades.</desc>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20260728103000 +0200" stop="20260728110500 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo - Estate</title>
+    <sub-title lang="it">Peperoni che bonta'</sub-title>
+    <desc lang="it">Peperoni che bonta' - Luca Pappagallo cucina: pasta al sugo di peperoni, peperonata e peperoni ripieni.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20260728110500 +0200" stop="20260728113500 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo - Estate</title>
+    <sub-title lang="it">Ricette abruzzesi</sub-title>
+    <desc lang="it">Ricette abruzzesi - Luca Pappagallo prepara: pizza scima, spaghetti alla chitarra all'abruzzese e agnello cacio e ova.</desc>
+    <episode-num system="onscreen">S2 E12</episode-num>
+  </programme>
+  <programme start="20260728113500 +0200" stop="20260728121500 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo - Estate</title>
+    <sub-title lang="it">Pomodori</sub-title>
+    <desc lang="it">Pomodori - Luca Pappagallo cucina pomodori ripieni, rustico e per finire pasta coi pomodorini.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20260728121500 +0200" stop="20260728125000 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo - Estate</title>
+    <sub-title lang="it">Il pesce azzurro</sub-title>
+    <desc lang="it">Il pesce azzurro - Luca Pappagallo prepara: zuppetta di alici fresche, pasta con sgombro fresco e sarde fritte.</desc>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20260728125000 +0200" stop="20260728132500 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo - Estate</title>
+    <sub-title lang="it">Estate spagnola</sub-title>
+    <desc lang="it">Estate spagnola - Luca Pappagallo cucina: paella de marisco, sangria.</desc>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20260728132500 +0200" stop="20260728140500 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo - Estate</title>
+    <sub-title lang="it">Pollo fritto</sub-title>
+    <desc lang="it">Pollo fritto - Luca Pappagallo prepara frango a passarinho, ayam goreng e pollo in stile nashville.</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20260728140500 +0200" stop="20260728143500 +0200" channel="Food Network">
+    <title lang="it">Fuoco alle griglie con Viviana Varese</title>
+    <sub-title lang="it">St.1 Ep.3</sub-title>
+    <desc lang="it">St.1 Ep.3 - Viviana ci delizia con bombette alla brace, pure' al burro e insalatina acidula e con toast BBQ con cipolla, patata, uovo e olandese.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20260728143500 +0200" stop="20260728152000 +0200" channel="Food Network">
+    <title lang="it">Fuoco alle griglie con Viviana Varese</title>
+    <sub-title lang="it">St.1 Ep.4</sub-title>
+    <desc lang="it">St.1 Ep.4 - Viviana cucina paella Valenciana BBQ di mare e terra e seppia alla griglia con zucchine BBQ alla scapece.</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20260728152000 +0200" stop="20260728160000 +0200" channel="Food Network">
+    <title lang="it">Cucina al mare con Ruben</title>
+    <sub-title lang="it">St.2 Ep.3</sub-title>
+    <desc lang="it">St.2 Ep.3 - Ruben prepara un panino con pesce spada e pesto di pomodorini secchi e fagiolini, e fileja/maccaruni con pesce spada e zucchine.</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20260728160000 +0200" stop="20260728164000 +0200" channel="Food Network">
+    <title lang="it">Cucina al mare con Ruben</title>
+    <sub-title lang="it">St.2 Ep.5</sub-title>
+    <desc lang="it">St.2 Ep.5 - Oggi Ruben ci propone occhiata alla vignarola, e occhiata scottata con insalata di patate.</desc>
+    <episode-num system="onscreen">S2 E5</episode-num>
+  </programme>
+  <programme start="20260728164000 +0200" stop="20260728172000 +0200" channel="Food Network">
+    <title lang="it">Cucina al mare con Ruben</title>
+    <sub-title lang="it">St.2 Ep.6</sub-title>
+    <desc lang="it">St.2 Ep.6 - Ruben prepara un crudo di ricciola e pesche, e anche dei ravioli ripieni di ricciola.</desc>
+    <episode-num system="onscreen">S2 E6</episode-num>
+  </programme>
+  <programme start="20260728172000 +0200" stop="20260728175500 +0200" channel="Food Network">
+    <title lang="it">Cucina al mare con Ruben</title>
+    <sub-title lang="it">St.2 Ep.4</sub-title>
+    <desc lang="it">St.2 Ep.4 - Ruben ci propone alalunga alla brace con salsa porchettata e fettuccine al ragu' di alalunga e pecorino calabrese.</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20260728175500 +0200" stop="20260728183000 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo</title>
+    <sub-title lang="it">Estate speziata</sub-title>
+    <desc lang="it">Estate speziata - Luca Pappagallo cucina: pasta ricotta e zucchine, spiedini di pollo libanese, carote all'andalusa.</desc>
+    <episode-num system="onscreen">S6 E29</episode-num>
+  </programme>
+  <programme start="20260728183000 +0200" stop="20260728190500 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo</title>
+    <sub-title lang="it">Ricette con i finocchi</sub-title>
+    <desc lang="it">Ricette con i finocchi - Luca Pappagallo cucina: finocchi alla pizzaiola, in umido e infine in agrodolce.</desc>
+    <episode-num system="onscreen">S4 E22</episode-num>
+  </programme>
+  <programme start="20260728190500 +0200" stop="20260728194000 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo</title>
+    <sub-title lang="it">Cucina di mare diversa</sub-title>
+    <desc lang="it">Cucina di mare diversa - Luca Pappagallo cucina: le reginette del marinaio, Bacalhau a' brás e sgrombro cipolle e limone.</desc>
+    <episode-num system="onscreen">S5 E26</episode-num>
+  </programme>
+  <programme start="20260728194000 +0200" stop="20260728202500 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo</title>
+    <sub-title lang="it">Crespelle</sub-title>
+    <desc lang="it">Crespelle - Luca Pappagallo cucina le crespelle: alla fiorentina, ai funghi, gorgonzola e pere.</desc>
+    <episode-num system="onscreen">S5 E2</episode-num>
+  </programme>
+  <programme start="20260728202500 +0200" stop="20260728210000 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo</title>
+    <sub-title lang="it">Insalate dal mondo</sub-title>
+    <desc lang="it">Insalate dal mondo - Luca Pappagallo cucina: zaalouk, fattoush, sunomono.</desc>
+    <episode-num system="onscreen">S6 E26</episode-num>
+  </programme>
+  <programme start="20260728210000 +0200" stop="20260728214000 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo</title>
+    <sub-title lang="it">Secondi maremmani</sub-title>
+    <desc lang="it">Secondi maremmani - Luca Pappagallo prepara secondi maremmani: cinghiale alla cacciatora e buglione d'agnello.</desc>
+    <episode-num system="onscreen">S5 E6</episode-num>
+  </programme>
+  <programme start="20260728214000 +0200" stop="20260728221500 +0200" channel="Food Network">
+    <title lang="it">In cucina con Luca Pappagallo</title>
+    <sub-title lang="it">Melanzane dal mondo</sub-title>
+    <desc lang="it">Melanzane dal mondo - Luca Pappagallo cucina le melanzane: all'iraniana, glassate al miso e piccanti in stile cinese.</desc>
+    <episode-num system="onscreen">S6 E30</episode-num>
+  </programme>
+  <programme start="20260728221500 +0200" stop="20260728231500 +0200" channel="Food Network">
+    <title lang="it">Scarpetta d'Italia</title>
+    <sub-title lang="it">Orvieto</sub-title>
+    <desc lang="it">Orvieto - Luca arriva tra le splendide colline di Orvieto in cerca di una scarpetta.</desc>
+    <episode-num system="onscreen">S4 E3</episode-num>
+  </programme>
+  <programme start="20260728231500 +0200" stop="20260729000000 +0200" channel="Food Network">
+    <title lang="it">Scarpetta d'Italia</title>
+    <sub-title lang="it">Bologna/Appennino</sub-title>
+    <desc lang="it">Bologna/Appennino - Luca raggiunge le montagne dell'Appennino bolognese per una scarpetta ad alta quota all'insegna dei migliori prodotti tipici della zona.</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20260727093000 +0000" stop="20260727113000 +0000" channel="eurosport 1">
+    <title lang="it">Commonwealth Games 2026: Nuoto: Giorno 3</title>
+    <desc lang="it">Segui le emozioni dei Giochi del Commonwealth 2026 dove circa 3mila atleti provenienti da 74 nazioni e territori si affrontano a Glasgow.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260727113000 +0000" stop="20260727150000 +0000" channel="eurosport 1">
+    <title lang="it">World Snooker Tour: Shanghai Masters: Primo turno</title>
+    <desc lang="it">Al Luwan Indoor Stadium il World Snooker Shanghai Masters celebra il 20° anniversario dal 27 luglio al 2 agosto. Nella scorsa edizione l'inglese Kyren Wilson ha interrotto la striscia di vittorie di O'Sullivan.</desc>
+    <date>2026</date>
+    <premiere />
+  </programme>
+  <programme start="20260727150000 +0000" stop="20260727160000 +0000" channel="eurosport 1">
+    <title lang="it">Tour de France 2026: 20a tappa</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260727160000 +0000" stop="20260727164500 +0000" channel="eurosport 1">
+    <title lang="it">Tour de France 2026: 21a tappa</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260727164500 +0000" stop="20260727180000 +0000" channel="eurosport 1">
+    <title lang="it">Scherma</title>
+    <desc lang="it">Segui tutte le emozioni dei duelli di scherma.</desc>
+    <date>2026</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260727180000 +0000" stop="20260727210000 +0000" channel="eurosport 1">
+    <title lang="it">Commonwealth Games 2026: Atletica</title>
+    <date>2026</date>
+    <premiere />
+  </programme>
+  <programme start="20260727210000 +0000" stop="20260727223000 +0000" channel="eurosport 1">
+    <title lang="it">Scherma</title>
+    <desc lang="it">Segui tutte le emozioni dei duelli di scherma.</desc>
+    <date>2026</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260727223000 +0000" stop="20260727233000 +0000" channel="eurosport 1">
+    <title lang="it">Tour de France 2026: 21a tappa</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260727233000 +0000" stop="20260728010000 +0000" channel="eurosport 1">
+    <title lang="it">Commonwealth Games 2026: Atletica</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728010000 +0000" stop="20260728020000 +0000" channel="eurosport 1">
+    <title lang="it">Tour de France 2026: 20a tappa</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728020000 +0000" stop="20260728030000 +0000" channel="eurosport 1">
+    <title lang="it">Tour de France 2026: 21a tappa</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728030000 +0000" stop="20260728050000 +0000" channel="eurosport 1">
+    <title lang="it">Commonwealth Games 2026: Atletica</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728050000 +0000" stop="20260728060000 +0000" channel="eurosport 1">
+    <title lang="it">Commonwealth Games 2026</title>
+    <sub-title lang="it">Tutti gli sport: Highlights</sub-title>
+    <desc lang="it">Il meglio di quanto accaduto oggi per i Commonwealth Games 2026.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728060000 +0000" stop="20260728093000 +0000" channel="eurosport 1">
+    <title lang="it">World Snooker Tour: Shanghai Masters: Primo turno</title>
+    <desc lang="it">Al Luwan Indoor Stadium il World Snooker Shanghai Masters celebra il 20° anniversario dal 27 luglio al 2 agosto. Nella scorsa edizione l'inglese Kyren Wilson ha interrotto la striscia di vittorie di O'Sullivan.</desc>
+    <date>2026</date>
+    <premiere />
+  </programme>
+  <programme start="20260728093000 +0000" stop="20260728113000 +0000" channel="eurosport 1">
+    <title lang="it">Commonwealth Games 2026: Atletica</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728113000 +0000" stop="20260728123000 +0000" channel="eurosport 1">
+    <title lang="it">Tour de France 2026: 21a tappa</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728123000 +0000" stop="20260728141500 +0000" channel="eurosport 1">
+    <title lang="it">UCI Europe Tour: Uomini: Tour de l'Ain : 1a tappa</title>
+    <desc lang="it">Tracciato impegnativo per la 38esima edizione con poco più di 450 chilometri da percorrere. La prima è una frazione mossa che potrebbe anche sorridere ai velocisti.</desc>
+    <date>2026</date>
+    <premiere />
+  </programme>
+  <programme start="20260728141500 +0000" stop="20260728144500 +0000" channel="eurosport 1">
+    <title lang="it">Tour de France Femmes</title>
+    <sub-title lang="it">Road to Yellow</sub-title>
+    <desc lang="it">Tra interviste esclusive, opinioni degli esperti e immagini d'archivio prepariamoci all'edizione del 2026 del Tour de France Femmes. Scopriamo le cicliste favorite vincitrici, le giovani promesse e tutto quello che c'è da sapere.</desc>
+    <date>2026</date>
+    <country lang="it">GB</country>
+  </programme>
+  <programme start="20260728144500 +0000" stop="20260728151500 +0000" channel="eurosport 1">
+    <title lang="it">UCI Class 1: Donne: Giro di Polonia: 3a tappa</title>
+    <desc lang="it">Tutte le azioni del'UCI Women's Class 1.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728151500 +0000" stop="20260728154500 +0000" channel="eurosport 1">
+    <title lang="it">Trail Highlights</title>
+    <sub-title lang="it">Quebec: Sintesi</sub-title>
+    <desc lang="it">Le Golden Trail World Series rappresentano uno degli eventi di punta del trail running internazionale, con tappe ambientate negli scenari naturali più affascinanti al mondo.</desc>
+    <date>2026</date>
+    <country lang="it">FR</country>
+  </programme>
+  <programme start="20260728154500 +0000" stop="20260728164500 +0000" channel="eurosport 1">
+    <title lang="it">Formula E</title>
+    <sub-title lang="it">Tokyo: Sintesi</sub-title>
+    <desc lang="it">Serie National Geographic dedicata alla Formula E, alle gare e alle sfide ingegneristiche che questo sport offre.</desc>
+    <date>2026</date>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260728164500 +0000" stop="20260728180000 +0000" channel="eurosport 1">
+    <title lang="it">Scherma: Hong Kong: 4a giornata</title>
+    <desc lang="it">I migliori schermidori del mondo e un pubblico globale si ritrovano per il Mondiale che si disputa nella sede di Hong Kong.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728180000 +0000" stop="20260728204500 +0000" channel="eurosport 1">
+    <title lang="it">Commonwealth Games 2026</title>
+    <desc lang="it">Segui le emozioni dei Giochi del Commonwealth 2026 dove circa 3mila atleti provenienti da 74 nazioni e territori si affrontano a Glasgow.</desc>
+    <date>2026</date>
+    <premiere />
+  </programme>
+  <programme start="20260728204500 +0000" stop="20260728223000 +0000" channel="eurosport 1">
+    <title lang="it">Scherma: Hong Kong: 4a giornata</title>
+    <desc lang="it">I migliori schermidori del mondo e un pubblico globale si ritrovano per il Mondiale che si disputa nella sede di Hong Kong.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728223000 +0000" stop="20260728233000 +0000" channel="eurosport 1">
+    <title lang="it">UCI Europe Tour: Uomini: Tour de l'Ain : 1a tappa</title>
+    <desc lang="it">Tracciato impegnativo per la 38esima edizione con poco più di 450 chilometri da percorrere. La prima è una frazione mossa che potrebbe anche sorridere ai velocisti.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728233000 +0000" stop="20260729010000 +0000" channel="eurosport 1">
+    <title lang="it">Commonwealth Games 2026</title>
+    <desc lang="it">Segui le emozioni dei Giochi del Commonwealth 2026 dove circa 3mila atleti provenienti da 74 nazioni e territori si affrontano a Glasgow.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260729010000 +0000" stop="20260729020000 +0000" channel="eurosport 1">
+    <title lang="it">UCI Europe Tour: Uomini: Tour de l'Ain : 1a tappa</title>
+    <desc lang="it">Tracciato impegnativo per la 38esima edizione con poco più di 450 chilometri da percorrere. La prima è una frazione mossa che potrebbe anche sorridere ai velocisti.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260729020000 +0000" stop="20260729030000 +0000" channel="eurosport 1">
+    <title lang="it">Scherma: Hong Kong: 4a giornata</title>
+    <desc lang="it">I migliori schermidori del mondo e un pubblico globale si ritrovano per il Mondiale che si disputa nella sede di Hong Kong.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260729030000 +0000" stop="20260729050000 +0000" channel="eurosport 1">
+    <title lang="it">Commonwealth Games 2026</title>
+    <desc lang="it">Segui le emozioni dei Giochi del Commonwealth 2026 dove circa 3mila atleti provenienti da 74 nazioni e territori si affrontano a Glasgow.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260727100000 +0000" stop="20260727130000 +0000" channel="eurosport2">
+    <title lang="it">Scherma</title>
+    <desc lang="it">Segui tutte le emozioni dei duelli di scherma.</desc>
+    <date>2026</date>
+    <country lang="it">IT</country>
+    <premiere />
+  </programme>
+  <programme start="20260727130000 +0000" stop="20260727140000 +0000" channel="eurosport2">
+    <title lang="it">UCI Class 1: Donne: Giro di Polonia: 3a tappa</title>
+    <desc lang="it">Tutte le azioni del'UCI Women's Class 1.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260727140000 +0000" stop="20260727150000 +0000" channel="eurosport2">
+    <title lang="it">FIM Campionato mondiale di motocross: Repubblica Ceca: MXGP: Gara 1</title>
+    <desc lang="it">Si scaldano i motori per la 70a edizione del Mondiale di motocross. Venti appuntamenti dall'Argentina all'Australia con due tappe italiane in Sardegna e Toscana.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260727150000 +0000" stop="20260727160000 +0000" channel="eurosport2">
+    <title lang="it">FIM Campionato mondiale di motocross: Cechia MX2: Gara 2</title>
+    <desc lang="it">Si scaldano i motori per la 70a edizione del Mondiale di motocross. Venti appuntamenti dall'Argentina all'Australia con due tappe italiane in Sardegna e Toscana.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260727160000 +0000" stop="20260727170000 +0000" channel="eurosport2">
+    <title lang="it">FIM Campionato mondiale di motocross: Repubblica Ceca: MXGP: Gara 2</title>
+    <desc lang="it">Si scaldano i motori per la 70a edizione del Mondiale di motocross. Venti appuntamenti dall'Argentina all'Australia con due tappe italiane in Sardegna e Toscana.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260727170000 +0000" stop="20260727180000 +0000" channel="eurosport2">
+    <title lang="it">Formula E</title>
+    <sub-title lang="it">Tokyo: Gara 2</sub-title>
+    <desc lang="it">Il campionato delle monoposto elettriche riparte con 17 gare in 10 paesi, da dicembre ad agosto, con i migliori piloti pronti a sfidare il campione in carica Oliver Rowland.</desc>
+    <date>2026</date>
+    <rating system="FSK">
+      <value>12+</value>
+    </rating>
+  </programme>
+  <programme start="20260727180000 +0000" stop="20260727200000 +0000" channel="eurosport2">
+    <title lang="it">World Snooker Tour: Shanghai Masters: Primo turno</title>
+    <desc lang="it">Al Luwan Indoor Stadium il World Snooker Shanghai Masters celebra il 20° anniversario dal 27 luglio al 2 agosto. Nella scorsa edizione l'inglese Kyren Wilson ha interrotto la striscia di vittorie di O'Sullivan.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260727200000 +0000" stop="20260727210000 +0000" channel="eurosport2">
+    <title lang="it">UCI Class 1: Donne: Giro di Polonia: 3a tappa</title>
+    <desc lang="it">Tutte le azioni del'UCI Women's Class 1.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260727210000 +0000" stop="20260727220000 +0000" channel="eurosport2">
+    <title lang="it">Tour de France 2026: 21a tappa</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260727220000 +0000" stop="20260727233000 +0000" channel="eurosport2">
+    <title lang="it">Commonwealth Games 2026: Atletica</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260727233000 +0000" stop="20260728001500 +0000" channel="eurosport2">
+    <title lang="it">Tour de France 2026: 20a tappa</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728001500 +0000" stop="20260728010000 +0000" channel="eurosport2">
+    <title lang="it">Tour de France 2026: 21a tappa</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728010000 +0000" stop="20260728030000 +0000" channel="eurosport2">
+    <title lang="it">Commonwealth Games 2026: Atletica</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728030000 +0000" stop="20260728034500 +0000" channel="eurosport2">
+    <title lang="it">Tour de France 2026: 20a tappa</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728034500 +0000" stop="20260728043000 +0000" channel="eurosport2">
+    <title lang="it">Tour de France 2026: 21a tappa</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728043000 +0000" stop="20260728060000 +0000" channel="eurosport2">
+    <title lang="it">Scherma</title>
+    <desc lang="it">Segui tutte le emozioni dei duelli di scherma.</desc>
+    <date>2026</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260728060000 +0000" stop="20260728070000 +0000" channel="eurosport2">
+    <title lang="it">Tour de France 2026: 21a tappa</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728070000 +0000" stop="20260728090000 +0000" channel="eurosport2">
+    <title lang="it">Scherma</title>
+    <desc lang="it">Segui tutte le emozioni dei duelli di scherma.</desc>
+    <date>2026</date>
+    <country lang="it">IT</country>
+  </programme>
+  <programme start="20260728090000 +0000" stop="20260728133000 +0000" channel="eurosport2">
+    <title lang="it">Scherma: Hong Kong: 4a giornata</title>
+    <desc lang="it">I migliori schermidori del mondo e un pubblico globale si ritrovano per il Mondiale che si disputa nella sede di Hong Kong.</desc>
+    <date>2026</date>
+    <premiere />
+  </programme>
+  <programme start="20260728133000 +0000" stop="20260728150000 +0000" channel="eurosport2">
+    <title lang="it">World Snooker Tour: Shanghai Masters: Primo turno</title>
+    <desc lang="it">Al Luwan Indoor Stadium il World Snooker Shanghai Masters celebra il 20° anniversario dal 27 luglio al 2 agosto. Nella scorsa edizione l'inglese Kyren Wilson ha interrotto la striscia di vittorie di O'Sullivan.</desc>
+    <date>2026</date>
+    <premiere />
+  </programme>
+  <programme start="20260728150000 +0000" stop="20260728160000 +0000" channel="eurosport2">
+    <title lang="it">T100 Triathlon World Tour Highlights</title>
+    <sub-title lang="it">Singapore</sub-title>
+    <desc lang="it">Nuovo appuntamento con il World Tour di Triathlon, questa volta a Singapore. Per gli atleti, professionisti e amatori, 2 km di nuoto, 80 km di bicicletta e 18 km di corsa per un totale di 100 km da coprire.</desc>
+    <date>2026</date>
+    <country lang="it">US</country>
+  </programme>
+  <programme start="20260728160000 +0000" stop="20260728180000 +0000" channel="eurosport2">
+    <title lang="it">Commonwealth Games 2026: Atletica</title>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728180000 +0000" stop="20260728200000 +0000" channel="eurosport2">
+    <title lang="it">World Snooker Tour: Shanghai Masters: Primo turno</title>
+    <desc lang="it">Al Luwan Indoor Stadium il World Snooker Shanghai Masters celebra il 20° anniversario dal 27 luglio al 2 agosto. Nella scorsa edizione l'inglese Kyren Wilson ha interrotto la striscia di vittorie di O'Sullivan.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728200000 +0000" stop="20260728213000 +0000" channel="eurosport2">
+    <title lang="it">UCI Europe Tour: Uomini: Tour de l'Ain : 1a tappa</title>
+    <desc lang="it">Tracciato impegnativo per la 38esima edizione con poco più di 450 chilometri da percorrere. La prima è una frazione mossa che potrebbe anche sorridere ai velocisti.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728213000 +0000" stop="20260728220000 +0000" channel="eurosport2">
+    <title lang="it">Tour de France Femmes</title>
+    <sub-title lang="it">Road to Yellow</sub-title>
+    <desc lang="it">Tra interviste esclusive, opinioni degli esperti e immagini d'archivio prepariamoci all'edizione del 2026 del Tour de France Femmes. Scopriamo le cicliste favorite vincitrici, le giovani promesse e tutto quello che c'è da sapere.</desc>
+    <date>2026</date>
+    <country lang="it">GB</country>
+  </programme>
+  <programme start="20260728220000 +0000" stop="20260728233000 +0000" channel="eurosport2">
+    <title lang="it">Commonwealth Games 2026</title>
+    <desc lang="it">Segui le emozioni dei Giochi del Commonwealth 2026 dove circa 3mila atleti provenienti da 74 nazioni e territori si affrontano a Glasgow.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260728233000 +0000" stop="20260729010000 +0000" channel="eurosport2">
+    <title lang="it">UCI Europe Tour: Uomini: Tour de l'Ain : 1a tappa</title>
+    <desc lang="it">Tracciato impegnativo per la 38esima edizione con poco più di 450 chilometri da percorrere. La prima è una frazione mossa che potrebbe anche sorridere ai velocisti.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260729010000 +0000" stop="20260729030000 +0000" channel="eurosport2">
+    <title lang="it">Commonwealth Games 2026</title>
+    <desc lang="it">Segui le emozioni dei Giochi del Commonwealth 2026 dove circa 3mila atleti provenienti da 74 nazioni e territori si affrontano a Glasgow.</desc>
+    <date>2026</date>
+  </programme>
+  <programme start="20260729030000 +0000" stop="20260729043000 +0000" channel="eurosport2">
+    <title lang="it">UCI Europe Tour: Uomini: Tour de l'Ain : 1a tappa</title>
+    <desc lang="it">Tracciato impegnativo per la 38esima edizione con poco più di 450 chilometri da percorrere. La prima è una frazione mossa che potrebbe anche sorridere ai velocisti.</desc>
+    <date>2026</date>
+  </programme>
   <channel id="Motor.Trend.ch">
     <url>http://www.tv.blue.ch</url>
     <display-name lang="it">Motor.Trend.ch</display-name>
+  </channel>
+  <channel id="Mezzo.Live.ch">
+    <url>http://www.tv.blue.ch</url>
+    <display-name lang="it">Mezzo.Live.ch</display-name>
   </channel>
   <channel id="Rai.News.24.ch">
     <url>http://www.tv.blue.ch</url>
@@ -42026,71 +40269,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <url>http://www.tv.blue.ch</url>
     <display-name lang="it">Mezzo.ch</display-name>
   </channel>
-  <programme channel="La.7d.ch" start="20260727033500 +0000" stop="20260727040000 +0000">
-    <title lang="it">La7 Doc</title>
-    <desc lang="it">Selezione di documentari proposti dalla rete e dedicati a temi culturali, sociali, storici, artistici e naturalistici. Il meglio della produzione nazionale e internazionale in ambito divulgativo.</desc>
-    <date>2014</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="La.7d.ch" start="20260727040000 +0000" stop="20260727040500 +0000">
-    <title lang="it">Oroscopo</title>
-    <desc lang="it">Scopriamo assieme quali sorprese sono in serbo nel prossimo futuro per ciascuno dei segni dello zodiaco. L'appuntamento quotidiano con l'oroscopo de La7 è pronto a rivelare ogni sfumatura dell'influenza delle stelle.</desc>
-    <date>2014</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="La.7d.ch" start="20260727040500 +0000" stop="20260727041000 +0000">
-    <title lang="it">TG La7</title>
-    <desc lang="it">Edizione del notiziario televisivo a cura della redazione giornalistica di La7. Dal 24 Giugno 2001, gli aggiornamenti sui fatti più rilevanti a livello nazionale ed internazionale.</desc>
-    <date>2014</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="La.7d.ch" start="20260727041000 +0000" stop="20260727060000 +0000">
-    <title lang="it">Josephine angelo custode</title>
-    <sub-title lang="it">Tango</sub-title>
-    <desc lang="it">Josephine partecipa ad una classe di tango guidata dalla famosa coreografa e ballerina Maria Jiménez Sol. Alejandro minaccia Maria dicendole di avere informazioni scottanti a suo riguardo.</desc>
-    <credits>
-      <actor role="Joséphine">Mimie Mathy</actor>
-      <director>Jean-Marc Seban</director>
-      <director>Philippe Monnier</director>
-      <director>Pascal Heylbroeck</director>
-    </credits>
-    <date>2013</date>
-    <country lang="it">FR</country>
-    <episode-num system="onscreen">S14 E8</episode-num>
-  </programme>
-  <programme channel="La.7d.ch" start="20260727060000 +0000" stop="20260727074500 +0000">
-    <title lang="it">Josephine angelo custode</title>
-    <sub-title lang="it">Il sorriso della mummia</sub-title>
-    <desc lang="it">Josephine ha un nuovo compito: aiutare Louise, una giovane egittologa di talento impegnata nello studio della mummia di Nefertiti.</desc>
-    <credits>
-      <actor role="Joséphine">Mimie Mathy</actor>
-      <director>Jean-Marc Seban</director>
-      <director>Philippe Monnier</director>
-      <director>Pascal Heylbroeck</director>
-    </credits>
-    <date>2014</date>
-    <country lang="it">FR</country>
-    <episode-num system="onscreen">S15 E1</episode-num>
-  </programme>
-  <programme channel="La.7d.ch" start="20260727074500 +0000" stop="20260727094000 +0000">
-    <title lang="it">Matrimonio in famiglia</title>
-    <desc lang="it">Lucia, messicana, e Marcus, afroamericano, hanno deciso di sposarsi e lo comunicano ai loro rispettivi genitori. Le due famiglie però, faticano ad andare d'accordo.</desc>
-    <credits>
-      <actor role="Lucia Ramirez">America Ferrera</actor>
-      <actor role="Bradford Boyd">Forest Whitaker</actor>
-      <actor role="Miguel Ramirez">Carlos Mencia</actor>
-      <actor role="Angela">Regina King</actor>
-      <actor role="Marcus Boyd">Lance Gross</actor>
-      <actor role="Brad's Friend">Charlie Murphy</actor>
-      <actor role="Brad's Friend">Taye Diggs</actor>
-      <actor role="Izzy Ramirez">Anjelah Johnson-Reyes</actor>
-      <actor role="Sonia Ramirez">Dianna Maria Riva</actor>
-      <actor role="Lucia's Grandmother">Lupe Ontiveros</actor>
-      <director>Rick Famuyiwa</director>
-    </credits>
-    <date>2010</date>
-    <country lang="it">US</country>
-  </programme>
   <programme channel="La.7d.ch" start="20260727094000 +0000" stop="20260727114000 +0000">
     <title lang="it">Va' dove ti porta il cuore</title>
     <desc lang="it">Prima di morire, un'anziana donna scrive una lunga lettera, in forma di diario, alla nipote Anna trasferitasi in America, ripercorrendo le tappe della sua vita difficile e contraddittoria.</desc>
@@ -42523,102 +40701,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <desc lang="it">Edizione del notiziario televisivo a cura della redazione giornalistica di La7. Dal 24 Giugno 2001, gli aggiornamenti sui fatti più rilevanti a livello nazionale ed internazionale.</desc>
     <date>2014</date>
     <country lang="it">IT</country>
-  </programme>
-  <programme channel="Giallo.ch" start="20260727030000 +0000" stop="20260727040000 +0000">
-    <title lang="it">Torbidi delitti</title>
-    <sub-title lang="it">La pesca fatale</sub-title>
-    <desc lang="it">Quando il corpo di Mark Mueller viene estratto dal lago Michigan la polizia si chiede se si sia trattato di un incidente o di un omicidio. L'auto dell' uomo viene ritrovata bruciata a pochi chilometri di distanza.</desc>
-    <credits>
-      <actor role="Jane">Suehyla El-Attar Young</actor>
-      <actor role="Detective Bob Randall">J Michael Grey</actor>
-      <actor role="Billy Weems">Darryl W. Handy</actor>
-      <actor role="Felicia">Shuntel Renay</actor>
-      <actor role="Mark Mueller">Victor Rivera</actor>
-      <actor role="Jared Fitch">Daniel Salyers</actor>
-      <director>Dan Bush</director>
-    </credits>
-    <date>2017</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S5 E5</episode-num>
-    <rating system="FSK">
-      <value>16+</value>
-    </rating>
-  </programme>
-  <programme channel="Giallo.ch" start="20260727040000 +0000" stop="20260727043000 +0000">
-    <title lang="it">L'investigatore Wolfe</title>
-    <sub-title lang="it">Web oscuro</sub-title>
-    <desc lang="it">Una donna sospetta che il marito, veterano di guerra, abbia trovato conforto nelle braccia di qualcun'altra. L'indagine porta Brian Wolfe nel pericoloso mondo dei lati più oscuri del web.</desc>
-    <date>2016</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S3 E12</episode-num>
-  </programme>
-  <programme channel="Giallo.ch" start="20260727043000 +0000" stop="20260727052500 +0000">
-    <title lang="it">Disappeared</title>
-    <sub-title lang="it">Lee Cutler: Un'anima smarrita</sub-title>
-    <desc lang="it">Seguiamo la scomparsa di un'introversa studentessa che potrebbe aver scelto di porre fine alla propria vita, emulando il protagonista del film Into the Wild.</desc>
-    <date>2010</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="Giallo.ch" start="20260727052500 +0000" stop="20260727062500 +0000">
-    <title lang="it">I misteri di Murdoch</title>
-    <sub-title lang="it">Abbagliati dal colore</sub-title>
-    <desc lang="it">Frank Parker, un uomo che aveva combattuto per l'abolizione della schiavitù negli Stati Uniti, parla in una chiesa metodista del suo ruolo ai tempi in cui gli schiavi venivano contrabbandati attraverso il confine con il Canada.</desc>
-    <credits>
-      <actor role="Detective William Murdoch">Yannick Bisson</actor>
-      <actor role="Dr. Julia Ogden">Helene Joy</actor>
-      <actor role="Constable George Crabtree">Jonny Harris</actor>
-      <actor role="Inspector Thomas Brackenreid">Thomas Craig</actor>
-      <actor role="Rebecca James">Mouna Traoré</actor>
-      <actor role="Gloria Thomson">Leah Doz</actor>
-    </credits>
-    <date>2016</date>
-    <country lang="it">CA</country>
-    <country lang="it">GB</country>
-    <episode-num system="onscreen">S9 E13</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="Giallo.ch" start="20260727062500 +0000" stop="20260727072500 +0000">
-    <title lang="it">I misteri di Murdoch</title>
-    <sub-title lang="it">La ragazza selvaggia</sub-title>
-    <desc lang="it">Murdoch e la sua squadra indagano su un macabro omicidio di un uomo in una foresta, che è collegato a una giovane donna selvaggia. Nel frattempo, il dottor Ogden scopre dove si trova il bambino adottato.</desc>
-    <credits>
-      <actor role="Detective William Murdoch">Yannick Bisson</actor>
-      <actor role="Dr. Julia Ogden">Helene Joy</actor>
-      <actor role="Constable George Crabtree">Jonny Harris</actor>
-      <actor role="Inspector Thomas Brackenreid">Thomas Craig</actor>
-    </credits>
-    <date>2016</date>
-    <country lang="it">CA</country>
-    <country lang="it">GB</country>
-    <episode-num system="onscreen">S9 E14</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="Giallo.ch" start="20260727072500 +0000" stop="20260727091500 +0000">
-    <title lang="it">L'ispettore Barnaby</title>
-    <sub-title lang="it">Drag Queen Vs Domino</sub-title>
-    <desc lang="it">Quando la presidentessa di una parrocchia viene trovata uccisa in un teatro locale, ci si chiede se la causa dell'assassinio non sia legata all'ostilità della donna nei confonti di un imminente drag show.</desc>
-    <credits>
-      <actor role="DCI John Barnaby">Neil Dudgeon</actor>
-      <actor role="DS Jamie Winter">Nick Hendrix</actor>
-      <actor role="Sarah Barnaby">Fiona Dolman</actor>
-      <actor role="Dr Fleur Perkins">Annette Badland</actor>
-      <director>Paul Gibson</director>
-      <director>Leon Lopez</director>
-    </credits>
-    <date>2023</date>
-    <country lang="it">GB</country>
-    <episode-num system="onscreen">S23 E4</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
   </programme>
   <programme channel="Giallo.ch" start="20260727091500 +0000" stop="20260727101500 +0000">
     <title lang="it">Alexa: Vita da detective</title>
@@ -43268,162 +41350,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <date>2016</date>
     <country lang="it">US</country>
     <episode-num system="onscreen">S3 E7</episode-num>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727033000 +0000" stop="20260727035700 +0000">
-    <title lang="it">Rassegna stampa</title>
-    <desc lang="it">Una panoramica sulla rassegna stampa italiana e internazionale, a cura della redazione della rete, in cui vengono analizzati e approfonditi i principali titoli quotidiani.</desc>
-    <date>2014</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727035700 +0000" stop="20260727035800 +0000">
-    <title lang="it">Meteo</title>
-    <desc lang="it">Uno sguardo alle previsioni del tempo in Italia per oggi e i prossimi giorni. Un'analisi delle temperature, i venti e le eventuali precipitazioni.</desc>
-    <date>2009</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727035800 +0000" stop="20260727040000 +0000">
-    <title lang="it">Traffico</title>
-    <desc lang="it">Informazioni sul traffico e sulla mobilità automobilistica, con aggiornamenti continui sul traffico autostradale e nelle principali città italiane.</desc>
-    <date>2012</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727040000 +0000" stop="20260727042600 +0000">
-    <title lang="it">TITOLI TG</title>
-    <desc lang="it">Scopriamo le notizie del giorno e alcune novità in rubrica selezionate dalla redazione.</desc>
-    <date>2025</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727042600 +0000" stop="20260727043000 +0000">
-    <title lang="it">Meteo</title>
-    <desc lang="it">Uno sguardo alle previsioni del tempo in Italia per oggi e i prossimi giorni. Un'analisi delle temperature, i venti e le eventuali precipitazioni.</desc>
-    <date>2009</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727043000 +0000" stop="20260727044500 +0000">
-    <title lang="it">Sommario</title>
-    <desc lang="it">Le principali notizie.</desc>
-    <date>2012</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727044500 +0000" stop="20260727045700 +0000">
-    <title lang="it">Altri mondi</title>
-    <desc lang="it">Scopriamo insieme notizie, recensioni, analisi e curiosità per raccontare da più punti di vista il mondo dei videogiochi. Questi vengono considerati un medium ormai maturo, in grado di divertire ma anche di raccontare storie profonde e complesse.</desc>
-    <date>2023</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727045700 +0000" stop="20260727050000 +0000">
-    <title lang="it">Meteo</title>
-    <desc lang="it">Uno sguardo alle previsioni del tempo in Italia per oggi e i prossimi giorni. Un'analisi delle temperature, i venti e le eventuali precipitazioni.</desc>
-    <date>2009</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727050000 +0000" stop="20260727050300 +0000">
-    <title lang="it">Rassegna stampa</title>
-    <desc lang="it">Una panoramica sulla rassegna stampa italiana e internazionale, a cura della redazione della rete, in cui vengono analizzati e approfonditi i principali titoli quotidiani.</desc>
-    <date>2014</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727050300 +0000" stop="20260727052800 +0000">
-    <title lang="it">Rassegna stampa</title>
-    <desc lang="it">Una panoramica sulla rassegna stampa italiana e internazionale, a cura della redazione della rete, in cui vengono analizzati e approfonditi i principali titoli quotidiani.</desc>
-    <date>2014</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727052800 +0000" stop="20260727053000 +0000">
-    <title lang="it">Meteo</title>
-    <desc lang="it">Uno sguardo alle previsioni del tempo in Italia per oggi e i prossimi giorni. Un'analisi delle temperature, i venti e le eventuali precipitazioni.</desc>
-    <date>2009</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727053000 +0000" stop="20260727054500 +0000">
-    <title lang="it">Sommario</title>
-    <desc lang="it">Le principali notizie.</desc>
-    <date>2012</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727054500 +0000" stop="20260727055700 +0000">
-    <title lang="it">Motori 24</title>
-    <desc lang="it">Dalle auto da sogno alle competizioni, le ultime novità e gare riguardanti il mondo dei motori.</desc>
-    <date>2022</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727055700 +0000" stop="20260727060000 +0000">
-    <title lang="it">Meteo</title>
-    <desc lang="it">Uno sguardo alle previsioni del tempo in Italia per oggi e i prossimi giorni. Un'analisi delle temperature, i venti e le eventuali precipitazioni.</desc>
-    <date>2009</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727060000 +0000" stop="20260727062600 +0000">
-    <title lang="it">News</title>
-    <desc lang="it">Le principali notizie del momento a cura della redazione della rete RaiNews24. Aggiornamenti ed approfondimenti riguardanti politica, cronaca, esteri, economia, sport e attualità.</desc>
-    <date>2012</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727062600 +0000" stop="20260727063000 +0000">
-    <title lang="it">CCISS: Viaggiare informati</title>
-    <desc lang="it">I più importanti aggiornamenti in tempo reale e le previsioni riguardanti la viabilità sulla rete stradale italiana, a cura del Centro di Coordinamento Informazioni sulla Sicurezza Stradale.</desc>
-    <date>2012</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727063000 +0000" stop="20260727070000 +0000">
-    <title lang="it">Rassegna stampa</title>
-    <desc lang="it">Una panoramica sulla rassegna stampa italiana e internazionale, a cura della redazione della rete, in cui vengono analizzati e approfonditi i principali titoli quotidiani.</desc>
-    <date>2014</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727070000 +0000" stop="20260727072700 +0000">
-    <title lang="it">TITOLI TG</title>
-    <desc lang="it">Scopriamo le notizie del giorno e alcune novità in rubrica selezionate dalla redazione.</desc>
-    <date>2025</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727072700 +0000" stop="20260727073000 +0000">
-    <title lang="it">Meteo</title>
-    <desc lang="it">Uno sguardo alle previsioni del tempo in Italia per oggi e i prossimi giorni. Un'analisi delle temperature, i venti e le eventuali precipitazioni.</desc>
-    <date>2009</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727073000 +0000" stop="20260727074500 +0000">
-    <title lang="it">Sommario</title>
-    <desc lang="it">Le principali notizie.</desc>
-    <date>2012</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727074500 +0000" stop="20260727080000 +0000">
-    <title lang="it">Motori 24</title>
-    <desc lang="it">Dalle auto da sogno alle competizioni, le ultime novità e gare riguardanti il mondo dei motori.</desc>
-    <date>2022</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727080000 +0000" stop="20260727090000 +0000">
-    <title lang="it">Filo Diretto Estate</title>
-    <desc lang="it">Interviste a vari ospiti competenti su vari argomenti di attualità.</desc>
-    <date>2025</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727090000 +0000" stop="20260727093000 +0000">
-    <title lang="it">Rai News LIS</title>
-    <desc lang="it">Tutte le novità di cronaca, politica, economia, cultura, spettacolo e sport tradotti nel linguaggio dei segni.</desc>
-    <date>2014</date>
-    <country lang="it">US</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727093000 +0000" stop="20260727094500 +0000">
-    <title lang="it">Sommario</title>
-    <desc lang="it">Le principali notizie.</desc>
-    <date>2012</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727094500 +0000" stop="20260727095500 +0000">
-    <title lang="it">Focus 24</title>
-    <desc lang="it">Un'intervista, indagine o discussione su un argomento di particolare rilevanza e interesse.</desc>
-    <date>2024</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Rai.News.24.ch" start="20260727095500 +0000" stop="20260727100000 +0000">
-    <title lang="it">Meteo</title>
-    <desc lang="it">Uno sguardo alle previsioni del tempo in Italia per oggi e i prossimi giorni. Un'analisi delle temperature, i venti e le eventuali precipitazioni.</desc>
-    <date>2009</date>
-    <country lang="it">IT</country>
   </programme>
   <programme channel="Rai.News.24.ch" start="20260727100000 +0000" stop="20260727103000 +0000">
     <title lang="it">News</title>
@@ -44154,79 +42080,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <date>2025</date>
     <country lang="it">IT</country>
   </programme>
-  <programme channel="Real.Time.ch" start="20260727031000 +0000" stop="20260727040000 +0000">
-    <title lang="it">La clinica della pelle</title>
-    <sub-title lang="it">La bestia</sub-title>
-    <desc lang="it">L'ex modella Sarra è inorridita dal suo enorme lipoma. Kzartan si vergogna del suo viso, mentre la vita di Emily è rovinata dalla psoriasi. Inoltre, Kevin è allo stremo delle forze a causa del suo tumore.</desc>
-    <date>2022</date>
-    <country lang="it">GB</country>
-    <episode-num system="onscreen">S4 E2</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="Real.Time.ch" start="20260727040000 +0000" stop="20260727050000 +0000">
-    <title lang="it">La clinica della pelle</title>
-    <sub-title lang="it">Freak Show</sub-title>
-    <desc lang="it">Levi non sopporta più le sue escrescenze sul corpo. La peluria sul volto di Kim è fuori controllo, mentre Roger non riesce a godersi la vita a causa di uno sfogo cutaneo.</desc>
-    <date>2022</date>
-    <country lang="it">GB</country>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="Real.Time.ch" start="20260727050000 +0000" stop="20260727060000 +0000">
-    <title lang="it">La clinica della pelle</title>
-    <sub-title lang="it">Agonia</sub-title>
-    <desc lang="it">L'enorme cisti di Carol rappresenta un'agonia per lei. L'acne di Alfie, 19 anni, gli ha provocato cicatrici sulla schiena e sul petto. Bill ha un nodulo sul collo che lo sta preoccupando.</desc>
-    <date>2022</date>
-    <country lang="it">GB</country>
-    <episode-num system="onscreen">S4 E11</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="Real.Time.ch" start="20260727060000 +0000" stop="20260727070000 +0000">
-    <title lang="it">La clinica della pelle</title>
-    <sub-title lang="it">Parti intime</sub-title>
-    <desc lang="it">La dottoressa Emma aiuta Sarah, la quale presenta dolorose verruche genitali. Stewart soffre di molteplici noduli sullo scroto da quasi venticinque anni.</desc>
-    <date>2022</date>
-    <country lang="it">GB</country>
-    <episode-num system="onscreen">S4 E12</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="Real.Time.ch" start="20260727070000 +0000" stop="20260727075000 +0000">
-    <title lang="it">Il mio gatto è indemoniato</title>
-    <sub-title lang="it">Brama di distruzione</sub-title>
-    <desc lang="it">Jackson si occupa di Monty, un gatto affetto da un disturbo che lo porta a mordere e ingerire sostanze non nutritive. Deve ristabilire l'armonia in una casa con due gatti e due savannah.</desc>
-    <date>2014</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S6 E6</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="Real.Time.ch" start="20260727075000 +0000" stop="20260727084000 +0000">
-    <title lang="it">Il mio gatto è indemoniato</title>
-    <sub-title lang="it">Incubo multimilionario</sub-title>
-    <desc lang="it">Il gatto Frankie fa la pipì ovunque nella nuova e multimilionaria casa dei sogni di Daniel e Desiree. Inoltre, il gatto Sugar si nasconde da Dyna, la nuova gattina adottata.</desc>
-    <date>2014</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S5 E9</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="Real.Time.ch" start="20260727084000 +0000" stop="20260727093500 +0000">
-    <title lang="it">SOS: ho distrutto casa</title>
-    <sub-title lang="it">Abbiamo bisogno di aiuto</sub-title>
-    <desc lang="it">Le riparazioni provvisorie di una coppia sono diventate un problema permanente. Jasmine crea una camera da letto con bagno privato, in modo che non debbano più dormire nel garage.</desc>
-    <date>2021</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S2 E5</episode-num>
-  </programme>
   <programme channel="Real.Time.ch" start="20260727093500 +0000" stop="20260727104000 +0000">
     <title lang="it">Cortesie per gli ospiti</title>
     <sub-title lang="it">Chiara e Fabrizio vs. Serena e Gianna</sub-title>
@@ -44624,70 +42477,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <date>2014</date>
     <country lang="it">US</country>
   </programme>
-  <programme channel="Motor.Trend.ch" start="20260727033500 +0000" stop="20260727040000 +0000">
-    <title lang="it">Come è fatto</title>
-    <sub-title lang="it">Elmetti dei pompieri, bussole, tubetti e seghe a mano</sub-title>
-    <desc lang="it">Un viaggio per scoprire come sono fatti gli oggetti di tutti i giorni: caschi dei vigili del fuoco, bussole nautiche e seghe a mano.</desc>
-    <credits>
-      <director>Yves Allard</director>
-      <director>André Douillard</director>
-      <director>Gabriel Hoss</director>
-      <director>Louis-Phillipe Myre</director>
-    </credits>
-    <date>2006</date>
-    <country lang="it">CA</country>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="Motor.Trend.ch" start="20260727040000 +0000" stop="20260727043500 +0000">
-    <title lang="it">Marchio di fabbrica</title>
-    <sub-title lang="it">Radar e città proibita</sub-title>
-    <desc lang="it">Scopriamo come vengono prodotti alcuni oggetti usati in tutto il mondo, tra cui i pistacchi e i radar. Inoltre a Pechino, sveliamo tutti i segreti della Città Proibita.</desc>
-    <date>2013</date>
-    <country lang="it">CA</country>
-    <country lang="it">GB</country>
-    <country lang="it">SG</country>
-  </programme>
-  <programme channel="Motor.Trend.ch" start="20260727043500 +0000" stop="20260727051000 +0000">
-    <title lang="it">Marchio di fabbrica</title>
-    <desc lang="it">Scopriamo insieme come vengano assemblati i carroattrezzi, come venga prodotto il delizioso formaggio Roquefort, una delle più note specialità tradizionali francesi, e come si provveda al trasporto di alberi di notevoli dimensioni.</desc>
-    <date>2013</date>
-    <country lang="it">CA</country>
-    <country lang="it">GB</country>
-    <country lang="it">SG</country>
-  </programme>
-  <programme channel="Motor.Trend.ch" start="20260727051000 +0000" stop="20260727061000 +0000">
-    <title lang="it">Reperti d'assalto</title>
-    <sub-title lang="it">Episodio 11</sub-title>
-    <desc lang="it">Michael Manousakis ha problemi con il suo Beech 18: il sedile del vecchio areoplano è troppo piccolo per lui. Cerca di risolvere il problema durante il volo. A Leeds trova auto d'epoca tedesca in una discarica.</desc>
-    <date>2018</date>
-    <country lang="it">DE</country>
-    <episode-num system="onscreen">S6 E11</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="Motor.Trend.ch" start="20260727061000 +0000" stop="20260727075000 +0000">
-    <title lang="it">Reperti d'assalto</title>
-    <desc lang="it">Il furgone Chevrolet Express è un veicolo molto richiesto. Nina si rivolge ai ragazzi di Morlock Motors per adattare il mezzo alla struttura di un camper, ma il suo budget è limitato.</desc>
-    <date>2018</date>
-    <country lang="it">DE</country>
-    <episode-num system="onscreen">S6 E7</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="Motor.Trend.ch" start="20260727075000 +0000" stop="20260727092500 +0000">
-    <title lang="it">Vintage garage</title>
-    <desc lang="it">Quando François si imbatte in una BMW Z3, una delle 'youngtimers', coglie al volo l'occasione. Deve risolvere il surriscaldamento del motore, e i problemi alla frizione, e, involte, c'è un'attrezzatura da restaurare.</desc>
-    <credits>
-      <director>Karim Mahmoud</director>
-    </credits>
-    <date>2023</date>
-    <country lang="it">FR</country>
-    <episode-num system="onscreen">S8 E3</episode-num>
-  </programme>
   <programme channel="Motor.Trend.ch" start="20260727092500 +0000" stop="20260727105500 +0000">
     <title lang="it">Vintage garage</title>
     <desc lang="it">François Allain affronta uno dei più grandi miti della storia dell'automobilismo francese: la 4L. L'esperto è stato incaricato da Renault Classic di trasformare una 4L a combustione in un veicolo elettrico.</desc>
@@ -45067,132 +42856,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <country lang="it">CA</country>
     <country lang="it">GB</country>
     <country lang="it">SG</country>
-  </programme>
-  <programme channel="NOVE.ch" start="20260727030500 +0000" stop="20260727040000 +0000">
-    <title lang="it">Nudi e crudi</title>
-    <sub-title lang="it">In Croazia</sub-title>
-    <desc lang="it">Un veterano dell'esercito e un uomo appena sposato affrontano alcune importanti regole nelle montagne della Croazia. I due devono collaborare mentre una terribile tempesta li minaccia.</desc>
-    <date>2017</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S8 E6</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260727040000 +0000" stop="20260727044500 +0000">
-    <title lang="it">Ombre e misteri</title>
-    <desc lang="it">Seguiamo assieme alcune indagini giudiziarie ricche di sorprese e risvolti inattesi, a dimostrazione del fatto che nemmeno le prove più schiaccianti siano in grado di rivelare con certezza il vero colpevole di un delitto.</desc>
-    <credits>
-      <actor role="Wayne Brookside">Nelson Scott</actor>
-      <actor role="Martha Klingman / Apt. Manager">Paula Lauzon</actor>
-      <actor role="Sandra Raya Becerril">Sabra May</actor>
-      <actor role="Lucinda Ralston">Susan Macke Miller</actor>
-      <director>Joshua Kessler</director>
-    </credits>
-    <date>2010</date>
-    <country lang="it">US</country>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260727044500 +0000" stop="20260727051500 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">L'insalata era nell'orto</sub-title>
-    <desc lang="it">Giuseppe e Federica stanno insieme dai tempi dell'università. Lui coltiva e vende i prodotti del proprio orto e durante una consegna a Lucia tra i due scatta la scintilla. La moglie, però, viene a saperlo.</desc>
-    <credits>
-      <director>Bernardo Nuti</director>
-    </credits>
-    <date>2015</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260727051500 +0000" stop="20260727054000 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Sulle nuvole</sub-title>
-    <desc lang="it">Elena e Giovanni sono fidanzati da una vita. Dal loro passato comune torna Marco, aitante pilota che fa capitolare la ragazza. Quando il compagno lo scopre, si vendica riempiendo la casa di lei di ciocche di capelli.</desc>
-    <credits>
-      <director>Bernardo Nuti</director>
-    </credits>
-    <date>2015</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260727054000 +0000" stop="20260727061500 +0000">
-    <title lang="it">Alta infedeltà: Nuovi modi di tradire</title>
-    <sub-title lang="it">Passeggiata al mare</sub-title>
-    <desc lang="it">Durante la pandemia Federica, ossessionata dalla paura del contagio, costringe il suo compagno Umberto a trasferirsi momentaneamente al mare, dove ha modo di conoscere Cecilia.</desc>
-    <date>2021</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S6 E13</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260727061500 +0000" stop="20260727064500 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Accordi e disaccordi</sub-title>
-    <desc lang="it">Eleonora e Marco sono una coppia con la stessa passione per la musica. Entrambi lavorano nello stesso mediastore. Quando però al negozio arriva la frizzante Gianna, lui ne è fortemente attratto.</desc>
-    <credits>
-      <director>Bernardo Nuti</director>
-    </credits>
-    <date>2015</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S2 E15</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260727064500 +0000" stop="20260727071500 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Love Call</sub-title>
-    <desc lang="it">Aldo e Sonia sono una coppia felice e stanno insieme dai tempi dell'università. Il rapporto tra i due, però, comincia a indebolirsi quando lei, in un call center, conosce il giovane ristoratore Davide.</desc>
-    <credits>
-      <director>Bernardo Nuti</director>
-    </credits>
-    <date>2015</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S2 E16</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260727071500 +0000" stop="20260727074500 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Jerry</sub-title>
-    <desc lang="it">Jerry e Marina sono una coppia sposata, con qualche scheletro dell'armadio. Lei ha avuto un flirt con un collega, e lui, da allora, frequenta diverse donne alle spalle della moglie. Almeno finché non viene tutto a galla.</desc>
-    <credits>
-      <director>Bernardo Nuti</director>
-    </credits>
-    <date>2017</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S4 E13</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260727074500 +0000" stop="20260727081500 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Spose e motori</sub-title>
-    <desc lang="it">Isabella disegna abiti da sposa, ma mai per sé. La relazione con Enzo risente molto del desiderio irrealizzato della ragazza, e il suo compagno complica involontariamente le cose assumendo l'aitante Arturo.</desc>
-    <credits>
-      <director>Bernardo Nuti</director>
-    </credits>
-    <date>2017</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S4 E14</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260727081500 +0000" stop="20260727084500 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Il trilocale</sub-title>
-    <desc lang="it">Francesca e Lorenzo, napoletani, sono sposati da cinque anni e sono felici insieme. Lui, ex donnaiolo, è ormai completamente concentrato sugli affari e lavora come consulente della società immobiliare del padre di Francesca.</desc>
-    <credits>
-      <director>Bernardo Nuti</director>
-    </credits>
-    <date>2018</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S5 E17</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260727084500 +0000" stop="20260727100000 +0000">
-    <title lang="it">Cash or Trash: Chi offre di più?</title>
-    <desc lang="it">In ogni puntata, Paolo Conticini incontra persone comuni convinte di avere un tesoro in soffitta e pronte a vendere questi oggetti al miglior offerente. Un esperto fornisce una prima valutazione economica.</desc>
-    <credits>
-      <director>Giuseppe Bianchi</director>
-      <director>Tomas Goldschmidt</director>
-    </credits>
-    <date>2024</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S5 E14</episode-num>
   </programme>
   <programme channel="NOVE.ch" start="20260727100000 +0000" stop="20260727112000 +0000">
     <title lang="it">Cash or Trash: Chi offre di più?</title>
@@ -45625,233 +43288,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <rating system="FSK">
       <value>12+</value>
     </rating>
-  </programme>
-  <programme channel="K2.ch" start="20260727033500 +0000" stop="20260727040000 +0000">
-    <title lang="it">I Dalton</title>
-    <desc lang="it">Joe pianifica di sedurre la signorina Betty per poter finalmente fuggire. Allenato dai suoi fratelli, Joe si impegna duramente per diventare galante e recitare poesie d'amore.</desc>
-    <date>2014</date>
-    <country lang="it">FR</country>
-    <episode-num system="onscreen">S1 E18</episode-num>
-  </programme>
-  <programme channel="K2.ch" start="20260727040000 +0000" stop="20260727042000 +0000">
-    <title lang="it">Karate Sheep</title>
-    <sub-title lang="it">La furia del robot tosaerba; Wonder Wanda; Trico e lo spettacolo di magia</sub-title>
-    <desc lang="it">Wanda è invidiosa del tosaerba di Trico. Wanda poi dà prova della sua forza a Trico, e i numeri di Trico allo spettacolo di magia stupiscono Wanda.</desc>
-    <credits>
-      <director>Renaud Martin</director>
-      <director>Cédric Dietsch</director>
-    </credits>
-    <date>2023</date>
-    <country lang="it">FR</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="K2.ch" start="20260727042000 +0000" stop="20260727044000 +0000">
-    <title lang="it">Karate Sheep</title>
-    <sub-title lang="it">La cosa; C'è puzza di guai; Un pessimo insegnante</sub-title>
-    <desc lang="it">Un misterioso oggetto fa vivere a Wanda, Trico e Wolf un'avventura emozionante. Il gregge è terrorizzato dalla puzza di Trico, che poi cerca di insegnare a leggere a Wanda.</desc>
-    <credits>
-      <director>Renaud Martin</director>
-      <director>Cédric Dietsch</director>
-    </credits>
-    <date>2023</date>
-    <country lang="it">FR</country>
-    <episode-num system="onscreen">S1 E3</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="K2.ch" start="20260727044000 +0000" stop="20260727045500 +0000">
-    <title lang="it">Karate Sheep</title>
-    <sub-title lang="it">Problemi di schiena</sub-title>
-    <desc lang="it">Wanda ha improvvisamente contratto una lombalgia e ora è a malapena in grado di proteggere le sue pecore dal lupo, il quale ne vuole subito approfittare. Il tocco magico di Trico, però, compie un miracolo.</desc>
-    <credits>
-      <director>Renaud Martin</director>
-      <director>Cédric Dietsch</director>
-    </credits>
-    <date>2022</date>
-    <country lang="it">FR</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme channel="K2.ch" start="20260727045500 +0000" stop="20260727052500 +0000">
-    <title lang="it">Il barbiere pasticciere</title>
-    <desc lang="it">Il padrone di casa di Wilk gli aumenta l'affitto e deve trovarsi un nuovo posto dove vivere. Purtroppo, il mercato immobiliare non gioca a suo favore.</desc>
-    <credits>
-      <director>Jeong Ji-hwan</director>
-    </credits>
-    <date>2019</date>
-    <country lang="it">KR</country>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme channel="K2.ch" start="20260727052500 +0000" stop="20260727055000 +0000">
-    <title lang="it">Il barbiere pasticciere</title>
-    <desc lang="it">In una città piena di ogni genere alimentare, il barbiere e maestro decoratore di torte Pan Barbiere offre rimedi e soluzioni brillanti che cambiano nettamente la vita ai clienti del suo salone.</desc>
-    <credits>
-      <director>Jeong Ji-hwan</director>
-    </credits>
-    <date>2019</date>
-    <country lang="it">KR</country>
-  </programme>
-  <programme channel="K2.ch" start="20260727055000 +0000" stop="20260727060000 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">Nelle scarpe di un altro</sub-title>
-    <desc lang="it">Per ottenere il ruolo principale in un'opera teatrale, Alvin fa una scommessa con Brittany per dimostrare di saper lavorare come calzolaio senza mai uscire dal personaggio.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2019</date>
-    <country lang="it">US</country>
-  </programme>
-  <programme channel="K2.ch" start="20260727060000 +0000" stop="20260727061500 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">La principessa reale</sub-title>
-    <desc lang="it">Brittany si convince di essere una principessa smarrita da tanto tempo, ma Alvin non le crede. I due fanno una scommessa, ma Brittany prende il suo ruolo un po' troppo sul serio.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2019</date>
-    <country lang="it">US</country>
-  </programme>
-  <programme channel="K2.ch" start="20260727061500 +0000" stop="20260727062500 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">Un allenamento speciale</sub-title>
-    <desc lang="it">L'allenatore Dobkins decide di cacciare Cheesy e Theodore fuori dalla squadra a causa della loro lentezza. Tuttavia, Theodore è fortemente determinato a voler giocare.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">US</country>
-  </programme>
-  <programme channel="K2.ch" start="20260727062500 +0000" stop="20260727064000 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">Il giorno del mondo</sub-title>
-    <desc lang="it">In occasione della celebrazione della Giornata del Mondo, ognuno dei Chipmunks ha il compito di presentare un paese all'intera classe.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">US</country>
-  </programme>
-  <programme channel="K2.ch" start="20260727064000 +0000" stop="20260727065500 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">Reazione allergica</sub-title>
-    <desc lang="it">Mentre si esercita insieme a Eleanor per una gara di panificazione in televisione, Theodore sviluppa una reazione allergica, e viene immediatamente messo a dieta senza zucchero.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">US</country>
-  </programme>
-  <programme channel="K2.ch" start="20260727065500 +0000" stop="20260727070500 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">Una festa movimentata</sub-title>
-    <desc lang="it">Alvin e i suoi fratelli sono soli per il fine settimana, e Derek decide di approfittarne e organizza una grande festa a casa loro.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">US</country>
-  </programme>
-  <programme channel="K2.ch" start="20260727070500 +0000" stop="20260727072000 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">Licenza di insegnare</sub-title>
-    <desc lang="it">La scuola chiude per tre giorni a causa di un'epidemia di pidocchi e Dave crea un'aula in casa e fa da insegnante.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">US</country>
-  </programme>
-  <programme channel="K2.ch" start="20260727072000 +0000" stop="20260727075000 +0000">
-    <title lang="it">Il barbiere pasticciere</title>
-    <desc lang="it">In una città piena di ogni genere alimentare, il barbiere e maestro decoratore di torte Pan Barbiere offre rimedi e soluzioni brillanti che cambiano nettamente la vita ai clienti del suo salone.</desc>
-    <credits>
-      <director>Jeong Ji-hwan</director>
-    </credits>
-    <date>2019</date>
-    <country lang="it">KR</country>
-    <episode-num system="onscreen">S1 E13</episode-num>
-  </programme>
-  <programme channel="K2.ch" start="20260727075000 +0000" stop="20260727081500 +0000">
-    <title lang="it">Il barbiere pasticciere</title>
-    <desc lang="it">La Regina delle Torte, in un discorso al Paese, ordina a Pan Barbiere di farla sembrare più snella.</desc>
-    <credits>
-      <director>Jeong Ji-hwan</director>
-    </credits>
-    <date>2019</date>
-    <country lang="it">KR</country>
-    <episode-num system="onscreen">S1 E11</episode-num>
-  </programme>
-  <programme channel="K2.ch" start="20260727081500 +0000" stop="20260727084000 +0000">
-    <title lang="it">Zig &amp; Sharko</title>
-    <sub-title lang="it">Match point</sub-title>
-    <desc lang="it">Marina e Zig giocano a pallavolo contro Sharko e Bernie. Tra Marina e Sharko si sviluppa una feroce competizione.</desc>
-    <credits>
-      <director>Yani Ouabdesselam</director>
-      <director>Nicolas Bougard</director>
-    </credits>
-    <date>2023</date>
-    <country lang="it">FR</country>
-    <episode-num system="onscreen">S4 E19</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="K2.ch" start="20260727084000 +0000" stop="20260727091000 +0000">
-    <title lang="it">Zig &amp; Sharko</title>
-    <sub-title lang="it">Nel bene e nel male</sub-title>
-    <desc lang="it">Due polpi si sono appena sposati e devono trascorrere la luna di miele sulla barca. Con l'aiuto di Sharko, Marina si impegna a rendere piacevole il loro soggiorno.</desc>
-    <credits>
-      <director>Yani Ouabdesselam</director>
-      <director>Nicolas Bougard</director>
-    </credits>
-    <date>2023</date>
-    <country lang="it">FR</country>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="K2.ch" start="20260727091000 +0000" stop="20260727092000 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">L'ultimo giorno d'estate</sub-title>
-    <desc lang="it">Alvin spreca tutta l'estate a giocare a un videogioco. Un giorno, tuttavia, si rende conto che le vacanze stanno per finire e cerca di fare tutte le cose divertenti che aveva pianificato.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2021</date>
-    <country lang="it">US</country>
-  </programme>
-  <programme channel="K2.ch" start="20260727092000 +0000" stop="20260727093500 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">Un robot emotivo</sub-title>
-    <desc lang="it">Simon inventa un robot che ha emozioni e capacità di apprendimento. La macchina sembra funzionare alla perfezione, ma si ritorce contro il suo creatore quando viene esposta a Internet.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">US</country>
-  </programme>
-  <programme channel="K2.ch" start="20260727093500 +0000" stop="20260727095000 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">Malate per finta</sub-title>
-    <desc lang="it">Eleanor e Jeanette si prendono cura di Brittany, che è malata. Le due ragazze, tuttavia, si chiedono se anche Brittany si prenderebbe cura di loro allo stesso modo se fossero malate.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2021</date>
-    <country lang="it">US</country>
-  </programme>
-  <programme channel="K2.ch" start="20260727095000 +0000" stop="20260727100500 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">Ehi, Troll</sub-title>
-    <desc lang="it">Dave ottiene commenti negativi in uno spettacolo sul web e i Chipmunks e le Chipettes fanno di tutto pur di non farglieli leggere.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">US</country>
   </programme>
   <programme channel="K2.ch" start="20260727100500 +0000" stop="20260727101500 +0000">
     <title lang="it">Alvinnn!!! and the Chipmunks</title>
@@ -47219,127 +44655,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
       <value>6+</value>
     </rating>
   </programme>
-  <programme channel="Frisbee.ch" start="20260727032000 +0000" stop="20260727040000 +0000">
-    <title lang="it">Oggy e i maledetti scarafaggi</title>
-    <desc lang="it">Oggy invita Olivia a una crociera da sogno sul Nilo, ma Oggy soffre presto il mal di mare. Gli scarafaggi decidono di approfittarne e sabotare questa fuga romantica.</desc>
-    <credits>
-      <director>Olivier Jean-Marie</director>
-    </credits>
-    <date>2017</date>
-    <country lang="it">FR</country>
-    <episode-num system="onscreen">S5 E3</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Frisbee.ch" start="20260727040000 +0000" stop="20260727044000 +0000">
-    <title lang="it">Oggy Oggy</title>
-    <desc lang="it">Alla fiera, Oggy Oggy vuole a tutti i costi aggiudicarsi un premio alla macchina in cui si comanda il braccio meccanico con la pinza. Vincere è difficile però, quindi gioca e perde tutti i gettoni, causando un piccolo disastro.</desc>
-    <credits>
-      <director>Fred Martin</director>
-      <director>Yani Ouabdesselam</director>
-      <director>Sandra Derval</director>
-    </credits>
-    <date>2023</date>
-    <country lang="it">FR</country>
-    <episode-num system="onscreen">S2 E19</episode-num>
-  </programme>
-  <programme channel="Frisbee.ch" start="20260727044000 +0000" stop="20260727051500 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">L'ultimo giorno d'estate; Un robot emotivo</sub-title>
-    <desc lang="it">Arriva l'ultimo giorno di scuola e Alvin legge a Simon e Theodor la sua lista di cose da fare durante l'estate. Simon costruisce in gran segreto un robot di nome Geizmo, dotato di un'intelligenza emotiva.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2021</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S4 E21</episode-num>
-  </programme>
-  <programme channel="Frisbee.ch" start="20260727051500 +0000" stop="20260727055000 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">Topolini e scoiattoli; Simon salva il mondo</sub-title>
-    <desc lang="it">Jeanette e Simon decidono di partecipare a un corso di scienze per guadagnare crediti extra. Simon crea un acceleratore di particelle con la centrifuga della lavatrice, ma presto si rende conto di un enorme problema.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S4 E24</episode-num>
-  </programme>
-  <programme channel="Frisbee.ch" start="20260727055000 +0000" stop="20260727061500 +0000">
-    <title lang="it">Curioso come George</title>
-    <sub-title lang="it">Oltre il limite; Una rosa con un altro nome</sub-title>
-    <desc lang="it">Steve ha un'inspiegabile paura di farsi schizzare l'acqua in faccia, e chiede l'aiuto di George per imparare a vincerla. George cerca di capire cosa bisogna fare quando qualcosa puzza.</desc>
-    <credits>
-      <director>Scott Heming</director>
-      <director>Cathy Malkasian</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">CA</country>
-    <episode-num system="onscreen">S12 E14</episode-num>
-  </programme>
-  <programme channel="Frisbee.ch" start="20260727061500 +0000" stop="20260727064000 +0000">
-    <title lang="it">Curioso come George</title>
-    <sub-title lang="it">Il reperto del Tyrannosaurus; Il bingo di George</sub-title>
-    <desc lang="it">George e Marco studiano paleontologia e lavorano a uno scavo. Un'escursione nella natura con Bill impedisce a George di giocare a Bingo, e lui crea la sua versione per la loro avventura.</desc>
-    <credits>
-      <director>Scott Heming</director>
-      <director>Cathy Malkasian</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">CA</country>
-    <episode-num system="onscreen">S12 E15</episode-num>
-  </programme>
-  <programme channel="Frisbee.ch" start="20260727064000 +0000" stop="20260727073000 +0000">
-    <title lang="it">Curioso come George</title>
-    <desc lang="it">Lo chef Pisghetti organizza una festa dove gli ospiti preparano la propria pizza e George, Steve, Betsy e Marco fanno squadra per creare un gustoso intruglio. George aiuta i signori Renkins con il loro orto e pianta un pomodoro nel suo giardino.</desc>
-    <date>2021</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S14 E1</episode-num>
-  </programme>
-  <programme channel="Frisbee.ch" start="20260727073000 +0000" stop="20260727075500 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">Una scimmia da salvare</sub-title>
-    <desc lang="it">Jeanette e i Chipmunks stanno orchestrando un'irruzione a casa di Bocarter perchè vogliono cercare di salvare uno scimpanzé.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">US</country>
-  </programme>
-  <programme channel="Frisbee.ch" start="20260727075500 +0000" stop="20260727082000 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">Il giornale della scuola</sub-title>
-    <desc lang="it">Le vendite del giornali scolastico vedono un aumento esponenziale. Il motivo è la comparsa di una nuova rubrica di pettegolezzi, che presenta articoli su alcuni studenti, prendendoli in giro.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">US</country>
-  </programme>
-  <programme channel="Frisbee.ch" start="20260727082000 +0000" stop="20260727085500 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">Le battute di papà</sub-title>
-    <desc lang="it">A Dave viene chiesto di partecipare a uno spettacolo della scuola e inventare alcune battute divertenti. Alvin è perplesso perché Dave non è affatto divertente. I Chipmunks, quindi, fanno di tutto per aiutarlo.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">US</country>
-  </programme>
-  <programme channel="Frisbee.ch" start="20260727085500 +0000" stop="20260727092500 +0000">
-    <title lang="it">Floopaloo</title>
-    <sub-title lang="it">L'albero della saggezza</sub-title>
-    <desc lang="it">Le gemelle sono sconvolte quando Bryan prende i loro pennelli per il trucco per pulire le ruote del suo skateboard. Malik suggerisce di risolvere la disputa davanti all'albero della saggezza.</desc>
-    <date>2013</date>
-    <episode-num system="onscreen">S1 E9</episode-num>
-  </programme>
-  <programme channel="Frisbee.ch" start="20260727092500 +0000" stop="20260727095500 +0000">
-    <title lang="it">Floopaloo</title>
-    <sub-title lang="it">L'amuleto di Malik</sub-title>
-    <desc lang="it">Di ritorno dal laboratorio, Malik riporta uno strano oggetto: fatto di un materiale a metà tra la ragnatela e il cotone, è una specie di tessuto metà animale metà vegetale. Nessuno sa di cosa si tratta.</desc>
-    <date>2013</date>
-  </programme>
   <programme channel="Frisbee.ch" start="20260727095500 +0000" stop="20260727102000 +0000">
     <title lang="it">Curioso come George</title>
     <desc lang="it">Il professor Wiseman visita il paese e insegna a George le costellazioni, disegnando un libro come guida al cielo notturno. George è entusiasta quando Marco gli chiede di aiutarlo a costruire un vulcano per lo show-and-tell a scuola.</desc>
@@ -48391,227 +45706,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     <date>2022</date>
     <country lang="it">FR</country>
     <episode-num system="onscreen">S2 E23</episode-num>
-  </programme>
-  <programme channel="Super!.ch" start="20260727035000 +0000" stop="20260727040000 +0000">
-    <title lang="it">GhostForce</title>
-    <sub-title lang="it">Mastaar</sub-title>
-    <desc lang="it">La città è controllata da Mastaar, un fantasma che amplifica i suoi poteri grazie al sostegno dei fan. Liv deve rompere l'incantesimo con la sua chitarra.</desc>
-    <credits>
-      <director>René Veilleux</director>
-    </credits>
-    <date>2021</date>
-    <country lang="it">FR</country>
-    <country lang="it">KR</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Super!.ch" start="20260727040000 +0000" stop="20260727041500 +0000">
-    <title lang="it">GhostForce</title>
-    <sub-title lang="it">Il Fanta-mago</sub-title>
-    <desc lang="it">In città, è arrivato Lo Show di Florio, il mago, ma il risveglio di un fantasma posticipa brutalmente l'inizio dello spettacolo.</desc>
-    <credits>
-      <director>René Veilleux</director>
-    </credits>
-    <date>2021</date>
-    <country lang="it">FR</country>
-    <country lang="it">KR</country>
-    <episode-num system="onscreen">S1 E22</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Super!.ch" start="20260727041500 +0000" stop="20260727043000 +0000">
-    <title lang="it">GhostForce</title>
-    <sub-title lang="it">Fanta-spazzola</sub-title>
-    <desc lang="it">Mike ha pianificato tutto nel minimo dettaglio per la visita alla Techno Expo, ma non sempre tutto va secondi i piani. Un fantasma si aggira all'interno della mostra.</desc>
-    <credits>
-      <director>René Veilleux</director>
-    </credits>
-    <date>2021</date>
-    <country lang="it">FR</country>
-    <country lang="it">KR</country>
-    <episode-num system="onscreen">S1 E23</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Super!.ch" start="20260727043000 +0000" stop="20260727050000 +0000">
-    <title lang="it">Miraculous: Le storie di Ladybug e Chat Noir</title>
-    <sub-title lang="it">Christmaster</sub-title>
-    <desc lang="it">Chris, un bambino molto indisciplinato e capriccioso, viene colpito da Papillon. Il bambino viene trasformato nel perfido Chris Master, il padrone dei giocattoli, e sono guai per tutti.</desc>
-    <date>2019</date>
-    <country lang="it">JP</country>
-    <country lang="it">FR</country>
-    <country lang="it">KR</country>
-    <episode-num system="onscreen">S3 E24</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Super!.ch" start="20260727050000 +0000" stop="20260727052500 +0000">
-    <title lang="it">Miraculous: Le storie di Ladybug e Chat Noir</title>
-    <sub-title lang="it">Tempestosa 2</sub-title>
-    <desc lang="it">Aurore viene ancora akumizzata. Trasformata in Tempestosa 2, vuol dimostrare la sua forza facendo piombare la Terra in un inverno perenne, ma Ladybug e Chat Noir cercano di fermarla.</desc>
-    <date>2019</date>
-    <country lang="it">JP</country>
-    <country lang="it">FR</country>
-    <country lang="it">KR</country>
-    <episode-num system="onscreen">S3 E8</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Super!.ch" start="20260727052500 +0000" stop="20260727055000 +0000">
-    <title lang="it">Miraculous: Le storie di Ladybug e Chat Noir</title>
-    <sub-title lang="it">Nostalgia</sub-title>
-    <desc lang="it">Una vecchia amica del Maestro Fu, Marianne, viene infettata da un'akuma a Nostalgia. Armata di una bacchetta magica, Marianne adesso vuole recuperare il tempo perso, ma rubandolo agli altri.</desc>
-    <date>2019</date>
-    <country lang="it">JP</country>
-    <country lang="it">FR</country>
-    <country lang="it">KR</country>
-    <episode-num system="onscreen">S3 E1</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Super!.ch" start="20260727055000 +0000" stop="20260727061500 +0000">
-    <title lang="it">Miraculous: Le storie di Ladybug e Chat Noir</title>
-    <sub-title lang="it">Animaestro</sub-title>
-    <desc lang="it">Un regista viene akumatizzato in Animaestro; armato della sua maschera da supercriminale, intende mostrare al mondo il vero potere dei film d'animazione: una bella giornata in vista per Chat Noir e Ladybug.</desc>
-    <date>2019</date>
-    <country lang="it">JP</country>
-    <country lang="it">FR</country>
-    <country lang="it">KR</country>
-    <episode-num system="onscreen">S3 E4</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Super!.ch" start="20260727061500 +0000" stop="20260727064000 +0000">
-    <title lang="it">Henry Danger</title>
-    <sub-title lang="it">Il segreto svelato</sub-title>
-    <desc lang="it">Henry mette in pericolo la sua identità di Kid Danger rivelando il suo segreto a un amico fidato. Nel frattempo, un cattivo dai denti di titanio sta causando il caos.</desc>
-    <credits>
-      <actor role="Henry">Jace Norman</actor>
-      <actor role="Ray Manchester">Cooper Barnes</actor>
-      <actor role="Charlotte">Riele Downs</actor>
-      <actor role="Jasper">Sean Ryan Fox</actor>
-      <actor role="Piper">Ella Anderson</actor>
-    </credits>
-    <date>2014</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Super!.ch" start="20260727064000 +0000" stop="20260727070500 +0000">
-    <title lang="it">Henry Danger</title>
-    <sub-title lang="it">Le lacrime dell'allegro maggiolino</sub-title>
-    <desc lang="it">Il Capitano Man perde il suo potere di invulnerabilità. Charlotte scopre che gli è stato spruzzato un liquido e Gooch rivela che solo le lacrime degli scarabei felici sono in grado di annientare il potere di Captain Man.</desc>
-    <credits>
-      <actor role="Henry">Jace Norman</actor>
-      <actor role="Ray Manchester">Cooper Barnes</actor>
-      <actor role="Charlotte">Riele Downs</actor>
-      <actor role="Jasper">Sean Ryan Fox</actor>
-      <actor role="Piper">Ella Anderson</actor>
-    </credits>
-    <date>2014</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Super!.ch" start="20260727070500 +0000" stop="20260727073000 +0000">
-    <title lang="it">Henry Danger</title>
-    <sub-title lang="it">Il supplente</sub-title>
-    <desc lang="it">Ortho è un nuovo studente al college. Il suo strano modo di fare e le sue domande divertenti insospettiscono Henry e Charlotte, che ne parlano con Ray.</desc>
-    <credits>
-      <actor role="Henry">Jace Norman</actor>
-      <actor role="Ray Manchester">Cooper Barnes</actor>
-      <actor role="Charlotte">Riele Downs</actor>
-      <actor role="Jasper">Sean Ryan Fox</actor>
-      <actor role="Piper">Ella Anderson</actor>
-    </credits>
-    <date>2014</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Super!.ch" start="20260727073000 +0000" stop="20260727075500 +0000">
-    <title lang="it">Lo show di Patrick Stella</title>
-    <sub-title lang="it">Il nascondiglio; I babysitter</sub-title>
-    <desc lang="it">Man Ray esce di prigione e parte alla ricerca di un ordigno. Lo spettacolo di Patrick rischia di non andare in onda per via dei costi eccessivi.</desc>
-    <date>2022</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Super!.ch" start="20260727075500 +0000" stop="20260727082000 +0000">
-    <title lang="it">Lo show di Patrick Stella</title>
-    <sub-title lang="it">Perla vuole essere una stella; Super-Sitter</sub-title>
-    <desc lang="it">Perla partecipa a una puntata dello spettacolo di Patrick Stella, ma quando si esibisce i suoi numeri sono un disastro. Patrick e Spongebob viaggiano nel passato.</desc>
-    <date>2022</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Super!.ch" start="20260727082000 +0000" stop="20260727084500 +0000">
-    <title lang="it">SpongeBob</title>
-    <sub-title lang="it">Gary parlante; Non date da mangiare ai clown</sub-title>
-    <desc lang="it">Spongebob compra a Gary un collare traduttore, che gli permette di parlare correttamente con lui. Un clown viene abbandonato dal suo circo e Spongebob decide di prendersi cura di lui.</desc>
-    <date>2018</date>
-    <country lang="it">US</country>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Super!.ch" start="20260727084500 +0000" stop="20260727091000 +0000">
-    <title lang="it">SpongeBob</title>
-    <sub-title lang="it">Il pilota automatico; Il vecchio Patrick</sub-title>
-    <desc lang="it">Spongebob decide di acquistare un'automobile dotata di un pilota automatico molto snob. Patrick crede di essere diventato anziano, quindi Spongebob cerca di farlo ritornare bambino.</desc>
-    <date>2018</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S11 E11</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Super!.ch" start="20260727091000 +0000" stop="20260727093500 +0000">
-    <title lang="it">SpongeBob</title>
-    <sub-title lang="it">Amici in miniatura; Compleanno con l'inganno</sub-title>
-    <desc lang="it">L'amicizia tra Spongebob e Patrick è così forte che i due vorrebbero stare sempre insieme. Plankton dice alla nonna di essere il titolare del Krusty Krab; la donna, tuttavia, decide di andare a trovarlo.</desc>
-    <date>2018</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S11 E12</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Super!.ch" start="20260727093500 +0000" stop="20260727100000 +0000">
-    <title lang="it">I Thunderman</title>
-    <sub-title lang="it">Compleanno di ghiaccio</sub-title>
-    <desc lang="it">È il compleanno di Phoebe e Max. Hank e Barb non vedono l'ora di organizzare una festa come due normali adolescenti, ma, dopo un imprevisto, capiscono che le feste a cui vanno di solito non sono così male.</desc>
-    <credits>
-      <actor role="Phoebe Thunderman">Kira Kosarin</actor>
-      <actor role="Max Thunderman">Jack Griffo</actor>
-      <actor role="Barb Thunderman">Rosa Blasi</actor>
-      <actor role="Hank Thunderman">Christian Tallman</actor>
-      <actor role="Nora Thunderman">Addison Riecke</actor>
-      <actor role="Billy Thunderman">Diego Velázquez</actor>
-    </credits>
-    <date>2014</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S1 E15</episode-num>
   </programme>
   <programme channel="Super!.ch" start="20260727100000 +0000" stop="20260727102500 +0000">
     <title lang="it">I Thunderman</title>
@@ -50197,65 +47291,6 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
       <value>6+</value>
     </rating>
   </programme>
-  <programme channel="Mezzo.ch" start="20260727033000 +0000" stop="20260727051000 +0000">
-    <title lang="fr">Avishai Cohen Quintet - Jazz in Marciac</title>
-    <desc lang="fr">Avishai Cohen Quintet est composé d'Avishai Cohen (contrebasse, basse, voix), Yonatan Voltzok (trombone), Yuval Drabkin (saxophone), Itay Simhovich (piano), et Roni Kaspi (batterie).</desc>
-    <credits>
-      <director>Jean-Marc Birraux</director>
-    </credits>
-    <date>2024</date>
-    <country lang="fr">FR</country>
-  </programme>
-  <programme channel="Mezzo.ch" start="20260727051000 +0000" stop="20260727063000 +0000">
-    <title lang="fr">Portico Quartet: Jazz à Junas</title>
-    <desc lang="fr">Portico Quartet Festival Jazz à Junas, 22 juillet 2022 Réalisé par Samuel Thiebaut.</desc>
-    <credits>
-      <director>Samuel Thiebaut</director>
-    </credits>
-    <date>2023</date>
-  </programme>
-  <programme channel="Mezzo.ch" start="20260727063000 +0000" stop="20260727073500 +0000">
-    <title lang="fr">Jazz à Porquerolles 2025</title>
-    <sub-title lang="fr">Ballake Sissoko &amp; Piers Faccini</sub-title>
-    <desc lang="fr">Sur la scène de Jazz à Porquerolles, la kora de Ballaké Sissoko se mêle au folk délicat de Piers Faccini. Une union subtile et envoûtante, scellée par un album conçu à quatre mains : "Our Calling".</desc>
-    <date>2025</date>
-  </programme>
-  <programme channel="Mezzo.ch" start="20260727073500 +0000" stop="20260727074000 +0000">
-    <title lang="fr">Sonata K. 491</title>
-    <desc lang="fr">Le pianiste Javier Perianes interprète la "Sonate K. 491", de Domenico Scarlatti. Une représentation donnée à l'alcazar de Séville, en Espagne.</desc>
-    <credits>
-      <director>Arturo Morales</director>
-    </credits>
-    <date>2025</date>
-    <country lang="fr">ES</country>
-  </programme>
-  <programme channel="Mezzo.ch" start="20260727074000 +0000" stop="20260727074500 +0000">
-    <title lang="fr">La Traviata : Di Provenza il mar, il suol</title>
-    <desc lang="fr">Massimo Cavalletti et l'Orchestre Philharmonique de Monte-Carlo, dirigés par Massimo Zanetti, interprètent "Di Provenza il mar, il suol" tiré de "La traviata" de Verdi. Une représentation donnée le 23 mars 2023 à l'Opéra de Monte-Carlo, à Monaco.</desc>
-    <date>2024</date>
-    <country lang="fr">MC</country>
-  </programme>
-  <programme channel="Mezzo.ch" start="20260727074500 +0000" stop="20260727075000 +0000">
-    <title lang="fr">Piano Sonata in A minor, D 784 ----- Allegro vivace</title>
-    <desc lang="fr">La pianiste Arielle Beck interprète la "Sonate pour piano n° 14 en la mineur" de Schubert. Une représentation extraite d'un concert donné au Théâtre des Champs-Élysées en 2025.</desc>
-    <date>2026</date>
-    <country lang="fr">FR</country>
-  </programme>
-  <programme channel="Mezzo.ch" start="20260727075000 +0000" stop="20260727080000 +0000">
-    <title lang="fr">Saint Matthew Passion - O Mensch, bewein dein Sünde gross</title>
-    <desc lang="fr">Les talens lyriques, dirigés par Christophe Rousset, interprètent "O Mensch, bewein dein Sünde gross" tiré de la "Passion selon saint Matthieu" de Bach. Une représentation donnée le 7 avril 2023 au Festival de Pâques, à Aix-en-Provence.</desc>
-    <credits>
-      <director>Olivier Simonnet</director>
-    </credits>
-    <date>2024</date>
-    <country lang="fr">FR</country>
-  </programme>
-  <programme channel="Mezzo.ch" start="20260727080000 +0000" stop="20260727094000 +0000">
-    <title lang="fr">Orchestre de Paris, Esa-Pekka Salonen, Gautier Capuçon : Chostakovitch, Bruckner</title>
-    <desc lang="fr">Concerto pour violoncelle n° 1 en mi bémol majeur op. 107 Anton Bruckner (1824 - 1896) Symphonie n° 6 en la majeur Paris, Philharmonie, 2 décembre 2021.</desc>
-    <date>2022</date>
-    <country lang="fr">FR</country>
-  </programme>
   <programme channel="Mezzo.ch" start="20260727094000 +0000" stop="20260727110000 +0000">
     <title lang="fr">Behzod Abduraimov, Tokyo Philharmonic, Marios Papadopoulos: Shor, Beethoven - InClassica 2025</title>
     <desc lang="fr">Marios Papadopoulos dirige l'orchestre philharmonique de Tokyo dans une interprétation du Concerto pour piano n° 1 d'Alexey Shor et de la Symphonie n° 7 en la majeur, opus 92, de Ludwig van Beethoven.</desc>
@@ -50521,5 +47556,249 @@ In ospedale, Sir Nighteye è ormai prossimo alla fine. All Might è al suo capez
     </credits>
     <date>2024</date>
     <country lang="fr">CH</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260727090000 +0000" stop="20260727105000 +0000">
+    <title lang="fr">Vasily Petrenko, Elisabeth Leonskaja: Beethoven, Bruckner - Festival de Granada</title>
+    <desc lang="fr">Ludwig van Beethoven (1770-1827) Piano Concerto No. 4 in G major, Op. 58 Anton Bruckner (1824-1896) Symphony No. 4 in E flat major 'Romantic' (1877-80. Ed. Leopold Nowak/Robert Haas).</desc>
+    <date>2024</date>
+    <country lang="fr">ES</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260727105000 +0000" stop="20260727110000 +0000">
+    <title lang="fr">Polonaise No. 6 in A-flat Major, Op. 53, 'Heroic'</title>
+    <desc lang="fr">Le pianiste Lucas Debargue interprète la "Polonaise", dite "Héroïque", de Frédéric Chopin. Une représentation donnée le 3 avril 2023 à la Philharmonie de Paris.</desc>
+    <credits>
+      <director>Olivier Simmonet</director>
+    </credits>
+    <date>2024</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260727110000 +0000" stop="20260727124500 +0000">
+    <title lang="fr">London Symphony Orchestra, Sir Antonio Pappano, Patricia kopatchinskaja: Ravel, Say, Rachmaninov</title>
+    <desc lang="fr">L'Orchestre symphonique de Londres et la violoniste Patricia Kopatchinskaja, dirigés par Antonio Pappano, interprètent des compositions de Ravel, Say et Rachmaninov. Une représentation donnée le 8 octobre 2023 au Barbican Hall de Londres.</desc>
+    <date>2023</date>
+    <country lang="fr">CA</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260727124500 +0000" stop="20260727144000 +0000">
+    <title lang="fr">Orchestre Symphonique de Montréal, Barbara Hannigan: Haydn, Copland, Offenbach, Weill</title>
+    <desc lang="fr">L'Orchestre symphonique de Montréal, dirigé par Barbara Hannigan, et l'alto Marie-Nicole Lemieux interprètent des œuvres d'Haydn, Copland, Offenbach et Weill. Une représentation donnée le 4 février 2026 à la Salle Symphonique de Montréal.</desc>
+    <date>2026</date>
+    <country lang="fr">CA</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260727144000 +0000" stop="20260727160500 +0000">
+    <title lang="fr">Brad Mehldau Trio: Festival International de Jazz de Montréal</title>
+    <desc lang="fr">Concert du Brad Mehldau Trio lors du Festival International de Jazz de Montréal de 2023. Brad Mehldau, au piano, est accompagné du bassiste Larry Grenadier et du batteur Jeff Ballard.</desc>
+    <date>2024</date>
+    <country lang="fr">CA</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260727160500 +0000" stop="20260727173500 +0000">
+    <title lang="fr">Cory Wong - Festival International de Jazz de Montréal</title>
+    <desc lang="fr">Concert du guitariste Cory Wong au Festival International de Jazz de Montréal, le 28 juin 2024.</desc>
+    <credits>
+      <director>Sebastien Bergé</director>
+    </credits>
+    <date>2024</date>
+    <country lang="fr">US</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260727173500 +0000" stop="20260727190000 +0000">
+    <title lang="fr">Kokoroko - Festival International de Jazz de Montréal</title>
+    <credits>
+      <director>Sébastien Berger</director>
+    </credits>
+    <date>2026</date>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260727190000 +0000" stop="20260727205500 +0000">
+    <title lang="fr">'Paquita' by The Ural Ballet, Ekaterinburg</title>
+    <desc lang="fr">Paquita "Ballet Pantomime" en deux actes et trois tableaux de Joseph Mazilier et Paul Foucher.</desc>
+    <credits>
+      <director>Bertrand Normand</director>
+    </credits>
+    <date>2021</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260727205500 +0000" stop="20260727220000 +0000">
+    <title lang="fr">Carmina Burana by Edward Clug -- Ljubljana Festival</title>
+    <desc lang="fr">Captation du ballet "Carmina Burana", enregistrée le 22 juin 2023 lors du Festival de Ljubljana, le plus grand festival de musique de Slovénie qui se tient chaque année dans la capitale.</desc>
+    <credits>
+      <director>Christophe Boula</director>
+    </credits>
+    <date>2023</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260727220000 +0000" stop="20260727232000 +0000">
+    <title lang="fr">Israel Philharmonic Orchestra, Lahav Shani, Pinchas Zukerman : Bruch, Ben-Haïm, Tchaïkovski</title>
+    <desc lang="fr">L'Orchestre philharmonique d'Israël interprète Bruch, Ben-Haïm et Tchaïkovski au Charles Bronfman Auditorium à Tel Aviv le 21 octobre 2021. Il est dirigé par Lahav Shani avec Pinchas Zukerman au violon.</desc>
+    <credits>
+      <director>Christophe Boula</director>
+    </credits>
+    <date>2022</date>
+    <country lang="fr">ES</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260727232000 +0000" stop="20260728000000 +0000">
+    <title lang="fr">INTERMEZZO</title>
+    <desc lang="fr">Clips.</desc>
+    <date>2013</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728000000 +0000" stop="20260728012000 +0000">
+    <title lang="fr">Brad Mehldau Trio: Festival International de Jazz de Montréal</title>
+    <desc lang="fr">Concert du Brad Mehldau Trio lors du Festival International de Jazz de Montréal de 2023. Brad Mehldau, au piano, est accompagné du bassiste Larry Grenadier et du batteur Jeff Ballard.</desc>
+    <date>2024</date>
+    <country lang="fr">CA</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728012000 +0000" stop="20260728025000 +0000">
+    <title lang="fr">Cory Wong - Festival International de Jazz de Montréal</title>
+    <desc lang="fr">Concert du guitariste Cory Wong au Festival International de Jazz de Montréal, le 28 juin 2024.</desc>
+    <credits>
+      <director>Sebastien Bergé</director>
+    </credits>
+    <date>2024</date>
+    <country lang="fr">US</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728025000 +0000" stop="20260728040000 +0000">
+    <title lang="fr">Accident: A Family Portrait</title>
+    <desc lang="fr">Un décès inattendu et brutal touche une famille récemment mise au défi par le mariage du père avec une femme plus jeune. À la mort du patriarche, son épouse veut faire avancer un plan retardé pour un portrait de famille, un projet qui divise.</desc>
+    <credits>
+      <director>Jo Strømgren</director>
+      <director>Stein-Roger Bull</director>
+    </credits>
+    <date>2024</date>
+    <country lang="fr">SE</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728040000 +0000" stop="20260728054000 +0000">
+    <title lang="fr">London Symphony Orchestra, Sir Antonio Pappano, Patricia kopatchinskaja: Ravel, Say, Rachmaninov</title>
+    <desc lang="fr">L'Orchestre symphonique de Londres et la violoniste Patricia Kopatchinskaja, dirigés par Antonio Pappano, interprètent des compositions de Ravel, Say et Rachmaninov. Une représentation donnée le 8 octobre 2023 au Barbican Hall de Londres.</desc>
+    <date>2023</date>
+    <country lang="fr">CA</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728054000 +0000" stop="20260728073000 +0000">
+    <title lang="fr">Orchestre Symphonique de Montréal, Barbara Hannigan: Haydn, Copland, Offenbach, Weill</title>
+    <desc lang="fr">L'Orchestre symphonique de Montréal, dirigé par Barbara Hannigan, et l'alto Marie-Nicole Lemieux interprètent des œuvres d'Haydn, Copland, Offenbach et Weill. Une représentation donnée le 4 février 2026 à la Salle Symphonique de Montréal.</desc>
+    <date>2026</date>
+    <country lang="fr">CA</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728073000 +0000" stop="20260728091000 +0000">
+    <title lang="fr">'Paquita' by The Ural Ballet, Ekaterinburg</title>
+    <desc lang="fr">Paquita "Ballet Pantomime" en deux actes et trois tableaux de Joseph Mazilier et Paul Foucher.</desc>
+    <credits>
+      <director>Bertrand Normand</director>
+    </credits>
+    <date>2021</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728091000 +0000" stop="20260728102000 +0000">
+    <title lang="fr">Carmina Burana by Edward Clug -- Ljubljana Festival</title>
+    <desc lang="fr">Captation du ballet "Carmina Burana", enregistrée le 22 juin 2023 lors du Festival de Ljubljana, le plus grand festival de musique de Slovénie qui se tient chaque année dans la capitale.</desc>
+    <credits>
+      <director>Christophe Boula</director>
+    </credits>
+    <date>2023</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728102000 +0000" stop="20260728110000 +0000">
+    <title lang="fr">INTERMEZZO</title>
+    <desc lang="fr">Clips.</desc>
+    <date>2013</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728110000 +0000" stop="20260728123000 +0000">
+    <title lang="fr">Vasily Petrenko, Nikolai Lugansky: Tchaikovsky - Festival de Verbier</title>
+    <desc lang="fr">Vasily Petrenko, Nikolaï Lugansky, Verbier Festival Orchestra : Tchaïkovski. Au programme : Concerto pour piano n° 1 en si bémol mineur opus 23, Casse-Noisette, acte II.</desc>
+    <credits>
+      <director>Daphné Vollereau</director>
+    </credits>
+    <date>2025</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728123000 +0000" stop="20260728133000 +0000">
+    <title lang="fr">Alexandra Dovgan: Bach, Brahms: Verbier Festival</title>
+    <desc lang="fr">Alexandra Dovgan joue Johann Sebastian Bach au piano (Partita n°6 en si mineur BWV 830), et Johannes Brahms (Variations sur un thème d'Haendel op. 24).</desc>
+    <credits>
+      <director>Sébastien Glas</director>
+    </credits>
+    <date>2024</date>
+    <country lang="fr">CH</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728133000 +0000" stop="20260728144500 +0000">
+    <title lang="fr">Aida Garifullina, Maciej Pikulski : Airs romantiques</title>
+    <desc lang="fr">La soprano Aida Garifullina et le pianiste Maciej Pikulski interprètent des airs romantiques avec, entre autres, Chopin, Massenet, Bizet ou encore Schubert. Une représentation donnée le 1er juillet 2023 lors des Rencontres Musicales d'Évian.</desc>
+    <credits>
+      <director>Jean-Pierre Loisil</director>
+    </credits>
+    <date>2023</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728144500 +0000" stop="20260728170000 +0000">
+    <title lang="fr">Turandot de Puccini à Vérone</title>
+    <desc lang="fr">L'Arena di Verona Orchestra &amp; Chorus, dirigé par Marco Armiliato, interprète "Turandot" de Giacomo Puccini, avec Anna Netrebko dans le rôle-titre. Une représentation donnée le 10 août 2022 aux Arènes de Vérone.</desc>
+    <credits>
+      <director>Franco Zeffirelli</director>
+    </credits>
+    <date>2023</date>
+    <country lang="fr">IT</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728170000 +0000" stop="20260728190000 +0000">
+    <title lang="fr">Berliner Philharmoniker, Kirill Petrenko, Jonas Kaufmann: Waldbühne 2026</title>
+    <desc lang="fr">Giuseppe Verdi 1813 - 1901 La forza del destino ----- Ouverture Francesco Cilèa 1866 - 1950 L'Arlesiana ----- È la solita storia Umberto Giordano 1867 - 1948 Fedora ----- Amor ti vieta Pietro Mascagni 1863 - 1945.</desc>
+    <date>2026</date>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728190000 +0000" stop="20260728204000 +0000">
+    <title lang="fr">Young Euro Classic 2025: National Youth Orchestra of Scotland</title>
+    <desc lang="fr">Anna Clyne 1980 - This Midnight Hour Jay Capperauld 1989 - Galvanic Dances for accordion and orchestra Hector Berlioz 1803 - 1869 Symphonie fantastique Op. 14.</desc>
+    <credits>
+      <director>Torben Jacobsen</director>
+    </credits>
+    <date>2026</date>
+    <country lang="fr">DE</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728204000 +0000" stop="20260728222000 +0000">
+    <title lang="fr">Young Euro Classic 2025: European Union Youth Orchestra</title>
+    <desc lang="fr">Samuel Coleridge-Taylor 1875 - 1912 The Bamboula (Rhapsodic Dances, No. 1 Op. 75) Dmitri Shostakovich 1906 - 1975 Concerto for Cello and Orchestra No. 1 in E-flat-major Op. 107 Antonín Dvořák 1841 - 1904 Symphony No. 8 in G-Major Op. 88.</desc>
+    <date>2026</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728222000 +0000" stop="20260728233000 +0000">
+    <title lang="fr">Carmina Burana by Edward Clug -- Ljubljana Festival</title>
+    <desc lang="fr">Captation du ballet "Carmina Burana", enregistrée le 22 juin 2023 lors du Festival de Ljubljana, le plus grand festival de musique de Slovénie qui se tient chaque année dans la capitale.</desc>
+    <credits>
+      <director>Christophe Boula</director>
+    </credits>
+    <date>2023</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260728233000 +0000" stop="20260729000000 +0000">
+    <title lang="fr">INTERMEZZO</title>
+    <desc lang="fr">Clips.</desc>
+    <date>2013</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260729000000 +0000" stop="20260729014000 +0000">
+    <title lang="fr">'Paquita' by The Ural Ballet, Ekaterinburg</title>
+    <desc lang="fr">Paquita "Ballet Pantomime" en deux actes et trois tableaux de Joseph Mazilier et Paul Foucher.</desc>
+    <credits>
+      <director>Bertrand Normand</director>
+    </credits>
+    <date>2021</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260729014000 +0000" stop="20260729033000 +0000">
+    <title lang="fr">Claudio Abbado, Berliner Philharmoniker : Beethoven, Brahms, Dvořák</title>
+    <desc lang="fr">Ludwig van Beethoven 1770 - 1827 Egmont, overture Johannes Brahms 1833 - 1897 Violin Concerto in D major Op. 77 Antonín Dvořák 1840 - 1903 Symphony no. 9 in E minor Op. 95 'From the New World' Giuseppe Verdi 1813 - 1901 I Vespri siciliani, overture.</desc>
+    <date>2024</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260729033000 +0000" stop="20260729040000 +0000">
+    <title lang="fr">INTERMEZZO</title>
+    <desc lang="fr">Clips.</desc>
+    <date>2013</date>
+    <country lang="fr">FR</country>
+  </programme>
+  <programme channel="Mezzo.Live.ch" start="20260729040000 +0000" stop="20260729055500 +0000">
+    <title lang="fr">Puccini La Bohème Glyndebourne 2022</title>
+    <desc lang="fr">Lors du Glyndebourne Festival, l'orchestre philharmonique de Londres interprète La bohème, Opéra en quatre actes de Giacomo Puccini et Livret de Giuseppe Giacosa et Luigi Illica d'après les "Scènes de la vie de bohème" d'Henry Murger.</desc>
+    <credits>
+      <director>Rhodri Huw</director>
+    </credits>
+    <date>2022</date>
+    <country lang="fr">FR</country>
   </programme>
 </tv>
