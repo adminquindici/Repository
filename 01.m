@@ -44,6 +44,12 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 #EXTINF:-1 tvg-id="Mezzo.ch" tvg-name="Mezzo.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mz.jpg",Mezzo
 http://dmi3y-tv.online/hls/CH_MEZZO.m3u8
 
+#EXTINF:-1 tvg-id="MezzoLive.fr@SD" tvg-logo="https://i.imgur.com/H9ytKPN.png",Mezzo Live
+http://stream.mcquack.net/276/index.m3u8
+
+#EXTINF:-1 tvg-id="ClassicMusic.ru@SD" tvg-logo="https://i.imgur.com/TpXs1qA.png",Classic Music
+http://stream.mcquack.net/312/index.m3u8
+
 #EXTINF:-1 tvg-id="Classic Arts Showcase" tvg-name="Classic Arts Showcase" tvg-logo="https://i.imgur.com/M6FFkc3.png",Classic Arts Showcase
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
 
