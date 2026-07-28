@@ -44,10 +44,10 @@ https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/maste
 #EXTINF:-1 tvg-id="Mezzo.ch" tvg-name="Mezzo.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mz.jpg",Mezzo
 http://dmi3y-tv.online/hls/CH_MEZZO.m3u8
 
-#EXTINF:-1 tvg-id="MezzoLive.fr@SD" tvg-logo="https://i.imgur.com/H9ytKPN.png",Mezzo Live
+#EXTINF:-1 tvg-id="Mezzo.Live.ch" tvg-name="Mezzo.Live.ch" tvg-logo="https://i.imgur.com/H9ytKPN.png",Mezzo Live
 http://stream.mcquack.net/276/index.m3u8
 
-#EXTINF:-1 tvg-id="ClassicMusic.ru@SD" tvg-logo="https://i.imgur.com/TpXs1qA.png",Classic Music
+#EXTINF:-1 tvg-id="ClassicMusic.ru@SD" tvg-logo="https://i.imgur.com/TpXs1qA.png",Classic Music RU
 http://stream.mcquack.net/312/index.m3u8
 
 #EXTINF:-1 tvg-id="Classic Arts Showcase" tvg-name="Classic Arts Showcase" tvg-logo="https://i.imgur.com/M6FFkc3.png",Classic Arts Showcase
@@ -270,6 +270,15 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 
 #EXTINF:-1 tvg-id="Setanta Sports 3 Georgia" tvg-name="Setanta Sports 3 Georgia" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 3 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
+
+#EXTINF:-1, tvg-id="Sky Sport 24" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sport 24
+http://0g7hljf4wx.sasa24.xyz:80/live/rbwZOSb0RC/cpOsDgPz47/27975.ts
+
+#EXTINF:-1,RSI LA 1
+http://0g7hljf4wx.sasa24.xyz:80/live/rbwZOSb0RC/cpOsDgPz47/356.ts
+
+#EXTINF:-1,RSI LA 2
+http://0g7hljf4wx.sasa24.xyz:80/live/rbwZOSb0RC/cpOsDgPz47/357.ts
 
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
