@@ -41,6 +41,9 @@ https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.
 #EXTINF:-1 tvg-id="Stingray Classica" tvg-name="Stingray Classica" tvg-logo="https://i.imgur.com/nh1k5RC.png",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 
+#EXTINF:-1 tvg-id="Stingray.Classica.I.ch" tvg-name="Stingray.Classica.I.ch" tvg-logo="https://i.imgur.com/nh1k5RC.png",Stingray Classica
+http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/29058
+
 #EXTINF:-1 tvg-id="Mezzo.ch" tvg-name="Mezzo.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mz.jpg",Mezzo
 http://dmi3y-tv.online/hls/CH_MEZZO.m3u8
 
@@ -241,6 +244,9 @@ https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b
 #EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Tennis
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
 
+#EXTINF:-1 tvg-id="Sky Sports MotoGP" tvg-name="Sky Sports MotoGP" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports MotoGP
+http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/28473
+
 #EXTINF:-1 tvg-id="Arena Sport 1 Premium HD" tvg-name="Arena Sport 1 Premium HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 1 Premium HD
 http://178.253.194.79:10001
 
@@ -270,6 +276,38 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 
 #EXTINF:-1 tvg-id="Setanta Sports 3 Georgia" tvg-name="Setanta Sports 3 Georgia" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 3 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
+
+#EXTINF:-1,RSI LA 2 HD
+http://0g7hljf4wx.sasa24.xyz:80/live/rbwZOSb0RC/cpOsDgPz47/357.ts
+#EXTINF:-1,RSI LA 2 HD
+http://0g7hljf4wx.sasa24.xyz:80/live/rUy2D54SgR/ofRYzE9XKM/357.ts
+#EXTINF:-1,RSI LA 2 HD
+http://0g7hljf4wx.sasa24.xyz:80/live/angelo/gaetano/357.ts
+#EXTINF:-1,RSI LA 2 HD
+http://0g7hljf4wx.sasa24.xyz:80/live/brunopepp/sa13lug/357.ts
+#EXTINF:-1,RSI LA 2 HD
+http://0g7hljf4wx.sasa24.xyz:80/live/Giuseppalmentier19/c7XUUBJZZX/357.ts
+#EXTINF:-1,RSI LA 2 HD
+http://0g7hljf4wx.sasa24.xyz:80/live/kjWNRr1I7H/710RB0aBkr/357.ts
+#EXTINF:-1,RSI LA 2 HD
+http://0g7hljf4wx.sasa24.xyz:80/live/mgg_210610224/armandoE2/357.ts
+#EXTINF:-1,RSI LA 2 HD
+http://0g7hljf4wx.sasa24.xyz:80/live/mgg_913478472/speedy2014/357.ts
+
+#EXTINF:-1,Sky Sport 24 FHD
+http://0g7hljf4wx.sasa24.xyz:80/live/rbwZOSb0RC/cpOsDgPz47/27975.ts
+#EXTINF:-1,Sky Sport 24 FHD
+http://0g7hljf4wx.sasa24.xyz:80/live/rUy2D54SgR/ofRYzE9XKM/27975.ts
+#EXTINF:-1,Sky Sport 24 FHD
+http://0g7hljf4wx.sasa24.xyz:80/live/angelo/gaetano/27975.ts
+#EXTINF:-1,Sky Sport 24 FHD
+http://0g7hljf4wx.sasa24.xyz:80/live/brunopepp/sa13lug/27975.ts
+#EXTINF:-1,Sky Sport 24 FHD
+http://0g7hljf4wx.sasa24.xyz:80/live/Giuseppalmentier19/c7XUUBJZZX/27975.ts
+#EXTINF:-1,Sky Sport 24 FHD
+http://0g7hljf4wx.sasa24.xyz:80/live/kjWNRr1I7H/710RB0aBkr/27975.ts
+#EXTINF:-1,Sky Sport 24 FHD
+http://0g7hljf4wx.sasa24.xyz:80/live/mgg_210610224/armandoE2/27975.ts
 
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
