@@ -1,12 +1,13 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/01.e, https://nameless-meadow-bc43.cc67-cc.workers.dev/"
+
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",1 Rai Uno
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7
+https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
 
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",2 Rai Due
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai3.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",3 Rai Tre
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7
+https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
 
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete4.it" tvg-logo="https://i.imgur.com/GWx2Fkl.png",4 Rete Quattro
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
@@ -244,30 +245,6 @@ https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b
 #EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Tennis
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
 
-#EXTINF:-1 tvg-id="Sky Sports MotoGP" tvg-name="Sky Sports MotoGP" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports MotoGP
-http://esk240901.abcnew.site:8880/Mattes/ddsdMattes1234/28473
-
-#EXTINF:-1 tvg-id="Arena Sport 1 Premium HD" tvg-name="Arena Sport 1 Premium HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 1 Premium HD
-http://178.253.194.79:10001
-
-#EXTINF:-1 tvg-id="Arena Sport 2 Premium HD" tvg-name="Arena Sport 2 Premium HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 2 Premium HD
-http://178.253.194.79:10004
-
-#EXTINF:-1 tvg-id="Arena Sport 3 Premium HD" tvg-name="Arena Sport 3 Premium HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 3 Premium HD
-http://178.253.194.79:10005
-
-#EXTINF:-1 tvg-id="Arena Sport 4 Premium HD" tvg-name="Arena Sport 4 Premium HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 4 Premium HD
-http://178.253.194.79:10016
-
-#EXTINF:-1 tvg-id="Arena Sport 5 Premium HD" tvg-name="Arena Sport 5 Premium HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Sport 5 Premium HD
-http://178.253.194.79:10017
-
-#EXTINF:-1 tvg-id="Arena Adrenalin MotoGP F1" tvg-name="Arena Adrenalin MotoGP F1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Adrenalin MotoGP F1
-http://178.253.194.79:10018
-
-#EXTINF:-1 tvg-id="Arena Tennis HD" tvg-name="Arena Tennis HD" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/arn.png",Arena Tennis HD
-http://178.253.194.79:10019
-
 #EXTINF:-1 tvg-id="Setanta Sports 1 Georgia" tvg-name="Setanta Sports 1 Georgia" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 1 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
 
@@ -277,25 +254,6 @@ http://158.101.222.193:88/georgia_play.php?id=setanta_sports_plus_georgia
 #EXTINF:-1 tvg-id="Setanta Sports 3 Georgia" tvg-name="Setanta Sports 3 Georgia" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png",Setanta Sports 3 Georgia
 http://158.101.222.193:88/georgia_play.php?id=setanta_sports_3
 
-#EXTINF:-1,RSI LA 2 HD
-http://0g7hljf4wx.sasa24.xyz:80/live/rbwZOSb0RC/cpOsDgPz47/357.ts
-#EXTINF:-1,RSI LA 2 HD
-http://0g7hljf4wx.sasa24.xyz:80/live/rUy2D54SgR/ofRYzE9XKM/357.ts
-#EXTINF:-1,RSI LA 2 HD
-http://0g7hljf4wx.sasa24.xyz:80/live/angelo/gaetano/357.ts
-#EXTINF:-1,RSI LA 2 HD
-http://0g7hljf4wx.sasa24.xyz:80/live/brunopepp/sa13lug/357.ts
-#EXTINF:-1,RSI LA 2 HD
-http://0g7hljf4wx.sasa24.xyz:80/live/Giuseppalmentier19/c7XUUBJZZX/357.ts
-#EXTINF:-1,RSI LA 2 HD
-http://0g7hljf4wx.sasa24.xyz:80/live/kjWNRr1I7H/710RB0aBkr/357.ts
-#EXTINF:-1,RSI LA 2 HD
-http://0g7hljf4wx.sasa24.xyz:80/live/mgg_210610224/armandoE2/357.ts
-#EXTINF:-1,RSI LA 2 HD
-http://0g7hljf4wx.sasa24.xyz:80/live/mgg_913478472/speedy2014/357.ts
-
-#EXTINF:-1,Sky Sport 24 FHD
-http://0g7hljf4wx.sasa24.xyz:80/live/rbwZOSb0RC/cpOsDgPz47/27975.ts
 #EXTINF:-1,Sky Sport 24 FHD
 http://0g7hljf4wx.sasa24.xyz:80/live/rUy2D54SgR/ofRYzE9XKM/27975.ts
 #EXTINF:-1,Sky Sport 24 FHD
@@ -308,6 +266,36 @@ http://0g7hljf4wx.sasa24.xyz:80/live/Giuseppalmentier19/c7XUUBJZZX/27975.ts
 http://0g7hljf4wx.sasa24.xyz:80/live/kjWNRr1I7H/710RB0aBkr/27975.ts
 #EXTINF:-1,Sky Sport 24 FHD
 http://0g7hljf4wx.sasa24.xyz:80/live/mgg_210610224/armandoE2/27975.ts
+#EXTINF:-1,Sky Sport 24 FHD
+http://0g7hljf4wx.sasa24.xyz:80/live/mgg_913478472/speedy2014/27975.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://0g7hljf4wx.sasa24.xyz:80/live/rUy2D54SgR/ofRYzE9XKM/22.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://0g7hljf4wx.sasa24.xyz:80/live/angelo/gaetano/22.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://0g7hljf4wx.sasa24.xyz:80/live/brunopepp/sa13lug/22.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://0g7hljf4wx.sasa24.xyz:80/live/Giuseppalmentier19/c7XUUBJZZX/22.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://0g7hljf4wx.sasa24.xyz:80/live/kjWNRr1I7H/710RB0aBkr/22.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://0g7hljf4wx.sasa24.xyz:80/live/mgg_210610224/armandoE2/22.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://0g7hljf4wx.sasa24.xyz:80/live/mgg_913478472/speedy2014/22.ts
+#EXTINF:-1,Sky Sport 24 SD
+http://0g7hljf4wx.sasa24.xyz:80/live/rUy2D54SgR/ofRYzE9XKM/49746.ts
+#EXTINF:-1,Sky Sport 24 SD
+http://0g7hljf4wx.sasa24.xyz:80/live/angelo/gaetano/49746.ts
+#EXTINF:-1,Sky Sport 24 SD
+http://0g7hljf4wx.sasa24.xyz:80/live/brunopepp/sa13lug/49746.ts
+#EXTINF:-1,Sky Sport 24 SD
+http://0g7hljf4wx.sasa24.xyz:80/live/Giuseppalmentier19/c7XUUBJZZX/49746.ts
+#EXTINF:-1,Sky Sport 24 SD
+http://0g7hljf4wx.sasa24.xyz:80/live/kjWNRr1I7H/710RB0aBkr/49746.ts
+#EXTINF:-1,Sky Sport 24 SD
+http://0g7hljf4wx.sasa24.xyz:80/live/mgg_210610224/armandoE2/49746.ts
+#EXTINF:-1,Sky Sport 24 SD
+http://0g7hljf4wx.sasa24.xyz:80/live/mgg_913478472/speedy2014/49746.ts
 
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
