@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/01.e, https://nameless-meadow-bc43.cc67-cc.workers.dev/"
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",1 Rai Uno
-https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",2 Rai Due
-https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai3.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",3 Rai Tre
-https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete4.it" tvg-logo="https://i.imgur.com/GWx2Fkl.png",4 Rete Quattro
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
@@ -296,6 +296,11 @@ http://0g7hljf4wx.sasa24.xyz:80/live/kjWNRr1I7H/710RB0aBkr/49746.ts
 http://0g7hljf4wx.sasa24.xyz:80/live/mgg_210610224/armandoE2/49746.ts
 #EXTINF:-1,Sky Sport 24 SD
 http://0g7hljf4wx.sasa24.xyz:80/live/mgg_913478472/speedy2014/49746.ts
+
+#EXTINF:-1 tvg-id="Sport 1" tvg-name="sport 1" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/sportcz.png",Sport 1
+http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Sport 2" tvg-name="sport 2" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Label/refs/heads/main/sportcz.png",Sport 2
+http://88.212.15.19/live/test_sport_2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
