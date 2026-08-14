@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="CustomEPGTranslator">
+  <channel id="classic-music">
+    <display-name lang="it">Classic Music HD</display-name>
+    <icon src="https://iptvx.one/picons/classic-music.png" />
+  </channel>
+
+  <!-- Programma Notturno -->
+  <programme start="20260814000000 +0300" stop="20260814001500 +0300" channel="classic-music">
+    <title lang="it">SM Notizie</title>
+    <desc lang="it">Notiziario quotidiano sul mondo della musica classica, festival e mostre.</desc>
+    <category lang="it">Musica / Notizie</category>
+  </programme>
+
+  <programme start="20260814001500 +0300" stop="20260814023000 +0300" channel="classic-music">
+    <title lang="it">Opera: Grandi Capolavori</title>
+    <desc lang="it">Produzioni integrali dai teatri più famosi del mondo.</desc>
+    <category lang="it">Opera</category>
+  </programme>
+
+  <!-- Mattina -->
+  <programme start="20260814023000 +0300" stop="20260814040000 +0300" channel="classic-music">
+    <title lang="it">La Magia del Balletto</title>
+    <desc lang="it">Le migliori performance di danza classica e contemporanea.</desc>
+    <category lang="it">Balletto</category>
+  </programme>
+
+  <programme start="20260814040000 +0300" stop="20260814060000 +0300" channel="classic-music">
+    <title lang="it">Concerti Sinfonici</title>
+    <desc lang="it">Grandi orchestre dirette dai maestri più celebri.</desc>
+    <category lang="it">Sinfonica</category>
+  </programme>
+
+  <programme start="20260814060000 +0300" stop="20260814083000 +0300" channel="classic-music">
+    <title lang="it">Capolavori della Classica Mondiale</title>
+    <desc lang="it">Una selezione dei brani più iconici eseguiti in alta definizione.</desc>
+    <category lang="it">Musica Classica</category>
+  </programme>
+
+  <!-- Pomeriggio -->
+  <programme start="20260814083000 +0300" stop="20260814100000 +0300" channel="classic-music">
+    <title lang="it">Vladimir Spivakov invita...</title>
+    <desc lang="it">Il celebre festival musicale diretto dal maestro Spivakov.</desc>
+    <category lang="it">Festival</category>
+  </programme>
+
+  <programme start="20260814100000 +0300" stop="20260814120000 +0300" channel="classic-music">
+    <title lang="it">Salotto Musicale</title>
+    <desc lang="it">Incontri, interviste e musica da camera in studio.</desc>
+    <category lang="it">Cultura</category>
+  </programme>
+
+  <!-- Sera -->
+  <programme start="20260814120000 +0300" stop="20260814143000 +0300" channel="classic-music">
+    <title lang="it">Documentari: I Grandi Compositori</title>
+    <desc lang="it">La vita e le opere dei giganti della musica: da Bach a Rachmaninov.</desc>
+    <category lang="it">Documentario</category>
+  </programme>
+
+  <programme start="20260814143000 +0300" stop="20260814170000 +0300" channel="classic-music">
+    <title lang="it">Serata al Pianoforte</title>
+    <desc lang="it">Recital pianistici dedicati ai grandi solisti internazionali.</desc>
+    <category lang="it">Strumentale</category>
+  </programme>
+</tv>
