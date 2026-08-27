@@ -885,15 +885,6 @@
     <category lang="it">avventura</category>
     <category lang="it">supereroi</category>
   </programme>
-  <programme start="20260827080800 +0200" stop="20260827090400 +0200" channel="27Mediaset.it">
-    <title lang="it">Miami Vice - Vuoto di ore</title>
-    <desc lang="it">Switek (Michael Talbott) e Trudy (Olivia Brown) indagano sulla misteriosa morte di Lonnie Akers (Rob Fuller), un uomo coinvolto nello squallido mercato della pornografia. I due interrogano la moglie della vittima, Rona (Felicia Rafield). Trudy verra' coinvolta in maniera sospetta nel caso tanto che Crockett (Don Johnson) sara' costretto a rivolgersi ad un esperto di ufologia.
- Altri interpreti: Sonny Crockett, Philip Michael Thomas, Edward James Olmos, Saudran Santiago, Olivia Brown, Martin Ferrero, Chris Rock, James Brown, Stephen G. 
- Anthony, Ken Kay, Jim Howard - -</desc>
-    <category lang="it">azione</category>
-    <episode-num system="onscreen">S4 E7</episode-num>
-    <episode-num system="xmltv_ns">3 . 6 . </episode-num>
-  </programme>
   <programme start="20260827090400 +0200" stop="20260827095600 +0200" channel="27Mediaset.it">
     <title lang="it">Miami Vice - Rock e amore</title>
     <desc lang="it">Crockett (Don Johnson) riceve l'incarico di proteggere Caitlin Davies (Sheena Easton), una cantante rock. Caitlin ha testimoniato contro Tommy Lowe (Xander Berkeley), responsabile dell'omicidio di Will, il bassista del suo gruppo. Crockett si innamora, ricambiato, di Caitlin e i due alla fine si sposano.
@@ -1623,12 +1614,6 @@ Altri interpreti: Philip Michael Thomas, Edward James Olmos, Saundra Santiago, M
   </programme>
   <programme start="20260901060000 +0200" stop="20260902000000 +0200" channel="AlmaTV.it">
     <title lang="it">EPG non disponibile</title>
-  </programme>
-  <programme start="20260827084500 +0200" stop="20260827085500 +0200" channel="Boing.it">
-    <title lang="it">Teen Titans Go! - La casa nello spazio - Parte 4</title>
-    <desc lang="it">I Teen Titans sono una squadra composta da cinque ragazzi che proteggono la Terra dalle forze del male. - -</desc>
-    <episode-num system="onscreen">S7 E10</episode-num>
-    <episode-num system="xmltv_ns">6 . 9 . </episode-num>
   </programme>
   <programme start="20260827085500 +0200" stop="20260827091000 +0200" channel="Boing.it">
     <title lang="it">Teen Titans Go! - Paperotto di Marshmallow</title>
@@ -9910,13 +9895,6 @@ Iggy comunica a Trevor che, dato quello che è successo, non è più possibile l
     <episode-num system="onscreen">S1 E33</episode-num>
     <episode-num system="xmltv_ns">0 . 32 . </episode-num>
   </programme>
-  <programme start="20260827080500 +0200" stop="20260827090000 +0200" channel="Cielo.it">
-    <title lang="it">Fratelli in affari</title>
-    <desc lang="it">Aven e Phillip - Tornati nella citta' natale di lui, Aven e Phillip sono pronti a iniziare nua nuova vita, pianificando il loro matrimonio e soprattutto cercando una nuova casa. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S6 E11</episode-num>
-    <episode-num system="xmltv_ns">5 . 10 . </episode-num>
-  </programme>
   <programme start="20260827090000 +0200" stop="20260827095500 +0200" channel="Cielo.it">
     <title lang="it">Fratelli in affari</title>
     <desc lang="it">Diana e John - I fratelli Jonathan e Drew Scott tentano di convincere i compratori della fattibilita' dei loro disegni. Diana e John vogliono acquistare una casa per conto loro. - -</desc>
@@ -17052,11 +17030,6 @@ Intanto Connie accompagna Mandy dal ginecologo e si fa carico delle spese medich
     <desc lang="it">Alfred Hitchcock decide di portare sul grande schermo la storia di Psyco. Iniziera' con un piccolo budget, dopo il rifiuto degli studios... - -</desc>
     <category lang="it" />
   </programme>
-  <programme start="20260827075600 +0200" stop="20260827085800 +0200" channel="MediasetExtra.it">
-    <title lang="it">The wall</title>
-    <desc lang="it">Torna il mega tabellone luminoso da cui scendono le sfere che possono cambiare la vita dei concorrenti. Conduce Max Giusti. - -</desc>
-    <category lang="it">varietà</category>
-  </programme>
   <programme start="20260827085800 +0200" stop="20260827092800 +0200" channel="MediasetExtra.it">
     <title lang="it">Casa Vianello - La poltrona</title>
     <desc lang="it">CASA VIANELLO - "La poltrona" 
@@ -18389,16 +18362,6 @@ Dopo pochi minuti torna vestita di tutto punto pronta per uscire, saluta il mari
     <category lang="it" />
     <episode-num system="onscreen">S6 E17</episode-num>
     <episode-num system="xmltv_ns">5 . 16 . </episode-num>
-  </programme>
-  <programme start="20260827083500 +0200" stop="20260827090000 +0200" channel="Rai1.it">
-    <title lang="it">UnoMattina - Puntata del 27/08/2029</title>
-    <desc lang="it">Il programma della mattina di Rai1 che racconta l'attualità italiana ed estera. Cronaca, politica, cultura, spettacolo, medicina, economia, senza tralasciare l'approfondimento degli argomenti dell'agenda sociale, reportage e speciali. Conducono Alessandro Greco e Carolina Rey con Paola Cervelli. Con la collaborazione di Domenico Marocchi. - -</desc>
-    <category lang="it" />
-    <episode-num system="xmltv_ns">2025 .  . </episode-num>
-  </programme>
-  <programme start="20260827090000 +0200" stop="20260827090300 +0200" channel="Rai1.it">
-    <title lang="it">TG 1 L.I.S.</title>
-    <category lang="it" />
   </programme>
   <programme start="20260827090300 +0200" stop="20260827112000 +0200" channel="Rai1.it">
     <title lang="it">UnoMattina - Puntata del 27/08/2029</title>
@@ -26251,11 +26214,6 @@ Dopo pochi minuti torna vestita di tutto punto pronta per uscire, saluta il mari
     <desc lang="it">CARTONI ANIMATI - Vuoi fare un gioco superdivertente, senza regole o quasi? E in cui puoi usare tutto quello che ti piace: trucchi ninja, clave primitive, o robot telecomandati? Lo Spike Ball è lo sport che fa per te! No - n lo conosci? Beh, è stato appena inventato da Nino, Viola e Lj - Wang insieme al loro smart coach, Lucky! - di Marco Storani 2019 ITA - -</desc>
     <category lang="it" />
   </programme>
-  <programme start="20260827063500 +0200" stop="20260827085500 +0200" channel="RaiMovie.it">
-    <title lang="it">La donna che visse due volte</title>
-    <desc lang="it">San Francisco, anni 50. L'ex poliziotto Scottie, afflitto da vertigini dopo un incidente, sorveglia l'enigmatica Madeleine, moglie di un amico vittima di crisi legate alla bisnonna suicida. Tra loro nasce un amore tormentato e tragico. Due nomination agli Oscar 1959. Disponibile in lingua originale. - -</desc>
-    <category lang="it" />
-  </programme>
   <programme start="20260827085500 +0200" stop="20260827104500 +0200" channel="RaiMovie.it">
     <title lang="it">Piedone d'Egitto</title>
     <desc lang="it">Insieme ai suoi abituali collaboratori, il celebre commissario Rizzo si reca in Egitto per una singolare missione: ricercare uno scienziato scomparso che ha scoperto un coleottero speciale capace di localizzare giacimenti petroliferi. Piedone il poliziotto dovrà proteggere lo scienziato e la sua scoperta. - -</desc>
@@ -27545,11 +27503,6 @@ Dopo pochi minuti torna vestita di tutto punto pronta per uscire, saluta il mari
     <category lang="it" />
     <episode-num system="onscreen">S1 E7</episode-num>
     <episode-num system="xmltv_ns">0 . 6 . </episode-num>
-  </programme>
-  <programme start="20260827082500 +0200" stop="20260827090000 +0200" channel="RaiScuola.it">
-    <title lang="it">Memex Nautilus - Le Terre Rare, Lantanid</title>
-    <desc lang="it">Memex Nautilus - Le Terre Rare, Lantanidi e Attinidi - Nautilus è il programma di informazione e approfondimento scientifico di Rai Cultura. Con l'astrofisico e divulgatore Luca Perri andiamo alla scoperta - del mondo che ci circonda e delle sue regole. In questa puntata, dedicata tavola periodica degli elementi, ci occupiamo delle cosiddette 'Terre Rare': i 30 elementi contenuti nella parte bassa della Tavola, detti anche Lantanidi e Attinidi. A farci da guida in studio, assieme a Luca Perri, è il chimico e divulgatore scientifico Silvano Fuso, con il supporto delle schede tecniche realizzate con il chimico del CNR Pietro Calandra. Anna Pancaldi, infine, ci ricorda che in questo gruppo ci sono gli elementi più radioattivi di tutta la Tavola Periodica, raccontandoci la storia del cosiddetto 'Demon Care'. - un programma di Diego Garbati e Francesco Linguiti - con la collaborazione di Catia Barone, Massimo Bongiorno, Davide Coero Borga, Federica De Maria, Daniela Mazzoli, Pierluigi Pantini, Luca Perri, Nicoletta Piu, Pino Roggero - a cura di Eleonora Ottaviani - produttore esecutivo Livia Lauriola - progetto a cura di Diego Garbati - regia Pierluigi Pantini - conduce Luca Perri con la partecipazione di Anna Pancaldi - -</desc>
-    <category lang="it" />
   </programme>
   <programme start="20260827090000 +0200" stop="20260827094000 +0200" channel="RaiScuola.it">
     <title lang="it">American Genius Edison VS Tesla - Elettr</title>
@@ -40468,10 +40421,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
     <url>http://www.tv.blue.ch</url>
     <display-name lang="it">Eurosport.2.I.ch</display-name>
   </channel>
-  <channel id="Stingray.Classica.I.ch">
-    <url>http://www.tv.blue.ch</url>
-    <display-name lang="it">Stingray.Classica.I.ch</display-name>
-  </channel>
   <channel id="Eurosport.1.I.ch">
     <url>http://www.tv.blue.ch</url>
     <display-name lang="it">Eurosport.1.I.ch</display-name>
@@ -40516,28 +40465,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
     <url>http://www.tv.blue.ch</url>
     <display-name lang="it">Frisbee.ch</display-name>
   </channel>
-  <programme channel="La.7d.ch" start="20260827071500 +0000" stop="20260827090000 +0000">
-    <title lang="it">The Avengers: Agenti speciali</title>
-    <desc lang="it">Nella Londra degli anni 90 qualcuno sta modificando il clima e sta mettendo il paese e il mondo in ginocchio. Chi può aver elaborato un piano simile che mira a ricattare l'umanità in cambio di qualche ora di sole?</desc>
-    <credits>
-      <actor role="John Steed">Ralph Fiennes</actor>
-      <actor role="Emma Peel">Uma Thurman</actor>
-      <actor role="Sir August de Wynter">Sean Connery</actor>
-      <actor role="Mother">Jim Broadbent</actor>
-      <actor role="Father">Fiona Shaw</actor>
-      <actor role="Bailey">Suzy Eddie Izzard</actor>
-      <actor role="Alice">Eileen Atkins</actor>
-      <actor role="Trubshaw">John Wood</actor>
-      <actor role="Brenda">Carmen Ejogo</actor>
-      <actor role="Tamara">Keeley Hawes</actor>
-      <director>Jeremiah Chechik</director>
-    </credits>
-    <date>1998</date>
-    <country lang="it">US</country>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
   <programme channel="La.7d.ch" start="20260827090000 +0000" stop="20260827111500 +0000">
     <title lang="it">Una giusta causa</title>
     <desc lang="it">Ruth Bader Ginsburg è un'avvocatessa in difficoltà che affronta avversità e numerosi ostacoli in quanto discriminata perché donna. Un caso rivoluzionario in tribunale potrebbe aprirle le porte dell'uguaglianza.</desc>
@@ -42708,12 +42635,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
       <value>12+</value>
     </rating>
   </programme>
-  <programme channel="Rai.News.24.ch" start="20260827083000 +0000" stop="20260827090000 +0000">
-    <title lang="it">Filo diretto</title>
-    <desc lang="it">Appuntamento con un giocatore della prima squadra maschile della Juventus FC. Di fronte agli obiettivi delle telecamere, si trova a rispondere ai messaggi e alle domande che arrivano da parte di tifosi e spettatori.</desc>
-    <date>2012</date>
-    <country lang="it">IT</country>
-  </programme>
   <programme channel="Rai.News.24.ch" start="20260827090000 +0000" stop="20260827093000 +0000">
     <title lang="it">Rai News LIS</title>
     <desc lang="it">Tutte le novità di cronaca, politica, economia, cultura, spettacolo e sport tradotti nel linguaggio dei segni.</desc>
@@ -44539,13 +44460,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
     <country lang="it">CA</country>
     <episode-num system="onscreen">S29 E12</episode-num>
   </programme>
-  <programme channel="sky.TG.24.ch" start="20260827083000 +0000" stop="20260827090000 +0000">
-    <title lang="it">Tg24 Mezz'ora</title>
-    <desc lang="it">Edizione di trenta minuti del notiziario televisivo firmato dalla redazione giornalistica di Sky. Ogni giorno, le informazioni più aggiornate a livello nazionale ed internazionale.</desc>
-    <date>2014</date>
-    <country lang="it">IT</country>
-    <premiere />
-  </programme>
   <programme channel="sky.TG.24.ch" start="20260827090000 +0000" stop="20260827092800 +0000">
     <title lang="it">Tg24 Mezz'ora</title>
     <desc lang="it">Edizione di trenta minuti del notiziario televisivo firmato dalla redazione giornalistica di Sky. Ogni giorno, le informazioni più aggiornate a livello nazionale ed internazionale.</desc>
@@ -45921,12 +45835,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
     <country lang="it">IT</country>
     <episode-num system="onscreen">S4 E1</episode-num>
   </programme>
-  <programme channel="Eurosport.1.I.ch" start="20260827060000 +0000" stop="20260827090000 +0000">
-    <title lang="it">World Snooker Tour: Quarti di finale</title>
-    <desc lang="it">Tutte le azioni del World Snooker Tour.</desc>
-    <date>2026</date>
-    <premiere />
-  </programme>
   <programme channel="Eurosport.1.I.ch" start="20260827090000 +0000" stop="20260827093000 +0000">
     <title lang="it">Discovery Golf</title>
     <desc lang="it">Approfondimenti, analisi e previsioni sul mondo del golf, nel magazine dedicato ai tornei e agli atleti protagonisti della stagione.</desc>
@@ -46137,12 +46045,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
   </programme>
   <programme channel="Eurosport.1.I.ch" start="20260829030000 +0000" stop="20260829050000 +0000">
     <title lang="it">La Vuelta a Espana 2026: 7a tappa</title>
-    <date>2026</date>
-  </programme>
-  <programme channel="Eurosport.2.I.ch" start="20260827080000 +0000" stop="20260827090000 +0000">
-    <title lang="it">UCI Europe Tour</title>
-    <sub-title lang="it">Giro del Portogallo: Sintesi</sub-title>
-    <desc lang="it">Sintesi e approfondimenti dedicati alle gare dell'UCI Europe Tour maschile.</desc>
     <date>2026</date>
   </programme>
   <programme channel="Eurosport.2.I.ch" start="20260827090000 +0000" stop="20260827103000 +0000">
@@ -46489,12 +46391,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
     <title lang="it">Mondiali Canoa e Paracanoa Sprint 2026: 1a giornata: Finali</title>
     <desc lang="it">Da Poznan, Polonia.</desc>
     <date>2026</date>
-  </programme>
-  <programme channel="SPORTITALIA.ch" start="20260827080000 +0000" stop="20260827090000 +0000">
-    <title lang="it">Tutti In campo</title>
-    <desc lang="it">Segui il programma di informazione ed approfondimento sportivo, con ospiti ed esperti in studio.</desc>
-    <date>2014</date>
-    <country lang="it">IT</country>
   </programme>
   <programme channel="SPORTITALIA.ch" start="20260827090000 +0000" stop="20260827093000 +0000">
     <title lang="it">Si Live</title>
@@ -48319,17 +48215,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
       <value>6+</value>
     </rating>
   </programme>
-  <programme channel="Frisbee.ch" start="20260827082000 +0000" stop="20260827090000 +0000">
-    <title lang="it">Alvinnn!!! and the Chipmunks</title>
-    <sub-title lang="it">I Granny Awards; Un brutto raffreddore</sub-title>
-    <desc lang="it">Dave è candidato a un premio, ma quando i Chipmunks scoprono che si tratta di un Granny Award piuttosto che di un Grammy Award, provano a fermarlo. Alvin finge di essere malato per non partecipare a una conferenza.</desc>
-    <credits>
-      <director>Janice Karman</director>
-    </credits>
-    <date>2019</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S4 E11</episode-num>
-  </programme>
   <programme channel="Frisbee.ch" start="20260827090000 +0000" stop="20260827092500 +0000">
     <title lang="it">Floopaloo</title>
     <sub-title lang="it">Festa segreta</sub-title>
@@ -49806,28 +49691,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
     <date>2022</date>
     <country lang="it">FR</country>
     <episode-num system="onscreen">S1 E25</episode-num>
-  </programme>
-  <programme channel="Super!.ch" start="20260827083500 +0000" stop="20260827090000 +0000">
-    <title lang="it">I Thunderman</title>
-    <sub-title lang="it">I fantasmi di casa Thunderman</sub-title>
-    <desc lang="it">I Thunderman decidono di mettersi sulle tracce di un nuovo nemico: un fantasma estremamente pericoloso, conosciuto con il nome di Green Ghoul, e pur di trovarlo giungono sino a New Orleans.</desc>
-    <credits>
-      <actor role="Phoebe Thunderman">Kira Kosarin</actor>
-      <actor role="Max Thunderman">Jack Griffo</actor>
-      <actor role="Nora Thunderman">Addison Riecke</actor>
-      <actor role="Billy Thunderman">Diego Velázquez</actor>
-      <actor role="Hank Thunderman">Christian Tallman</actor>
-      <actor role="Barb Thunderman">Rosa Blasi</actor>
-      <actor role="Taylor Hathaway">Amber Frank</actor>
-      <actor role="Miles Preston">Curtis Harris</actor>
-      <director>Trevor Kirschner</director>
-    </credits>
-    <date>2014</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S2 E5</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
   </programme>
   <programme channel="Super!.ch" start="20260827090000 +0000" stop="20260827091000 +0000">
     <title lang="it">GhostForce</title>
@@ -51650,12 +51513,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
     <date>2023</date>
     <country lang="fr">DE</country>
   </programme>
-  <programme channel="Mezzo.Live.ch" start="20260827073000 +0000" stop="20260827090000 +0000">
-    <title lang="fr">Gregory Porter à Jazzaldia</title>
-    <desc lang="fr">Gregory Porter en live à Jazzaldia, à Saint-Sébastien, 22 juillet 2022.</desc>
-    <date>2022</date>
-    <country lang="fr">GB</country>
-  </programme>
   <programme channel="Mezzo.Live.ch" start="20260827090000 +0000" stop="20260827103000 +0000">
     <title lang="fr">Pink Martini: Peralada</title>
     <desc lang="fr">Concert du groupe Pink Martini donné lors du Festival de Peralada le 23 juillet 2022, en compagnie des chanteuses China Forbes et Storm Large.</desc>
@@ -51864,899 +51721,5 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
     <title lang="fr">Young Euro Classic 2025: National Youth Orchestra of Romania</title>
     <desc lang="fr">Adrian Pop 1951 - Hore Jean Sibelius 1865 - 1957 Concerto for Violin and Orchestra in D-minor Op. 47 Sergei Rachmaninov 1873 - 1953 Symphonic Dances Op. 45 Dos Pares De La Oein / National Youth Orchestra Of Romania A dialogue without words.</desc>
     <date>2026</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827085200 +0000" stop="20260827102400 +0000">
-    <title lang="it">Soulscapes: The Choreographer Uwe Scholz</title>
-    <desc lang="it">The solo dance of Stravinsky's 'Sacre du printemps' can be interpreted as a bleak, oppressive dance about his own life. The ballet is one of the late works by Uwe Scholz, one of the most important choreographers of the 20th century.</desc>
-    <credits>
-      <director>Günter Atteln</director>
-    </credits>
-    <date>2007</date>
-    <country lang="it">DE</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827102400 +0000" stop="20260827105700 +0000">
-    <title lang="it">Bach</title>
-    <sub-title lang="it">Partita for Violin No. 2 (BWV 1004)</sub-title>
-    <desc lang="it">Celebrated German violinist Isabelle Faust performs JS Bach's 'Partita No 2' in D minor. The work is made up of four dance movements and is concluded by its famous Chaconne, a monumental piece within the violin repertoire.</desc>
-    <date>2023</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827105700 +0000" stop="20260827113000 +0000">
-    <title lang="it">Bach - Italian Concerto &amp; Chaconne (arr. Busoni)</title>
-    <desc lang="it">At one of Italy's oldest extant Renaissance theatres, the Teatro Olimpico in the northern Italian town of Vicenza, Costanza Principe performs Johann Sebastian Bach's 'Concerto Italiano' and 'Ciaccona', as transcribed for piano by Ferruccio Busoni.</desc>
-    <date>2023</date>
-    <country lang="it">CH</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827113000 +0000" stop="20260827120300 +0000">
-    <title lang="it">Haydn</title>
-    <sub-title lang="it">Symphony No. 94, Hob. I:94</sub-title>
-    <desc lang="it">Mariss Jansons conducts the Berlin Philharmonic in a performance of Joseph Haydn's 'Symphony No. 94 in G major' at their European Concert in 2001 at the church Hagia Eirene in Istanbul, Turkey.</desc>
-    <date>2020</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827120300 +0000" stop="20260827134200 +0000">
-    <title lang="it">Tales of Two Cities: The Leipzig-Damascus Coffee House</title>
-    <desc lang="it">The Tafelmusik Baroque Orchestra, alongside the Trio Arabica, celebrates the music and culture of eighteenth-century coffee houses in Leipzig and Damascus. They perform works by Bach, Telemann and Handel as well as classical Arabic music.</desc>
-    <credits>
-      <director>Gordon Henderson</director>
-    </credits>
-    <date>2019</date>
-    <country lang="it">CA</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827134200 +0000" stop="20260827140700 +0000">
-    <title lang="it">Mozart Violin Concerto No. 3</title>
-    <desc lang="it">Les Dissonances play Wolfgang Amadeus Mozart's Violin Concerto No 3 in G major, K 216. Leading violinist Grimal features as the soloist. Les Dissonances is a conductorless ensemble, consisting of musicians from prestigious European orchestras.</desc>
-    <date>2004</date>
-    <country lang="it">GB</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827140700 +0000" stop="20260827154500 +0000">
-    <title lang="it">Ice Dance: Swan Lake</title>
-    <desc lang="it">Accompanied by the original music of Tchaikovsky and choreographed by Tony Mercer, the Imperial Ice Stars interpret the Swan Lake ballet.</desc>
-    <date>2020</date>
-    <country lang="it">GB</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827154500 +0000" stop="20260827164700 +0000">
-    <title lang="it">Rina Sala Gallo Piano Competition 2022 - Finalists</title>
-    <desc lang="it">The final of the Rina Sala Gallo Piano Competition 2022.</desc>
-    <date>2024</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827164700 +0000" stop="20260827175700 +0000">
-    <title lang="it">Le Grand Orgue in Concert</title>
-    <desc lang="it">Besides enriching the musical world as an organist, improviser and composer, Olivier Latry also works as a Professor of Organ at the Conservatoire de Paris.</desc>
-    <credits>
-      <director>Noëlle Louisor</director>
-    </credits>
-    <date>2019</date>
-    <country lang="it">FR</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827175700 +0000" stop="20260827182500 +0000">
-    <title lang="it">Schubert: Four Impromptus Op. 90</title>
-    <desc lang="it">Roberto Prosseda performs Mozart's Piano Sonata No 5 (KV 283) and Four Impromptus Op 90 by Franz Schubert. The performance ends with Chopin's technically demanding Ballade No 4, Op 52.</desc>
-    <date>2020</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827182500 +0000" stop="20260827185000 +0000">
-    <title lang="it">Copland - Appalachian Spring</title>
-    <desc lang="it">Mexican conductor Carlos Miguel Prieto leads the Orquesta Sinfónica de Minería in a performance of Aaron Copland's Appalachian Spring Suite. This performance was recorded at Auditorio Nacional in Mexico City, in 2021.</desc>
-    <date>2025</date>
-    <country lang="it">NL</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827185000 +0000" stop="20260827190300 +0000">
-    <title lang="it">Classica Spotlight</title>
-    <desc lang="it">Cinematic classical clips and energising concert pieces featuring a range of artists.</desc>
-    <date>2022</date>
-    <country lang="it">DE</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827190300 +0000" stop="20260827203800 +0000">
-    <title lang="it">Tchaikovsky, The Nutcracker</title>
-    <desc lang="it">From the Semperoper Dresden: 'The Nutcracker' by Pyotr Tchaikovsky (1840-1893). Choreographers: Aaron S. Watkin/Jason Beechey; conductor: Vello Pähn. With István Simon (Nutcracker/Prince) and Anna Merkulova (Marie).</desc>
-    <date>2012</date>
-    <country lang="it">DE</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827203800 +0000" stop="20260827211600 +0000">
-    <title lang="it">Beethoven - Triple Concerto, Op. 56</title>
-    <desc lang="it">American conductor Leonard Slatkin leads the Orchestre National de Lyon in a 2014 concert that opens with William Bolcom's 'Circus Overture' and also includes a performance of Beethoven's Triple Concerto.</desc>
-    <date>2022</date>
-    <country lang="it">DE</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827211600 +0000" stop="20260827214600 +0000">
-    <title lang="it">Brahms</title>
-    <sub-title lang="it">Violin Sonata No. 3, op. 108</sub-title>
-    <desc lang="it">In this splendid 2013 concert from the Church of Verbier, Switzerland, Greek violinist Leonidas Kavakos and Chinese pianist Yuja Wang join forces to interpret three sonatas by Johannes Brahms.</desc>
-    <date>2020</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827214600 +0000" stop="20260827220000 +0000">
-    <title lang="it">Schubert - Symphony No. 8 in B Minor, D. 759</title>
-    <desc lang="it">Les Dissonances perform Franz Schubert's 'Symphony No 8', also known as the 'Unfinished Symphony'. Though Schubert only completed the first two movements, it has become one of his most popular compositions.</desc>
-    <date>2024</date>
-    <country lang="it">FR</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827220000 +0000" stop="20260827224400 +0000">
-    <title lang="it">Dvořák - Symphony No. 7 in D minor, Op. 70</title>
-    <desc lang="it">Soviet-born conductor Semyon Bychkov leads the Czech Philharmonic and London Voices in a concert at the Rudolfinum, Dvořák Hall. Featuring Luciano Berio's Sinfonia for eight voices and orchestra and Antonín Dvořák's Symphony No 7 in D Minor, Op 70.</desc>
-    <date>2021</date>
-    <country lang="it">CA</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260827224400 +0000" stop="20260828002200 +0000">
-    <title lang="it">Europakonzert 2000 from Berlin</title>
-    <desc lang="it">Featuring Mikhail Pletnev on piano, soprano Karita Mattila, alto Violeta Urmana, tenor Thomas Moser, bass Eike Wilm Schulte, the Swedish Radio Choir, the Eric Ericson Chamber Choir, the Berlin Philharmonic Orchestra, and conductor Claudio Abbado.</desc>
-    <date>2014</date>
-    <country lang="it">DE</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828002200 +0000" stop="20260828003700 +0000">
-    <title lang="it">Summertime at the Domaine Forget</title>
-    <desc lang="it">Introducing internationally renowned treasure: the Domaine Forget festival in Saint-Irénée, Québec. Domaine Forget is one of Canada's leading music academies and hosts this annual festival to promote music and dance.</desc>
-    <credits>
-      <director>Charles Bélisle</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">CA</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828003700 +0000" stop="20260828025900 +0000">
-    <title lang="it">Donizetti, L'elisir d'amore</title>
-    <desc lang="it">From the Festspielhaus Baden-Baden: L'elisir d'amore (The Elixir of Love) by Gaetano Donizetti (1797-1848). Conductor: Pablo Heras-Casado.</desc>
-    <date>2014</date>
-    <country lang="it">AT</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828025900 +0000" stop="20260828032400 +0000">
-    <title lang="it">PIAM</title>
-    <sub-title lang="it">Semi-final: Beethoven and Liszt</sub-title>
-    <desc lang="it">Philipp Scheucher performs Beethoven's Fantasia Op 77, Menuetto: `Moderato e grazioso' from Beethoven's Sonata No 18 in E-flat major, Op 31 No 3, and Franz Liszt's transcription of the first movement, `Allegro con brio', from Beethoven's No 5.</desc>
-    <date>2023</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828032400 +0000" stop="20260828040000 +0000">
-    <title lang="it">Classica Spotlight</title>
-    <desc lang="it">Cinematic classical clips and energising concert pieces featuring a range of artists.</desc>
-    <date>2022</date>
-    <country lang="it">DE</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828040000 +0000" stop="20260828043300 +0000">
-    <title lang="it">Mozart, Symphony No. 36, K. 425</title>
-    <desc lang="it">Mozart's Linzer Symphony No. 36 conducted by Jeffrey Tate with the English Chamber Orchestra.</desc>
-    <date>2018</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828043300 +0000" stop="20260828050200 +0000">
-    <title lang="it">Prokofiev: Violin Concerto No. 2, Op. 63</title>
-    <desc lang="it">Iván Fischer conducts the Budapest Festival Orchestra in a concert recorded at the Béla Bartók National Concert Hall in Budapest, Hungary in 2015, opening with Sergei Prokofiev's Overture on Hebrew Themes, Op 34.</desc>
-    <date>2022</date>
-    <country lang="it">GB</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828050200 +0000" stop="20260828062300 +0000">
-    <title lang="it">Beethoven Piano Concerto No. 1 &amp; Symphony No. 2</title>
-    <desc lang="it">Pianist Martha Argerich performs Ludwig van Beethoven's `Piano Concerto No 1' and `Symphony No 2' at the Lucerne Festival with the Lucerne Festival Orchestra under the baton of Swedish conductor Herbert Blomstedt.</desc>
-    <date>2023</date>
-    <country lang="it">CA</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828062300 +0000" stop="20260828070000 +0000">
-    <title lang="it">Brahms - Piano Quartet No. 3 in C minor, Op. 60</title>
-    <desc lang="it">On her 80th birthday, Argentinean pianist Martha Argerich explores chamber music repertoire featuring works by Mendelssohn, Janáček, Schubert and Brahms at Château de Chantilly, France.</desc>
-    <date>2025</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828070000 +0000" stop="20260828072800 +0000">
-    <title lang="it">Discovering Masterpieces</title>
-    <sub-title lang="it">Concerto for Orchestra</sub-title>
-    <desc lang="it">An audiovisual concert guide to Bela Bartok's 'Concerto for Orchestra'.</desc>
-    <date>2018</date>
-    <country lang="it">DE</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828072800 +0000" stop="20260828074700 +0000">
-    <title lang="it">Beethoven</title>
-    <sub-title lang="it">Piano Sonata No. 31, Op. 110</sub-title>
-    <desc lang="it">Getting into Beethoven's creative mind, especially in the last phase of his life, when he was coping with severe hearing loss. Exploring Tom Beghin's new recording of Beethoven's Piano Sonatas Opus 109, 110, and 111.</desc>
-    <date>2021</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828074700 +0000" stop="20260828080300 +0000">
-    <title lang="it">Classica Spotlight</title>
-    <desc lang="it">Cinematic classical clips and energising concert pieces featuring a range of artists.</desc>
-    <date>2022</date>
-    <country lang="it">DE</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828080300 +0000" stop="20260828084800 +0000">
-    <title lang="it">My Heart Is Burning</title>
-    <desc lang="it">René Pape sings and plays various roles that showcase the impressive versatility of his voice and the many facets of his personality.</desc>
-    <credits>
-      <director>Sibylle Muth</director>
-    </credits>
-    <date>2018</date>
-    <country lang="it">DE</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828084800 +0000" stop="20260828090500 +0000">
-    <title lang="it">Bach</title>
-    <sub-title lang="it">Sonata No. 4 BWV 1017</sub-title>
-    <desc lang="it">This Sonata for Violin and Harpsichord is the fourth out of the set of sonatas Johann Sebastian Bach composed before 1725, most likely during his time as a chapel master in Köthen.</desc>
-    <date>2021</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828090500 +0000" stop="20260828095400 +0000">
-    <title lang="it">Tchaikovsky - Symphony No. 1 in G minor, Op. 13</title>
-    <desc lang="it">Conrad van Alphen leads Sinfonia Rotterdam in a performance of Pyotr Ilyich Tchaikovsky's 'Symphony No 1 in G minor', also known as 'Winter Daydreams', recorded at De Doelen in Rotterdam, the Netherlands in September 2022.</desc>
-    <date>2023</date>
-    <country lang="it">CA</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828095400 +0000" stop="20260828110000 +0000">
-    <title lang="it">Gara Garayev: Autumn Sonatas</title>
-    <desc lang="it">Violinist Vadim Repin and pianist Murad Hüseynov perform Gara Garayev's 'Violin Sonata and 24 Preludes for Piano'. Murad represents a character carried by solitude and found in the romantic paintings of Friedrich.</desc>
-    <credits>
-      <director>Juliette Swierczewski</director>
-    </credits>
-    <date>2025</date>
-    <country lang="it">FR</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828110000 +0000" stop="20260828120400 +0000">
-    <title lang="it">Shostakovich</title>
-    <sub-title lang="it">Preludes and fugues</sub-title>
-    <desc lang="it">Compagnia Simona Bucci presents an extraordinary concert in scenic form: 'Preludi e Fughe: Geografia antropica'. Dmitri Shostakovich's 24 Preludes and Fugues, Op 87 inspired choreographer Simona Bucci to take on this project.</desc>
-    <date>2021</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828120400 +0000" stop="20260828123900 +0000">
-    <title lang="it">Liszt Mosaics: Dance Concert</title>
-    <desc lang="it">This concert entitled 'Liszt Mosaics' is dedicated to the rich tradition of Hungarian Folk Music. The concert opens with a selection of Bartók's 44 Duos for 2 Violins (No. 17, 18, 36 and 44) performed by Shlomo Mintz and Radics Ferenc.</desc>
-    <date>2021</date>
-    <country lang="it">HU</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828123900 +0000" stop="20260828135700 +0000">
-    <title lang="it">Bruckner</title>
-    <sub-title lang="it">Symphony No. 5</sub-title>
-    <desc lang="it">Bruckner's Fifth Symphony has been called 'the Medieval' because of its multi-layered, Baroque, contrapuntal tonal textures and 'the Catholic' because of its solemn majesty.</desc>
-    <date>2020</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828135700 +0000" stop="20260828145400 +0000">
-    <title lang="it">Antonio Manna: Il basso napolitano</title>
-    <desc lang="it">Stefano Demicheli conducts the Ensemble Talenti Vulcanici and soloists Nicola Cianncio (bass) and Catherine Jones (cello) in a varied baroque music programme, recorded at Chiesa di Santa Caterina da Siena in Naples, Italy.</desc>
-    <date>2021</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828145400 +0000" stop="20260828151300 +0000">
-    <title lang="it">Beethoven</title>
-    <sub-title lang="it">Piano Sonata No. 30, Op. 109</sub-title>
-    <desc lang="it">Italian pianist Riccardo Schwartz was born in Milan in 1986 and completed his studies at the Conservatorio of Milan. Here, he performs Beethoven's Piano Sonata No. 30, Op. 109.</desc>
-    <date>2020</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828151300 +0000" stop="20260828160000 +0000">
-    <title lang="it">Dvořák - Symphony No. 6 in D major</title>
-    <desc lang="it">For the 2016 edition of the Waldbühne, the Georgian violinist Lisa Batiashvili and the Québécois conductor Yannick Nézet-Séguin join the Berliner Philharmoniker for a beautiful concert.</desc>
-    <date>2021</date>
-    <country lang="it">DE</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828160000 +0000" stop="20260828182600 +0000">
-    <title lang="it">Jerusalem International Chamber Music Festival</title>
-    <desc lang="it">Having achieved incredible success with consistently sold-out concerts, the Jerusalem International Chamber Music Festival is renowned for its exceptional repertoire of performances by top soloists who otherwise seldom share a stage.</desc>
-    <date>2025</date>
-    <country lang="it">IL</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828182600 +0000" stop="20260828185100 +0000">
-    <title lang="it">Bach</title>
-    <sub-title lang="it">Violin Sonata No. 3 (BMW 1005)</sub-title>
-    <desc lang="it">Celebrated German violinist Isabelle Faust performs JS Bach's `Sonata No 3' in C major, a piece that includes an extensive fugue in which Bach employs many contrapuntal techniques.</desc>
-    <date>2023</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828185100 +0000" stop="20260828190700 +0000">
-    <title lang="it">Classica Spotlight</title>
-    <desc lang="it">Cinematic classical clips and energising concert pieces featuring a range of artists.</desc>
-    <date>2022</date>
-    <country lang="it">DE</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828190700 +0000" stop="20260828201400 +0000">
-    <title lang="it">Beethoven</title>
-    <sub-title lang="it">Symphony No. 9, Op. 125</sub-title>
-    <desc lang="it">Claudio Abbado conducts the Berlin Philharmonic Orchestra in a performance of Ludwig van Beethoven's `Symphony No. 9 in D minor, Op. 125' to commemorate the anniversary of the orchestra's founding on 1 May 1882.</desc>
-    <date>2020</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828201400 +0000" stop="20260828214000 +0000">
-    <title lang="it">Galaxymphony Strikes Back</title>
-    <desc lang="it">The Danish National Symphony Orchestra takes you on a new spectacular symphonic space journey.</desc>
-    <date>2021</date>
-    <country lang="it">DK</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828214000 +0000" stop="20260828220000 +0000">
-    <title lang="it">Bellini/Liszt - Réminiscences de Norma S.394</title>
-    <desc lang="it">Minsoo Hong performs Liszt's 'Sposalizio' from 'Années de Pèlerinage: Deuxième Année' and Bellini/Liszt's 'Réminiscences de Norma' during the Solo Finals of the 11th International Franz Liszt Piano Competition, held in Utrecht in 2017.</desc>
-    <date>2020</date>
-    <country lang="it">DE</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260828220000 +0000" stop="20260829001200 +0000">
-    <title lang="it">Verdi</title>
-    <sub-title lang="it">Rigoletto</sub-title>
-    <desc lang="it">This tragic masterpiece marked Verdi's breakthrough in 1851. The hunchbacked jester Rigoletto loves his only daughter Gilda deeply and protects her as well as he can.</desc>
-    <date>2017</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260829001200 +0000" stop="20260829014300 +0000">
-    <title lang="it">Europakonzert 1993- Royal Albert Hall</title>
-    <desc lang="it">Bernard Haitink starts with Tchaikovsky's Fantasy Overture from 'Roméo et Juliette'. The second piece by Wolfgang Amadeus Mozart is his famous Violin Concerto No 3 in G major K 216 played by the German violinist Frank Peter Zimmermann.</desc>
-    <date>2004</date>
-    <country lang="it">GB</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260829014300 +0000" stop="20260829020300 +0000">
-    <title lang="it">England, My England: II</title>
-    <desc lang="it">From 28 August to 6 September 2015, the Early Music Festival Utrecht focused on 'England, My England'. On the basis of the festival theme, presenter Lex Bohlmeijer takes the viewer in a two-part journey through England.</desc>
-    <credits>
-      <director>Nander Cirkel</director>
-    </credits>
-    <date>2015</date>
-    <country lang="it">NL</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260829020300 +0000" stop="20260829025600 +0000">
-    <title lang="it">Berlioz</title>
-    <sub-title lang="it">Symphonie Fantastique, Op. 14</sub-title>
-    <desc lang="it">Mariss Jansons conducts as the Berlin Philharmonic perform Berlioz's `Symphonie Fantastique, Op. 14' for their European Concert recorded in the Hagia Irene church in Istanbul, Turkey.</desc>
-    <date>2020</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260829025600 +0000" stop="20260829033000 +0000">
-    <title lang="it">PIAM</title>
-    <sub-title lang="it">Semi-final II: Mozart and Bartók</sub-title>
-    <desc lang="it">Chinese pianist Ying Li performs Wolfgang Amadeus Mozart's 'Sonata No 13 in B-flat major' and Béla Bartók's 'Sonata, BB 88, Sz. 80' at the Nuovo Teatro Ariberto in Milan in June 2021.</desc>
-    <date>2023</date>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260829033000 +0000" stop="20260829040000 +0000">
-    <title lang="it">Classica Spotlight</title>
-    <desc lang="it">Cinematic classical clips and energising concert pieces featuring a range of artists.</desc>
-    <date>2022</date>
-    <country lang="it">DE</country>
-  </programme>
-  <programme channel="Stingray.Classica.I.ch" start="20260829040000 +0000" stop="20260829042200 +0000">
-    <title lang="it">Bach, Cello Suite No. 1 in G major, BWV 1007</title>
-    <desc lang="it">The six suites for violoncello solo by Johann Sebastian Bach (1685-1750) are a pillar in this instrument's repertoire.</desc>
-    <date>2015</date>
-  </programme>
-  <channel id="7655">
-    <display-name lang="it">7655</display-name>
-  </channel>
-  <programme channel="7655" start="20260827083800 +0000" stop="20260827100900 +0000">
-    <title lang="zh">П. И. Чайковский. Литературно-музыкальная композиция «Лебединое озеро». Госоркестр России имени Е. Ф</title>
-    <desc />
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260827100900 +0000" stop="20260827101700 +0000">
-    <title lang="zh">СМNEWS</title>
-    <desc />
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260827101700 +0000" stop="20260827122400 +0000">
-    <title lang="zh">Шопен. Лист. Академический симфонический оркестр Московской филармонии. Дирижер Юрий Симонов. Екатер</title>
-    <desc />
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260827122400 +0000" stop="20260827150600 +0000">
-    <title lang="zh">Кармен</title>
-    <desc />
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260827150600 +0000" stop="20260827160300 +0000">
-    <title lang="zh">Шуберт. Российский национальный оркестр, дирижер Димитрис Ботинис. Большой зал Зарядье</title>
-    <desc />
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260827160300 +0000" stop="20260827161000 +0000">
-    <title lang="zh">СМNEWS</title>
-    <desc />
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260827161000 +0000" stop="20260827172700 +0000">
-    <title lang="zh">Моцарт. Чайковский. Оркестр фестиваля Вербье. Дирижер Валерий Гергиев. Солисты: Валерий Гергиев, Ден</title>
-    <desc />
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260827172700 +0000" stop="20260827192700 +0000">
-    <title lang="zh">Балет «Ромео и Джульетта» Сергей Прокофьев Екатеринбургский театр оперы и балета</title>
-    <desc />
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260827192700 +0000" stop="20260827210100 +0000">
-    <title lang="zh">Алексей Мельников (ф-но), Анастасия Кобекина (виолончель), РНМСО, дирижер Томас Зандерлинг</title>
-    <desc />
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260827210100 +0000" stop="20260827225000 +0000">
-    <title lang="zh">Гала-концерт по случаю празднования 250-летия В.А. Моцарта</title>
-    <desc />
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260827225000 +0000" stop="20260827225800 +0000">
-    <title lang="zh">СМNEWS</title>
-    <desc />
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260827225800 +0000" stop="20260828002000 +0000">
-    <title lang="zh">Домашний сезон. Трансляция из Концертного зала Чайковского Артем Дервоед (гитара) Никита Борисоглебс</title>
-    <desc />
-    <date>20260827</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828002000 +0000" stop="20260828021100 +0000">
-    <title lang="zh">Опера-сказка «Гензель и Гретель». Композитор Энгельберт Хумпердинк. Дрезденская саксонская государст</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828021100 +0000" stop="20260828035400 +0000">
-    <title lang="zh">Российский национальный оркестр, дирижер Тимур Зангиев. Арсений Тарасевич-Николаев (фортепиано). Бол</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828035400 +0000" stop="20260828050000 +0000">
-    <title lang="zh">Сергей Васильевич Рахманинов. Михаил Плетнев (фортепиано). Рахманиновский международный оркестр. Дир</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828050000 +0000" stop="20260828050900 +0000">
-    <title lang="zh">СМNEWS</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828050900 +0000" stop="20260828065400 +0000">
-    <title lang="zh">Посвящение Араму Хачатуряну, Борис Березовский, фортепиано, Никита Борисоглебский, скрипка</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828065400 +0000" stop="20260828083800 +0000">
-    <title lang="zh">Дочь фараона</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828083800 +0000" stop="20260828102700 +0000">
-    <title lang="zh">Государственный симфонический оркестр республики Татарстан Дирижер – Александр Сладковский</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828102700 +0000" stop="20260828105700 +0000">
-    <title lang="zh">Франц Шуберт Симфония № 5. Заслуженный коллектив России академический симфонический оркестр Санкт-Пе</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828105700 +0000" stop="20260828110900 +0000">
-    <title lang="zh">СМNEWS</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828110900 +0000" stop="20260828125500 +0000">
-    <title lang="zh">Николай Луганский, фортепиано</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828125500 +0000" stop="20260828155800 +0000">
-    <title lang="zh">Моцарт. Опера «Дон Жуан». Королевская опера, Театр «Ковент-Гарден», Лондон</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828155800 +0000" stop="20260828174300 +0000">
-    <title lang="zh">Бах. «Рождественская оратория». Государственный академический камерный оркестр России. Вокальный анс</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828174300 +0000" stop="20260828175200 +0000">
-    <title lang="zh">СМNEWS</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828175200 +0000" stop="20260828182000 +0000">
-    <title lang="zh">Итальянская опера. Дарья Давыдова. Никита Хабин. Доницетти, Пуччини, Верди, Каччини, Куртис</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828182000 +0000" stop="20260828210500 +0000">
-    <title lang="zh">Джоаккино Россини. Опера «Севильский цирюльник». Театр Арена ди Верона</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828210500 +0000" stop="20260828223500 +0000">
-    <title lang="zh">Людвиг ван Бетховен. Дирижер Бернард Хайтинк. Солистка Изабель Фауст (скрипка). Берлинский филармони</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828223500 +0000" stop="20260828224400 +0000">
-    <title lang="zh">СМNEWS</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828224400 +0000" stop="20260828235200 +0000">
-    <title lang="zh">Брамс, Гиноварт Максим Емельянычев, фортепиано Гайк Казазян, скрипка Кирилл Солдатов, флюгельгорн</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260828235200 +0000" stop="20260829015100 +0000">
-    <title lang="zh">Клаудио Монтеверди. Опера «Орфей». Королевский театр Мадрида</title>
-    <desc />
-    <date>20260828</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829015100 +0000" stop="20260829040400 +0000">
-    <title lang="zh">Чайковский. «Спящая красавица»</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829040400 +0000" stop="20260829050000 +0000">
-    <title lang="zh">Гектор Берлиоз «Фантастическая симфония»</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829050000 +0000" stop="20260829050700 +0000">
-    <title lang="zh">СМNEWS</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829050700 +0000" stop="20260829062900 +0000">
-    <title lang="zh">Домашний сезон. Трансляция из Концертного зала Чайковского Артем Дервоед (гитара) Никита Борисоглебс</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829062900 +0000" stop="20260829082100 +0000">
-    <title lang="zh">Опера-сказка «Гензель и Гретель». Композитор Энгельберт Хумпердинк. Дрезденская саксонская государст</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829082100 +0000" stop="20260829100300 +0000">
-    <title lang="zh">Российский национальный оркестр, дирижер Тимур Зангиев. Арсений Тарасевич-Николаев (фортепиано). Бол</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829100300 +0000" stop="20260829110900 +0000">
-    <title lang="zh">Сергей Васильевич Рахманинов. Михаил Плетнев (фортепиано). Рахманиновский международный оркестр. Дир</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829110900 +0000" stop="20260829111800 +0000">
-    <title lang="zh">СМNEWS</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829111800 +0000" stop="20260829125200 +0000">
-    <title lang="zh">Шуберт. Брукнер. Неоконченные симфонии. Будапештский фестивальный оркестр, дирижер Иван Фишер. Нацио</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829125200 +0000" stop="20260829144700 +0000">
-    <title lang="zh">Джузеппе Верди «Травиата»</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829144700 +0000" stop="20260829161700 +0000">
-    <title lang="zh">П. И. Чайковский. Литературно-музыкальная композиция «Лебединое озеро». Госоркестр России имени Е. Ф</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829161700 +0000" stop="20260829162600 +0000">
-    <title lang="zh">СМNEWS</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829162600 +0000" stop="20260829183300 +0000">
-    <title lang="zh">Шопен. Лист. Академический симфонический оркестр Московской филармонии. Дирижер Юрий Симонов. Екатер</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829183300 +0000" stop="20260829211500 +0000">
-    <title lang="zh">Кармен</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829211500 +0000" stop="20260829221100 +0000">
-    <title lang="zh">Шуберт. Российский национальный оркестр, дирижер Димитрис Ботинис. Большой зал Зарядье</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829221100 +0000" stop="20260829221800 +0000">
-    <title lang="zh">СМNEWS</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829221800 +0000" stop="20260829233600 +0000">
-    <title lang="zh">Моцарт. Чайковский. Оркестр фестиваля Вербье. Дирижер Валерий Гергиев. Солисты: Валерий Гергиев, Ден</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260829233600 +0000" stop="20260830013600 +0000">
-    <title lang="zh">Балет «Ромео и Джульетта» Сергей Прокофьев Екатеринбургский театр оперы и балета</title>
-    <desc />
-    <date>20260829</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830013600 +0000" stop="20260830031000 +0000">
-    <title lang="zh">Алексей Мельников (ф-но), Анастасия Кобекина (виолончель), РНМСО, дирижер Томас Зандерлинг</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830031000 +0000" stop="20260830050000 +0000">
-    <title lang="zh">Гала-концерт по случаю празднования 250-летия В.А. Моцарта</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830050000 +0000" stop="20260830050600 +0000">
-    <title lang="zh">СМNEWS</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830050600 +0000" stop="20260830061500 +0000">
-    <title lang="zh">Шумановский вечер. Марат Гали, тенор, заслуженный артист Республики Татарстан. Ольга Гурякова, сопра</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830061500 +0000" stop="20260830081500 +0000">
-    <title lang="zh">Клаудио Монтеверди. Опера «Орфей». Королевский театр Мадрида</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830081500 +0000" stop="20260830102900 +0000">
-    <title lang="zh">Чайковский. «Спящая красавица»</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830102900 +0000" stop="20260830112400 +0000">
-    <title lang="zh">Гектор Берлиоз «Фантастическая симфония»</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830112400 +0000" stop="20260830113200 +0000">
-    <title lang="zh">СМNEWS</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830113200 +0000" stop="20260830131700 +0000">
-    <title lang="zh">Посвящение Араму Хачатуряну, Борис Березовский, фортепиано, Никита Борисоглебский, скрипка</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830131700 +0000" stop="20260830150100 +0000">
-    <title lang="zh">Дочь фараона</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830150100 +0000" stop="20260830165000 +0000">
-    <title lang="zh">Государственный симфонический оркестр республики Татарстан Дирижер – Александр Сладковский</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830165000 +0000" stop="20260830172000 +0000">
-    <title lang="zh">Франц Шуберт Симфония № 5. Заслуженный коллектив России академический симфонический оркестр Санкт-Пе</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830172000 +0000" stop="20260830173300 +0000">
-    <title lang="zh">СМNEWS</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830173300 +0000" stop="20260830191900 +0000">
-    <title lang="zh">Николай Луганский, фортепиано</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830191900 +0000" stop="20260830222100 +0000">
-    <title lang="zh">Моцарт. Опера «Дон Жуан». Королевская опера, Театр «Ковент-Гарден», Лондон</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260830222100 +0000" stop="20260831000600 +0000">
-    <title lang="zh">Бах. «Рождественская оратория». Государственный академический камерный оркестр России. Вокальный анс</title>
-    <desc />
-    <date>20260830</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260831000600 +0000" stop="20260831001400 +0000">
-    <title lang="zh">СМNEWS</title>
-    <desc />
-    <date>20260831</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260831001400 +0000" stop="20260831002200 +0000">
-    <title lang="zh">Интервью и поздравления музыкантов к 100-летию Московской филармонии</title>
-    <desc />
-    <date>20260831</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260831002200 +0000" stop="20260831020300 +0000">
-    <title lang="zh">Академический симфонический оркестр Московской филармонии Дирижер – Алексей Рубин Никита Борисоглебс</title>
-    <desc />
-    <date>20260831</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260831020300 +0000" stop="20260831044800 +0000">
-    <title lang="zh">Джоаккино Россини. Опера «Севильский цирюльник». Театр Арена ди Верона</title>
-    <desc />
-    <date>20260831</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
-  <programme channel="7655" start="20260831044800 +0000" stop="20260901000000 +0000">
-    <title lang="zh">Александр Глазунов «Раймонда». Академический симфонический оркестр Санкт-Петербургской филармонии. Д</title>
-    <desc />
-    <date>20260831</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
   </programme>
 </tv>
