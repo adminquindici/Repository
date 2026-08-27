@@ -45,6 +45,9 @@
   <channel id="MediasetExtra.it">
     <display-name lang="it">MediasetExtra.it</display-name>
   </channel>
+  <channel id="Nove.it">
+    <display-name lang="it">Nove.it</display-name>
+  </channel>
   <channel id="Rai1.it">
     <display-name lang="it">Rai1.it</display-name>
   </channel>
@@ -1428,20 +1431,6 @@ Altri interpreti: Philip Michael Thomas, Edward James Olmos, Saundra Santiago, M
   </programme>
   <programme start="20260831060000 +0200" stop="20260901000000 +0200" channel="AlmaTV.it">
     <title lang="it">EPG non disponibile</title>
-  </programme>
-  <programme start="20260827013000 +0200" stop="20260827014000 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - Lo Skate</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S5 E14</episode-num>
-    <episode-num system="xmltv_ns">4 . 13 . </episode-num>
-  </programme>
-  <programme start="20260827014000 +0200" stop="20260827015000 +0200" channel="Boing.it">
-    <title lang="it">Lo straordinario mondo di Gumball - Lo Stregone</title>
-    <desc lang="it">Gumball è un simpatico gatto blu combina - guai che ogni giorno vive straordinarie avventure assieme a Darwin, l'amico pesciolino. - -</desc>
-    <category lang="it">scoperta e avventura</category>
-    <episode-num system="onscreen">S5 E16</episode-num>
-    <episode-num system="xmltv_ns">4 . 15 . </episode-num>
   </programme>
   <programme start="20260827015000 +0200" stop="20260827020000 +0200" channel="Boing.it">
     <title lang="it">Lo straordinario mondo di Gumball - Nonno Frankie</title>
@@ -5202,27 +5191,6 @@ Iggy comunica a Trevor che, dato quello che è successo, non è più possibile l
     <episode-num system="onscreen">S1 E73</episode-num>
     <episode-num system="xmltv_ns">0 . 72 . </episode-num>
   </programme>
-  <programme start="20260827013000 +0200" stop="20260827014000 +0200" channel="Cartoonito.it">
-    <title lang="it">Sam Il Pompiere - Nascondino con salvataggio</title>
-    <desc lang="it">Le avventure del pompiere Sam e della sua squadra, che spesso devono rimediare ai guai causati dal ragazzo più pestifero del paese, Norman. - -</desc>
-    <category lang="it">per i bimbi piccoli</category>
-    <episode-num system="onscreen">S15 E21</episode-num>
-    <episode-num system="xmltv_ns">14 . 20 . </episode-num>
-  </programme>
-  <programme start="20260827014000 +0200" stop="20260827015000 +0200" channel="Cartoonito.it">
-    <title lang="it">Sam Il Pompiere - Le sette meraviglie di Pontypandy</title>
-    <desc lang="it">Le avventure del pompiere Sam e della sua squadra, che spesso devono rimediare ai guai causati dal ragazzo più pestifero del paese, Norman. - -</desc>
-    <category lang="it">per i bimbi piccoli</category>
-    <episode-num system="onscreen">S15 E22</episode-num>
-    <episode-num system="xmltv_ns">14 . 21 . </episode-num>
-  </programme>
-  <programme start="20260827015000 +0200" stop="20260827015500 +0200" channel="Cartoonito.it">
-    <title lang="it">Sam Il Pompiere - La festa perfetta</title>
-    <desc lang="it">Le avventure del pompiere Sam e della sua squadra, che spesso devono rimediare ai guai causati dal ragazzo più pestifero del paese, Norman. - -</desc>
-    <category lang="it">per i bimbi piccoli</category>
-    <episode-num system="onscreen">S15 E23</episode-num>
-    <episode-num system="xmltv_ns">14 . 22 . </episode-num>
-  </programme>
   <programme start="20260827015500 +0200" stop="20260827020500 +0200" channel="Cartoonito.it">
     <title lang="it">Sam Il Pompiere - La ladra di pesci</title>
     <desc lang="it">Le avventure del pompiere Sam e della sua squadra, che spesso devono rimediare ai guai causati dal ragazzo più pestifero del paese, Norman. - -</desc>
@@ -8686,11 +8654,6 @@ Iggy comunica a Trevor che, dato quello che è successo, non è più possibile l
     <episode-num system="onscreen">S3 E37</episode-num>
     <episode-num system="xmltv_ns">2 . 36 . </episode-num>
   </programme>
-  <programme start="20260826225500 +0200" stop="20260827014000 +0200" channel="Cielo.it">
-    <title lang="it">Il triangolo delle Bermuda - Mare del Nord</title>
-    <desc lang="it">... Nord. - Una giovane scienziata si accorge che alcuni esperimenti stanno mettendo a repentaglio una zona del Mare del Nord e tenta di evitare una tragedia. - -</desc>
-    <category lang="it" />
-  </programme>
   <programme start="20260827014000 +0200" stop="20260827031000 +0200" channel="Cielo.it">
     <title lang="it">119 giorni alla deriva</title>
     <desc lang="it">Survival Movie sul mare in tempesta con Dominic Purcell. Un trimarano diretto a Tonga viene colpito da un'enorme onda che costringe l'equipaggio a una lunga lotta per la sopravvivenza. - -</desc>
@@ -9762,20 +9725,6 @@ Iggy comunica a Trevor che, dato quello che è successo, non è più possibile l
     <desc lang="it">Tommaso invia per errore un SMS a Chiara, la bella moglie del suo migliore amico, l'avvocato Gino. Chiara, convinta che Tommaso voglia iniziare una relazione clandestina con lei che a quanto pare non aspettava altro, coglie l'occasione per sedurlo. Tommaso, però, sposato con figli e molto innamorato della moglie, non è intenzionato a cedere alle sue lusinghe, e i due e le rispettive famiglie si troveranno coinvolti in una serie di imbarazzanti ed esilaranti equivoci. - -</desc>
     <category lang="it">commedia</category>
     <category lang="it">cinema italiano</category>
-  </programme>
-  <programme start="20260827005900 +0200" stop="20260827014300 +0200" channel="Focus.it">
-    <title lang="it">Cose che ti aspettano al buio - S1 Ep8</title>
-    <desc lang="it">Perché le ossa di un bambino in un grande sito neolitico cinese mostrano tagli, e perché la sua tomba è diversa dalle altre? Nel Carso triestino, un pugnale di rame emerso da una grotta è cerimoniale, arma o utensile? Ad Altamura, uno scheletro perfettamente integrato nella roccia e coperto di cristalli riapre la domanda: nuova specie di ominidi? In Australia, due bastoni intagliati a duemila anni di distanza, trovati nello stesso luogo, indicano un rituale che resiste nel tempo. - -</desc>
-    <category lang="it">scienza e tecnologia</category>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <episode-num system="xmltv_ns">0 . 7 . </episode-num>
-  </programme>
-  <programme start="20260827005900 +0200" stop="20260827014300 +0200" channel="Focus.it">
-    <title lang="it">Cose che ti aspettano al buio - S1 Ep8</title>
-    <desc lang="it">Perché le ossa di un bambino in un grande sito neolitico cinese mostrano tagli, e perché la sua tomba è diversa dalle altre? Nel Carso triestino, un pugnale di rame emerso da una grotta è cerimoniale, arma o utensile? Ad Altamura, uno scheletro perfettamente integrato nella roccia e coperto di cristalli riapre la domanda: nuova specie di ominidi? In Australia, due bastoni intagliati a duemila anni di distanza, trovati nello stesso luogo, indicano un rituale che resiste nel tempo. - -</desc>
-    <category lang="it">scienza e tecnologia</category>
-    <episode-num system="onscreen">S1 E8</episode-num>
-    <episode-num system="xmltv_ns">0 . 7 . </episode-num>
   </programme>
   <programme start="20260827014300 +0200" stop="20260827023800 +0200" channel="Focus.it">
     <title lang="it">Antico Egitto: Cronache di un impero - Donne e potere</title>
@@ -10881,10 +10830,6 @@ Un hacker pregiudicato, in licenza dal carcere federale, cerca di identificare e
     <category lang="it">horror</category>
     <category lang="it">mistery</category>
   </programme>
-  <programme start="20260827013100 +0200" stop="20260827014600 +0200" channel="Italia1.it">
-    <title lang="it">Sport Mediaset - La giornata</title>
-    <desc lang="it">Le principali notizie sportive della giornata a cura della redazione giornalistica di Sport Mediaset. - -</desc>
-  </programme>
   <programme start="20260827014600 +0200" stop="20260827022700 +0200" channel="Italia1.it">
     <title lang="it">Blindspot - In words, drown 1</title>
     <desc lang="it">La squadra decide di far arrestare Tasha per entrare in contatto con un personaggio chiave, Devon. In carcere, Tasha andra' incontro a diversi problemi, ma alla fine riuscira' a far evadere Devon, con la finalita' di arrivare a Sheperd. La squadra e' pronta ad intervenire, ma Devon li depista. Parker riconosce Tasha e la sequestra per usarla come esca per uccidere Weller. Patterson e' ancora vittima della sua terribile esperienza con Borden. - -</desc>
@@ -11795,13 +11740,6 @@ Un hacker pregiudicato, in licenza dal carcere federale, cerca di identificare e
     <category lang="it">poliziesco</category>
     <episode-num system="onscreen">S23 E13</episode-num>
     <episode-num system="xmltv_ns">22 . 12 . </episode-num>
-  </programme>
-  <programme start="20260827011700 +0200" stop="20260827014300 +0200" channel="Italia2.it">
-    <title lang="it">Holly e Benji Forever - Contro il parere del medico</title>
-    <desc lang="it">Holly segna il goal decisivo e porta il New Team in finale, ma la spalla peggiora e il medico della squadra gli consiglia di stare a riposo. A questo punto torna Benji a convincere l'amico a farsi visitare da un altro medico; questi gli da' il permesso di disputare la finale, a patto pero' che giochi solo un tempo. - -</desc>
-    <category lang="it">anime</category>
-    <episode-num system="onscreen">S7 E16</episode-num>
-    <episode-num system="xmltv_ns">6 . 15 . </episode-num>
   </programme>
   <programme start="20260827014300 +0200" stop="20260827020700 +0200" channel="Italia2.it">
     <title lang="it">Holly e Benji Forever - Provocazioni</title>
@@ -13805,13 +13743,6 @@ Intanto, mentre Missy fa per la prima volta da babysitter al bambino del pastore
     <desc lang="it">Puglia: la tata si trova presso una famiglia felice, ma dal comportamento strano: la madre sembra spingere il marito tra le braccia di un'altra donna, e i figli adolescenti sono completamente disorientati dal suo comportamento, e spaesati anche dai loro problemi personali. Ma una spiegazione c'è, e riguarda lo stato di salute della madre dei ragazzi. Con S. Vester e M. Heidel. - -</desc>
     <category lang="it">commedia</category>
   </programme>
-  <programme start="20260827011000 +0200" stop="20260827015000 +0200" channel="La7.it">
-    <title lang="it">In onda</title>
-    <desc lang="it">Condotto da Luca Telese e Marianna Aprile, il talk dedicato agli approfondimenti sui vari temi di attualita' politica e sociale, cronaca e costume. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S28 E56</episode-num>
-    <episode-num system="xmltv_ns">27 . 55 . </episode-num>
-  </programme>
   <programme start="20260827015000 +0200" stop="20260827023000 +0200" channel="La7.it">
     <title lang="it">LIKE - Tutto cio' che piace</title>
     <desc lang="it">Un viaggio nell'attualita', alla scoperta delle tendenze contemporanee della societa' italiana. - -</desc>
@@ -13825,13 +13756,6 @@ Intanto, mentre Missy fa per la prima volta da babysitter al bambino del pastore
     <category lang="it" />
     <episode-num system="onscreen">S18 E30</episode-num>
     <episode-num system="xmltv_ns">17 . 29 . </episode-num>
-  </programme>
-  <programme start="20260827011000 +0200" stop="20260827015000 +0200" channel="La7.it">
-    <title lang="it">In onda</title>
-    <desc lang="it">Condotto da Luca Telese e Marianna Aprile, il talk dedicato agli approfondimenti sui vari temi di attualita' politica e sociale, cronaca e costume. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S28 E56</episode-num>
-    <episode-num system="xmltv_ns">27 . 55 . </episode-num>
   </programme>
   <programme start="20260827015000 +0200" stop="20260827023000 +0200" channel="La7.it">
     <title lang="it">LIKE - Tutto cio' che piace</title>
@@ -15491,6 +15415,547 @@ Brock, Elena D'elia. - -</desc>
 Nigiotti, Bambole Di Pezza, Cioffi, Maria Antonietta &amp; Colombre, Eddie
 Brock, Elena D'elia. - -</desc>
     <category lang="it">musicale</category>
+  </programme>
+  <programme start="20260827014000 +0200" stop="20260827030000 +0200" channel="Nove.it">
+    <title lang="it">Nudi e crudi (Namibia)</title>
+    <desc lang="it">Una biologa e un bushman australiano instaurano un forte legame mentre affrontano il deserto della Namibia. Alla ricerca di cibo, i due vengono inseguiti dai babbuini. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E2</episode-num>
+    <episode-num system="xmltv_ns">6 . 1 . </episode-num>
+  </programme>
+  <programme start="20260827030000 +0200" stop="20260827035500 +0200" channel="Nove.it">
+    <title lang="it">Nudi e crudi (Contro la tempesta)</title>
+    <desc lang="it">Nella giungla dell'Ecuador, Suzanne e Wes lottano contro la natura. L'umidita', gli insetti e il terreno difficile metteranno a dura prova le loro capacita'. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <episode-num system="xmltv_ns">6 . 2 . </episode-num>
+  </programme>
+  <programme start="20260827035500 +0200" stop="20260827053000 +0200" channel="Nove.it">
+    <title lang="it">Nudi e crudi (I boschi del diavolo)</title>
+    <desc lang="it">Il gelido deserto del Montana spinge oltre ogni limite i survivalisti che tentano di collaborare, ma il loro campo e' circondato da orsi e alci. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E5</episode-num>
+    <episode-num system="xmltv_ns">6 . 4 . </episode-num>
+  </programme>
+  <programme start="20260827053000 +0200" stop="20260827060000 +0200" channel="Nove.it">
+    <title lang="it">Appuntamenti da incubo (Nel deserto)</title>
+    <desc lang="it">Rick e Darlene percorrono in macchina il deserto del Nuovo Messico, ma l'auto si blocca. Gli studenti sono costretti ad affrontare i pericoli del deserto per tornare a casa sani e salvi. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+  </programme>
+  <programme start="20260827060000 +0200" stop="20260827065000 +0200" channel="Nove.it">
+    <title lang="it">Torbidi delitti (Omicidio sull'Hudson)</title>
+    <desc lang="it">Ad Albany, una giovane donna esce infuriata da casa per andare in cerca del suo imprevedibile fidanzato. La ragazza scompare nella notte... Ma poco dopo il suo cadavere viene trovato nell'Hudson. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <episode-num system="xmltv_ns">2 . 1 . </episode-num>
+  </programme>
+  <programme start="20260827065000 +0200" stop="20260827074500 +0200" channel="Nove.it">
+    <title lang="it">Alta infedelta' (Affari di famiglia)</title>
+    <desc lang="it">Gianni ed Elena sono sposati. Il loro rapporto pero' si sta lentamente incrinando. La donna trovera' conforto nel giovane Francesco, ragazzo di Pia, sorella minore di Gianni. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2 E23</episode-num>
+    <episode-num system="xmltv_ns">1 . 22 . </episode-num>
+  </programme>
+  <programme start="20260827074500 +0200" stop="20260827081500 +0200" channel="Nove.it">
+    <title lang="it">Alta infedelta' (Boogie Boogie Brahms)</title>
+    <desc lang="it">Sofia e Stefano stanno insieme da poco. Anche Marta, timida amica di Sofia, ha delle mire su Stefano e riesce di conquistarlo, grazie alla comune passione per la musica. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E36</episode-num>
+    <episode-num system="xmltv_ns">0 . 35 . </episode-num>
+  </programme>
+  <programme start="20260827081500 +0200" stop="20260827084500 +0200" channel="Nove.it">
+    <title lang="it">Alta infedelta' (Tornare giovani)</title>
+    <desc lang="it">Alberto e Claudia sono sposati. Quando lui incontra Giulia, una studentessa che lo adora, sboccia la passione. Ma quando la moglie lo scopre, Alberto ritorna all'ovile. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <episode-num system="xmltv_ns">0 . 5 . </episode-num>
+  </programme>
+  <programme start="20260827084500 +0200" stop="20260827092000 +0200" channel="Nove.it">
+    <title lang="it">Alta infedelta' (Il dente del giudizio)</title>
+    <desc lang="it">Mara e Alfonso sono felicemente sposati. Tutto cambia quando la crisi mette in ginocchio la ditta di impianti idraulici di Alfonso. Lei incontra Samuele, rappresentante farmaceutico a caccia di avventure... - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E21</episode-num>
+    <episode-num system="xmltv_ns">2 . 20 . </episode-num>
+  </programme>
+  <programme start="20260827092000 +0200" stop="20260827095500 +0200" channel="Nove.it">
+    <title lang="it">Alta infedelta' (Robin Hood)</title>
+    <desc lang="it">Da sempre, Gigi tradisce sua moglie Marina. Lei non si e' mai accorta di nulla, ma anche a lei quel matrimonio comincia a stare stretto. Si iscrive cosi' a un forum cittadino e stringe nuove e ammiccanti amicizie. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E22</episode-num>
+    <episode-num system="xmltv_ns">2 . 21 . </episode-num>
+  </programme>
+  <programme start="20260827095500 +0200" stop="20260827103000 +0200" channel="Nove.it">
+    <title lang="it">Alta infedelta' (St.5 Ep.19)</title>
+    <desc lang="it">Come si reagisce quando si scopre un tradimento? Grazie alle testimonianze, tentiamo di ricostruire queste storie di bugie e inganni. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S5 E19</episode-num>
+    <episode-num system="xmltv_ns">4 . 18 . </episode-num>
+  </programme>
+  <programme start="20260827103000 +0200" stop="20260827110000 +0200" channel="Nove.it">
+    <title lang="it">Alta infedelta' (St.5 Ep.20)</title>
+    <desc lang="it">Come si reagisce quando si scopre un tradimento? Grazie alle testimonianze, tentiamo di ricostruire queste storie di bugie e inganni. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S5 E20</episode-num>
+    <episode-num system="xmltv_ns">4 . 19 . </episode-num>
+  </programme>
+  <programme start="20260827110000 +0200" stop="20260827113500 +0200" channel="Nove.it">
+    <title lang="it">Alta infedelta': nuovi modi di tradire (Born Cheater)</title>
+    <desc lang="it">Salvatore e' infedele per natura, Sabrina deve condurre uno studio sulle corna. E dalla teoria si passa alla pratica... - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S6 E20</episode-num>
+    <episode-num system="xmltv_ns">5 . 19 . </episode-num>
+  </programme>
+  <programme start="20260827113500 +0200" stop="20260827124500 +0200" channel="Nove.it">
+    <title lang="it">Cash or Trash - Chi offre di piu'? (St.7 Ep.2)</title>
+    <desc lang="it">Alcuni mercanti cercano di aggiudicarsi preziosi oggetti. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E2</episode-num>
+    <episode-num system="xmltv_ns">6 . 1 . </episode-num>
+  </programme>
+  <programme start="20260827124500 +0200" stop="20260827140000 +0200" channel="Nove.it">
+    <title lang="it">Cash or Trash - Chi offre di piu'? (St.7 Ep.8)</title>
+    <desc lang="it">Alcuni mercanti cercano di aggiudicarsi preziosi oggetti. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E8</episode-num>
+    <episode-num system="xmltv_ns">6 . 7 . </episode-num>
+  </programme>
+  <programme start="20260827140000 +0200" stop="20260827150000 +0200" channel="Nove.it">
+    <title lang="it">The Cage - Prendi e scappa (St.1 Ep.118)</title>
+    <desc lang="it">Due coppie di concorrenti si sfidano in una gara a tempo per aggiudicarsi i premi di diverso valore racchiusi dentro una enorme gabbia trasparente. Conduce Amadeus con Giulia Salemi. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E118</episode-num>
+    <episode-num system="xmltv_ns">0 . 117 . </episode-num>
+  </programme>
+  <programme start="20260827150000 +0200" stop="20260827155500 +0200" channel="Nove.it">
+    <title lang="it">The Cage - Prendi e scappa (St.1 Ep.119)</title>
+    <desc lang="it">Due coppie di concorrenti si sfidano in una gara a tempo per aggiudicarsi i premi di diverso valore racchiusi dentro una enorme gabbia trasparente. Conduce Amadeus con Giulia Salemi. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E119</episode-num>
+    <episode-num system="xmltv_ns">0 . 118 . </episode-num>
+  </programme>
+  <programme start="20260827155500 +0200" stop="20260827165000 +0200" channel="Nove.it">
+    <title lang="it">Il delitto della porta accanto (La scomparsa di Starr)</title>
+    <desc lang="it">In Tennessee una donna viene uccisa nei boschi che si estendono dietro la sua casa. La polizia e i protagonisti ricostruiscono la complicata indagine. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S4 E11</episode-num>
+    <episode-num system="xmltv_ns">3 . 10 . </episode-num>
+  </programme>
+  <programme start="20260827165000 +0200" stop="20260827175000 +0200" channel="Nove.it">
+    <title lang="it">Il delitto della porta accanto (Autostrada per l'inferno)</title>
+    <desc lang="it">Un'adolescente del Wyoming scompare senza lasciare traccia durante un viaggio. Le ricerche condurranno al suo corpo senza vita, e ad un terribile segreto. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S4 E12</episode-num>
+    <episode-num system="xmltv_ns">3 . 11 . </episode-num>
+  </programme>
+  <programme start="20260827175000 +0200" stop="20260827192000 +0200" channel="Nove.it">
+    <title lang="it">Little Big Italy (Dallas)</title>
+    <desc lang="it">Francesco Panella riparte alla scoperta dei piu' autentici ristoranti italiani nel mondo. Oggi la sfida sara' a Dallas, nel cuore del Texas, la citta' piu' moderna del vecchio West! - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E11</episode-num>
+    <episode-num system="xmltv_ns">2 . 10 . </episode-num>
+  </programme>
+  <programme start="20260827192000 +0200" stop="20260827203500 +0200" channel="Nove.it">
+    <title lang="it">Cash or Trash - Chi offre di piu'? (St.8 Ep.39)</title>
+    <desc lang="it">Valigie da oculista, set da picnic, novene e macchine per ravioli animano una puntata tra tradizione e quotidianita'. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S8 E39</episode-num>
+    <episode-num system="xmltv_ns">7 . 38 . </episode-num>
+  </programme>
+  <programme start="20260827203500 +0200" stop="20260827213000 +0200" channel="Nove.it">
+    <title lang="it">Cash or Trash - Chi offre di piu'? (St.8 Ep.64)</title>
+    <desc lang="it">Telefoni, kit di pronto soccorso, ventagli e giochi Nintendo animano una puntata vivace e quotidiana. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S8 E64</episode-num>
+    <episode-num system="xmltv_ns">7 . 63 . </episode-num>
+  </programme>
+  <programme start="20260827213000 +0200" stop="20260827234500 +0200" channel="Nove.it">
+    <title lang="it">Aldo, Giovanni e Giacomo - Ammutta muddica (St. Ep.)</title>
+    <desc lang="it">Protagonista dello spettacolo e' la vita di tutti i giorni, ricca di personaggi e situazioni strampalate, ingrandita dalla stravagante lente dalla comicita' del trio Aldo, Giovanni e Giacomo. - -</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260827234500 +0200" stop="20260828000000 +0200" channel="Nove.it">
+    <title lang="it">Aldo, Giovanni e Giacomo - Anplagghed (St.1 Ep.2)</title>
+    <desc lang="it">Aldo, Giovanni e Giacomo raccontano la quotidianita' surreale di un quartiere di periferia di una citta', con vecchiette derubate, teppisti imbranati e vicini di casa litigiosi. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <episode-num system="xmltv_ns">0 . 1 . </episode-num>
+  </programme>
+  <programme start="20260828000000 +0200" stop="20260828011500 +0200" channel="Nove.it">
+    <title lang="it">Aldo, Giovanni e Giacomo - Anplagghed (St.1 Ep.2)</title>
+    <desc lang="it">Aldo, Giovanni e Giacomo raccontano la quotidianita' surreale di un quartiere di periferia di una citta', con vecchiette derubate, teppisti imbranati e vicini di casa litigiosi. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <episode-num system="xmltv_ns">0 . 1 . </episode-num>
+  </programme>
+  <programme start="20260828011500 +0200" stop="20260828021500 +0200" channel="Nove.it">
+    <title lang="it">Nudi e crudi (St.7 Ep.8)</title>
+    <desc lang="it">Due persone che non si conoscono affrontano un'enorme sfida quando tentano di sopravvivere in un luogo ostile e completamente nudi. Ce la faranno? - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E8</episode-num>
+    <episode-num system="xmltv_ns">6 . 7 . </episode-num>
+  </programme>
+  <programme start="20260828021500 +0200" stop="20260828031000 +0200" channel="Nove.it">
+    <title lang="it">Nudi e crudi (Mordimi)</title>
+    <desc lang="it">Un ex ragazzo pon pon e una mandriana affrontano l'ambiente ostile del Sud Africa. I morsi delle creature e le punture di scorpioni sono tra i rischi maggiori. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E4</episode-num>
+    <episode-num system="xmltv_ns">6 . 3 . </episode-num>
+  </programme>
+  <programme start="20260828031000 +0200" stop="20260828041000 +0200" channel="Nove.it">
+    <title lang="it">Nudi e crudi (St.7 Ep.9)</title>
+    <desc lang="it">Due persone che non si conoscono affrontano un'enorme sfida quando tentano di sopravvivere in un luogo ostile e completamente nudi. Ce la faranno? - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E9</episode-num>
+    <episode-num system="xmltv_ns">6 . 8 . </episode-num>
+  </programme>
+  <programme start="20260828041000 +0200" stop="20260828060000 +0200" channel="Nove.it">
+    <title lang="it">Nudi e crudi (Okay, Boomer)</title>
+    <desc lang="it">Una coppia di survivalisti cinquantenni e due ventenni affrontano il deserto di Sonora. Il gruppo dovra' affrontare puma, mostri di Gila e temperature alte. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E10</episode-num>
+    <episode-num system="xmltv_ns">6 . 9 . </episode-num>
+  </programme>
+  <programme start="20260828060000 +0200" stop="20260828065000 +0200" channel="Nove.it">
+    <title lang="it">Torbidi delitti (Un salto nel buio)</title>
+    <desc lang="it">Dopo una serata in un locake a Crox Spring, Los Angeles, una ragazza scompare. Il suo ragazzo teme che lei abbia avuto un incontro con una sua vecchia fiamma: e' possibile? - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E3</episode-num>
+    <episode-num system="xmltv_ns">2 . 2 . </episode-num>
+  </programme>
+  <programme start="20260828065000 +0200" stop="20260828074500 +0200" channel="Nove.it">
+    <title lang="it">Torbidi delitti (Doppio gioco)</title>
+    <desc lang="it">Il corpo di Cece, 20enne transessuale, viene ritrovato vicino casa sua in un quartiere periferico di Cleveland. Il movente potrebbe essere qualcosa di personale? - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S5 E10</episode-num>
+    <episode-num system="xmltv_ns">4 . 9 . </episode-num>
+  </programme>
+  <programme start="20260828074500 +0200" stop="20260828081500 +0200" channel="Nove.it">
+    <title lang="it">Alta infedelta' (Il miglior amico dell'uomo)</title>
+    <desc lang="it">Vincenzo e Laura non possono avere figli e, per compensazione, hanno preso un cane; portandolo a spasso Vincenzo incontra Martina e i due iniziano una storia. Ma Laura scopre il tradimento. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <episode-num system="xmltv_ns">0 . 36 . </episode-num>
+  </programme>
+  <programme start="20260828081500 +0200" stop="20260828084500 +0200" channel="Nove.it">
+    <title lang="it">Alta infedelta' (Terrazzo con vista)</title>
+    <desc lang="it">Giusy e Carlo sono sposati e hanno un figlio. La donna vive una crisi di mezz'eta' e quando nota Xavier, il musicista dirimpettaio, s'invaghisce subito. Quando li scopre, Carlo distrugge la chitarra di Xavier. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <episode-num system="xmltv_ns">0 . 6 . </episode-num>
+  </programme>
+  <programme start="20260828084500 +0200" stop="20260828092000 +0200" channel="Nove.it">
+    <title lang="it">Alta infedelta' (Massaggi d'amore)</title>
+    <desc lang="it">Walter e' sposato con Flavia. Un acuto dolore alla schiena costringe la donna ad incontrare Karim, un fisioterapista che sembra trovare la chiave giusta per curare il suo corpo e la sua anima. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E23</episode-num>
+    <episode-num system="xmltv_ns">2 . 22 . </episode-num>
+  </programme>
+  <programme start="20260828092000 +0200" stop="20260828095000 +0200" channel="Nove.it">
+    <title lang="it">Alta infedelta' (Amore precario)</title>
+    <desc lang="it">Sergio e Simona lottano contro la precarieta'. Lui riesce a trovare un lavoro modesto in una paninoteca. A raccogliere le confidenze e le preoccupazioni di Sergio e' Aurora, cameriera giovane e carina. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E24</episode-num>
+    <episode-num system="xmltv_ns">2 . 23 . </episode-num>
+  </programme>
+  <programme start="20260828095000 +0200" stop="20260828102500 +0200" channel="Nove.it">
+    <title lang="it">Alta infedelta': nuovi modi di tradire (Il rider)</title>
+    <desc lang="it">Linda e Fabrizio stanno insieme da dieci anni. Il lockdown e la convivenza forzata rendono la coppia sempre meno affiatata. L'arrivo di Pierluigi cambia la situazione. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S6 E1</episode-num>
+    <episode-num system="xmltv_ns">5 . 0 . </episode-num>
+  </programme>
+  <programme start="20260828102500 +0200" stop="20260828110000 +0200" channel="Nove.it">
+    <title lang="it">Alta infedelta': nuovi modi di tradire (Il rispetto della distanza)</title>
+    <desc lang="it">Silvia e Mimmo convivono da sei anni. A marzo 2020, Silvia entra sempre piu' in intimita' con Tito, affascinante vicino molto diverso dal suo fidanzato. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S6 E2</episode-num>
+    <episode-num system="xmltv_ns">5 . 1 . </episode-num>
+  </programme>
+  <programme start="20260828110000 +0200" stop="20260828113500 +0200" channel="Nove.it">
+    <title lang="it">Alta infedelta': nuovi modi di tradire (Cicli naturali)</title>
+    <desc lang="it">Lorena vive un amore da sogno con Marcello, il suo secondo marito, finche' non ricompare il suo ex Pierpaolo, a riaccendere le fiamme di una vecchia passione. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S6 E21</episode-num>
+    <episode-num system="xmltv_ns">5 . 20 . </episode-num>
+  </programme>
+  <programme start="20260828113500 +0200" stop="20260828124500 +0200" channel="Nove.it">
+    <title lang="it">Cash or Trash - Chi offre di piu'? (St.7 Ep.3)</title>
+    <desc lang="it">Alcuni mercanti cercano di aggiudicarsi preziosi oggetti. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E3</episode-num>
+    <episode-num system="xmltv_ns">6 . 2 . </episode-num>
+  </programme>
+  <programme start="20260828124500 +0200" stop="20260828140000 +0200" channel="Nove.it">
+    <title lang="it">Cash or Trash - Chi offre di piu'? (St.7 Ep.9)</title>
+    <desc lang="it">Alcuni mercanti cercano di aggiudicarsi preziosi oggetti. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E9</episode-num>
+    <episode-num system="xmltv_ns">6 . 8 . </episode-num>
+  </programme>
+  <programme start="20260828140000 +0200" stop="20260828150000 +0200" channel="Nove.it">
+    <title lang="it">The Cage - Prendi e scappa (St.1 Ep.120)</title>
+    <desc lang="it">Due coppie di concorrenti si sfidano in una gara a tempo per aggiudicarsi i premi di diverso valore racchiusi dentro una enorme gabbia trasparente. Conduce Amadeus con Giulia Salemi. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E120</episode-num>
+    <episode-num system="xmltv_ns">0 . 119 . </episode-num>
+  </programme>
+  <programme start="20260828150000 +0200" stop="20260828155500 +0200" channel="Nove.it">
+    <title lang="it">The Cage - Prendi e scappa (St.1 Ep.121)</title>
+    <desc lang="it">Due coppie di concorrenti si sfidano in una gara a tempo per aggiudicarsi i premi di diverso valore racchiusi dentro una enorme gabbia trasparente. Conduce Amadeus con Giulia Salemi. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E121</episode-num>
+    <episode-num system="xmltv_ns">0 . 120 . </episode-num>
+  </programme>
+  <programme start="20260828155500 +0200" stop="20260828165000 +0200" channel="Nove.it">
+    <title lang="it">Il delitto della porta accanto (Misterioso omicidio a Madison)</title>
+    <desc lang="it">Ogni cittadino di Madison, Wisconsin, e' sconvolto quando Joel Marino viene pugnalato a morte in pieno giorno. Saranno ancora piu' sconvolti quando scopriranno l'identita' del killer. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S4 E13</episode-num>
+    <episode-num system="xmltv_ns">3 . 12 . </episode-num>
+  </programme>
+  <programme start="20260828165000 +0200" stop="20260828175000 +0200" channel="Nove.it">
+    <title lang="it">Il delitto della porta accanto (L'arte di uccidere)</title>
+    <desc lang="it">Proprio quando sta per fare il suo debutto artistico, Kristin scompare, e la polizia presto scopre che e' stata uccisa. Ma chi aveva interesse nella sua morte? - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S4 E15</episode-num>
+    <episode-num system="xmltv_ns">3 . 14 . </episode-num>
+  </programme>
+  <programme start="20260828175000 +0200" stop="20260828192000 +0200" channel="Nove.it">
+    <title lang="it">Little Big Italy (Los Angeles)</title>
+    <desc lang="it">Francesco Panella riparte alla scoperta dei piu' autentici ristoranti italiani nel mondo. Per il finale di stagione la sfida sara' a Los Angeles, nel cuore pulsante della California. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <episode-num system="xmltv_ns">2 . 11 . </episode-num>
+  </programme>
+  <programme start="20260828192000 +0200" stop="20260828203500 +0200" channel="Nove.it">
+    <title lang="it">Cash or Trash - Chi offre di piu'? (St.8 Ep.40)</title>
+    <desc lang="it">Tetrodi, contenitori cinesi, album Lavazza e tavoli Mangiarotti compongono un episodio ricco di design e storia. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S8 E40</episode-num>
+    <episode-num system="xmltv_ns">7 . 39 . </episode-num>
+  </programme>
+  <programme start="20260828203500 +0200" stop="20260828213000 +0200" channel="Nove.it">
+    <title lang="it">Cash or Trash - Chi offre di piu'? (St.8 Ep.65)</title>
+    <desc lang="it">Case delle bambole, portafiori, benjo e gioielli Chanel compongono un episodio elegante e narrativo. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S8 E65</episode-num>
+    <episode-num system="xmltv_ns">7 . 64 . </episode-num>
+  </programme>
+  <programme start="20260828213000 +0200" stop="20260828234500 +0200" channel="Nove.it">
+    <title lang="it">Comedy Match (St.3 Ep.4)</title>
+    <desc lang="it">Alcuni comedians si sfidano a colpi di risate! - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <episode-num system="xmltv_ns">2 . 3 . </episode-num>
+  </programme>
+  <programme start="20260828234500 +0200" stop="20260829000000 +0200" channel="Nove.it">
+    <title lang="it">Save the Dating - Amori in corso (St.1 Ep.2)</title>
+    <desc lang="it">La stand - up comedy incontra il dating in un format con protagonisti Marta e Gianluca. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <episode-num system="xmltv_ns">0 . 1 . </episode-num>
+  </programme>
+  <programme start="20260829000000 +0200" stop="20260829014000 +0200" channel="Nove.it">
+    <title lang="it">Save the Dating - Amori in corso (St.1 Ep.2)</title>
+    <desc lang="it">La stand - up comedy incontra il dating in un format con protagonisti Marta e Gianluca. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <episode-num system="xmltv_ns">0 . 1 . </episode-num>
+  </programme>
+  <programme start="20260829014000 +0200" stop="20260829032000 +0200" channel="Nove.it">
+    <title lang="it">Nudi e crudi (In Ecuador)</title>
+    <desc lang="it">Tre giovani survivalisti mettono alla prova le loro abilita' nella foresta pluviale dell'Ecuador, rischiando la propria vita per andare alla ricerca di cibo. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E12</episode-num>
+    <episode-num system="xmltv_ns">6 . 11 . </episode-num>
+  </programme>
+  <programme start="20260829032000 +0200" stop="20260829041500 +0200" channel="Nove.it">
+    <title lang="it">Nudi e crudi (St.7 Ep.13)</title>
+    <desc lang="it">Due persone che non si conoscono affrontano un'enorme sfida quando tentano di sopravvivere in un luogo ostile e completamente nudi. Ce la faranno? - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E13</episode-num>
+    <episode-num system="xmltv_ns">6 . 12 . </episode-num>
+  </programme>
+  <programme start="20260829041500 +0200" stop="20260829051000 +0200" channel="Nove.it">
+    <title lang="it">Nudi e crudi (St.7 Ep.17)</title>
+    <desc lang="it">Due persone che non si conoscono affrontano un'enorme sfida quando tentano di sopravvivere in un luogo ostile e completamente nudi. Ce la faranno? - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E17</episode-num>
+    <episode-num system="xmltv_ns">6 . 16 . </episode-num>
+  </programme>
+  <programme start="20260829051000 +0200" stop="20260829060000 +0200" channel="Nove.it">
+    <title lang="it">Nudi e crudi (Intrappolati)</title>
+    <desc lang="it">Nel deserto di Chihuanhuan, al confine tra USA e Messico, due survivalisti tentano di sopravvivere per 21 giorni. Riusciranno a gestire le pericolose temperature e le creature? - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S7 E6</episode-num>
+    <episode-num system="xmltv_ns">6 . 5 . </episode-num>
+  </programme>
+  <programme start="20260829060000 +0200" stop="20260829065500 +0200" channel="Nove.it">
+    <title lang="it">Le meraviglie dell'oceano (Misterioso)</title>
+    <desc lang="it">Dopo aver esplorato la terra, la superficie dell'Oceano e gran parte del sistema solare, nel XXI secolo l'uomo prova a sondare le profondita' misteriose dell'Oceano Pacifico. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S0 E2</episode-num>
+    <episode-num system="xmltv_ns"> . 1 . </episode-num>
+  </programme>
+  <programme start="20260829065500 +0200" stop="20260829075500 +0200" channel="Nove.it">
+    <title lang="it">Le meraviglie dell'oceano (Passionale)</title>
+    <desc lang="it">Nel Pacifico, il tentativo di moltiplicarsi ha generato una serie di sorprendenti comportamenti e bizzarri adattamenti. Scopriamo le singolari unioni tra pinguini e il racconto di una gravidanza insolita. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S0 E3</episode-num>
+    <episode-num system="xmltv_ns"> . 2 . </episode-num>
+  </programme>
+  <programme start="20260829075500 +0200" stop="20260829085500 +0200" channel="Nove.it">
+    <title lang="it">Le meraviglie dell'oceano (Insaziabile)</title>
+    <desc lang="it">Sebbene l'Oceano Pacifico offra molto cibo, la vera sfida e' riuscire a trovarlo. Incontriamo un esercito di fameliche creature, desiderose di saziare la loro fame. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S0 E4</episode-num>
+    <episode-num system="xmltv_ns"> . 3 . </episode-num>
+  </programme>
+  <programme start="20260829085500 +0200" stop="20260829105500 +0200" channel="Nove.it">
+    <title lang="it">La magia della natura: Italia (St. Ep.)</title>
+    <desc lang="it">Una serie di documentari realizzati con le tecniche digitali piu' avanzate da Francesco Petretti, che descrive "il cuore selvaggio" dell'Italia. - -</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260829105500 +0200" stop="20260829135500 +0200" channel="Nove.it">
+    <title lang="it">La grande barriera corallina - Il miracolo della natura (St. Ep.)</title>
+    <desc lang="it">Un gruppo di esperti esplora la grande barriera corallina, una delle meraviglie del nostro pianeta che corre un grande rischio. - -</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260829135500 +0200" stop="20260829150000 +0200" channel="Nove.it">
+    <title lang="it">The Cage - Prendi e scappa (St.1 Ep.4)</title>
+    <desc lang="it">Due coppie di concorrenti si sfidano in una gara a tempo per aggiudicarsi i premi di diverso valore racchiusi dentro una enorme gabbia trasparente. Conduce Amadeus con Giulia Salemi. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <episode-num system="xmltv_ns">0 . 3 . </episode-num>
+  </programme>
+  <programme start="20260829150000 +0200" stop="20260829160500 +0200" channel="Nove.it">
+    <title lang="it">The Cage - Prendi e scappa (St.1 Ep.138)</title>
+    <desc lang="it">Due coppie di concorrenti si sfidano in una gara a tempo per aggiudicarsi i premi di diverso valore racchiusi dentro una enorme gabbia trasparente. Conduce Amadeus con Giulia Salemi. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E138</episode-num>
+    <episode-num system="xmltv_ns">0 . 137 . </episode-num>
+  </programme>
+  <programme start="20260829160500 +0200" stop="20260829190500 +0200" channel="Nove.it">
+    <title lang="it">La Corrida (St.2 Ep.6)</title>
+    <desc lang="it">Amadeus conduce La Corrida. I dilettanti allo sbaraglio si esibiscono giudicati dal pubblico in studio. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <episode-num system="xmltv_ns">1 . 5 . </episode-num>
+  </programme>
+  <programme start="20260829190500 +0200" stop="20260829204500 +0200" channel="Nove.it">
+    <title lang="it">Little Big Italy (Rio)</title>
+    <desc lang="it">Francesco Panella scopre i migliori ristoranti italiani all'estero. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <episode-num system="xmltv_ns">7 . 0 . </episode-num>
+  </programme>
+  <programme start="20260829204500 +0200" stop="20260829224500 +0200" channel="Nove.it">
+    <title lang="it">Cash or Trash - Chi offre di piu'? (St.8 Ep.1)</title>
+    <desc lang="it">Alcuni mercanti cercano di aggiudicarsi preziosi oggetti. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S8 E1</episode-num>
+    <episode-num system="xmltv_ns">7 . 0 . </episode-num>
+  </programme>
+  <programme start="20260829224500 +0200" stop="20260830000000 +0200" channel="Nove.it">
+    <title lang="it">Il caso Vannini (St. Ep.1)</title>
+    <desc lang="it">Nove racconta il clamoroso caso di Marco Vannini cercando di analizzare e dare delle risposte ai vari aspetti ancora irrisolti della vicenda. Marco e' davvero morto per un fatale incidente? - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S0 E1</episode-num>
+    <episode-num system="xmltv_ns"> . 0 . </episode-num>
+  </programme>
+  <programme start="20260830000000 +0200" stop="20260830004000 +0200" channel="Nove.it">
+    <title lang="it">Il caso Vannini (St. Ep.1)</title>
+    <desc lang="it">Nove racconta il clamoroso caso di Marco Vannini cercando di analizzare e dare delle risposte ai vari aspetti ancora irrisolti della vicenda. Marco e' davvero morto per un fatale incidente? - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S0 E1</episode-num>
+    <episode-num system="xmltv_ns"> . 0 . </episode-num>
+  </programme>
+  <programme start="20260830004000 +0200" stop="20260830023000 +0200" channel="Nove.it">
+    <title lang="it">Pietro Maso - Io ho ucciso (St. Ep.)</title>
+    <desc lang="it">Nel 1991 Pietro Maso, appena ventenne, massacro' i genitori per appropriarsi del loro patrimonio. In esclusiva e' lui stesso a ripercorrere l'atroce vicenda che lo ha reso protagonista. - -</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260830023000 +0200" stop="20260830040500 +0200" channel="Nove.it">
+    <title lang="it">Stevanin - Non ricordo di averle uccise (St. Ep.)</title>
+    <desc lang="it">Dal carcere di Bollate parla in una lunga intervista Gianfranco Stevanin, serial killer e stupratore colpevole dell'omicidio di sei donne, di cui pero' ricorda soltanto di averle seppellite. - -</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260830040500 +0200" stop="20260830060000 +0200" channel="Nove.it">
+    <title lang="it">Il caso Vannini (St. Ep.1)</title>
+    <desc lang="it">Nove racconta il clamoroso caso di Marco Vannini cercando di analizzare e dare delle risposte ai vari aspetti ancora irrisolti della vicenda. Marco e' davvero morto per un fatale incidente? - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S0 E1</episode-num>
+    <episode-num system="xmltv_ns"> . 0 . </episode-num>
+  </programme>
+  <programme start="20260830060000 +0200" stop="20260830070000 +0200" channel="Nove.it">
+    <title lang="it">Tropical Islands - Le isole delle meraviglie (St.1 Ep.3)</title>
+    <desc lang="it">Tre isole delle meraviglie: Madagascar, Borneo e Hawaii. Isolate, remote ma piene di vita. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <episode-num system="xmltv_ns">0 . 2 . </episode-num>
+  </programme>
+  <programme start="20260830070000 +0200" stop="20260830095500 +0200" channel="Nove.it">
+    <title lang="it">Pianeta Terra (St.1 Ep.1)</title>
+    <desc lang="it">Una serie epica, dedicata alla celebrazione della Terra come mai fatta prima. Uno sguardo sulle diversita' che caratterizzano il pianeta, un viaggio emozionante oltre che intellettuale. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <episode-num system="xmltv_ns">0 . 0 . </episode-num>
+  </programme>
+  <programme start="20260830095500 +0200" stop="20260830125000 +0200" channel="Nove.it">
+    <title lang="it">Pianeta Terra (St.1 Ep.2)</title>
+    <desc lang="it">Una serie epica, dedicata alla celebrazione della Terra come mai fatta prima. Uno sguardo sulle diversita' che caratterizzano il pianeta, un viaggio emozionante oltre che intellettuale. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <episode-num system="xmltv_ns">0 . 1 . </episode-num>
+  </programme>
+  <programme start="20260830125000 +0200" stop="20260830140000 +0200" channel="Nove.it">
+    <title lang="it">Cash or Trash - Chi offre di piu'? (St.8 Ep.18)</title>
+    <desc lang="it">Oggetti artistici e culturali: statue, bozzetti Beatles e pietre litografiche. Episodio dal tono colto e ricercato. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S8 E18</episode-num>
+    <episode-num system="xmltv_ns">7 . 17 . </episode-num>
+  </programme>
+  <programme start="20260830140000 +0200" stop="20260830145500 +0200" channel="Nove.it">
+    <title lang="it">The Cage - Prendi e scappa (St.1 Ep.139)</title>
+    <desc lang="it">Due coppie di concorrenti si sfidano in una gara a tempo per aggiudicarsi i premi di diverso valore racchiusi dentro una enorme gabbia trasparente. Conduce Amadeus con Giulia Salemi. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E139</episode-num>
+    <episode-num system="xmltv_ns">0 . 138 . </episode-num>
+  </programme>
+  <programme start="20260830145500 +0200" stop="20260830165500 +0200" channel="Nove.it">
+    <title lang="it">Aldo, Giovanni e Giacomo - Ammutta muddica (St. Ep.)</title>
+    <desc lang="it">Protagonista dello spettacolo e' la vita di tutti i giorni, ricca di personaggi e situazioni strampalate, ingrandita dalla stravagante lente dalla comicita' del trio Aldo, Giovanni e Giacomo. - -</desc>
+    <category lang="it" />
+  </programme>
+  <programme start="20260830165500 +0200" stop="20260830185000 +0200" channel="Nove.it">
+    <title lang="it">Comedy Match (St.3 Ep.2)</title>
+    <desc lang="it">Alcuni comedians si sfidano a colpi di risate! - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S3 E2</episode-num>
+    <episode-num system="xmltv_ns">2 . 1 . </episode-num>
+  </programme>
+  <programme start="20260830185000 +0200" stop="20260830202000 +0200" channel="Nove.it">
+    <title lang="it">Little Big Italy (Londra)</title>
+    <desc lang="it">Francesco Panella e' alla scoperta dei piu' autentici ristoranti italiani di Londra. Sara' una sfida all'ultimo piatto tra i locali del cuore di 3 italiani residenti nella citta' del Big Ben. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <episode-num system="xmltv_ns">0 . 5 . </episode-num>
+  </programme>
+  <programme start="20260830202000 +0200" stop="20260830213000 +0200" channel="Nove.it">
+    <title lang="it">Little Big Italy (Siviglia)</title>
+    <desc lang="it">Francesco Panella e' alla scoperta dei piu' autentici ristoranti italiani di Siviglia. Sara' una sfida all'ultimo piatto tra i locali del cuore di 3 italiani residenti nella capitale andalusa. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <episode-num system="xmltv_ns">0 . 6 . </episode-num>
+  </programme>
+  <programme start="20260830213000 +0200" stop="20260831000000 +0200" channel="Nove.it">
+    <title lang="it">La Corrida (St.2 Ep.7)</title>
+    <desc lang="it">Amadeus conduce La Corrida. I dilettanti allo sbaraglio si esibiscono giudicati dal pubblico in studio. - -</desc>
+    <category lang="it" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <episode-num system="xmltv_ns">1 . 6 . </episode-num>
   </programme>
   <programme start="20260827010000 +0200" stop="20260827021500 +0200" channel="Rai1.it">
     <title lang="it">Reazione a catena - Puntata del 26/08/2026</title>
@@ -17324,12 +17789,6 @@ Brock, Elena D'elia. - -</desc>
     <desc lang="it">L'approfondimento sportivo del lunedì. Dopo le immagini del posticipo della sera, una riflessione su quanto avvenuto nei tre giorni della serie A: immagini, interviste e un occhio attento alle Coppe Europee. - -</desc>
     <category lang="it" />
     <episode-num system="xmltv_ns">2025 .  . </episode-num>
-  </programme>
-  <programme start="20260827011500 +0200" stop="20260827014500 +0200" channel="Rai3.it">
-    <title lang="it">Sulla via di Damasco - Puntata del 23/08/2026</title>
-    <desc lang="it">Eva Crosetta analizza la variegata realtà ecumenica, umana e sociale, dedita al volontariato sul territorio non solo italiano. - -</desc>
-    <category lang="it" />
-    <episode-num system="xmltv_ns">2024 .  . </episode-num>
   </programme>
   <programme start="20260827014500 +0200" stop="20260827020000 +0200" channel="Rai3.it">
     <title lang="it">RaiNews24</title>
@@ -19917,20 +20376,6 @@ Brock, Elena D'elia. - -</desc>
     <title lang="it">Houria - La voce della libertà</title>
     <desc lang="it">Ad Algeri, la giovane ballerina Houria subisce una brutale aggressione che le toglie la voce e il sogno di una carriera. Grazie al sostegno di donne che hanno vissuto esperienze simili alla sua, ritrova nella danza un modo per esprimere il suo silenzioso grido di libertà. - -</desc>
     <category lang="it" />
-  </programme>
-  <programme start="20260827012000 +0200" stop="20260827014000 +0200" channel="RaiGulp.it">
-    <title lang="it">Gormiti - S1E20 - Tagliare il vento</title>
-    <desc lang="it">Arrivati a Torre Tempesta, i Guardiani scoprono che colui che riuscirà a "dividere il vento in due", sarà il Sommo Gormiano. Ikor e Trek tentano senza riuscirci, invece Riff decide di provare con tutte le forze, fino a rischiare di farsi male. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E20</episode-num>
-    <episode-num system="xmltv_ns">0 . 19 . </episode-num>
-  </programme>
-  <programme start="20260827014000 +0200" stop="20260827015000 +0200" channel="RaiGulp.it">
-    <title lang="it">La famiglia Skrokkiazeppi - S1E19 - Senior gang</title>
-    <desc lang="it">Nonna Cikuta fa amicizia con due pensionati. Insieme seminano il caos nel quartiere di Tor Sardine. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E19</episode-num>
-    <episode-num system="xmltv_ns">0 . 18 . </episode-num>
   </programme>
   <programme start="20260827015000 +0200" stop="20260827020000 +0200" channel="RaiGulp.it">
     <title lang="it">La famiglia Skrokkiazeppi - S1E20 - Troll food</title>
@@ -25344,20 +25789,6 @@ Brock, Elena D'elia. - -</desc>
     <category lang="it" />
     <episode-num system="onscreen">S2024 E9</episode-num>
     <episode-num system="xmltv_ns">2023 . 8 . </episode-num>
-  </programme>
-  <programme start="20260827013000 +0200" stop="20260827014000 +0200" channel="RaiYoyo.it">
-    <title lang="it">PJ Masks - S5E45 - Naufrago sulla Luna</title>
-    <desc lang="it">Le avventure di Connor, Amaya e Greg supereroi che combattono i malvagi durante la notte, perché il giorno seguente vada tutto bene. Grazie alla potenza dei loro totem animali, Greg diventa Geco, Amaya diventa Gufetta e Connor diventa Gattoboy! I loro costumi sembrano dei pigiama, ma sono in realtà dei superpigiamini! - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S5 E45</episode-num>
-    <episode-num system="xmltv_ns">4 . 44 . </episode-num>
-  </programme>
-  <programme start="20260827014000 +0200" stop="20260827015000 +0200" channel="RaiYoyo.it">
-    <title lang="it">Barbapapà – Una grande famiglia felice – S1E41 - Una fame da stambecco</title>
-    <desc lang="it">I Barbabebè si accorgono che vari oggetti continuano a sparire e Barbazoo li convince che i colpevoli devono essere stati i folletti che di solito rubano le calze, così vanno tutti alla ricerca dei folletti. Alla fine, la famiglia scopre che si trattava di uno stambecco affamato che mangia tutto quello che si trova davanti. - -</desc>
-    <category lang="it" />
-    <episode-num system="onscreen">S1 E41</episode-num>
-    <episode-num system="xmltv_ns">0 . 40 . </episode-num>
   </programme>
   <programme start="20260827015000 +0200" stop="20260827020000 +0200" channel="RaiYoyo.it">
     <title lang="it">Barbapapà – Una grande famiglia felice – S1E42 - Talento felino</title>
@@ -31113,18 +31544,6 @@ Brock, Elena D'elia. - -</desc>
     <episode-num system="onscreen">S2 E10</episode-num>
     <episode-num system="xmltv_ns">1 . 9 . </episode-num>
   </programme>
-  <programme start="20260826235300 +0200" stop="20260827015600 +0200" channel="Rete4.it">
-    <title lang="it">Io e mia sorella</title>
-    <desc lang="it">Il mite musicista Carlo rivede sua sorella dopo tanti anni alla morte della madre. Da quel momento vivrà un susseguirsi di disavventure, per risolvere i suoi guai. - -</desc>
-    <category lang="it">commedia</category>
-    <category lang="it">cinema italiano</category>
-  </programme>
-  <programme start="20260826235300 +0200" stop="20260827015600 +0200" channel="Rete4.it">
-    <title lang="it">Io e mia sorella</title>
-    <desc lang="it">Il mite musicista Carlo rivede sua sorella dopo tanti anni alla morte della madre. Da quel momento vivrà un susseguirsi di disavventure, per risolvere i suoi guai. - -</desc>
-    <category lang="it">commedia</category>
-    <category lang="it">cinema italiano</category>
-  </programme>
   <programme start="20260827015600 +0200" stop="20260827021400 +0200" channel="Rete4.it">
     <title lang="it">Tg4 - ultima ora notte</title>
     <desc lang="it">Informazione quotidiana con le notizie dall'Italia e dal mondo per il telegiornale di Rete 4. - -</desc>
@@ -31942,11 +32361,6 @@ Brock, Elena D'elia. - -</desc>
     <desc lang="it">News - -</desc>
     <category lang="it" />
   </programme>
-  <programme start="20260827012800 +0200" stop="20260827015800 +0200" channel="TGCom24.it">
-    <title lang="it">Tg5</title>
-    <desc lang="it">Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5. - -</desc>
-    <category lang="it">telegiornale</category>
-  </programme>
   <programme start="20260827015800 +0200" stop="20260827020300 +0200" channel="TGCom24.it">
     <title lang="it">Tg5</title>
     <desc lang="it">Le notizie piu' importanti, nazionali e internazionali, con approfondimenti e rubriche, a cura della redazione giornalistica di Canale 5. - -</desc>
@@ -32667,11 +33081,6 @@ Brock, Elena D'elia. - -</desc>
   <programme start="20260830235800 +0200" stop="20260831002800 +0200" channel="TGCom24.it">
     <title lang="it">Tgcom24 diretta roma 2026</title>
     <desc lang="it">Tgcom24 diretta roma 2026 - -</desc>
-  </programme>
-  <programme start="20260827013000 +0200" stop="20260827014500 +0200" channel="TV2000.it">
-    <title lang="it">LA COMPIETA PREGHIERA DELLA SERA 2023</title>
-    <desc lang="it">La Compieta - Compieta - -</desc>
-    <category lang="it" />
   </programme>
   <programme start="20260827014500 +0200" stop="20260827021500 +0200" channel="TV2000.it">
     <title lang="it">SANTO ROSARIO DALLA BASILICA PAPALE DI SANTA MARIA MAGGIORE IN ROMA</title>
@@ -34780,10 +35189,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
     <url>http://www.tv.blue.ch</url>
     <display-name lang="it">Giallo.ch</display-name>
   </channel>
-  <channel id="NOVE.ch">
-    <url>http://www.tv.blue.ch</url>
-    <display-name lang="it">NOVE.ch</display-name>
-  </channel>
   <channel id="La.7d.ch">
     <url>http://www.tv.blue.ch</url>
     <display-name lang="it">La.7d.ch</display-name>
@@ -36210,16 +36615,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
     <episode-num system="onscreen">S1 E5</episode-num>
     <rating system="FSK">
       <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="Discovery.Channel.I.ch" start="20260827005500 +0000" stop="20260827015000 +0000">
-    <title lang="it">Cose di questo mondo</title>
-    <desc lang="it">Qualcosa di strano in Himalaya potrebbe essere la prova di un programma segreto della CIA per trasformare i monaci in agenti assassini. La scienza all'avanguardia aiuta gli esperti a indagare la verità dietro la misteriosa anomalia.</desc>
-    <date>2019</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S5 E1</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
     </rating>
   </programme>
   <programme channel="Discovery.Channel.I.ch" start="20260827015000 +0000" stop="20260827024500 +0000">
@@ -38957,14 +39352,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
       <value>12+</value>
     </rating>
   </programme>
-  <programme channel="Motor.Trend.ch" start="20260827005500 +0000" stop="20260827015000 +0000">
-    <title lang="it">Salt Lake Garage</title>
-    <sub-title lang="it">Chicago Show</sub-title>
-    <desc lang="it">Dave e Kevin portano una Coronet del 1967, una Gullwing del 1955 e una Corvette del 1963 a una fiera automobilistica a Chicago.</desc>
-    <date>2019</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S6 E8</episode-num>
-  </programme>
   <programme channel="Motor.Trend.ch" start="20260827015000 +0000" stop="20260827024500 +0000">
     <title lang="it">Salt Lake Garage</title>
     <sub-title lang="it">Il dilemma</sub-title>
@@ -40451,576 +40838,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
     <date>2014</date>
     <country lang="it">IT</country>
     <premiere />
-  </programme>
-  <programme channel="NOVE.ch" start="20260827005500 +0000" stop="20260827015000 +0000">
-    <title lang="it">Nudi e crudi</title>
-    <sub-title lang="it">Insetti</sub-title>
-    <desc lang="it">Nella giungla dell'Ecuador, Suzanne e Wes lottano contro la natura. L'umidità, gli insetti e il terreno difficile mettono a dura prova le loro capacità.</desc>
-    <date>2021</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S12 E5</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827015000 +0000" stop="20260827033000 +0000">
-    <title lang="it">Nudi e crudi</title>
-    <sub-title lang="it">I boschi del diavolo</sub-title>
-    <desc lang="it">Il freddo del Montana spinge la coppia al limite, anche se cercano di collaborare. Gli animali selvatici circondano il loro campo, e il calo delle temperature li costringe a prendere misure drastiche.</desc>
-    <date>2021</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S12 E3</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827033000 +0000" stop="20260827040000 +0000">
-    <title lang="it">Appuntamenti da incubo</title>
-    <sub-title lang="it">Notte oscura</sub-title>
-    <desc lang="it">Jansen ha perso la testa per Jon, affascinante veterano della Marina. Ma un uomo con un piano folle trasforma un appuntamento speciale in una spaventosa tragedia.</desc>
-    <date>2013</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S2 E4</episode-num>
-    <rating system="FSK">
-      <value>16+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827040000 +0000" stop="20260827045000 +0000">
-    <title lang="it">Torbidi delitti</title>
-    <sub-title lang="it">Omicidio sull'Hudson</sub-title>
-    <desc lang="it">Ad Albany, New York, il corpo di una donna viene ritrovato sulle sponde del fiume Hudson. La ragazza aveva avuto un'accesa discussione col proprio fidanzato.</desc>
-    <credits>
-      <director>Dave Moore</director>
-    </credits>
-    <date>2015</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S3 E6</episode-num>
-    <rating system="FSK">
-      <value>16+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827045000 +0000" stop="20260827054500 +0000">
-    <title lang="it">Torbidi delitti</title>
-    <sub-title lang="it">Scomparsa</sub-title>
-    <desc lang="it">La giovane madre Shawn Williams, una sera, esce per non far più ritorno a casa. Il suo corpo viene ritrovato il giorno seguente lungo un fiume Oklahoma. Gli investigatori si chiedono se uno degli uomini nella sua vita possa essere il suo assassino.</desc>
-    <credits>
-      <actor role="Shawn Williams">Kristina Arjona</actor>
-      <actor role="Ryan Risley">LB Brown</actor>
-      <actor role="Belinda Keith">Jyn Hall</actor>
-      <actor role="Investigator Larry Elkin">John Rymer</actor>
-      <actor role="Karl Myers">Michael A. Cook</actor>
-      <director>Eric Blue</director>
-    </credits>
-    <date>2017</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S5 E9</episode-num>
-    <rating system="FSK">
-      <value>16+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827054500 +0000" stop="20260827061500 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Boogie Boogie Brahms</sub-title>
-    <desc lang="it">Sofia e Stefano stanno insieme da poco. Anche Marta, timida amica della ragazza, ha delle mire su di lui e riesce a conquistarlo grazie alla comune passione per la musica.</desc>
-    <date>2015</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E36</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827061500 +0000" stop="20260827064500 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Tornare giovani</sub-title>
-    <desc lang="it">Alberto e Claudia sono sposati. Quando lui incontra Giulia, una studentessa che lo adora, sboccia la passione. Tuttavia la moglie viene a saperlo, così lui è costretto fare un passo indietro.</desc>
-    <credits>
-      <director>Angelo Pastore</director>
-    </credits>
-    <date>2015</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827064500 +0000" stop="20260827072000 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Il dente del giudizio</sub-title>
-    <desc lang="it">Mara e Alfonso sono felicemente sposati. Tutto cambia quando la crisi mette in ginocchio la ditta di impianti idraulici di lui. Lei allora incontra Samuele, rappresentante farmaceutico a caccia di avventure.</desc>
-    <credits>
-      <director>Bernardo Nuti</director>
-    </credits>
-    <date>2016</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S3 E21</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827072000 +0000" stop="20260827075500 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Robin Hood</sub-title>
-    <desc lang="it">Gigi tradisce da tempo la propria moglie Marina. Lei però non si è mai accorta di nulla, ma allo stesso tempo si iscrive a un forum cittadino, dove stringe nuove e maliziose amicizie.</desc>
-    <credits>
-      <director>Bernardo Nuti</director>
-    </credits>
-    <date>2016</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S3 E22</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827075500 +0000" stop="20260827083000 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Sorride bene chi sorride ultimo</sub-title>
-    <desc lang="it">Cristina ha 37 anni e il marito Pierfrancesco passa molto tempo negli Stati Uniti per lavoro. Da circa un anno, Cristina lo tradisce con Angelo, il dentista. Clio, la figlia di Pierfrancesco, incontra Angelo e scatta subito la scintilla.</desc>
-    <credits>
-      <director>Bernardo Nuti</director>
-    </credits>
-    <date>2018</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S5 E19</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827083000 +0000" stop="20260827090000 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Piacevoli sorprese</sub-title>
-    <desc lang="it">Olivia e Mauro sono sposati da 15 anni e la serenità della coppia è minata dall'apatia della quotidianità. Per pura coincidenza, un giorno Olivia scopre Gleeden, un sito di incontri extraconiugali, dove conosce Giacomo.</desc>
-    <credits>
-      <director>Bernardo Nuti</director>
-    </credits>
-    <date>2018</date>
-    <country lang="it">IT</country>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827090000 +0000" stop="20260827093500 +0000">
-    <title lang="it">Alta infedeltà: Nuovi modi di tradire</title>
-    <sub-title lang="it">Born cheater</sub-title>
-    <desc lang="it">Salvatore è un uomo che per natura non riesce proprio ad essere fedele, mentre Sabrina sta conducendo uno studio sul tradimento. Dopo un po' di teoria, per i due sembra essere arrivato il momento di passare alla pratica.</desc>
-    <date>2021</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827093500 +0000" stop="20260827104500 +0000">
-    <title lang="it">Cash or Trash: Chi offre di più?</title>
-    <desc lang="it">I nostri mercanti si contendono alcuni oggetti diversi tra loro e particolarmente originali. Scopriamo quale sarà, questa volta, l'oggetto più conteso.</desc>
-    <credits>
-      <director>Giuseppe Bianchi</director>
-      <director>Tomas Goldschmidt</director>
-    </credits>
-    <date>2025</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S7 E2</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827104500 +0000" stop="20260827120000 +0000">
-    <title lang="it">Cash or Trash: Chi offre di più?</title>
-    <desc lang="it">Sono in arrivo cinque nuovi venditori e i loro particolari oggetti tutti da scoprire. In questa puntata dedicata al viaggio, scopriamo chi concluderà il migliore affare.</desc>
-    <credits>
-      <director>Giuseppe Bianchi</director>
-      <director>Tomas Goldschmidt</director>
-    </credits>
-    <date>2025</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S7 E8</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827120000 +0000" stop="20260827130000 +0000">
-    <title lang="it">The Cage: Prendi e scappa</title>
-    <desc lang="it">Due coppie di concorrenti competono in una gara contro il tempo per vincere premi di diverso valore che si trovano all'interno di un'enorme gabbia trasparente.</desc>
-    <credits>
-      <director>Lele Biscussi</director>
-    </credits>
-    <date>2025</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E118</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827130000 +0000" stop="20260827135500 +0000">
-    <title lang="it">The Cage: Prendi e scappa</title>
-    <desc lang="it">Due coppie di concorrenti competono in una gara contro il tempo per vincere premi di diverso valore che si trovano all'interno di un'enorme gabbia trasparente.</desc>
-    <credits>
-      <director>Lele Biscussi</director>
-    </credits>
-    <date>2025</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E119</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827135500 +0000" stop="20260827145000 +0000">
-    <title lang="it">Il delitto della porta accanto</title>
-    <sub-title lang="it">La scomparsa di Starr</sub-title>
-    <desc lang="it">In Tennessee una donna viene uccisa nei boschi che si estendono dietro la sua casa. La polizia e i protagonisti ricostruiscono la complicata indagine.</desc>
-    <date>2014</date>
-    <country lang="it">US</country>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827145000 +0000" stop="20260827155000 +0000">
-    <title lang="it">Il delitto della porta accanto</title>
-    <sub-title lang="it">Autostrada per l'inferno</sub-title>
-    <desc lang="it">Un'adolescente de Wyoming scompare senza lasciare traccia durante un viaggio. Le ricerche conducono al suo corpo senza vita e ad un terribile segreto.</desc>
-    <date>2014</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S8 E12</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827155000 +0000" stop="20260827172000 +0000">
-    <title lang="it">Little Big Italy</title>
-    <sub-title lang="it">Dallas</sub-title>
-    <desc lang="it">Francesco Panella si trova a Dallas, nel cuore del Texas. Insieme a tre italiani residente nel paese, il ristoratore scopre le specialità della cucina di Zio Cecio, de Il Testardo e del Ferrari's Italian Villa. Scopriamo chi vincerà la sfida.</desc>
-    <credits>
-      <director>Bennet Pimpinella</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S3 E11</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827172000 +0000" stop="20260827183500 +0000">
-    <title lang="it">Cash or Trash: Chi offre di più?</title>
-    <desc lang="it">Valigie da oculista, set da picnic, novene e macchine per ravioli animano una puntata tra tradizione e quotidianità.</desc>
-    <credits>
-      <director>Giuseppe Bianchi</director>
-      <director>Tomas Goldschmidt</director>
-    </credits>
-    <date>2026</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S8 E39</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827183500 +0000" stop="20260827193000 +0000">
-    <title lang="it">Cash or Trash: Chi offre di più?</title>
-    <desc lang="it">Oggi i mercanti si contendono degli oggetti molto diversi tra loro. Scopriamo chi sarà in grado di concludere l'affare migliore.</desc>
-    <credits>
-      <director>Giuseppe Bianchi</director>
-      <director>Tomas Goldschmidt</director>
-    </credits>
-    <date>2026</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S8 E64</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827193000 +0000" stop="20260827214500 +0000">
-    <title lang="it">Ammutta muddica</title>
-    <desc lang="it">Alla guida di un grande tir dal quale prendono vita le varie scene, Aldo, Giovanni e Giacomo sono protagonisti di situazioni esilaranti e irresistibili gag. Oltre al meglio dello show teatrale i comici propongono alcuni sketch inediti.</desc>
-    <credits>
-      <director>Morgan Bertacca</director>
-    </credits>
-    <date>2012</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827214500 +0000" stop="20260827231500 +0000">
-    <title lang="it">Aldo, Giovanni e Giacomo: Anplagghed</title>
-    <desc lang="it">Il celebre trio formato da Aldo, Giovanni e Giacomo ci racconta come trascorrono le giornate in un quartiere di periferia, con vecchiette derubate e vicini che litigano. Guarda la seconda parte dello spettacolo!</desc>
-    <date>2021</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260827231500 +0000" stop="20260828001500 +0000">
-    <title lang="it">Nudi e crudi</title>
-    <sub-title lang="it">Eccentrico</sub-title>
-    <desc lang="it">Un ex marine e una ragazza del sud tentano di sopravvivere nella giungla panamense. Sfortunatamente, la sete e le costanti minacce da parte dei predatori mettono a rischio la loro missione.</desc>
-    <date>2017</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S7 E8</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828001500 +0000" stop="20260828011000 +0000">
-    <title lang="it">Nudi e crudi</title>
-    <sub-title lang="it">Mordimi</sub-title>
-    <desc lang="it">Un ex ragazzo pon pon e una mandriana affrontano l'ambiente ostile del Sud Africa. I morsi delle creature e le punture di scorpioni sono tra i rischi maggiori.</desc>
-    <date>2021</date>
-    <country lang="it">US</country>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828011000 +0000" stop="20260828021000 +0000">
-    <title lang="it">Nudi e crudi</title>
-    <sub-title lang="it">La maledizione della palude</sub-title>
-    <desc lang="it">Un ex esperto di sopravvivenza ritorna per ottenere la propria redenzione nelle famigerate paludi della Louisiana. A tal fine deve collaborare con un determinato veterano dell'Air Force.</desc>
-    <date>2017</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S7 E9</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828021000 +0000" stop="20260828040000 +0000">
-    <title lang="it">Nudi e crudi</title>
-    <sub-title lang="it">Okay, Boomer</sub-title>
-    <desc lang="it">Quattro sopravvissuti, una coppia di cinquantenni e una di ventenni, vengono abbandonati nel deserto di Sonoran. Vengono messi alla prova da puma, mostri di gila e calore implacabile.</desc>
-    <date>2021</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S12 E9</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828040000 +0000" stop="20260828045000 +0000">
-    <title lang="it">Torbidi delitti</title>
-    <sub-title lang="it">Un salto nel buio</sub-title>
-    <desc lang="it">A Crox Springs, Los Angeles, una donna scompare dal parcheggio di una tavola calda. Il suo ragazzo teme che la ragazza sia stata uccisa dall'ex compagno.</desc>
-    <credits>
-      <director>Scott Thigpen</director>
-    </credits>
-    <date>2015</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S3 E5</episode-num>
-    <rating system="FSK">
-      <value>16+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828045000 +0000" stop="20260828054500 +0000">
-    <title lang="it">Torbidi delitti</title>
-    <sub-title lang="it">Doppio gioco</sub-title>
-    <desc lang="it">Il corpo della ventenne transgender CeCe viene trovato in uno stagno a 20 miglia dalla sua casa di Cleveland. Gli investigatori indagano su un possibile movente mentre danno la caccia al suo spietato assassino.</desc>
-    <credits>
-      <director>Eric Blue</director>
-    </credits>
-    <date>2017</date>
-    <country lang="it">US</country>
-    <rating system="FSK">
-      <value>16+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828054500 +0000" stop="20260828061500 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Il miglior amico dell'uomo</sub-title>
-    <desc lang="it">Vincenzo e Laura, una coppia senza figli, hanno deciso di prendersi cura di un cane. Tuttavia, mentre lui lo porta a spasso, incontra Martina e i due iniziano una storia. La moglie, però, viene a sapere del tradimento.</desc>
-    <credits>
-      <director>Bernardo Nuti</director>
-    </credits>
-    <date>2015</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E37</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828061500 +0000" stop="20260828064500 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Terrazzo con vista</sub-title>
-    <desc lang="it">Giusy e Carlo sono sposati e hanno un figlio. La donna vive una crisi di mezza età e quando nota Xavier, un musicista, se ne invaghisce immediatamente. Quando il marito lo viene a sapere, si vendica distruggendo la chitarra dell'amante.</desc>
-    <credits>
-      <director>Bernardo Nuti</director>
-    </credits>
-    <date>2015</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828064500 +0000" stop="20260828072000 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Massaggi d'amore</sub-title>
-    <desc lang="it">Walter è sposato con Flavia. Un acuto dolore alla schiena costringe la donna a incontrare Karim, un fisioterapista che sembra trovare la chiave giusta per curare il suo corpo e la sua anima.</desc>
-    <credits>
-      <director>Bernardo Nuti</director>
-    </credits>
-    <date>2016</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S3 E23</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828072000 +0000" stop="20260828075000 +0000">
-    <title lang="it">Alta infedeltà</title>
-    <sub-title lang="it">Amore precario</sub-title>
-    <desc lang="it">Sergio e Simona lottano contro la precarietà. Lui riesce a trovare un lavoro modesto in una paninoteca. A raccogliere le confidenze e le preoccupazioni di lui è Aurora, cameriera giovane e carina.</desc>
-    <credits>
-      <director>Bernardo Nuti</director>
-    </credits>
-    <date>2016</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S3 E24</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828075000 +0000" stop="20260828082500 +0000">
-    <title lang="it">Alta infedeltà: Nuovi modi di tradire</title>
-    <sub-title lang="it">Il rider</sub-title>
-    <desc lang="it">La relazione lunga dieci anni di Linda e Fabrizio viene messa a dura prova dalla convivenza forzata durante il lockdown, e la coppia diventa sempre meno affiata. L'arrivo di Pierluigi cambia la situazione.</desc>
-    <date>2021</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S6 E1</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828082500 +0000" stop="20260828090000 +0000">
-    <title lang="it">Alta infedeltà: Nuovi modi di tradire</title>
-    <sub-title lang="it">Il rispetto della distanza</sub-title>
-    <desc lang="it">Silvia e Mimmo sono una coppia che convive da sei anni. Tuttavia, da marzo 2020 Silvia entra sempre più in intimità con Tito, affascinante vicino del tutto diverso dal suo fidanzato.</desc>
-    <date>2021</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S6 E2</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828090000 +0000" stop="20260828093500 +0000">
-    <title lang="it">Alta infedeltà: Nuovi modi di tradire</title>
-    <sub-title lang="it">Cicli naturali</sub-title>
-    <desc lang="it">Lorena sta vivendo un amore da sogno con Marcello, il suo secondo marito. Tuttavia Pierpaolo, il suo ex, ricompare nella sua vita a riaccendere le fiamme di una vecchia passione.</desc>
-    <date>2021</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S6 E21</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828093500 +0000" stop="20260828104500 +0000">
-    <title lang="it">Cash or Trash: Chi offre di più?</title>
-    <desc lang="it">Nuovi e particolari oggetti varcano la soglia dello studio di "Cash or Trash". Nel corso di questo appuntamento a tema mare, scopriamo chi farà l'affare migliore.</desc>
-    <credits>
-      <director>Giuseppe Bianchi</director>
-      <director>Tomas Goldschmidt</director>
-    </credits>
-    <date>2025</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S7 E3</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828104500 +0000" stop="20260828120000 +0000">
-    <title lang="it">Cash or Trash: Chi offre di più?</title>
-    <desc lang="it">Prepariamoci all'arrivo di cinque venditori e dei loro oggetti tutti da scoprire. Scopriamo quale di questi sarà il più conteso dai mercanti.</desc>
-    <credits>
-      <director>Giuseppe Bianchi</director>
-      <director>Tomas Goldschmidt</director>
-    </credits>
-    <date>2025</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S7 E9</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828120000 +0000" stop="20260828130000 +0000">
-    <title lang="it">The Cage: Prendi e scappa</title>
-    <desc lang="it">Due coppie di concorrenti competono in una gara contro il tempo per vincere premi di diverso valore che si trovano all'interno di un'enorme gabbia trasparente.</desc>
-    <credits>
-      <director>Lele Biscussi</director>
-    </credits>
-    <date>2025</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828130000 +0000" stop="20260828135500 +0000">
-    <title lang="it">The Cage: Prendi e scappa</title>
-    <desc lang="it">Due coppie di concorrenti competono in una gara contro il tempo per vincere premi di diverso valore che si trovano all'interno di un'enorme gabbia trasparente.</desc>
-    <credits>
-      <director>Lele Biscussi</director>
-    </credits>
-    <date>2025</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E121</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828135500 +0000" stop="20260828145000 +0000">
-    <title lang="it">Il delitto della porta accanto</title>
-    <sub-title lang="it">Misterioso omicidio a Madison</sub-title>
-    <desc lang="it">Ogni cittadino di Madison, Wisconsin, è sconvolto quando Joel Marino viene pugnalato a morte in pieno giorno e ancora di più quando scoprono in fine l'identità dell'assassino.</desc>
-    <date>2014</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S8 E13</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828145000 +0000" stop="20260828155000 +0000">
-    <title lang="it">Il delitto della porta accanto</title>
-    <sub-title lang="it">L'arte di uccidere</sub-title>
-    <desc lang="it">Alla vigilia del proprio debutto artistico, la giovane Kristin scompare senza avviso. La polizia scopre che la ragazza si trova in una situazione particolarmente pericolosa.</desc>
-    <credits>
-      <actor role="Insegnante d'arte">Laura Zollinhofer</actor>
-      <actor role="Sam Nance">Robert Olausen</actor>
-      <actor role="Daniel Willyam">Irvin Kalugdan</actor>
-      <actor role="Shelley Nance">Meredith Sullivan</actor>
-    </credits>
-    <date>2014</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S8 E14</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828155000 +0000" stop="20260828172000 +0000">
-    <title lang="it">Little Big Italy</title>
-    <sub-title lang="it">Los Angeles</sub-title>
-    <desc lang="it">Il viaggio alla scoperta del ristorante migliore fa tappa nella città di Los Angeles, in California, dove Francesco Panella incontra tre espatriati italiani pronti a sfidarsi e a mostrare di che pasta sono fatti.</desc>
-    <credits>
-      <director>Bennet Pimpinella</director>
-    </credits>
-    <date>2020</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S3 E12</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828172000 +0000" stop="20260828183500 +0000">
-    <title lang="it">Cash or Trash: Chi offre di più?</title>
-    <desc lang="it">Tetrodi, contenitori cinesi, album Lavazza e tavoli Mangiarotti compongono un episodio ricco di design e storia.</desc>
-    <credits>
-      <director>Giuseppe Bianchi</director>
-      <director>Tomas Goldschmidt</director>
-    </credits>
-    <date>2026</date>
-    <country lang="it">IT</country>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828183500 +0000" stop="20260828193000 +0000">
-    <title lang="it">Cash or Trash: Chi offre di più?</title>
-    <desc lang="it">Sono in arrivo cinque nuovi venditori e i loro particolari oggetti tutti da scoprire. Scopriamo quale di questi sarà il più conteso dai mercanti.</desc>
-    <credits>
-      <director>Giuseppe Bianchi</director>
-      <director>Tomas Goldschmidt</director>
-    </credits>
-    <date>2026</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S8 E65</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828193000 +0000" stop="20260828214500 +0000">
-    <title lang="it">Comedy Match</title>
-    <desc lang="it">Una battaglia di improvvisazione e sfide fisiche tra due squadre di comici capitanate dalle attrici Maria Di Biase e Marta Zoboli.</desc>
-    <date>2026</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S3 E4</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828214500 +0000" stop="20260828234000 +0000">
-    <title lang="it">Save the Dating: Amori in corso</title>
-    <desc lang="it">La stand up comedy incontra il dating in un format con protagonisti Marta e Gianluca.</desc>
-    <date>2025</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme channel="NOVE.ch" start="20260828234000 +0000" stop="20260829012000 +0000">
-    <title lang="it">Nudi e crudi</title>
-    <sub-title lang="it">I mondi si scontrano</sub-title>
-    <desc lang="it">L'ex militare Chance si unisce alla naturalista Melissa nella giungla amazzonica. L'umidità, le violente tempeste, i caimani e i piranha rossi sono le minacce principali che caratterizzano questi luoghi.</desc>
-    <date>2017</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S7 E12</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260829012000 +0000" stop="20260829021500 +0000">
-    <title lang="it">Nudi e crudi</title>
-    <desc lang="it">Due appassionati sono pronti ad affrontare 14 giorni nell'ostile paesaggio del Sudafrica. Scopriranno se cacciare per procurarsi il cibo e bere acqua putrida si rivelerà più difficile da sopportare di quanto avessero previsto.</desc>
-    <date>2021</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S13 E5</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260829021500 +0000" stop="20260829031000 +0000">
-    <title lang="it">Nudi e crudi</title>
-    <desc lang="it">Due persone che non si conoscono affrontano un'enorme sfida quando tentano di sopravvivere in un luogo ostile e completamente nudi.</desc>
-    <date>2021</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S13 E6</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260829031000 +0000" stop="20260829040000 +0000">
-    <title lang="it">Nudi e crudi</title>
-    <sub-title lang="it">Intrappolati</sub-title>
-    <desc lang="it">Nel deserto di Chihuanhuan, al confine tra USA e Messico, due survivalisti tentano di sopravvivere per 21 giorni. Devono riuscire a gestire le pericolose temperature e le creature.</desc>
-    <date>2021</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S12 E4</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
-  </programme>
-  <programme channel="NOVE.ch" start="20260829040000 +0000" stop="20260829045500 +0000">
-    <title lang="it">Le meraviglie dell'Oceano</title>
-    <sub-title lang="it">Misterioso</sub-title>
-    <desc lang="it">Dopo aver esplorato la Terra, la superficie dei mari e gran parte del sistema solare, nel Ventunesimo secolo l'uomo prova a sondare le profondità misteriose dell'Oceano Pacifico.</desc>
-    <date>2017</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="FSK">
-      <value>6+</value>
-    </rating>
-  </programme>
-  <programme channel="Food.Network.IT.ch" start="20260827013000 +0000" stop="20260827015500 +0000">
-    <title lang="it">Spie al ristorante</title>
-    <sub-title lang="it">Claustrofobia</sub-title>
-    <desc lang="it">I proprietari del Gateway Restaurant and Lodge, situato vicino al Sequoia National Park in California, ricevono lamentele in merito a feste non autorizzate che si svolgerebbero all'interno dei bungalow sfitti del campeggio.</desc>
-    <date>2015</date>
-    <country lang="it">US</country>
-    <episode-num system="onscreen">S9 E11</episode-num>
-    <rating system="FSK">
-      <value>12+</value>
-    </rating>
   </programme>
   <programme channel="Food.Network.IT.ch" start="20260827015500 +0000" stop="20260827022000 +0000">
     <title lang="it">Spie al ristorante</title>
@@ -42716,16 +42533,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
     <desc lang="it">L'pprofondimento pomeridiano a cura di Sportitalia, con notizie in tempo reale e collegamenti con gli inviati della redazione.</desc>
     <date>2017</date>
     <country lang="it">IT</country>
-  </programme>
-  <programme channel="K2.ch" start="20260827012000 +0000" stop="20260827014000 +0000">
-    <title lang="it">I Dalton</title>
-    <desc lang="it">Approfittando di una visita dei Broken Arms al penitenziario, i Dalton si travestono da indiani usando le piume del pollaio ed evadono.</desc>
-    <credits>
-      <director>Charles Vaucelle</director>
-    </credits>
-    <date>2017</date>
-    <country lang="it">FR</country>
-    <episode-num system="onscreen">S1 E25</episode-num>
   </programme>
   <programme channel="K2.ch" start="20260827014000 +0000" stop="20260827020000 +0000">
     <title lang="it">I Dalton</title>
@@ -44529,14 +44336,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
       <value>6+</value>
     </rating>
   </programme>
-  <programme channel="Frisbee.ch" start="20260827013500 +0000" stop="20260827015500 +0000">
-    <title lang="it">Floopaloo</title>
-    <sub-title lang="it">Download proibito</sub-title>
-    <desc lang="it">Matt si intrufola nel computer della Flapacha per scaricare il libro dei segreti sul suo cellulare. Ciò che non nota subito, però, è che ciò che viene scaricato dal computer, scompare nel mondo reale.</desc>
-    <date>2016</date>
-    <country lang="it">FR</country>
-    <episode-num system="onscreen">S2 E24</episode-num>
-  </programme>
   <programme channel="Frisbee.ch" start="20260827015500 +0000" stop="20260827022000 +0000">
     <title lang="it">Oggy Oggy</title>
     <desc lang="it">Alla fiera, Oggy Oggy vuole a tutti i costi aggiudicarsi un premio alla macchina in cui si comanda il braccio meccanico con la pinza. Vincere è difficile però, quindi gioca e perde tutti i gettoni, causando un piccolo disastro.</desc>
@@ -46177,14 +45976,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
     <date>2022</date>
     <country lang="it">FR</country>
     <episode-num system="onscreen">S1 E25</episode-num>
-  </programme>
-  <programme channel="Super!.ch" start="20260827012000 +0000" stop="20260827014500 +0000">
-    <title lang="it">Camilla Store</title>
-    <sub-title lang="it">Hoop Dancing Style</sub-title>
-    <desc lang="it">Livia e Daniele non sono solo cugini, ma migliori amici dall'infanzia. L'amore per lo sport e la passione per la danza hanno fatto venire in mente a Fiore lo stile perfetto per loro.</desc>
-    <date>2022</date>
-    <country lang="it">IT</country>
-    <episode-num system="onscreen">S5 E4</episode-num>
   </programme>
   <programme channel="Super!.ch" start="20260827014500 +0000" stop="20260827021000 +0000">
     <title lang="it">Camilla Store</title>
@@ -48269,11 +48060,6 @@ Le indagini si concentrano su Abigail Chapman, da poco assolta in Spagna dopo es
     </credits>
     <date>2023</date>
     <country lang="fr">DE</country>
-  </programme>
-  <programme channel="Mezzo.Live.ch" start="20260827000000 +0000" stop="20260827015000 +0000">
-    <title lang="fr">Wiener Philharmoniker, Esa-Pekka Salonen: Stravinsky, Berlioz</title>
-    <desc lang="fr">Le Wiener Philharmoniker, dirigé par Esa-Pekka Salonen, interprète "Œdipus Rex" de Stravinsky et la "Symphonie fantastique" de Berlioz. Une représentation donnée le 28 juillet 2025 lors du Festival de Salzbourg, en Autriche.</desc>
-    <date>2025</date>
   </programme>
   <programme channel="Mezzo.Live.ch" start="20260827015000 +0000" stop="20260827032000 +0000">
     <title lang="fr">Berliner Philharmoniker, Kirill Gerstein, Kirill Petrenko: Waldbühne 2022</title>
