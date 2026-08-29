@@ -25,7 +25,7 @@ https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
 https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
 #EXTINF:-1 tvg-id="17 Telecolor" tvg-name="17 Telecolor" tvg-logo="https://i.imgur.com/urUG78J.png",17 Telecolor
 https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/src.png" tvg-shift="-2",Stingray Classica
+#EXTINF:-1 tvg-id="Stingray.Classica.I.ch" tvg-name="Stingray.Classica.I.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/src.png" tvg-shift="-2",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="Mezzo.ch" tvg-name="Mezzo.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/mz.jpg",Mezzo
 http://dmi3y-tv.online/hls/CH_MEZZO.m3u8
@@ -105,7 +105,7 @@ https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="MediasetExtra.it" tvg-logo="https://i.imgur.com/mM8lopo.png",55 Mediaset Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/hgtv.png",56 HGTV
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/hgtv.png",56 HGTV
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="RaiScuola.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",57 Rai Scuola
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7
@@ -121,7 +121,7 @@ https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis.it" tvg-logo="https://i.imgur.com/GzsPlbX.png",64 Super Tennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1 tvg-id="AlmaTV.it" tvg-name="AlmaTV.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/alma.png",65 Alma TV
+#EXTINF:-1 tvg-id="ALMA.TV.ch" tvg-name="ALMA.TV.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/alma.png",65 Alma TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio 105" tvg-name="Radio 105" tvg-logo="https://i.imgur.com/3NiLKvj.png",66 Radio 105
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
@@ -157,9 +157,6 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.ch" tvg-name="CNN.ch" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN International
 https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
-#EXTINF:-1 tvg-id="RSI.LA.2.ch" tvg-name="RSI.LA.2.ch" tvg-logo="https://il.srgssr.ch/image-service/dynamic/f732e34.png" group-title="Altre tv" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0" tvg-chno="11",RSI LA2
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0"
-https://rsila2-proxy.zappr.stream/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport.1.I.ch" tvg-name="Eurosport.1.I.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 1
 http://45.129.141.180:9981/stream/channelid/718615486?profile=iptv.org.ua
 #EXTINF:-1 tvg-id="Eurosport.2.I.ch" tvg-name="Eurosport.2.I.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 2
@@ -178,173 +175,20 @@ https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Tennis
 https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/747419.ts
-#EXTINF:-1 tvg-id="Sport 1" tvg-name="sport 1" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/cz.png",Sport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/cz.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0",Sport 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36 Edg/151.0.0.0"
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport 2" tvg-name="sport 2" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/cz.png",Sport 2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1,Setanta Qazaqstan
 http://ekonomtv.com:25461/LKN0418/2841294/1100
-#EXTINF:-1,Setanta Qazaqstan
-http://ekonomtv.com:25461/30020612/87573897/1100
 #EXTINF:-1,Setanta Sports 1 HD
 http://ekonomtv.com:25461/LKN0418/2841294/1112
 #EXTINF:-1,Setanta Sports 2 HD
 http://ekonomtv.com:25461/LKN0418/2841294/1113
 #EXTINF:-1,Setanta Sports+ Ukraine HD
 http://ekonomtv.com:25461/LKN0418/2841294/207
-#EXTINF:-1,sport m
+#EXTINF:-1,SASSUOLO TORINO
 http://newsr1.roshen.live:8080/vAu5sUNHz3/tracks-v1a1/mono.m3u8?token=XSOdznpeFPEURAYS
-#EXTINF:-1,ESPN
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/1229120.ts
-#EXTINF:-1,ESPN
-http://bgdc.live:25461/randallo2023/6064013450/38226
-#EXTINF:-1,ESPN
-http://barnsidetv.ddns.net:8081/play/E052oQA9Kp-rJ-vhu5Hxsz6hqqv3SlPx2HlCvSVIpNs/ts
-#EXTINF:-1,ESPN 1 CH HD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591977.ts
-#EXTINF:-1,ESPN 1 CO FHD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591976.ts
-#EXTINF:-1,ESPN 1 FHD | ARG
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591975.ts
-#EXTINF:-1,ESPN 1 HD | AR
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591974.ts
-#EXTINF:-1,ESPN 1 MEX FHD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591979.ts
-#EXTINF:-1,ESPN 1 MEX HD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591978.ts
-#EXTINF:-1,ESPN 2
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/1229121.ts
-#EXTINF:-1,ESPN 2
-http://barnsidetv.ddns.net:8081/play/E052oQA9Kp-rJ-vhu5Hxs8HPUsY0urLkZxgHCs8pVQg/ts
-#EXTINF:-1,ESPN 2  FHD | AR
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/712744.ts
-#EXTINF:-1,ESPN 2 ARG | FHD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591981.ts
-#EXTINF:-1,ESPN 2 CO
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591982.ts
-#EXTINF:-1,ESPN 2 FHD | MX
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591985.ts
-#EXTINF:-1,ESPN 2 HD | ARG
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591980.ts
-#EXTINF:-1,ESPN 2 HD | MX
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591984.ts
-#EXTINF:-1,ESPN 2 PE SD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/208123.ts
-#EXTINF:-1,ESPN 2 | CH
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591983.ts
-#EXTINF:-1,ESPN 3
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/1229122.ts
-#EXTINF:-1,ESPN 3 FHD | ARG
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591987.ts
-#EXTINF:-1,ESPN 3 FHD | MX
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591989.ts
-#EXTINF:-1,ESPN 3 HD | AR
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591986.ts
-#EXTINF:-1,ESPN 3 HD | MEX
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591988.ts
-#EXTINF:-1,ESPN 3 HD| AR
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/712745.ts
-#EXTINF:-1,ESPN 4
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/1229123.ts
-#EXTINF:-1,ESPN 4 HD | AR
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/712746.ts
-#EXTINF:-1,ESPN 4 MX
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591991.ts
-#EXTINF:-1,ESPN 4 | SUR
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591990.ts
-#EXTINF:-1,ESPN 4K EVENT ONLY (FAST NET REQUIRED)
-http://bgdc.live:25461/randallo2023/6064013450/218479
-#EXTINF:-1,ESPN 5
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/1229124.ts
-#EXTINF:-1,ESPN 5 HD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/195496.ts
-#EXTINF:-1,ESPN 5 SUR
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591993.ts
-#EXTINF:-1,ESPN 5 | MX
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591992.ts
-#EXTINF:-1,ESPN 5 | NORTE
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591994.ts
-#EXTINF:-1,ESPN 6
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591995.ts
-#EXTINF:-1,ESPN 6
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/1229125.ts
-#EXTINF:-1,ESPN 7
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/1229126.ts
-#EXTINF:-1,ESPN 7 HD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591996.ts
-#EXTINF:-1,ESPN ACCN
-http://bgdc.live:25461/randallo2023/6064013450/38233
-#EXTINF:-1,ESPN BIG TEN
-http://bgdc.live:25461/randallo2023/6064013450/38234
-#EXTINF:-1,ESPN DEPORTES
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591971.ts
-#EXTINF:-1,ESPN Deportes
-http://barnsidetv.ddns.net:8081/play/E052oQA9Kp-rJ-vhu5Hxs4Jeiq9SNfbOUwwza-TV7O0/ts
-#EXTINF:-1,ESPN EXTRA (STAR+)
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/2379.ts
-#EXTINF:-1,ESPN EXTRA CNT ECUADOR
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/2378.ts
-#EXTINF:-1,ESPN EXTRA HD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/195673.ts
-#EXTINF:-1,ESPN FHD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/195674.ts
-#EXTINF:-1,ESPN FHD | AR
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/712743.ts
-#EXTINF:-1,ESPN HD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/195675.ts
-#EXTINF:-1,ESPN NEWS
-http://barnsidetv.ddns.net:8081/play/E052oQA9Kp-rJ-vhu5Hxs32ut32rnHTK4Zc-2MR4tE0/ts
-#EXTINF:-1,ESPN PE
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/208120.ts
-#EXTINF:-1,ESPN PE
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/208121.ts
-#EXTINF:-1,ESPN PE HD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/208119.ts
-#EXTINF:-1,ESPN Premium  | AR FHD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/712747.ts
-#EXTINF:-1,ESPN PREMIUM | AR
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591997.ts
-#EXTINF:-1,ESPN PREMIUM | CH
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/591998.ts
-#EXTINF:-1,ESPN SD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/195676.ts
-#EXTINF:-1,ESPN SEC NETWORK
-http://bgdc.live:25461/randallo2023/6064013450/38232
-#EXTINF:-1,ESPN U
-http://barnsidetv.ddns.net:8081/play/E052oQA9Kp-rJ-vhu5Hxs_mOmG73rLqvVjyHKJKAzhU/ts
-#EXTINF:-1,ESPN URUGUAY
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/738707.ts
-#EXTINF:-1,ESPN2
-http://bgdc.live:25461/randallo2023/6064013450/38227
-#EXTINF:-1,ESPN2  SD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/195677.ts
-#EXTINF:-1,ESPN2 FHD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/195678.ts
-#EXTINF:-1,ESPN2 HD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/195679.ts
-#EXTINF:-1,ESPN3 FHD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/195680.ts
-#EXTINF:-1,ESPN3 HD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/195681.ts
-#EXTINF:-1,ESPN3 SD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/195682.ts
-#EXTINF:-1,ESPN4 FHD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/195683.ts
-#EXTINF:-1,ESPN4 HD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/195684.ts
-#EXTINF:-1,ESPN4 SD
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/195685.ts
-#EXTINF:-1,ESPNEWS
-http://bgdc.live:25461/randallo2023/6064013450/38229
-#EXTINF:-1,ESPNU
-http://bgdc.live:25461/randallo2023/6064013450/38228
-#EXTINF:-1,FCL
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/417183.ts
-#EXTINF:-1,FCL
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/417182.ts
-#EXTINF:-1,USA: ESPN NEWS
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/595819.ts
-#EXTINF:-1,USA: ESPN U
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/595820.ts
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
