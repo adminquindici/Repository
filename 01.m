@@ -1,10 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/01.e, https://nameless-meadow-bc43.cc67-cc.workers.dev/"
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",1 Rai Uno
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png" http-user-agent="AppleCoreMedia/1.0.0.22K557" tvg-chno="2" channel-number="2" mediapolis="308718",2 Rai Due
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=AppleCoreMedia/1.0.0.22K557
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png" tvg-chno="2" channel-number="2" mediapolis="308718",2 Rai 2
+https://raidue2-dash-live.akamaized.net/dash/live/662736/raidue2/manifest.mpd
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai3.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",3 Rai Tre
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete4.it" tvg-logo="https://i.imgur.com/GWx2Fkl.png",4 Rete Quattro
@@ -167,13 +165,13 @@ http://31.148.5.241/Match_Football_2_HD/index.m3u8
 http://31.148.5.241/Match_Football_3_HD/index.m3u8
 #EXTINF:-1,M2
 http://91.205.196.7:8000/play/a030
-#EXTINF:-1 tvg-logo="https://antexplus.cz/wp-content/uploads/Sport1-logo-.png" tvg-chno="11" channel-number="11",SPORT 1
-https://antik.zappr.stream/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://antexplus.cz/wp-content/uploads/sport2_cz.png" tvg-chno="12" channel-number="12",SPORT 2
-https://antik.zappr.stream/test_sport_2/playlist.m3u8
-#EXTINF:-1,Serie A
+#EXTINF:-1,MF
 http://31.148.5.241/Match_Football_1_HD/index.m3u8
-#EXTINF:-1,SERIE A HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/A.png",**** Serie A **** 1
 http://91.205.196.7:8000/play/a02z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/A.png" tvg-chno="11" channel-number="11",**** Serie A **** 2
+https://antik.zappr.stream/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/A.png" tvg-chno="12" channel-number="12",**** Serie A **** 3
+https://antik.zappr.stream/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
