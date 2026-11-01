@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/01.e, https://nameless-meadow-bc43.cc67-cc.workers.dev/"
 #EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",1 Rai Uno
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png" tvg-chno="2" channel-number="2" mediapolis="308718",2 Rai 2
-https://raidue2-dash-live.akamaized.net/dash/live/662736/raidue2/manifest.mpd
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai2.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png" tvg-country="IT" tvg-chno="2",2 Rai Due
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai3.it" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/ra.png",3 Rai Tre
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete4.it" tvg-logo="https://i.imgur.com/GWx2Fkl.png",4 Rete Quattro
@@ -111,11 +111,11 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="61 il61" tvg-name="61 il61" tvg-logo="https://i.imgur.com/1rUZsBv.png",61 il61
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
-#EXTINF:-1 tvg-id="DonnaTV.it" tvg-name="Donna TV" tvg-logo="https://i.imgur.com/Aa1Abme.png" ,Donna TV
+#EXTINF:-1 tvg-id="DonnaTV.it" tvg-name="Donna TV" tvg-logo="https://i.imgur.com/Aa1Abme.png",62 Donna TV
 https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-name="SuperTennis.it" tvg-logo="https://i.imgur.com/GzsPlbX.png",64 Super Tennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1 tvg-id="AlmaTV.it" tvg-name="AlmaTV.it" tvg-logo="https://i.imgur.com/Y8JiDwN.png" ,Alma TV
+#EXTINF:-1 tvg-id="AlmaTV.it" tvg-name="AlmaTV.it" tvg-logo="https://i.imgur.com/Y8JiDwN.png",65 Alma TV
 https://5f11919dca3bd.streamlock.net/almatv/almatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio 105" tvg-name="Radio 105" tvg-logo="https://i.imgur.com/3NiLKvj.png",66 Radio 105
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
@@ -139,39 +139,47 @@ https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN.ch" tvg-name="CNN.ch" tvg-logo="https://i.ibb.co/XbSHxd5/cnn.png",CNN International
 https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport.1.I.ch" tvg-name="Eurosport.1.I.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 1
-http://45.129.141.180:9981/stream/channelid/718615486?profile=iptv.org.ua
-#EXTINF:-1 tvg-id="Eurosport.2.I.ch" tvg-name="Eurosport.2.I.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 2
-http://45.129.141.180:9981/stream/channelid/737993602?profile=iptv.org.ua
-#EXTINF:-1 tvg-id="Eurosport.1.I.ch" tvg-name="Eurosport.1.I.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 1
-http://178.134.1.158:8081/eurosport/index.m3u8?token=tva.in.ua
-#EXTINF:-1 tvg-id="Eurosport.2.I.ch" tvg-name="Eurosport.2.I.ch" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/Eu.png",Eurosport 2
-http://stream.mcquack.net/192/index.m3u8
 #EXTINF:-1 tvg-id="Rally TV" tvg-name="Rally TV" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/w.jpg",Rally TV
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Tennis" tvg-name="Sky Sports Tennis" tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Tennis
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=q1hKYo31V3o7J2bvt5hUqQ&e=2066519930&scheme=https
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sy.jpg",Sky Sports Tennis
-https://los84hijosdelsol.com/live/Navaspatrl2/dwcKkguf9y/747419.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Setanta Sports 1 Eurasia
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-http://stream.mcquack.net/234/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/se.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Setanta Sports 2 Eurasia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg",Sport 01
+http://31.148.5.241/Match_Football_2_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg",Sport 02
+http://31.148.5.241/Match_Football_3_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg",Sport 03
+http://91.205.196.7:8000/play/a030
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg",Sport 04
+http://31.148.5.241/Match_Football_1_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg",Sport 10
+http://91.205.196.7:8000/play/a02z
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg" tvg-chno="11" channel-number="11",Sport 11
+https://antik.zappr.stream/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg" tvg-chno="12" channel-number="12",Sport 12
+https://antik.zappr.stream/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Sport 13
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
 http://stream.mcquack.net/235/index.m3u8
-#EXTINF:-1,M2
-http://31.148.5.241/Match_Football_2_HD/index.m3u8
-#EXTINF:-1,M3
-http://31.148.5.241/Match_Football_3_HD/index.m3u8
-#EXTINF:-1,M2
-http://91.205.196.7:8000/play/a030
-#EXTINF:-1,MF
-http://31.148.5.241/Match_Football_1_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/A.png",**** Serie A **** 1
-http://91.205.196.7:8000/play/a02z
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/A.png" tvg-chno="11" channel-number="11",**** Serie A **** 2
-https://antik.zappr.stream/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/A.png" tvg-chno="12" channel-number="12",**** Serie A **** 3
-https://antik.zappr.stream/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Sport 14
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+http://stream.mcquack.net/234/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg",Sport 18
+http://superxlatino.com:8880/heNedBhs57gv/5Pmeg34YzzaC/167742
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg",Sport 19
+http://superxlatino.com:8880/gonzalo@2983/4yT3Mt9abarh/167742
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg",Sport 20
+http://superxlatino.com:8880/gonzalo8829291@/YjzfesrxAG6V/167742
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg",Sport 21
+http://play.pelusa.online:8080/Anmtz23/5QkDV4upQ7rC/335439
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg",Sport 22
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/335439
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg",Sport 25
+http://play.pelusa.online:8080/AOrtiz/6ndLaJp2qG6K/260357
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg",Sport 26
+http://vlcdc.org:80/lYG1EKR6m8/uXcRu8sQ2S/24718
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg",Sport 27
+http://vlcdc.org:80/lYG1EKR6m8/uXcRu8sQ2S/24717
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adminquindici/Repository/refs/heads/main/Foto/sport.jpg",Sport 28
+http://vlcdc.org:80/lYG1EKR6m8/uXcRu8sQ2S/4385
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="https://i1.wp.com/livornopress.it/wp-content/uploads/2021/11/TGR_logo.jpg",TGR Liguria
 https://tgrliguria-dash-live.akamaized.net/dash/live/2025588/tgrliguria/manifest.mpd
